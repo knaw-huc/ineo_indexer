@@ -1,0 +1,68 @@
+[
+  {
+    "operation": "create",
+    "document": {
+      "id": "hdl_58_21.11114_47_COLL-0000-000B-CAA8-4",
+      "title": "DBD",
+      "intro": "The Dutch Bilingual Database (DBD) is a rather substantial collection of data (over 1,500 sessions) from a number of projects and research programmes that were directed at investigating multilingualism and comprises data originating from Dutch, Sranan, Sarnami, Papiamentu, Moroccan(-Ara... DBD overall tcult",
+      "publishedAt": [],
+      "media": {
+        "thumbnail": [],
+        "slider": []
+      },
+      "tabs": {
+        "overview": {},
+        "learn": {},
+        "mentions": {},
+        "metadata": {}
+      },
+      "properties": {
+        "programmingLanguages": [],
+        "learn": [],
+        "resourceHost": null,
+        "funding": [],
+        "problemContact": [],
+        "informationTypes": null,
+        "languages": [
+          "Arabic",
+          "Berik",
+          "Papiamento",
+          "Sranan Tongo",
+          "Turkish",
+          "---",
+          "Dutch",
+          "English"
+        ],
+        "access": [
+          {
+            "title": "Restricted for individual",
+            "link": ""
+          }
+        ],
+        "sourceCodeLocation": [],
+        "researchContact": [],
+        "generalContact": [],
+        "resourceTypes": [
+          "Data"
+        ],
+        "status": null,
+        "versions": [],
+        "standards": [],
+        "resourceOwner": [
+          {
+            "title": "Katholieke Universiteit Brabantde Rijksuniversiteit Leidende Universiteit van AmsterdamUniversiteit Utrecht",
+            "link": "null"
+          }
+        ],
+        "link": "https://hdl.handle.net/1839/00-0000-0000-0001-4AF0-7@view",
+        "intro": "The Dutch Bilingual Database (DBD) is a rather substantial collection of data (over 1,500 sessions) from a number of projects and research programmes that were directed at investigating multilingualism and comprises data originating from Dutch, Sranan, Sarnami, Papiamentu, Moroccan(-Ara... DBD overall tcult",
+        "researchActivities": [],
+        "researchDomains": null,
+        "mediaTypes": null,
+        "provenance": [],
+        "community": [],
+        "development": null
+      }
+    }
+  }
+]

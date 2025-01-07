@@ -1,0 +1,80 @@
+[
+  {
+    "operation": "create",
+    "document": {
+      "id": "lenticularlens-postgresql",
+      "title": "Lenticular-lens-postgresql",
+      "intro": "PostgreSQL extension for Lenticular Lens",
+      "publishedAt": "2021-01-22",
+      "media": {},
+      "tabs": {
+        "overview": {},
+        "learn": {},
+        "mentions": {},
+        "metadata": {}
+      },
+      "properties": {
+        "problemContact": [
+          {
+            "title": "Issue tracker",
+            "link": "https://github.com/knaw-huc/lenticular-lens-postgresql/issues"
+          }
+        ],
+        "informationTypes": [],
+        "access": [
+          {
+            "title": "Open Access",
+            "link": "https://github.com/knaw-huc/lenticular-lens-postgresql"
+          }
+        ],
+        "sourceCodeLocation": [
+          {
+            "title": "github.com",
+            "link": "https://github.com/knaw-huc/lenticular-lens-postgresql"
+          }
+        ],
+        "researchContact": [],
+        "generalContact": [
+          {
+            "title": "kerim1\u00a0",
+            "link": "mailto:kerim.meijer@di.huc.knaw.nl"
+          }
+        ],
+        "resourceTypes": [
+          "Tools"
+        ],
+        "status": [
+          "Active"
+        ],
+        "versions": [
+          {
+            "title": "1.3",
+            "url": ""
+          }
+        ],
+        "standards": [],
+        "resourceOwner": [
+          {
+            "title": "KNAW Humanities Cluster",
+            "link": "https://huc.knaw.nl/"
+          }
+        ],
+        "link": "https://github.com/knaw-huc/lenticular-lens-postgresql",
+        "intro": "PostgreSQL extension for Lenticular Lens",
+        "provenance": [],
+        "community": [
+          {
+            "title": "Issue tracker",
+            "link": "https://github.com/knaw-huc/lenticular-lens-postgresql/issues"
+          }
+        ],
+        "development": [
+          {
+            "title": "kerim1 ",
+            "link": ""
+          }
+        ]
+      }
+    }
+  }
+]

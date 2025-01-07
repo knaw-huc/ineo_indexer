@@ -1,0 +1,61 @@
+[
+  {
+    "operation": "create",
+    "document": {
+      "id": "hdl_58_21.11114_47_COLL-0000-000F-76ED-2",
+      "title": "Oral History. Interview with political prisoner Friederieke Furch, ...",
+      "intro": "Interview with political prisoner Friederieke Furch, who survived camp Ravensbruck",
+      "publishedAt": [],
+      "media": {
+        "thumbnail": [],
+        "slider": []
+      },
+      "tabs": {
+        "overview": {},
+        "learn": {},
+        "mentions": {},
+        "metadata": {}
+      },
+      "properties": {
+        "programmingLanguages": [],
+        "learn": [],
+        "resourceHost": null,
+        "funding": [],
+        "problemContact": [],
+        "informationTypes": null,
+        "languages": null,
+        "access": [
+          {
+            "title": "the metadata is directly avaible, but for access to the audio you have to create an account at the mediathek",
+            "link": ""
+          }
+        ],
+        "sourceCodeLocation": [],
+        "researchContact": [],
+        "generalContact": [],
+        "resourceTypes": [
+          "Data"
+        ],
+        "status": null,
+        "versions": [],
+        "standards": [],
+        "resourceOwner": [
+          {
+            "title": "\u00d6sterreichische Mediathek",
+            "link": "null"
+          }
+        ],
+        "link": "hdl:21.11114/COLL-0000-000F-76ED-2",
+        "intro": "Interview with political prisoner Friederieke Furch, who survived camp Ravensbruck",
+        "researchActivities": [],
+        "researchDomains": null,
+        "mediaTypes": [
+          "1 application"
+        ],
+        "provenance": [],
+        "community": [],
+        "development": null
+      }
+    }
+  }
+]

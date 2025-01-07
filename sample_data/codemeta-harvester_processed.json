@@ -1,0 +1,92 @@
+[
+  {
+    "operation": "create",
+    "document": {
+      "id": "codemeta-harvester",
+      "title": "Codemeta-harvester",
+      "intro": "Harvest and aggregate codemeta from source repositories and service endpoints, automatically converting known metadata schemes in the process",
+      "publishedAt": "2022-01-05",
+      "media": {},
+      "tabs": {
+        "overview": {},
+        "learn": {},
+        "mentions": {},
+        "metadata": {}
+      },
+      "properties": {
+        "programmingLanguages": [
+          {
+            "title": "shell",
+            "link": null
+          }
+        ],
+        "funding": [
+          {
+            "title": "CLARIAH-PLUS (NWO grant 184.034.023) NWO",
+            "link": " https://www.nwo.nl"
+          }
+        ],
+        "problemContact": [
+          {
+            "title": "Issue tracker",
+            "link": "https://github.com/proycon/codemeta-harvester/issues"
+          }
+        ],
+        "informationTypes": [],
+        "access": [
+          {
+            "title": "Open Access",
+            "link": "https://github.com/proycon/codemeta-harvester"
+          }
+        ],
+        "sourceCodeLocation": [
+          {
+            "title": "github.com",
+            "link": "https://github.com/proycon/codemeta-harvester"
+          }
+        ],
+        "researchContact": [],
+        "generalContact": [
+          {
+            "title": "Maarten\u00a0van Gompel",
+            "link": "https://orcid.org/0000-0002-1046-0006"
+          }
+        ],
+        "resourceTypes": [
+          "Tools"
+        ],
+        "status": [
+          "Active"
+        ],
+        "versions": [
+          {
+            "title": "0.4.0",
+            "url": ""
+          }
+        ],
+        "standards": [],
+        "resourceOwner": [
+          {
+            "title": "KNAW Humanities Cluster",
+            "link": "https://huc.knaw.nl"
+          }
+        ],
+        "link": "https://github.com/proycon/codemeta-harvester",
+        "intro": "Harvest and aggregate codemeta from source repositories and service endpoints, automatically converting known metadata schemes in the process",
+        "provenance": [],
+        "community": [
+          {
+            "title": "Issue tracker",
+            "link": "https://github.com/proycon/codemeta-harvester/issues"
+          }
+        ],
+        "development": [
+          {
+            "title": "Maarten van Gompel, KNAW Humanities Cluster",
+            "link": "https://proycon.anaproy.nl"
+          }
+        ]
+      }
+    }
+  }
+]

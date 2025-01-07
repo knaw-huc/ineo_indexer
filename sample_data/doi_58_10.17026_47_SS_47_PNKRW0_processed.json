@@ -1,0 +1,66 @@
+[
+    {
+        "operation": "create",
+        "document": {
+            "id": "doi_58_10.17026_47_SS_47_PNKRW0",
+            "title": "Project Ongekend Bijzonder, Den Haag, interview 39",
+            "intro": "geslacht: V land van herkomst: Burundi / Congo leeftijd aankomst NL: 22 stad: Den Haag vluchtreden: oorlog relaties met eigen gemeenschap: opleiding: student geneeskunde beroep land van herkomst: student werk in NL: o.a. schoonmaakwerk ziekenhuis, thuiszorg - huishoudelijk hulp kinder...",
+            "publishedAt": [],
+            "media": {
+                "thumbnail": [],
+                "slider": []
+            },
+            "tabs": {
+                "overview": {},
+                "learn": {},
+                "mentions": {},
+                "metadata": {}
+            },
+            "properties": {
+                "programmingLanguages": [],
+                "learn": [],
+                "resourceHost": [
+                    {
+                        "title": "https://doi.org",
+                        "link": "https://doi.org"
+                    }
+                ],
+                "funding": [],
+                "problemContact": [],
+                "informationTypes": null,
+                "languages": [
+                    "Dutch"
+                ],
+                "access": [
+                    {
+                        "title": "UNSPECIFIED",
+                        "link": ""
+                    }
+                ],
+                "sourceCodeLocation": [],
+                "researchContact": [],
+                "generalContact": [],
+                "resourceTypes": [
+                    "Data"
+                ],
+                "status": null,
+                "versions": [],
+                "standards": [],
+                "resourceOwner": null,
+                "link": "https://doi.org/10.17026/SS/PNKRW0",
+                "intro": "geslacht: V land van herkomst: Burundi / Congo leeftijd aankomst NL: 22 stad: Den Haag vluchtreden: oorlog relaties met eigen gemeenschap: opleiding: student geneeskunde beroep land van herkomst: student werk in NL: o.a. schoonmaakwerk ziekenhuis, thuiszorg - huishoudelijk hulp kinder...",
+                "researchActivities": [],
+                "researchDomains": [],
+                "mediaTypes": null,
+                "provenance": [],
+                "community": [],
+                "development": [
+                    {
+                        "title": "Stichting Bevordering Maatschappelijke Participatie - BMP",
+                        "link": "null"
+                    }
+                ]
+            }
+        }
+    }
+]

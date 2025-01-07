@@ -1,0 +1,96 @@
+[
+  {
+    "operation": "create",
+    "document": {
+      "id": "piccl",
+      "title": "PICCL",
+      "intro": "A set of workflows for corpus building through OCR, post-correction, and normalisation.",
+      "publishedAt": "2015",
+      "media": {},
+      "tabs": {
+        "overview": {},
+        "learn": {},
+        "mentions": {},
+        "metadata": {}
+      },
+      "properties": {
+        "programmingLanguages": [
+          {
+            "title": "Nextflow",
+            "link": null
+          }
+        ],
+        "funding": [
+          {
+            "title": "",
+            "link": ""
+          }
+        ],
+        "problemContact": [
+          {
+            "title": "Issue tracker",
+            "link": "https://github.com/LanguageMachines/PICCL/issues"
+          }
+        ],
+        "informationTypes": [],
+        "access": [
+          {
+            "title": "Open Access",
+            "link": "https://github.com/LanguageMachines/PICCL"
+          }
+        ],
+        "sourceCodeLocation": [
+          {
+            "title": "github.com",
+            "link": "https://github.com/LanguageMachines/PICCL"
+          }
+        ],
+        "researchContact": [],
+        "generalContact": [
+          {
+            "title": "Martin\u00a0Reynaert",
+            "link": "mailto:reynaert@uvt.nl"
+          }
+        ],
+        "resourceTypes": [
+          "Tools"
+        ],
+        "status": [
+          "Unsupported"
+        ],
+        "versions": [
+          {
+            "title": "0.9.5",
+            "url": ""
+          }
+        ],
+        "standards": [],
+        "resourceOwner": [
+          {
+            "title": "Centre for Language and Speech Technology",
+            "link": "https://www.ru.nl/clst"
+          }
+        ],
+        "link": "https://github.com/LanguageMachines/PICCL",
+        "intro": "A set of workflows for corpus building through OCR, post-correction, and normalisation.",
+        "provenance": [],
+        "community": [
+          {
+            "title": "Issue tracker",
+            "link": "https://github.com/LanguageMachines/PICCL/issues"
+          }
+        ],
+        "development": [
+          {
+            "title": "Martin Reynaert, Department of Cognitive Science and Artificial Intelligence",
+            "link": ""
+          },
+          {
+            "title": "Maarten van Gompel, Centre for Language and Speech Technology",
+            "link": "https://orcid.org/0000-0002-1046-0006"
+          }
+        ]
+      }
+    }
+  }
+]

@@ -1,0 +1,66 @@
+[
+    {
+        "operation": "create",
+        "document": {
+            "id": "doi_58_10.17026_47_SS_47_Q4NCEM",
+            "title": "Project Ongekend Bijzonder, Amsterdam, interview 29",
+            "intro": "geslacht: Vrouw land van herkomst: Ethiopi\u00eb leeftijd aankomst Nederland: 17 stad: Amsterdam vluchtreden: Oorlog tussen Ethiopi\u00eb en Eritrea. Mensen in haar omgeving werden opgepakt en gemarteld. relaties met eigen gemeenschap: Ze heeft in Nederland regelmatig contact met de Ethiopische...",
+            "publishedAt": [],
+            "media": {
+                "thumbnail": [],
+                "slider": []
+            },
+            "tabs": {
+                "overview": {},
+                "learn": {},
+                "mentions": {},
+                "metadata": {}
+            },
+            "properties": {
+                "programmingLanguages": [],
+                "learn": [],
+                "resourceHost": [
+                    {
+                        "title": "https://doi.org",
+                        "link": "https://doi.org"
+                    }
+                ],
+                "funding": [],
+                "problemContact": [],
+                "informationTypes": null,
+                "languages": [
+                    "Dutch"
+                ],
+                "access": [
+                    {
+                        "title": "UNSPECIFIED",
+                        "link": ""
+                    }
+                ],
+                "sourceCodeLocation": [],
+                "researchContact": [],
+                "generalContact": [],
+                "resourceTypes": [
+                    "Data"
+                ],
+                "status": null,
+                "versions": [],
+                "standards": [],
+                "resourceOwner": null,
+                "link": "https://doi.org/10.17026/SS/Q4NCEM",
+                "intro": "geslacht: Vrouw land van herkomst: Ethiopi\u00eb leeftijd aankomst Nederland: 17 stad: Amsterdam vluchtreden: Oorlog tussen Ethiopi\u00eb en Eritrea. Mensen in haar omgeving werden opgepakt en gemarteld. relaties met eigen gemeenschap: Ze heeft in Nederland regelmatig contact met de Ethiopische...",
+                "researchActivities": [],
+                "researchDomains": [],
+                "mediaTypes": null,
+                "provenance": [],
+                "community": [],
+                "development": [
+                    {
+                        "title": "Stichting Bevordering Maatschappelijke Participatie - BMP",
+                        "link": "null"
+                    }
+                ]
+            }
+        }
+    }
+]

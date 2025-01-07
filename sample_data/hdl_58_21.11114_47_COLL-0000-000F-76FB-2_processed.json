@@ -1,0 +1,64 @@
+[
+    {
+        "operation": "create",
+        "document": {
+            "id": "hdl_58_21.11114_47_COLL-0000-000F-76FB-2",
+            "title": "Oral History. Interview with survivor of Ravensbr\u00fcck concentration ...",
+            "intro": "Interview with survivor of Ravensbruck concentration camp Irene Miller.",
+            "publishedAt": [],
+            "media": {
+                "thumbnail": [],
+                "slider": []
+            },
+            "tabs": {
+                "overview": {},
+                "learn": {},
+                "mentions": {},
+                "metadata": {}
+            },
+            "properties": {
+                "programmingLanguages": [],
+                "learn": [],
+                "resourceHost": [
+                    {
+                        "title": "https://collections.ushmm.org",
+                        "link": "https://collections.ushmm.org"
+                    }
+                ],
+                "funding": [],
+                "problemContact": [],
+                "informationTypes": null,
+                "languages": null,
+                "access": [
+                    {
+                        "title": "No restrictions on access.",
+                        "link": ""
+                    }
+                ],
+                "sourceCodeLocation": [],
+                "researchContact": [],
+                "generalContact": [],
+                "resourceTypes": [
+                    "Data"
+                ],
+                "status": null,
+                "versions": [],
+                "standards": [],
+                "resourceOwner": [
+                    {
+                        "title": "United States Holocaust Memorial Museum Collection, Gift of Jewish Family and Children's Services of San Francisco, the Peninsula, Marin and Sonoma Counties",
+                        "link": "null"
+                    }
+                ],
+                "link": "https://collections.ushmm.org/search/catalog/irn514233",
+                "intro": "Interview with survivor of Ravensbruck concentration camp Irene Miller.",
+                "researchActivities": [],
+                "researchDomains": [],
+                "mediaTypes": null,
+                "provenance": [],
+                "community": [],
+                "development": null
+            }
+        }
+    }
+]

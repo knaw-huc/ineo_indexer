@@ -1,0 +1,62 @@
+[
+  {
+    "operation": "create",
+    "document": {
+      "id": "http_58__47__47_hdl.handle.net_47_10032_47_914f7d10e88c88a1de59d34e1c2c7277",
+      "title": "Hoger Onderwijs Terminologie in Nederland en Vlaanderen (HOTNeV)",
+      "intro": "Een terminologische database met Nederlandse en Vlaamse onderwijstermen. A terminological database with terms used in Dutch and Flamish higher education.",
+      "publishedAt": [],
+      "media": {
+        "thumbnail": [],
+        "slider": []
+      },
+      "tabs": {
+        "overview": {},
+        "learn": {},
+        "mentions": {},
+        "metadata": {}
+      },
+      "properties": {
+        "programmingLanguages": [],
+        "learn": [],
+        "resourceHost": null,
+        "funding": [],
+        "problemContact": [],
+        "informationTypes": null,
+        "languages": [
+          "Dutch",
+          "English"
+        ],
+        "access": [
+          {
+            "title": "Academic",
+            "link": ""
+          }
+        ],
+        "sourceCodeLocation": [],
+        "researchContact": [],
+        "generalContact": [],
+        "resourceTypes": [
+          "Data"
+        ],
+        "status": null,
+        "versions": [],
+        "standards": [],
+        "resourceOwner": [
+          {
+            "title": "Dutch Language Institute",
+            "link": "null"
+          }
+        ],
+        "link": "http://hdl.handle.net/10032/tm-a2-v9",
+        "intro": "Een terminologische database met Nederlandse en Vlaamse onderwijstermen. A terminological database with terms used in Dutch and Flamish higher education.",
+        "researchActivities": [],
+        "researchDomains": null,
+        "mediaTypes": null,
+        "provenance": [],
+        "community": [],
+        "development": null
+      }
+    }
+  }
+]

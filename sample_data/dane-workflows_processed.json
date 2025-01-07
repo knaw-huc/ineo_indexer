@@ -1,0 +1,96 @@
+[
+  {
+    "operation": "create",
+    "document": {
+      "id": "dane-workflows",
+      "title": "Dane-workflows",
+      "intro": "Python library for setting up simple data processing workflows (using DANE)",
+      "publishedAt": "2022-07-18",
+      "media": {},
+      "tabs": {
+        "overview": {},
+        "learn": {},
+        "mentions": {},
+        "metadata": {}
+      },
+      "properties": {
+        "programmingLanguages": [
+          {
+            "title": "Python 3",
+            "link": null
+          }
+        ],
+        "funding": [
+          {
+            "title": "CLARIAH",
+            "link": "https://www.clariah.nl"
+          }
+        ],
+        "problemContact": [
+          {
+            "title": "Issue tracker",
+            "link": "https://github.com/beeldengeluid/dane-workflows/issues"
+          }
+        ],
+        "informationTypes": [],
+        "access": [
+          {
+            "title": "Open Access",
+            "link": "https://github.com/beeldengeluid/dane-workflows"
+          }
+        ],
+        "sourceCodeLocation": [
+          {
+            "title": "github.com",
+            "link": "https://github.com/beeldengeluid/dane-workflows"
+          }
+        ],
+        "researchContact": [],
+        "generalContact": [
+          {
+            "title": "Jaap\u00a0Blom",
+            "link": "https://github.com/jblom"
+          }
+        ],
+        "resourceTypes": [
+          "Tools"
+        ],
+        "status": [
+          "Work in progress"
+        ],
+        "versions": [
+          {
+            "title": "0.9.0",
+            "url": ""
+          }
+        ],
+        "standards": [],
+        "resourceOwner": [
+          {
+            "title": "The Netherlands Institute for Sound and Vision",
+            "link": ""
+          }
+        ],
+        "link": "https://github.com/beeldengeluid/dane-workflows",
+        "intro": "Python library for setting up simple data processing workflows (using DANE)",
+        "provenance": [],
+        "community": [
+          {
+            "title": "Issue tracker",
+            "link": "https://github.com/beeldengeluid/dane-workflows/issues"
+          }
+        ],
+        "development": [
+          {
+            "title": "Jaap Blom, The Netherlands Institute for Sound and Vision",
+            "link": "https://github.com/jblom"
+          },
+          {
+            "title": " , The Netherlands Institute for Sound and Vision",
+            "link": "https://github.com/mwigham"
+          }
+        ]
+      }
+    }
+  }
+]

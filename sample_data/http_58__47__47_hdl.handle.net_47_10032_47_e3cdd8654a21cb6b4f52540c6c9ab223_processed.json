@@ -1,0 +1,61 @@
+[
+  {
+    "operation": "create",
+    "document": {
+      "id": "http_58__47__47_hdl.handle.net_47_10032_47_e3cdd8654a21cb6b4f52540c6c9ab223",
+      "title": "Medische Termen Belgisch-Nederlands",
+      "intro": null,
+      "publishedAt": [],
+      "media": {
+        "thumbnail": [],
+        "slider": []
+      },
+      "tabs": {
+        "overview": {},
+        "learn": {},
+        "mentions": {},
+        "metadata": {}
+      },
+      "properties": {
+        "programmingLanguages": [],
+        "learn": [],
+        "resourceHost": null,
+        "funding": [],
+        "problemContact": [],
+        "informationTypes": null,
+        "languages": [
+          "Dutch"
+        ],
+        "access": [
+          {
+            "title": "available for non-commercial and commercial organisations; user licence required ",
+            "link": ""
+          }
+        ],
+        "sourceCodeLocation": [],
+        "researchContact": [],
+        "generalContact": [],
+        "resourceTypes": [
+          "Data"
+        ],
+        "status": null,
+        "versions": [],
+        "standards": [],
+        "resourceOwner": [
+          {
+            "title": "Dutch Language Institute",
+            "link": "null"
+          }
+        ],
+        "link": "http://hdl.handle.net/10032/tm-a2-q8",
+        "intro": null,
+        "researchActivities": [],
+        "researchDomains": null,
+        "mediaTypes": null,
+        "provenance": [],
+        "community": [],
+        "development": null
+      }
+    }
+  }
+]

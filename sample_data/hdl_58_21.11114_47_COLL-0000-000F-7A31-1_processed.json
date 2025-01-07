@@ -1,0 +1,61 @@
+[
+  {
+    "operation": "create",
+    "document": {
+      "id": "hdl_58_21.11114_47_COLL-0000-000F-7A31-1",
+      "title": "Typological Dataset",
+      "intro": "Typological Database System (TDS) that has 1200 different properties of languages. For the collection in total about 200 different sources were used for creation (some sources are collected in fieldwork, some from books). -",
+      "publishedAt": [],
+      "media": {
+        "thumbnail": [],
+        "slider": []
+      },
+      "tabs": {
+        "overview": {},
+        "learn": {},
+        "mentions": {},
+        "metadata": {}
+      },
+      "properties": {
+        "programmingLanguages": [],
+        "learn": [],
+        "resourceHost": [
+          {
+            "title": "https://doi.org",
+            "link": "https://doi.org"
+          }
+        ],
+        "funding": [],
+        "problemContact": [],
+        "informationTypes": null,
+        "languages": [
+          "---"
+        ],
+        "access": [
+          {
+            "title": "UNSPECIFIED",
+            "link": ""
+          }
+        ],
+        "sourceCodeLocation": [],
+        "researchContact": [],
+        "generalContact": [],
+        "resourceTypes": [
+          "Data"
+        ],
+        "status": null,
+        "versions": [],
+        "standards": [],
+        "resourceOwner": null,
+        "link": "https://doi.org/10.34894/MPMD6Q",
+        "intro": "Typological Database System (TDS) that has 1200 different properties of languages. For the collection in total about 200 different sources were used for creation (some sources are collected in fieldwork, some from books). -",
+        "researchActivities": [],
+        "researchDomains": null,
+        "mediaTypes": null,
+        "provenance": [],
+        "community": [],
+        "development": null
+      }
+    }
+  }
+]

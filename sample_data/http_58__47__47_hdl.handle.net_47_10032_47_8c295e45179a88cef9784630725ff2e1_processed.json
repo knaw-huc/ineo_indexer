@@ -1,0 +1,61 @@
+[
+  {
+    "operation": "create",
+    "document": {
+      "id": "http_58__47__47_hdl.handle.net_47_10032_47_8c295e45179a88cef9784630725ff2e1",
+      "title": "e-Lex",
+      "intro": "e-Lex is a lexical database of Dutch consisting of a one-word lexicon and a multi-word lexicon. The one-word lexicon contains ca. 220,000 entries and more than 600,000 word forms. The entries of the lexicon are annotated with morphological, syntactical and phonological information. A pa...",
+      "publishedAt": [],
+      "media": {
+        "thumbnail": [],
+        "slider": []
+      },
+      "tabs": {
+        "overview": {},
+        "learn": {},
+        "mentions": {},
+        "metadata": {}
+      },
+      "properties": {
+        "programmingLanguages": [],
+        "learn": [],
+        "resourceHost": null,
+        "funding": [],
+        "problemContact": [],
+        "informationTypes": null,
+        "languages": [
+          "Dutch"
+        ],
+        "access": [
+          {
+            "title": "available for non-commercial and commercial organisations; user licence required",
+            "link": ""
+          }
+        ],
+        "sourceCodeLocation": [],
+        "researchContact": [],
+        "generalContact": [],
+        "resourceTypes": [
+          "Data"
+        ],
+        "status": null,
+        "versions": [],
+        "standards": [],
+        "resourceOwner": [
+          {
+            "title": "Dutch Language Union",
+            "link": "null"
+          }
+        ],
+        "link": "http://hdl.handle.net/10032/tm-a2-h2",
+        "intro": "e-Lex is a lexical database of Dutch consisting of a one-word lexicon and a multi-word lexicon. The one-word lexicon contains ca. 220,000 entries and more than 600,000 word forms. The entries of the lexicon are annotated with morphological, syntactical and phonological information. A pa...",
+        "researchActivities": [],
+        "researchDomains": null,
+        "mediaTypes": null,
+        "provenance": [],
+        "community": [],
+        "development": null
+      }
+    }
+  }
+]

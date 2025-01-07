@@ -1,0 +1,96 @@
+[
+  {
+    "operation": "create",
+    "document": {
+      "id": "annorepo-client",
+      "title": "Annorepo-client",
+      "intro": "A Python client for accessing an AnnoRepo server",
+      "publishedAt": "2022-04-07",
+      "media": {},
+      "tabs": {
+        "overview": {},
+        "learn": {},
+        "mentions": {},
+        "metadata": {}
+      },
+      "properties": {
+        "programmingLanguages": [
+          {
+            "title": "Python",
+            "link": null
+          }
+        ],
+        "learn": [
+          {
+            "title": "annorepo-client \u2014 annorepo-python-client latest documentation",
+            "link": "https://annorepo-python-client.readthedocs.io/en/latest/"
+          },
+          {
+            "title": "annorepo-client \u2014 annorepo-python-client latest documentation",
+            "link": "https://annorepo-python-client.readthedocs.io/en/latest/?badge=latest"
+          }
+        ],
+        "problemContact": [
+          {
+            "title": "Issue tracker",
+            "link": "https://github.com/knaw-huc/annorepo-python-client/issues"
+          }
+        ],
+        "informationTypes": [],
+        "access": [
+          {
+            "title": "Open Access",
+            "link": "https://github.com/knaw-huc/annorepo-python-client"
+          }
+        ],
+        "sourceCodeLocation": [
+          {
+            "title": "github.com",
+            "link": "https://github.com/knaw-huc/annorepo-python-client"
+          }
+        ],
+        "researchContact": [],
+        "generalContact": [
+          {
+            "title": "Bram\u00a0Buitendijk",
+            "link": "mailto:bram.buitendijk@di.huc.knaw.nl"
+          }
+        ],
+        "resourceTypes": [
+          "Tools"
+        ],
+        "status": [
+          "Active"
+        ],
+        "versions": [
+          {
+            "title": "0.1.3",
+            "url": ""
+          }
+        ],
+        "standards": [],
+        "resourceOwner": [
+          {
+            "title": "KNAW Humanities Cluster",
+            "link": "https://huc.knaw.nl/"
+          }
+        ],
+        "link": "https://github.com/knaw-huc/annorepo-python-client",
+        "intro": "A Python client for accessing an AnnoRepo server",
+        "provenance": [],
+        "community": [
+          {
+            "title": "Issue tracker",
+            "link": "https://github.com/knaw-huc/annorepo-python-client/issues"
+          }
+        ],
+        "development": [
+          {
+            "title": "Bram Buitendijk",
+            "link": ""
+          }
+        ]
+      }
+    }
+  }
+]

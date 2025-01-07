@@ -1,0 +1,54 @@
+[
+  {
+    "operation": "create",
+    "document": {
+      "id": "http_58__47__47_data.bibliotheken.nl_47_id_47_dataset_47_stcn",
+      "title": "Short-Title Catalogue Netherlands (STCN)",
+      "intro": "Expert descriptions of books printed in the Netherlands between 1473 and 1801 in more than 210.000 editions in 550.000 copies. Contains descriptions of books in the collections of many libraries in the Netherlands and various libraries abroad. All books are described book in hand. Descr...",
+      "publishedAt": [],
+      "media": {
+        "thumbnail": [],
+        "slider": []
+      },
+      "tabs": {
+        "overview": {},
+        "learn": {},
+        "mentions": {},
+        "metadata": {}
+      },
+      "properties": {
+        "programmingLanguages": [],
+        "learn": [],
+        "resourceHost": null,
+        "funding": [],
+        "problemContact": [],
+        "informationTypes": null,
+        "languages": null,
+        "access": [
+          {
+            "title": "Public",
+            "link": "https://creativecommons.org/publicdomain/zero/1.0/"
+          }
+        ],
+        "sourceCodeLocation": [],
+        "researchContact": [],
+        "generalContact": [],
+        "resourceTypes": [
+          "Data"
+        ],
+        "status": null,
+        "versions": [],
+        "standards": [],
+        "resourceOwner": null,
+        "link": "http://data.bibliotheken.nl/id/dataset/stcn",
+        "intro": "Expert descriptions of books printed in the Netherlands between 1473 and 1801 in more than 210.000 editions in 550.000 copies. Contains descriptions of books in the collections of many libraries in the Netherlands and various libraries abroad. All books are described book in hand. Descr...",
+        "researchActivities": [],
+        "researchDomains": null,
+        "mediaTypes": null,
+        "provenance": [],
+        "community": [],
+        "development": null
+      }
+    }
+  }
+]

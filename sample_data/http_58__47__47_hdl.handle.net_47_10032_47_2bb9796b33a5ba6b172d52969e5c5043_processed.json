@@ -1,0 +1,79 @@
+[
+  {
+    "operation": "create",
+    "document": {
+      "id": "http_58__47__47_hdl.handle.net_47_10032_47_2bb9796b33a5ba6b172d52969e5c5043",
+      "title": "Basilex Corpus",
+      "intro": "The Basilex Corpus is a collection of annotated texts written for children of age 6-12 (primary school). The corpus contains 13.5 million tokens, of which 11.5 million are words. The token are for about 40% derived from educative materials, for about 40% from children literature and 20%... Het BasiLex-corpus is een geannoteerde verzameling van teksten geschreven voor kinderen in de basisschoolleeftijd. Het corpus bevat 13.5 miljoen tokens, waarvan 11.5 miljoen woorden. De tokens komen voor ongeveer 40% uit educatieve materialen, 40% uit kinderliteratuur, en 20% uit media. Part of Speech",
+      "publishedAt": [],
+      "media": {
+        "thumbnail": [],
+        "slider": []
+      },
+      "tabs": {
+        "overview": {},
+        "learn": {},
+        "mentions": {},
+        "metadata": {}
+      },
+      "properties": {
+        "programmingLanguages": [],
+        "learn": [],
+        "resourceHost": null,
+        "funding": [],
+        "problemContact": [],
+        "informationTypes": null,
+        "languages": [
+          "Dutch",
+          "English"
+        ],
+        "access": [
+          {
+            "title": "available for non-commercial organisations; user licence required; ",
+            "link": ""
+          }
+        ],
+        "sourceCodeLocation": [],
+        "researchContact": [],
+        "generalContact": [],
+        "resourceTypes": [
+          "Data"
+        ],
+        "status": null,
+        "versions": [],
+        "standards": [],
+        "resourceOwner": [
+          {
+            "title": "Radboud University, Nijmegen",
+            "link": "null"
+          }
+        ],
+        "link": "http://hdl.handle.net/10032/tm-a2-n4",
+        "intro": "The Basilex Corpus is a collection of annotated texts written for children of age 6-12 (primary school). The corpus contains 13.5 million tokens, of which 11.5 million are words. The token are for about 40% derived from educative materials, for about 40% from children literature and 20%... Het BasiLex-corpus is een geannoteerde verzameling van teksten geschreven voor kinderen in de basisschoolleeftijd. Het corpus bevat 13.5 miljoen tokens, waarvan 11.5 miljoen woorden. De tokens komen voor ongeveer 40% uit educatieve materialen, 40% uit kinderliteratuur, en 20% uit media. Part of Speech",
+        "researchActivities": [],
+        "researchDomains": null,
+        "mediaTypes": null,
+        "provenance": [],
+        "community": [],
+        "development": [
+          {
+            "title": "Agnes Tellings",
+            "link": "null"
+          },
+          {
+            "title": "Micha Hulsbosch",
+            "link": "null"
+          },
+          {
+            "title": "Anne Vermeer",
+            "link": "null"
+          },
+          {
+            "title": "Antal van den Bosch",
+            "link": "null"
+          }
+        ]
+      }
+    }
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "operation": "create",
+    "document": {
+      "id": "hypodisc",
+      "title": "Hypodisc",
+      "intro": "This tool aims to discover hypotheses in RDF knowledge graphs by: 1) Training a multi-hop link prediction model on a graph subset, encouraging the clustering of similar context entities. 2) Using cluster centroids as representatives, ranking paths within clusters: top-k paths become the hypothese...",
+      "publishedAt": "2023-07-27",
+      "media": {},
+      "tabs": {
+        "overview": {
+          "body": "### Overview\n Hypodisc supports multimodal information of various types, which, in accordance to the RDF data model, are stored as string literals with an accompanying datatype or language tag. At present, Hypodisc understands numerical and temporal datatypes, as well as natural language and other strings. Literals with language tags are also treated as strings. To discover meaningful patterns in these data, a cluster-based approach is applied to all elements of the same datatype with a certain context.\n\nSee the [documentation](https://wxwilcke.gitlab.io/hypodisc/) for more info."
+        },
+        "learn": {
+          "body": "### Multimodal learning\n\nThis pipeline includes experimental support for multimodal features, stored as literal nodes. These are disabled by default, but can be enabled by specifying one or more of the following modalities: numerical, temporal, textual, spatial, and visual. These modalities map to their corresponding XSD datatypes, or b64Image for images encoded as string literals. Note that, for literals to be considered a member of a modality they should correctly be annotated with a datatype or language tag.\n\nFind out more about how to create and run a HDF5 file (which in includes text and images) on the\u00a0[github](https://github.com/wxwilcke/hypodisc#getting-started).\n\n### Generating Clusters\n\n[t-SNE](https://lvdmaaten.github.io/tsne/)\u00a0can be used to visualize the clusters in the entity embedding space. You can enable this feature, by installing t-SNE as a submodule of this repository.\n\nDetailed information on how to use the tool can be found on the\u00a0[github](https://github.com/wxwilcke/hypodisc#generating-clusters).\n\nThe\u00a0[README.md](https://github.com/wxwilcke/hypodisc#readme)\u00a0on the tool's\u00a0[github](https://github.com/wxwilcke/hypodisc#multimodal-learning)\u00a0contains more information."
+        },
+        "mentions": {},
+        "metadata": {}
+      },
+      "properties": {
+        "programmingLanguages": [
+          {
+            "title": "Python",
+            "link": null
+          }
+        ],
+        "problemContact": [
+          {
+            "title": "Issue tracker",
+            "link": "https://gitlab.com/wxwilcke/hypodisc/-/issues"
+          }
+        ],
+        "informationTypes": [],
+        "access": [
+          {
+            "title": "Open Access",
+            "link": "https://github.com/wxwilcke/hypodisc"
+          }
+        ],
+        "sourceCodeLocation": [
+          {
+            "title": "github.com",
+            "link": "https://github.com/wxwilcke/hypodisc"
+          }
+        ],
+        "researchContact": [],
+        "generalContact": [
+          {
+            "title": "Xander\u00a0Wilcke",
+            "link": "mailto:Xander Wilcke <w.x.wilcke@vu.nl>"
+          }
+        ],
+        "resourceTypes": [
+          "Tools"
+        ],
+        "status": [
+          "Active"
+        ],
+        "versions": [
+          {
+            "title": "0.1.0",
+            "url": ""
+          }
+        ],
+        "standards": [],
+        "resourceOwner": [
+          {
+            "title": "VU University Amsterdam",
+            "link": ""
+          }
+        ],
+        "link": "https://github.com/wxwilcke/hypodisc",
+        "intro": "Hypothesis Discovery on RDF Knowledge Graphs",
+        "provenance": [],
+        "community": [
+          {
+            "title": "Issue tracker",
+            "link": "https://gitlab.com/wxwilcke/hypodisc/-/issues"
+          }
+        ],
+        "development": [
+          {
+            "title": "Xander Wilcke, VU University Amsterdam",
+            "link": "https://gitlab.com/wxwilcke"
+          }
+        ]
+      }
+    }
+  }
+]

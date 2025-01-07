@@ -1,0 +1,61 @@
+[
+  {
+    "operation": "create",
+    "document": {
+      "id": "hdl_58_21.11114_47_COLL-0000-000F-7A1A-C",
+      "title": "Ro'is Amarasi Dataset",
+      "intro": "Dataset on Ro'is Amarasi in the form of 5 hours of audio material, collected in Burain and Tumbaun, Indonesia. Transciption included, type unknown -",
+      "publishedAt": [],
+      "media": {
+        "thumbnail": [],
+        "slider": []
+      },
+      "tabs": {
+        "overview": {},
+        "learn": {},
+        "mentions": {},
+        "metadata": {}
+      },
+      "properties": {
+        "programmingLanguages": [],
+        "learn": [],
+        "resourceHost": [
+          {
+            "title": "http://leiland.lucdh.nl",
+            "link": "http://leiland.lucdh.nl"
+          }
+        ],
+        "funding": [],
+        "problemContact": [],
+        "informationTypes": null,
+        "languages": [
+          "Amarasi"
+        ],
+        "access": [
+          {
+            "title": "Public",
+            "link": ""
+          }
+        ],
+        "sourceCodeLocation": [],
+        "researchContact": [],
+        "generalContact": [],
+        "resourceTypes": [
+          "Data"
+        ],
+        "status": null,
+        "versions": [],
+        "standards": [],
+        "resourceOwner": null,
+        "link": "http://leiland.lucdh.nl",
+        "intro": "Dataset on Ro'is Amarasi in the form of 5 hours of audio material, collected in Burain and Tumbaun, Indonesia. Transciption included, type unknown -",
+        "researchActivities": [],
+        "researchDomains": null,
+        "mediaTypes": null,
+        "provenance": [],
+        "community": [],
+        "development": null
+      }
+    }
+  }
+]

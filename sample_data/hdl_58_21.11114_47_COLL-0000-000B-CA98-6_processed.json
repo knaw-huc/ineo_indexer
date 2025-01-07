@@ -1,0 +1,65 @@
+[
+  {
+    "operation": "create",
+    "document": {
+      "id": "hdl_58_21.11114_47_COLL-0000-000B-CA98-6",
+      "title": "CGN 1.0",
+      "intro": "The Spoken Dutch Corpus project was aimed at the construction of a database of contemporary standard Dutch as spoken by adults in The Netherlands and Flanders. The intended size of the corpus was ten million words (about 1,000 hours of speech), two thirds of which would originate from t... This part of the CGN is the core corpus containing a selection of one million words which has been annotated syntactically. For this core corpus a (manually verified) broad phonetic transcription has been produced, and also the alignment of the transcripts and the speech files has been... This part is the full CGN Corpus. The total number of words available is nearly 9 million (800 hours of speech). Some 3.3 million words were collected in Flanders, well over 5.6 million in The Netherlands. The corpus comprises a large number of samples of (recorded) spoken text. The en...",
+      "publishedAt": [],
+      "media": {
+        "thumbnail": [],
+        "slider": []
+      },
+      "tabs": {
+        "overview": {},
+        "learn": {},
+        "mentions": {},
+        "metadata": {}
+      },
+      "properties": {
+        "programmingLanguages": [],
+        "learn": [],
+        "resourceHost": null,
+        "funding": [],
+        "problemContact": [],
+        "informationTypes": null,
+        "languages": [
+          "Dutch",
+          "English"
+        ],
+        "access": [
+          {
+            "title": "Restricted for individual",
+            "link": ""
+          }
+        ],
+        "sourceCodeLocation": [],
+        "researchContact": [],
+        "generalContact": [],
+        "resourceTypes": [
+          "Data"
+        ],
+        "status": null,
+        "versions": [],
+        "standards": [],
+        "resourceOwner": [
+          {
+            "title": "Nederlandse Taalunie",
+            "link": "null"
+          }
+        ],
+        "link": "https://hdl.handle.net/1839/00-0000-0000-0001-53A5-2@view",
+        "intro": "The Spoken Dutch Corpus project was aimed at the construction of a database of contemporary standard Dutch as spoken by adults in The Netherlands and Flanders. The intended size of the corpus was ten million words (about 1,000 hours of speech), two thirds of which would originate from t... This part of the CGN is the core corpus containing a selection of one million words which has been annotated syntactically. For this core corpus a (manually verified) broad phonetic transcription has been produced, and also the alignment of the transcripts and the speech files has been... This part is the full CGN Corpus. The total number of words available is nearly 9 million (800 hours of speech). Some 3.3 million words were collected in Flanders, well over 5.6 million in The Netherlands. The corpus comprises a large number of samples of (recorded) spoken text. The en...",
+        "researchActivities": [],
+        "researchDomains": null,
+        "mediaTypes": [
+          "7.37 tab-separated-values",
+          "7 text"
+        ],
+        "provenance": [],
+        "community": [],
+        "development": null
+      }
+    }
+  }
+]

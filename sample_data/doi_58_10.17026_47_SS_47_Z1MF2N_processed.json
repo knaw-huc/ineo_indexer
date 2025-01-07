@@ -1,0 +1,78 @@
+[
+    {
+        "operation": "create",
+        "document": {
+            "id": "doi_58_10.17026_47_SS_47_Z1MF2N",
+            "title": "Interview with Nicholas Pope on his sculpture The Church, the Villa...",
+            "intro": "Interview with visual artist Nicholas Pope in his studio in Much Marcle, Herefordshire, about the making, materials and context of his 1986 sculpture The Church, the Village and Myself, owned by the Kr\u00f6ller-M\u00fcller Museum. The interview was prompted by research project POPE: Resin Bleed,...",
+            "publishedAt": [],
+            "media": {
+                "thumbnail": [],
+                "slider": []
+            },
+            "tabs": {
+                "overview": {},
+                "learn": {},
+                "mentions": {},
+                "metadata": {}
+            },
+            "properties": {
+                "programmingLanguages": [],
+                "learn": [],
+                "resourceHost": [
+                    {
+                        "title": "https://doi.org",
+                        "link": "https://doi.org"
+                    }
+                ],
+                "funding": [],
+                "problemContact": [],
+                "informationTypes": null,
+                "languages": [
+                    "English"
+                ],
+                "access": [
+                    {
+                        "title": "UNSPECIFIED",
+                        "link": ""
+                    }
+                ],
+                "sourceCodeLocation": [],
+                "researchContact": [],
+                "generalContact": [],
+                "resourceTypes": [
+                    "Data"
+                ],
+                "status": null,
+                "versions": [],
+                "standards": [],
+                "resourceOwner": null,
+                "link": "https://doi.org/10.17026/SS/Z1MF2N",
+                "intro": "Interview with visual artist Nicholas Pope in his studio in Much Marcle, Herefordshire, about the making, materials and context of his 1986 sculpture The Church, the Village and Myself, owned by the Kr\u00f6ller-M\u00fcller Museum. The interview was prompted by research project POPE: Resin Bleed,...",
+                "researchActivities": [],
+                "researchDomains": [],
+                "mediaTypes": null,
+                "provenance": [],
+                "community": [],
+                "development": [
+                    {
+                        "title": "Sanneke Stigter",
+                        "link": "null"
+                    },
+                    {
+                        "title": "Welmoed Kreb",
+                        "link": "null"
+                    },
+                    {
+                        "title": "Marcel van der Sande",
+                        "link": "null"
+                    },
+                    {
+                        "title": "Tirza Mol",
+                        "link": "null"
+                    }
+                ]
+            }
+        }
+    }
+]

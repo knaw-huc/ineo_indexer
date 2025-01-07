@@ -1,0 +1,56 @@
+[
+  {
+    "operation": "create",
+    "document": {
+      "id": "http_58__47__47_hdl.handle.net_47_10032_47_9d837b186269e7af25a17f356c558587",
+      "title": "Eindhoven Corpus",
+      "intro": "The VU version of the Eindhoven Corpus is a collection of Dutch written and (transcribed) spoken texts from the period 1960 - 1976. The corpus contains ca. 768.000 tokens. Supervising organisation of the original project Partner of the original project Creator involved in an update of the corpus (improved and documented the corpus and added a subcorpus (the Renkema corpus)) Morfocodes were added to all words of the corpus.",
+      "publishedAt": [],
+      "media": {
+        "thumbnail": [],
+        "slider": []
+      },
+      "tabs": {
+        "overview": {},
+        "learn": {},
+        "mentions": {},
+        "metadata": {}
+      },
+      "properties": {
+        "programmingLanguages": [],
+        "learn": [],
+        "resourceHost": null,
+        "funding": [],
+        "problemContact": [],
+        "informationTypes": null,
+        "languages": [
+          "Dutch"
+        ],
+        "access": [
+          {
+            "title": "available for commercial and academic use, no user licence required; ",
+            "link": ""
+          }
+        ],
+        "sourceCodeLocation": [],
+        "researchContact": [],
+        "generalContact": [],
+        "resourceTypes": [
+          "Data"
+        ],
+        "status": null,
+        "versions": [],
+        "standards": [],
+        "resourceOwner": null,
+        "link": "http://hdl.handle.net/10032/tm-a2-n6",
+        "intro": "The VU version of the Eindhoven Corpus is a collection of Dutch written and (transcribed) spoken texts from the period 1960 - 1976. The corpus contains ca. 768.000 tokens. Supervising organisation of the original project Partner of the original project Creator involved in an update of the corpus (improved and documented the corpus and added a subcorpus (the Renkema corpus)) Morfocodes were added to all words of the corpus.",
+        "researchActivities": [],
+        "researchDomains": null,
+        "mediaTypes": null,
+        "provenance": [],
+        "community": [],
+        "development": null
+      }
+    }
+  }
+]

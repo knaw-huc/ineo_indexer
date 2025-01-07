@@ -1,0 +1,106 @@
+[
+  {
+    "operation": "create",
+    "document": {
+      "id": "clariah-fcs-endpoints",
+      "title": "A Blacklab Server CLARIN FCS 2.0 endpoint",
+      "intro": "CLARIAH Federated content search corpora, developed by the Dutch Language Institute (INT), is a service to enable searching in multiple Dutch corpora at the same time. This application implements the CLARIN FCS 2.0 specification on top of Dutch language corpora. This repository hosts the source c...",
+      "publishedAt": "2016-09-11",
+      "media": {},
+      "tabs": {
+        "overview": {},
+        "learn": {},
+        "mentions": {},
+        "metadata": {}
+      },
+      "properties": {
+        "programmingLanguages": [
+          {
+            "title": "Java",
+            "link": null
+          }
+        ],
+        "learn": [
+          {
+            "title": "FCS 2.0 documentation",
+            "link": "https://www.clarin.eu/blog/clarin-federated-content-search-version-2"
+          }
+        ],
+        "funding": [
+          {
+            "title": "CLARIAH-CORE (NWO grant 184.034.023) NWO",
+            "link": " https://www.nwo.nl"
+          }
+        ],
+        "problemContact": [
+          {
+            "title": "Issue tracker",
+            "link": "https://github.com/INL/clariah-fcs-endpoints/issues"
+          }
+        ],
+        "informationTypes": [],
+        "access": [
+          {
+            "title": "Open Access",
+            "link": "https://github.com/INL/clariah-fcs-endpoints"
+          }
+        ],
+        "sourceCodeLocation": [
+          {
+            "title": "github.com",
+            "link": "https://github.com/INL/clariah-fcs-endpoints"
+          }
+        ],
+        "researchContact": [],
+        "generalContact": [
+          {
+            "title": "Mathieu\u00a0Fannee",
+            "link": "https://tools.clariah.nl/person/mathieu-fannee"
+          }
+        ],
+        "resourceTypes": [
+          "Tools"
+        ],
+        "status": [
+          "Inactive"
+        ],
+        "versions": [
+          {
+            "title": "0.1",
+            "url": ""
+          }
+        ],
+        "standards": [],
+        "resourceOwner": [
+          {
+            "title": "INT",
+            "link": "https://www.ivdnt.org"
+          }
+        ],
+        "link": "https://github.com/INL/clariah-fcs-endpoints",
+        "intro": "CLARIAH Federated content search corpora, developed by the Dutch Language Institute (INT), is a service to enable searching in multiple Dutch corpora at the same time. This application implements the CLARIN FCS 2.0 specification on top of Dutch language corpora. This repository hosts the source c...",
+        "provenance": [],
+        "community": [
+          {
+            "title": "Issue tracker",
+            "link": "https://github.com/INL/clariah-fcs-endpoints/issues"
+          }
+        ],
+        "development": [
+          {
+            "title": "Mathieu Fannee",
+            "link": "https://www.ivdnt.org/"
+          },
+          {
+            "title": "Leif-J\u00f6ran Olsson",
+            "link": "https://spraakbanken.gu.se/"
+          },
+          {
+            "title": "Jesse de Does",
+            "link": "https://www.ivdnt.org/"
+          }
+        ]
+      }
+    }
+  }
+]

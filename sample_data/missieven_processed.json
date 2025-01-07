@@ -1,0 +1,90 @@
+[
+  {
+    "operation": "create",
+    "document": {
+      "id": "missieven",
+      "title": "Generale Missieven in Text-Fabric",
+      "intro": "Conversion of Generale Missieven to Text-Fabric and tutorial how to work with the result",
+      "publishedAt": "2020-09-02",
+      "media": {},
+      "tabs": {
+        "overview": {},
+        "learn": {},
+        "mentions": {},
+        "metadata": {}
+      },
+      "properties": {
+        "programmingLanguages": [
+          {
+            "title": "Python",
+            "link": null
+          }
+        ],
+        "learn": [
+          {
+            "title": "About the Generale Missieven Corpus",
+            "link": "https://github.com/CLARIAH/wp6-missieven/blob/master/docs/about.md"
+          },
+          {
+            "title": "Jupyter Notebook: how to work with the Generale Missieven Corpus",
+            "link": "https://nbviewer.org/github/CLARIAH/wp6-missieven/blob/master/tutorial/start.ipynb"
+          }
+        ],
+        "funding": [
+          {
+            "title": "CLARIAH-PLUS (NWO grant 184.034.023), WP6 NWO",
+            "link": " https://www.nwo.nl"
+          }
+        ],
+        "problemContact": [
+          {
+            "title": "Issue tracker",
+            "link": "https://github.com/CLARIAH/wp6-missieven/issues"
+          }
+        ],
+        "informationTypes": [],
+        "access": [
+          {
+            "title": "Open Access",
+            "link": "https://github.com/CLARIAH/wp6-missieven"
+          }
+        ],
+        "sourceCodeLocation": [
+          {
+            "title": "github.com",
+            "link": "https://github.com/CLARIAH/wp6-missieven"
+          }
+        ],
+        "researchContact": [],
+        "resourceTypes": [
+          "Tools"
+        ],
+        "status": [
+          "Active"
+        ],
+        "versions": [
+          {
+            "title": "v1.1e",
+            "url": ""
+          }
+        ],
+        "standards": [],
+        "resourceOwner": [
+          {
+            "title": "KNAW/Humanities Cluster",
+            "link": "https://huc.knaw.nl"
+          }
+        ],
+        "link": "https://github.com/CLARIAH/wp6-missieven",
+        "intro": "Conversion of Generale Missieven to Text-Fabric and tutorial how to work with the result",
+        "provenance": [],
+        "community": [
+          {
+            "title": "Issue tracker",
+            "link": "https://github.com/CLARIAH/wp6-missieven/issues"
+          }
+        ]
+      }
+    }
+  }
+]

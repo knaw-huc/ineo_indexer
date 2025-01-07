@@ -1,0 +1,74 @@
+[
+    {
+        "operation": "create",
+        "document": {
+            "id": "doi_58_10.17026_47_SS_47_UUVUW2",
+            "title": "First-Hand Accounts of War: War Letters (1935-1950) from NIOD Digit...",
+            "intro": "Introduction This dataset collection is created within the context of the digitisation project \u2018First-Hand Accounts of War: War Letters (1935-1950) from NIOD Digitised\u2019, that ran over a period of three years (2020-2023) and was funded by the Mondriaan Fund, the Dutch Ministry of Health,...",
+            "publishedAt": [],
+            "media": {
+                "thumbnail": [],
+                "slider": []
+            },
+            "tabs": {
+                "overview": {},
+                "learn": {},
+                "mentions": {},
+                "metadata": {}
+            },
+            "properties": {
+                "programmingLanguages": [],
+                "learn": [],
+                "resourceHost": [
+                    {
+                        "title": "https://doi.org",
+                        "link": "https://doi.org"
+                    }
+                ],
+                "funding": [],
+                "problemContact": [],
+                "informationTypes": null,
+                "languages": [
+                    "Dutch"
+                ],
+                "access": [
+                    {
+                        "title": "UNSPECIFIED",
+                        "link": ""
+                    }
+                ],
+                "sourceCodeLocation": [],
+                "researchContact": [],
+                "generalContact": [],
+                "resourceTypes": [
+                    "Data"
+                ],
+                "status": null,
+                "versions": [],
+                "standards": [],
+                "resourceOwner": null,
+                "link": "https://doi.org/10.17026/SS/UUVUW2",
+                "intro": "Introduction This dataset collection is created within the context of the digitisation project \u2018First-Hand Accounts of War: War Letters (1935-1950) from NIOD Digitised\u2019, that ran over a period of three years (2020-2023) and was funded by the Mondriaan Fund, the Dutch Ministry of Health,...",
+                "researchActivities": [],
+                "researchDomains": [],
+                "mediaTypes": null,
+                "provenance": [],
+                "community": [],
+                "development": [
+                    {
+                        "title": "Milan van Lange",
+                        "link": "null"
+                    },
+                    {
+                        "title": "Carlijn Keijzer",
+                        "link": "null"
+                    },
+                    {
+                        "title": "Annelies van Nispen",
+                        "link": "null"
+                    }
+                ]
+            }
+        }
+    }
+]

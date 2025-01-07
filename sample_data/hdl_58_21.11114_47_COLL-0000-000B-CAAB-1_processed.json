@@ -1,0 +1,61 @@
+[
+  {
+    "operation": "create",
+    "document": {
+      "id": "hdl_58_21.11114_47_COLL-0000-000B-CAAB-1",
+      "title": "Sanders & Spooren",
+      "intro": "The SandersSpooren subcorpus was compiled for a study of the causal connectives 'want' and 'omdat' in several types of discourse. It consists of cases from news, spontaneous conversation and chat data. It comprises 553 cases in total of omdat and want from newspapers, spontaneous conver... 553 cases in total of omdat and want from newspapers, spontaneous conversations and chat interaction; 100 cases of omdat and 102 cases of want from newspapers (D-Coi); 100 cases of omdat and 100 cases of want from conversations (CGN; 51 cases of omdat and 100 cases of want from chat in...",
+      "publishedAt": [],
+      "media": {
+        "thumbnail": [],
+        "slider": []
+      },
+      "tabs": {
+        "overview": {},
+        "learn": {},
+        "mentions": {},
+        "metadata": {}
+      },
+      "properties": {
+        "programmingLanguages": [],
+        "learn": [],
+        "resourceHost": null,
+        "funding": [],
+        "problemContact": [],
+        "informationTypes": null,
+        "languages": [
+          "Dutch"
+        ],
+        "access": [
+          {
+            "title": "Restricted for individual",
+            "link": ""
+          }
+        ],
+        "sourceCodeLocation": [],
+        "researchContact": [],
+        "generalContact": [],
+        "resourceTypes": [
+          "Data"
+        ],
+        "status": null,
+        "versions": [],
+        "standards": [],
+        "resourceOwner": [
+          {
+            "title": "The language archive",
+            "link": "null"
+          }
+        ],
+        "link": "https://hdl.handle.net/1839/00-58F6586A-55F4-4B45-8341-6E2F7FF0668C@view",
+        "intro": "The SandersSpooren subcorpus was compiled for a study of the causal connectives 'want' and 'omdat' in several types of discourse. It consists of cases from news, spontaneous conversation and chat data. It comprises 553 cases in total of omdat and want from newspapers, spontaneous conver... 553 cases in total of omdat and want from newspapers, spontaneous conversations and chat interaction; 100 cases of omdat and 102 cases of want from newspapers (D-Coi); 100 cases of omdat and 100 cases of want from conversations (CGN; 51 cases of omdat and 100 cases of want from chat in...",
+        "researchActivities": [],
+        "researchDomains": null,
+        "mediaTypes": null,
+        "provenance": [],
+        "community": [],
+        "development": null
+      }
+    }
+  }
+]

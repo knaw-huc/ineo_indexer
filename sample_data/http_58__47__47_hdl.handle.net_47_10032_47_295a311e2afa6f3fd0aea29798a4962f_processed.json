@@ -1,0 +1,61 @@
+[
+  {
+    "operation": "create",
+    "document": {
+      "id": "http_58__47__47_hdl.handle.net_47_10032_47_295a311e2afa6f3fd0aea29798a4962f",
+      "title": "VMNW",
+      "intro": "The Early Middle Dutch Dictionary (Vroegmiddelnederlands Woordenboek) describes the Early Medieval Dutch vocabulary from the period 1200 to 1300. The dictionary of early Middle Dutch (VMNW) online is the electronic version of the VMNW. Early Medieval Dutch vocabulary from the period 1200 to 1300. Modern Dutch lemma Early Middle Dutch Lemma",
+      "publishedAt": [],
+      "media": {
+        "thumbnail": [],
+        "slider": []
+      },
+      "tabs": {
+        "overview": {},
+        "learn": {},
+        "mentions": {},
+        "metadata": {}
+      },
+      "properties": {
+        "programmingLanguages": [],
+        "learn": [],
+        "resourceHost": null,
+        "funding": [],
+        "problemContact": [],
+        "informationTypes": null,
+        "languages": [
+          "Middle Dutch"
+        ],
+        "access": [
+          {
+            "title": "Academic",
+            "link": ""
+          }
+        ],
+        "sourceCodeLocation": [],
+        "researchContact": [],
+        "generalContact": [],
+        "resourceTypes": [
+          "Data"
+        ],
+        "status": null,
+        "versions": [],
+        "standards": [],
+        "resourceOwner": [
+          {
+            "title": "Dutch Language Institute (Instituut voor de Nederlandse Taal, INT)",
+            "link": "null"
+          }
+        ],
+        "link": "http://hdl.handle.net/10032/tm-a2-k4",
+        "intro": "The Early Middle Dutch Dictionary (Vroegmiddelnederlands Woordenboek) describes the Early Medieval Dutch vocabulary from the period 1200 to 1300. The dictionary of early Middle Dutch (VMNW) online is the electronic version of the VMNW. Early Medieval Dutch vocabulary from the period 1200 to 1300. Modern Dutch lemma Early Middle Dutch Lemma",
+        "researchActivities": [],
+        "researchDomains": null,
+        "mediaTypes": null,
+        "provenance": [],
+        "community": [],
+        "development": null
+      }
+    }
+  }
+]

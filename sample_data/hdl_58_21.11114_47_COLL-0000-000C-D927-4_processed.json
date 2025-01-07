@@ -1,0 +1,67 @@
+[
+  {
+    "operation": "create",
+    "document": {
+      "id": "hdl_58_21.11114_47_COLL-0000-000C-D927-4",
+      "title": "CoDoSiS test files",
+      "intro": "This data collection comprises a set of test files developed in the CoDoSiS project of the CLARIAH program. The project \u2018Combining Data on slavery in Surinam\u2019 (CoDoSiS) aimed to develop a strategy to convert existing datasets on Surinam slavery into Linked Data by using the CLARIAH wp4-... Slavenregisters_Picturae_plantages_1846 is a dataset based on the slave registers of Suriname constructed through the crowdsourcing platform www.velehanden.nl. These slave registers were created and maintained by the Dutch colonial government in Suriname between 1830 and 1863 (National... Slavenregisters_Everaert_1846 is a dataset of enslaved persons on the sugar plantations Fairfield, Breukelerwaard, Cannewapibo and La Jalousie created by Huub Everaert for his dissertation 'Een zoektocht naar de aard van man-vrouw relaties onder Surinaamse slaven : de suikerplantages F... Monsterrol_Catharina_Sophia_1846 is a dataset created in 2017-2018. The dataset is based on a sample roll made for the West-Indische Bank of enslaved persons working on the governement plantation Catharina Sophia and related plantations in Suriname on January 1, 1848 (National Archive ... Slavenregisters_Picturae_eigenaren_1846 is a dataset based on the slave registers of Suriname constructed through the crowdsourcing platform www.velehanden.nl. These slave registers were created and maintained by the Dutch colonial government in Suriname between 1830 and 1863 (National... Wijkregisters_Paramaribo_1846 The wijkregisters of Paramaribo are registers which contain an overview of the households of each ward in the city of Paramaribo, including the names and age of each free inhabitant and the numbers of enslaved inhabitants. Person names have been enriched w... Surinaamsche_almanak_plantages_1846 This file is based on a list of plantations in Suriname, which can be found in the 'Surinaamsche Almanak voor het jaar 1846'. This list contains information on the plantations (name, location, surface, produce, number of enslaved) and the names of dir... Surinaamsche_almanak_personen_1846 This file is based on a list of plantations in Suriname, which can be found in the 'Surinaamsche Almanak voor het jaar 1846'. This list contains information on the plantations (name, location, surface, produce, number of enslaved) and the names of dire...",
+      "publishedAt": [],
+      "media": {
+        "thumbnail": [],
+        "slider": []
+      },
+      "tabs": {
+        "overview": {},
+        "learn": {},
+        "mentions": {},
+        "metadata": {}
+      },
+      "properties": {
+        "programmingLanguages": [],
+        "learn": [],
+        "resourceHost": [
+          {
+            "title": "https://www.clariah.nl",
+            "link": "https://www.clariah.nl"
+          }
+        ],
+        "funding": [],
+        "problemContact": [],
+        "informationTypes": null,
+        "languages": [
+          "Dutch",
+          "English"
+        ],
+        "access": [
+          {
+            "title": "Academic",
+            "link": ""
+          }
+        ],
+        "sourceCodeLocation": [],
+        "researchContact": [],
+        "generalContact": [],
+        "resourceTypes": [
+          "Data"
+        ],
+        "status": null,
+        "versions": [],
+        "standards": [],
+        "resourceOwner": [
+          {
+            "title": "Slavenregisters_Picturae_plantages_1846:  Stichting Historische Database Suriname. Creators:  Coen van Galen and Maurits HassankhanSlavenregisters_Everaert_1846: Huub Everaert, AmsterdamMonsterrol_Catharina_Sophia_1846 :  Stichting Historische Database Suriname. Creators:  Coen van Galen en Laura ClevenSlavenregisters_Picturae_eigenaren_1846: Stichting Historische Database Suriname. Creators: Coen van Galen and Maartje A.B. (Department of History, Radboud University) and Maurits Hassankhan (Anton de Kom Universiteit van Suriname)Wijkregisters_Paramaribo_1846: National Archive of Suriname. Creators:  Philip Dikland and John Sang-Ajang.Surinaamsche_almanak_plantages_1846: Departement Paramaribo der Maatschappij Tot Nut van 't Algemeen. Creators: Coen van Galen and Doortje Swaters (Department of History, Radboud University)Surinaamsche_almanak_personen_1846: Departement Paramaribo der Maatschappij Tot Nut van 't Algemeen. Creators: Coen van Galen and Doortje Swaters (Department of History, Radboud University)",
+            "link": "null"
+          }
+        ],
+        "link": "https://www.clariah.nl/projecten/research-pilots/codosis/codosis",
+        "intro": "This data collection comprises a set of test files developed in the CoDoSiS project of the CLARIAH program. The project \u2018Combining Data on slavery in Surinam\u2019 (CoDoSiS) aimed to develop a strategy to convert existing datasets on Surinam slavery into Linked Data by using the CLARIAH wp4-... Slavenregisters_Picturae_plantages_1846 is a dataset based on the slave registers of Suriname constructed through the crowdsourcing platform www.velehanden.nl. These slave registers were created and maintained by the Dutch colonial government in Suriname between 1830 and 1863 (National... Slavenregisters_Everaert_1846 is a dataset of enslaved persons on the sugar plantations Fairfield, Breukelerwaard, Cannewapibo and La Jalousie created by Huub Everaert for his dissertation 'Een zoektocht naar de aard van man-vrouw relaties onder Surinaamse slaven : de suikerplantages F... Monsterrol_Catharina_Sophia_1846 is a dataset created in 2017-2018. The dataset is based on a sample roll made for the West-Indische Bank of enslaved persons working on the governement plantation Catharina Sophia and related plantations in Suriname on January 1, 1848 (National Archive ... Slavenregisters_Picturae_eigenaren_1846 is a dataset based on the slave registers of Suriname constructed through the crowdsourcing platform www.velehanden.nl. These slave registers were created and maintained by the Dutch colonial government in Suriname between 1830 and 1863 (National... Wijkregisters_Paramaribo_1846 The wijkregisters of Paramaribo are registers which contain an overview of the households of each ward in the city of Paramaribo, including the names and age of each free inhabitant and the numbers of enslaved inhabitants. Person names have been enriched w... Surinaamsche_almanak_plantages_1846 This file is based on a list of plantations in Suriname, which can be found in the 'Surinaamsche Almanak voor het jaar 1846'. This list contains information on the plantations (name, location, surface, produce, number of enslaved) and the names of dir... Surinaamsche_almanak_personen_1846 This file is based on a list of plantations in Suriname, which can be found in the 'Surinaamsche Almanak voor het jaar 1846'. This list contains information on the plantations (name, location, surface, produce, number of enslaved) and the names of dire...",
+        "researchActivities": [],
+        "researchDomains": null,
+        "mediaTypes": null,
+        "provenance": [],
+        "community": [],
+        "development": null
+      }
+    }
+  }
+]

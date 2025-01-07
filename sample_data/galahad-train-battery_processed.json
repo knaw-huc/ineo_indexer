@@ -1,0 +1,97 @@
+[
+    {
+        "operation": "create",
+        "document": {
+            "id": "galahad-train-battery",
+            "title": "GaLAHaD Train Battery",
+            "intro": "Python program for training linguistic annotation taggers based on a configuration file and list of datasets. It prepares the resulting trained models for dockerization and adds relevant metadata. It is tagger software agnostic as long as a simple python shell is built around it.",
+            "publishedAt": "2024-05-31",
+            "media": {},
+            "tabs": {
+                "overview": {},
+                "learn": {},
+                "mentions": {},
+                "metadata": {}
+            },
+            "properties": {
+                "programmingLanguages": [
+                    {
+                        "title": "Python",
+                        "link": null
+                    }
+                ],
+                "funding": [
+                    {
+                        "title": "CLARIAH-PLUS (NWO grant 184.034.023) NWO",
+                        "link": " https://www.nwo.nl"
+                    }
+                ],
+                "problemContact": [
+                    {
+                        "title": "Issue tracker",
+                        "link": "https://github.com/INL/galahad-train-battery/issues"
+                    }
+                ],
+                "informationTypes": [],
+                "access": [
+                    {
+                        "title": "Open Access",
+                        "link": "https://github.com/INL/galahad-train-battery"
+                    }
+                ],
+                "sourceCodeLocation": [
+                    {
+                        "title": "github.com",
+                        "link": "https://github.com/INL/galahad-train-battery"
+                    }
+                ],
+                "researchContact": [],
+                "generalContact": [
+                    {
+                        "title": "Vincent\u00a0Prins",
+                        "link": "mailto:vincent.prins@ivdnt.org"
+                    }
+                ],
+                "resourceTypes": [
+                    "Tools"
+                ],
+                "status": [
+                    "Active"
+                ],
+                "versions": [
+                    {
+                        "title": "1.0.0",
+                        "url": ""
+                    }
+                ],
+                "standards": [],
+                "resourceOwner": [
+                    {
+                        "title": "Instituut voor de Nederlandse taal",
+                        "link": "https://www.ivdnt.org"
+                    }
+                ],
+                "link": "https://github.com/INL/galahad-train-battery",
+                "intro": "Python program for training linguistic annotation taggers based on a configuration file and list of datasets. It prepares the resulting trained models for dockerization and adds relevant metadata. It is tagger software agnostic as long as a simple python shell is built around it.",
+                "researchDomains": [
+                    "https://w3id.org/nwo-research-fields#ArtificialIntelligenceExpertSystems",
+                    "https://w3id.org/nwo-research-fields#ComputationalLinguisticsAndPhilology",
+                    "https://w3id.org/nwo-research-fields#Linguistics"
+                ],
+                "provenance": [],
+                "community": [
+                    {
+                        "title": "Issue tracker",
+                        "link": "https://github.com/INL/galahad-train-battery/issues"
+                    }
+                ],
+                "development": [
+                    {
+                        "title": "Vincent Prins",
+                        "link": "http://orcid.org/0009-0006-9941-9582"
+                    }
+                ]
+            }
+        }
+    }
+]

@@ -1,0 +1,71 @@
+[
+  {
+    "operation": "create",
+    "document": {
+      "id": "http_58__47__47_hdl.handle.net_47_10032_47_6c4a6452708d00a6f7adfe0e63b46e1b",
+      "title": "D-TUNA dataset of Dutch referring expressions",
+      "intro": "The D-TUNA Corpus is a semantically and pragmatically transparent corpus consisting of 2400 written and (transcribed) spoken Dutch referring expressions. referring expressions that are semantically annotated",
+      "publishedAt": [],
+      "media": {
+        "thumbnail": [],
+        "slider": []
+      },
+      "tabs": {
+        "overview": {},
+        "learn": {},
+        "mentions": {},
+        "metadata": {}
+      },
+      "properties": {
+        "programmingLanguages": [],
+        "learn": [],
+        "resourceHost": null,
+        "funding": [],
+        "problemContact": [],
+        "informationTypes": null,
+        "languages": [
+          "Dutch",
+          "English"
+        ],
+        "access": [
+          {
+            "title": "available for non-commercial organisations; user licence required",
+            "link": ""
+          }
+        ],
+        "sourceCodeLocation": [],
+        "researchContact": [],
+        "generalContact": [],
+        "resourceTypes": [
+          "Data"
+        ],
+        "status": null,
+        "versions": [],
+        "standards": [],
+        "resourceOwner": [
+          {
+            "title": "Tilburg University",
+            "link": "null"
+          }
+        ],
+        "link": "http://hdl.handle.net/10032/tm-a2-k5",
+        "intro": "The D-TUNA Corpus is a semantically and pragmatically transparent corpus consisting of 2400 written and (transcribed) spoken Dutch referring expressions. referring expressions that are semantically annotated",
+        "researchActivities": [],
+        "researchDomains": null,
+        "mediaTypes": null,
+        "provenance": [],
+        "community": [],
+        "development": [
+          {
+            "title": "Ruud Koolen",
+            "link": "null"
+          },
+          {
+            "title": "Emiel Krahmer",
+            "link": "null"
+          }
+        ]
+      }
+    }
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "operation": "create",
+    "document": {
+      "id": "deepfrog",
+      "title": "Deepfrog",
+      "intro": "A deep learning NLP suite (PoS,lemmatiser,NER) with FoLiA XML support",
+      "publishedAt": "2020-02-08",
+      "media": {},
+      "tabs": {
+        "overview": {},
+        "learn": {},
+        "mentions": {},
+        "metadata": {}
+      },
+      "properties": {
+        "programmingLanguages": [
+          {
+            "title": "Rust",
+            "link": null
+          }
+        ],
+        "problemContact": [
+          {
+            "title": "Issue tracker",
+            "link": "https://github.com/proycon/deepfrog/issues"
+          }
+        ],
+        "informationTypes": [],
+        "access": [
+          {
+            "title": "Open Access",
+            "link": "https://github.com/proycon/deepfrog/"
+          }
+        ],
+        "sourceCodeLocation": [
+          {
+            "title": "github.com",
+            "link": "https://github.com/proycon/deepfrog/"
+          }
+        ],
+        "researchContact": [],
+        "generalContact": [
+          {
+            "title": "Maarten\u00a0van Gompel",
+            "link": "mailto:proycon@anaproy.nl"
+          }
+        ],
+        "resourceTypes": [
+          "Tools"
+        ],
+        "status": [
+          "Suspended"
+        ],
+        "versions": [
+          {
+            "title": "0.2.1",
+            "url": ""
+          }
+        ],
+        "standards": [],
+        "resourceOwner": [
+          {
+            "title": "KNAW Humanities Cluster & CLST, Radboud University",
+            "link": ""
+          }
+        ],
+        "link": "https://github.com/proycon/deepfrog/",
+        "intro": "A deep learning NLP suite (PoS,lemmatiser,NER) with FoLiA XML support",
+        "provenance": [],
+        "community": [
+          {
+            "title": "Issue tracker",
+            "link": "https://github.com/proycon/deepfrog/issues"
+          }
+        ],
+        "development": [
+          {
+            "title": "Maarten van Gompel, KNAW Humanities Cluster & CLST, Radboud University",
+            "link": "https://proycon.anaproy.nl"
+          }
+        ]
+      }
+    }
+  }
+]

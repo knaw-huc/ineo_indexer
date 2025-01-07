@@ -1,0 +1,96 @@
+[
+  {
+    "operation": "create",
+    "document": {
+      "id": "ticcltools",
+      "title": "TICCLTools",
+      "intro": "TicclTools is a collection of programs to process datafiles, together they constitute the bulk of TICCL: Text Induced Corpus-Cleanup. This software consists of individual modules that are invoked by the pipeline system PICCL.",
+      "publishedAt": "2015",
+      "media": {},
+      "tabs": {
+        "overview": {},
+        "learn": {},
+        "mentions": {},
+        "metadata": {}
+      },
+      "properties": {
+        "programmingLanguages": [
+          {
+            "title": "C++",
+            "link": null
+          }
+        ],
+        "funding": [
+          {
+            "title": "",
+            "link": ""
+          }
+        ],
+        "problemContact": [
+          {
+            "title": "Issue tracker",
+            "link": "https://github.com/LanguageMachines/ticcltools/issues"
+          }
+        ],
+        "informationTypes": [],
+        "access": [
+          {
+            "title": "Open Access",
+            "link": "https://github.com/languagemachines/ticcltools"
+          }
+        ],
+        "sourceCodeLocation": [
+          {
+            "title": "github.com",
+            "link": "https://github.com/languagemachines/ticcltools"
+          }
+        ],
+        "researchContact": [],
+        "generalContact": [
+          {
+            "title": "Martin\u00a0Reynaert",
+            "link": "mailto:reynaert@uvt.nl"
+          }
+        ],
+        "resourceTypes": [
+          "Tools"
+        ],
+        "status": [
+          "Unsupported"
+        ],
+        "versions": [
+          {
+            "title": "0.10",
+            "url": ""
+          }
+        ],
+        "standards": [],
+        "resourceOwner": [
+          {
+            "title": "Centre for Language and Speech Technology",
+            "link": "https://www.ru.nl/clst"
+          }
+        ],
+        "link": "https://github.com/languagemachines/ticcltools",
+        "intro": "TicclTools is a collection of programs to process datafiles, together they constitute the bulk of TICCL: Text Induced Corpus-Cleanup. This software consists of individual modules that are invoked by the pipeline system PICCL.",
+        "provenance": [],
+        "community": [
+          {
+            "title": "Issue tracker",
+            "link": "https://github.com/LanguageMachines/ticcltools/issues"
+          }
+        ],
+        "development": [
+          {
+            "title": "Martin Reynaert, Centre for Language and Speech Technology",
+            "link": ""
+          },
+          {
+            "title": "Ko van der Sloot, Centre for Language and Speech Technology",
+            "link": ""
+          }
+        ]
+      }
+    }
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "operation": "create",
+    "document": {
+      "id": "analiticcl",
+      "title": "Analiticcl",
+      "intro": "Analiticcl is an approximate string matching or fuzzy-matching system that can be used to find variants for spelling correction or text normalisation",
+      "publishedAt": "2021-04-13",
+      "media": {},
+      "tabs": {
+        "overview": {},
+        "learn": {},
+        "mentions": {},
+        "metadata": {}
+      },
+      "properties": {
+        "programmingLanguages": [
+          {
+            "title": "Rust",
+            "link": null
+          }
+        ],
+        "problemContact": [
+          {
+            "title": "Issue tracker",
+            "link": "https://github.com/proycon/analiticcl/issues"
+          }
+        ],
+        "informationTypes": [],
+        "access": [
+          {
+            "title": "Open Access",
+            "link": "https://github.com/proycon/analiticcl"
+          }
+        ],
+        "sourceCodeLocation": [
+          {
+            "title": "github.com",
+            "link": "https://github.com/proycon/analiticcl"
+          }
+        ],
+        "researchContact": [],
+        "generalContact": [
+          {
+            "title": "Maarten\u00a0van Gompel",
+            "link": "mailto:proycon@anaproy.nl"
+          }
+        ],
+        "resourceTypes": [
+          "Tools"
+        ],
+        "status": [
+          "Active"
+        ],
+        "versions": [
+          {
+            "title": "0.4.6",
+            "url": ""
+          }
+        ],
+        "standards": [],
+        "resourceOwner": [
+          {
+            "title": "KNAW Humanities Cluster & CLST, Radboud University",
+            "link": ""
+          }
+        ],
+        "link": "https://github.com/proycon/analiticcl",
+        "intro": "Analiticcl is an approximate string matching or fuzzy-matching system that can be used to find variants for spelling correction or text normalisation",
+        "provenance": [],
+        "community": [
+          {
+            "title": "Issue tracker",
+            "link": "https://github.com/proycon/analiticcl/issues"
+          }
+        ],
+        "development": [
+          {
+            "title": "Maarten van Gompel, KNAW Humanities Cluster & CLST, Radboud University",
+            "link": "https://proycon.anaproy.nl"
+          }
+        ]
+      }
+    }
+  }
+]

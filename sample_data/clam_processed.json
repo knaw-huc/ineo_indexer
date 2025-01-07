@@ -1,0 +1,104 @@
+[
+  {
+    "operation": "create",
+    "document": {
+      "id": "clam",
+      "title": "CLAM",
+      "intro": "Quickly turn command-line applications into RESTful webservices with a web-application front-end. You provide a specification of your command line application, its input, output and parameters, and CLAM wraps around your application to form a fully fledged RESTful webservice.",
+      "publishedAt": "2010-03-21",
+      "media": {},
+      "tabs": {
+        "overview": {
+          "body": "### Overview\n * CLAM expects a description of your system and wraps itself around the system, allowing end-users or automated clients to upload input files to your application, start your application with specific parameters of their choice, and download and view the output of the application once it is completed.\n* CLAM is set up in a universal fashion, requiring minimal effort on the part of the service developer. Your actual application is treated as a black box, of which only the parameters, input formats and output formats need to be described. Your application itself needs not be network aware in any way, nor aware of CLAM, and the handling and validation of input can be taken care of by CLAM.\n* CLAM is entirely written in Python and runs on UNIX-derived systems. A Python API is provided, but knowledge of Python is not necessary to use CLAM. CLAM communicates using a transparent XML format, and uses XSL transformation offers a full web 2.0 web-interface for human end users.\n* CLAM is free software; you can redistribute it and/or modify it under the terms of the [GNU General Public License](https://www.gnu.org/licenses/gpl-3.0.html) as published by the [Free Software Foundation](https://www.fsf.org/).\n* CLAM is written by Maarten van Gompel, Centre of Language Studies, Radboud University Nijmegen."
+        },
+        "learn": {
+          "body": "### Documentation\n\nPlease consult the [CLAM Documentation](https://clam.readthedocs.io/en/stable/) for extensive documentation.\n\n### Support\n\nCheck back often as updates are released regularly for CLAM. These can be easily installed through the Python Package Index or directly from Github. Bug reports, feature requests and requests for assistance can be submitted through [Github](https://github.com/proycon/clam/issues?q=is%3Aopen), the mailing list, or by mailing to [proycon@anaproy.nl](mailto:proycon@anaproy.nl).\n\nA public roadmap of planned features for the future, as well as bug reports about existing features, can be found on the [CLAM Issue Tracker](https://github.com/proycon/clam/issues?q=is%3Aopen). Feel free to add any problems or feature requests if you have a (free) github account!\n\nCLAM support is funded by the [NWO CLARIN-NL](https://www.clarin.nl/) programme and its successor [CLARIAH](https://www.clariah.nl/).\n\n### Download and installation\n\nCLAM is maintained at the [Python Package Index](https://pypi.org/project/CLAM/). It is available for Linux and other UNIX-like distributions and is intended for users who want to build a webservice around their own tool, want to write a client for existing CLAM webservices, or are system administrators setting up existing CLAM services.\n\nTo automatically download and install CLAM from the Python Package Index, the convenient tool ``pip`` is available, it may be called ``pip3`` if you want to use Python 3 (recommended):\n\n```\n$ pip3 install clam\n```\n\nWe recommend the use of a Python Virtual Environment\n\nThe source code is also available through the source code repository at [Github](https://github.com/proycon/clam).\n\nPlease consult the [CLAM Documentation](https://clam.readthedocs.io/en/stable/) for further instructions, including installation details. After reading the documentation, it is recommended to watch the CLAM tutorial videos at the bottom of this page.\n\n### Architecture\n\n![CLAM's architecture](https://github.com/CLARIAH/ineo-content/blob/master/media/clam_architecture.png?raw=1)\n\nCLAM has a layered architecture, with at the core the NLP application(s) you want to turn into a webservice. The application itself can remain untouched and unaware of CLAM. The scheme on the right illustrates the various layers.\n\nRead more in the CLAM Manual and also see the [CLAM poster](https://proycon.github.io/clam/clam_poster.png) presented at CLIN 21.\n\n### Instruction videos\n\nInstruction videos\nMake sure to watch the latest tutorial video first:\n\n[![IMAGE ALT TEXT](http://img.youtube.com/vi/GyRvaO6omEo/0.jpg)](http://www.youtube.com/watch?v=GyRvaO6omEo \"CLAM tutorial\")\n\n**Tutorial (September 2015)** - This tutorial shows everything you need to get started, it shows how to make a webservice for a simple command-line tool\n\nThe below instruction videos are older (2011), but still useful:\n\n[![IMAGE ALT TEXT](http://img.youtube.com/vi/T9B3wKLLXYo/0.jpg)](http://www.youtube.com/watch?v=T9B3wKLLXYo \"CLAM tutorial\")\n\n**Part I** - In this first video we will create a simple webservice around an ad-hoc NLP application.\n\n[![IMAGE ALT TEXT](http://img.youtube.com/vi/jLQN_X8sinA/0.jpg)](http://www.youtube.com/watch?v=jLQN_X8sinA \"CLAM tutorial\")\n\n**Part II** - We will expand the webservice we created in the first video.\n\n[![IMAGE ALT TEXT](http://img.youtube.com/vi/ydbAUJPowrQ/0.jpg)](http://www.youtube.com/watch?v=ydbAUJPowrQ \"CLAM tutorial\")\n\n**Part III** - We will take a deeper look into the metadata and parameter abilities of CLAM.\n\n[![IMAGE ALT TEXT](http://img.youtube.com/vi/guvtndqjVds/0.jpg)](http://www.youtube.com/watch?v=guvtndqjVds \"CLAM tutorial\")\n\n**Part IV** - In this video we will see how to write a client in Python to connect to the webservice we created earlier. We will use the CLAM Client API."
+        },
+        "mentions": {
+          "body": "### Credits and Contact Information\n\nCLAM is written by Maarten van Gompel, Centre of Language Studies, Radboud University Nijmegen.\n\nCLAM support is funded by the NWO CLARIN-NL programme and its successor CLARIAH.\n\n### Webpages\n\n* [CLAM mainpage](https://github.com/proycon/clam/)\n* [CLAM documentation](https://clam.readthedocs.io/en/stable/)\n* [CLAM GitHub page](https://github.com/proycon/clam/)\n* [CLAM Python Package](https://pypi.org/project/CLAM/)\n\n### Poster presentation\n\nMaarten van Gompel, Martin Reynaert & Antal van den Bosch (2011, February). [*CLAM: Computational Linguistics Application Mediator*.](https://proycon.github.io/clam/clam_poster.png) [Poster presentation]. CLIN 21, Tilburg."
+        },
+        "metadata": {}
+      },
+      "properties": {
+        "programmingLanguages": [
+          {
+            "title": "python",
+            "link": null
+          }
+        ],
+        "learn": [
+          {
+            "title": "CLAM Documentation",
+            "link": "https://clam.readthedocs.io"
+          }
+        ],
+        "funding": [
+          {
+            "title": "CLAM",
+            "link": "https://proycon.github.io/clam"
+          }
+        ],
+        "problemContact": [
+          {
+            "title": "Issue tracker",
+            "link": "https://github.com/proycon/clam/issues"
+          }
+        ],
+        "informationTypes": [],
+        "access": [
+          {
+            "title": "Open Access",
+            "link": "https://github.com/proycon/clam"
+          }
+        ],
+        "sourceCodeLocation": [
+          {
+            "title": "github.com",
+            "link": "https://github.com/proycon/clam"
+          }
+        ],
+        "researchContact": [],
+        "generalContact": [
+          {
+            "title": "Maarten\u00a0van Gompel",
+            "link": "mailto:proycon@anaproy.nl"
+          }
+        ],
+        "resourceTypes": [
+          "Tools"
+        ],
+        "status": [
+          "Active"
+        ],
+        "versions": [
+          {
+            "title": "3.2.10",
+            "url": ""
+          }
+        ],
+        "standards": [],
+        "resourceOwner": [
+          {
+            "title": "",
+            "link": ""
+          }
+        ],
+        "link": "https://github.com/proycon/clam",
+        "intro": "Quickly turn command-line applications into RESTful webservices with a web-application front-end. You provide a specification of your command line application, its input, output and parameters, and CLAM wraps around your application to form a fully fledged RESTful webservice.",
+        "provenance": [],
+        "community": [
+          {
+            "title": "Issue tracker",
+            "link": "https://github.com/proycon/clam/issues"
+          }
+        ],
+        "development": [
+          {
+            "title": "Maarten van Gompel, Centre for Language and Speech Technology",
+            "link": "https://orcid.org/0000-0002-1046-0006"
+          }
+        ]
+      }
+    }
+  }
+]

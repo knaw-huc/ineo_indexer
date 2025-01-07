@@ -1,0 +1,72 @@
+[
+  {
+    "operation": "create",
+    "document": {
+      "id": "http_58__47__47_hdl.handle.net_47_10032_47_3564ec9e4c0a4581b1c30fccbeac3dd0",
+      "title": "Paco-MT Parallelle Corpora",
+      "intro": "A number of existing parallel corpora (with the languages French, English, Dutch) were enriched with syntactic annotations and node alignments. The annotations were generated automatically. of the CoLing Workshop: Multiword Expressions: From Theory to Applications (MWE 2010) Een aantal bestaande parallelle corpora (met de talen Frans, Engels, Nederlands) zijn verrijkt met syntactische annotaties en node alignments. De annotaties werden automatisch gegenereerd Sentence alignment.",
+      "publishedAt": [],
+      "media": {
+        "thumbnail": [],
+        "slider": []
+      },
+      "tabs": {
+        "overview": {},
+        "learn": {},
+        "mentions": {},
+        "metadata": {}
+      },
+      "properties": {
+        "programmingLanguages": [],
+        "learn": [],
+        "resourceHost": null,
+        "funding": [],
+        "problemContact": [],
+        "informationTypes": null,
+        "languages": [
+          "Dutch",
+          "French",
+          "English"
+        ],
+        "access": [
+          {
+            "title": "Available for non-commercial use.",
+            "link": ""
+          }
+        ],
+        "sourceCodeLocation": [],
+        "researchContact": [],
+        "generalContact": [],
+        "resourceTypes": [
+          "Data"
+        ],
+        "status": null,
+        "versions": [],
+        "standards": [],
+        "resourceOwner": [
+          {
+            "title": "Dutch Language Union",
+            "link": "null"
+          }
+        ],
+        "link": "http://hdl.handle.net/10032/tm-a2-f7",
+        "intro": "A number of existing parallel corpora (with the languages French, English, Dutch) were enriched with syntactic annotations and node alignments. The annotations were generated automatically. of the CoLing Workshop: Multiword Expressions: From Theory to Applications (MWE 2010) Een aantal bestaande parallelle corpora (met de talen Frans, Engels, Nederlands) zijn verrijkt met syntactische annotaties en node alignments. De annotaties werden automatisch gegenereerd Sentence alignment.",
+        "researchActivities": [],
+        "researchDomains": null,
+        "mediaTypes": null,
+        "provenance": [],
+        "community": [],
+        "development": [
+          {
+            "title": "Scott Martens",
+            "link": "null"
+          },
+          {
+            "title": "Vincent Vandeghinste",
+            "link": "null"
+          }
+        ]
+      }
+    }
+  }
+]

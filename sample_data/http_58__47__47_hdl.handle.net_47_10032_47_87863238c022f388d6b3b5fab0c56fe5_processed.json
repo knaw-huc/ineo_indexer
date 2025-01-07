@@ -1,0 +1,62 @@
+[
+  {
+    "operation": "create",
+    "document": {
+      "id": "http_58__47__47_hdl.handle.net_47_10032_47_87863238c022f388d6b3b5fab0c56fe5",
+      "title": "SoNaR: STEVIN Nederlandstalig Referentiecorpus",
+      "intro": "The SoNaR Corpus is a large corpus of written Dutch. The corpus consists of two datasets, viz. SoNaR-500 and SoNaR-1. SONAR-500 contains over 500 million words (i.e. word tokens) of full texts from a wide variety of text types. SONAR-500 does not contain new medi... With SoNaR-1 different types of semantic annotation have been provided, viz. named entity labelling, annotation of co-reference relations, semantic role labelling and annotation of spatial and temporal relations.",
+      "publishedAt": [],
+      "media": {
+        "thumbnail": [],
+        "slider": []
+      },
+      "tabs": {
+        "overview": {},
+        "learn": {},
+        "mentions": {},
+        "metadata": {}
+      },
+      "properties": {
+        "programmingLanguages": [],
+        "learn": [],
+        "resourceHost": null,
+        "funding": [],
+        "problemContact": [],
+        "informationTypes": null,
+        "languages": [
+          "Dutch",
+          "English"
+        ],
+        "access": [
+          {
+            "title": "available for non-commercial organisations; user licence required; ",
+            "link": ""
+          }
+        ],
+        "sourceCodeLocation": [],
+        "researchContact": [],
+        "generalContact": [],
+        "resourceTypes": [
+          "Data"
+        ],
+        "status": null,
+        "versions": [],
+        "standards": [],
+        "resourceOwner": [
+          {
+            "title": "Dutch Language Union",
+            "link": "null"
+          }
+        ],
+        "link": "http://hdl.handle.net/10032/tm-a2-h5",
+        "intro": "The SoNaR Corpus is a large corpus of written Dutch. The corpus consists of two datasets, viz. SoNaR-500 and SoNaR-1. SONAR-500 contains over 500 million words (i.e. word tokens) of full texts from a wide variety of text types. SONAR-500 does not contain new medi... With SoNaR-1 different types of semantic annotation have been provided, viz. named entity labelling, annotation of co-reference relations, semantic role labelling and annotation of spatial and temporal relations.",
+        "researchActivities": [],
+        "researchDomains": null,
+        "mediaTypes": null,
+        "provenance": [],
+        "community": [],
+        "development": null
+      }
+    }
+  }
+]

@@ -1,0 +1,61 @@
+[
+  {
+    "operation": "create",
+    "document": {
+      "id": "http_58__47__47_hdl.handle.net_47_10032_47_6a63ca219d40273fe998f92245799cb1",
+      "title": "Frequentielijsten Corpora",
+      "intro": "The product Frequency Lists Corpora contains the 5000 most frequent words from the Million Words Corpora, the PAROLE Corpus 2004, the Spoken Dutch Corpus (Corpus Gesproken Nederlands), the General Dutch Dictionary Corpus (Algemeen Nederlands Woordenboekcorpus), the Eindhoven Corpus and ...",
+      "publishedAt": [],
+      "media": {
+        "thumbnail": [],
+        "slider": []
+      },
+      "tabs": {
+        "overview": {},
+        "learn": {},
+        "mentions": {},
+        "metadata": {}
+      },
+      "properties": {
+        "programmingLanguages": [],
+        "learn": [],
+        "resourceHost": null,
+        "funding": [],
+        "problemContact": [],
+        "informationTypes": null,
+        "languages": [
+          "Dutch"
+        ],
+        "access": [
+          {
+            "title": "available for academic use and commercial use; no user licence required ",
+            "link": ""
+          }
+        ],
+        "sourceCodeLocation": [],
+        "researchContact": [],
+        "generalContact": [],
+        "resourceTypes": [
+          "Data"
+        ],
+        "status": null,
+        "versions": [],
+        "standards": [],
+        "resourceOwner": [
+          {
+            "title": "Dutch Language Union",
+            "link": "null"
+          }
+        ],
+        "link": "http://hdl.handle.net/10032/tm-a2-f8",
+        "intro": "The product Frequency Lists Corpora contains the 5000 most frequent words from the Million Words Corpora, the PAROLE Corpus 2004, the Spoken Dutch Corpus (Corpus Gesproken Nederlands), the General Dutch Dictionary Corpus (Algemeen Nederlands Woordenboekcorpus), the Eindhoven Corpus and ...",
+        "researchActivities": [],
+        "researchDomains": null,
+        "mediaTypes": null,
+        "provenance": [],
+        "community": [],
+        "development": null
+      }
+    }
+  }
+]

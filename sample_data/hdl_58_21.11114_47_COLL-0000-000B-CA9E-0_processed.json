@@ -1,0 +1,62 @@
+[
+  {
+    "operation": "create",
+    "document": {
+      "id": "hdl_58_21.11114_47_COLL-0000-000B-CA9E-0",
+      "title": "PanderMaatSanders",
+      "intro": "The PanderMaatSanders subcorpus was compiled for a study of the causal connectives 'daardoor', 'daarom' and 'dus' in Dutch news. It consists of 100 cases from a Dutch newspaper (de Volkskrant 1994 and 1995). The DiscAn corpus is a collection of subcorpora of Dutch language that have bee... The PanderMaatSanders subcorpus was compiled for a study of the causal connectives 'daardoor', 'daarom' and 'dus' in Dutch news. It consists of 100 cases from a Dutch newspaper (de Volkskrant 1994 and 1995).",
+      "publishedAt": [],
+      "media": {
+        "thumbnail": [],
+        "slider": []
+      },
+      "tabs": {
+        "overview": {},
+        "learn": {},
+        "mentions": {},
+        "metadata": {}
+      },
+      "properties": {
+        "programmingLanguages": [],
+        "learn": [],
+        "resourceHost": null,
+        "funding": [],
+        "problemContact": [],
+        "informationTypes": null,
+        "languages": [
+          "Dutch",
+          "English"
+        ],
+        "access": [
+          {
+            "title": "UNSPECIFIED",
+            "link": ""
+          }
+        ],
+        "sourceCodeLocation": [],
+        "researchContact": [],
+        "generalContact": [],
+        "resourceTypes": [
+          "Data"
+        ],
+        "status": null,
+        "versions": [],
+        "standards": [],
+        "resourceOwner": [
+          {
+            "title": "The Language Archive",
+            "link": "null"
+          }
+        ],
+        "link": "https://hdl.handle.net/1839/00-56657635-3608-495D-9F4A-1F3F9EA58108@view",
+        "intro": "The PanderMaatSanders subcorpus was compiled for a study of the causal connectives 'daardoor', 'daarom' and 'dus' in Dutch news. It consists of 100 cases from a Dutch newspaper (de Volkskrant 1994 and 1995). The DiscAn corpus is a collection of subcorpora of Dutch language that have bee... The PanderMaatSanders subcorpus was compiled for a study of the causal connectives 'daardoor', 'daarom' and 'dus' in Dutch news. It consists of 100 cases from a Dutch newspaper (de Volkskrant 1994 and 1995).",
+        "researchActivities": [],
+        "researchDomains": null,
+        "mediaTypes": null,
+        "provenance": [],
+        "community": [],
+        "development": null
+      }
+    }
+  }
+]

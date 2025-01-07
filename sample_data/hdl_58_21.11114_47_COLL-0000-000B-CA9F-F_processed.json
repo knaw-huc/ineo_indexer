@@ -1,0 +1,62 @@
+[
+  {
+    "operation": "create",
+    "document": {
+      "id": "hdl_58_21.11114_47_COLL-0000-000B-CA9F-F",
+      "title": "Pit",
+      "intro": "The Pit narrdow and totadow subcorpora were compiled for a study of the causal connectives \"aangezien\", \"doordat\", \"omdat\" and \"want\" in Dutch, German and French narratives and news. The narrdow subcorpus consists of cases from 22 Dutch novels published between 1990 and 1996. The totado... Pit totadow: newspaper articles The Pit narrdow subcorpus. Fiction texts.",
+      "publishedAt": [],
+      "media": {
+        "thumbnail": [],
+        "slider": []
+      },
+      "tabs": {
+        "overview": {},
+        "learn": {},
+        "mentions": {},
+        "metadata": {}
+      },
+      "properties": {
+        "programmingLanguages": [],
+        "learn": [],
+        "resourceHost": null,
+        "funding": [],
+        "problemContact": [],
+        "informationTypes": null,
+        "languages": [
+          "Dutch",
+          "English"
+        ],
+        "access": [
+          {
+            "title": "Restricted for individual",
+            "link": ""
+          }
+        ],
+        "sourceCodeLocation": [],
+        "researchContact": [],
+        "generalContact": [],
+        "resourceTypes": [
+          "Data"
+        ],
+        "status": null,
+        "versions": [],
+        "standards": [],
+        "resourceOwner": [
+          {
+            "title": "The Language Archive",
+            "link": "null"
+          }
+        ],
+        "link": "https://hdl.handle.net/1839/00-90C17E44-FFE2-4919-B55B-45A1F25DB69F@view",
+        "intro": "The Pit narrdow and totadow subcorpora were compiled for a study of the causal connectives \"aangezien\", \"doordat\", \"omdat\" and \"want\" in Dutch, German and French narratives and news. The narrdow subcorpus consists of cases from 22 Dutch novels published between 1990 and 1996. The totado... Pit totadow: newspaper articles The Pit narrdow subcorpus. Fiction texts.",
+        "researchActivities": [],
+        "researchDomains": null,
+        "mediaTypes": null,
+        "provenance": [],
+        "community": [],
+        "development": null
+      }
+    }
+  }
+]

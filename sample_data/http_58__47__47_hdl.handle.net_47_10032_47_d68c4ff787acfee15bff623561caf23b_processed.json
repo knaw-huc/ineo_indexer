@@ -1,0 +1,88 @@
+[
+  {
+    "operation": "create",
+    "document": {
+      "id": "http_58__47__47_hdl.handle.net_47_10032_47_d68c4ff787acfee15bff623561caf23b",
+      "title": "DPC-corpus: Dutch Parallel Corpus(non-commercial)",
+      "intro": "The non-commercial version of the Dutch Parallel Corpus is a 10-million-word, high-quality, sentence-aligned parallel corpus for the language pairs Dutch-English and Dutch-French, with Dutch as the central language. A part of the corpus is trilingual. Demo available at http://dpc.inl.nl... Cahiers de l'Institut de Linguistique de Louvain, CILL, Louvain-La-Neuve, 32.1-4, 269-285 Meta, 56 (2), 374-390 DPC contains the language pairs Dutch-English and Dutch-French, with Dutch as the central language. A part of the corpus is trilingual. Sentence alignment. Ten percent of the sentence aligned data was checked manually. For more than 25,000 words of the Dutch-English part of the corpus, manual alignments at the sub-sentential level were created.",
+      "publishedAt": [],
+      "media": {
+        "thumbnail": [],
+        "slider": []
+      },
+      "tabs": {
+        "overview": {},
+        "learn": {},
+        "mentions": {},
+        "metadata": {}
+      },
+      "properties": {
+        "programmingLanguages": [],
+        "learn": [],
+        "resourceHost": null,
+        "funding": [],
+        "problemContact": [],
+        "informationTypes": null,
+        "languages": [
+          "Dutch",
+          "French",
+          "English"
+        ],
+        "access": [
+          {
+            "title": "available for non-commercial organisations; user licence required; free demo available at http://dpc.inl.nl/indexd.php\n\t\t\t\t",
+            "link": ""
+          }
+        ],
+        "sourceCodeLocation": [],
+        "researchContact": [],
+        "generalContact": [],
+        "resourceTypes": [
+          "Data"
+        ],
+        "status": null,
+        "versions": [],
+        "standards": [],
+        "resourceOwner": [
+          {
+            "title": "Dutch Language Union",
+            "link": "null"
+          }
+        ],
+        "link": "http://hdl.handle.net/10032/tm-a2-h3",
+        "intro": "The non-commercial version of the Dutch Parallel Corpus is a 10-million-word, high-quality, sentence-aligned parallel corpus for the language pairs Dutch-English and Dutch-French, with Dutch as the central language. A part of the corpus is trilingual. Demo available at http://dpc.inl.nl... Cahiers de l'Institut de Linguistique de Louvain, CILL, Louvain-La-Neuve, 32.1-4, 269-285 Meta, 56 (2), 374-390 DPC contains the language pairs Dutch-English and Dutch-French, with Dutch as the central language. A part of the corpus is trilingual. Sentence alignment. Ten percent of the sentence aligned data was checked manually. For more than 25,000 words of the Dutch-English part of the corpus, manual alignments at the sub-sentential level were created.",
+        "researchActivities": [],
+        "researchDomains": null,
+        "mediaTypes": null,
+        "provenance": [],
+        "community": [],
+        "development": [
+          {
+            "title": "H. Paulussen",
+            "link": "null"
+          },
+          {
+            "title": "L. Macken",
+            "link": "null"
+          },
+          {
+            "title": "J. Truskina",
+            "link": "null"
+          },
+          {
+            "title": "P. Desmet",
+            "link": "null"
+          },
+          {
+            "title": "W. Vandeweghe",
+            "link": "null"
+          },
+          {
+            "title": "O. De Clercq",
+            "link": "null"
+          }
+        ]
+      }
+    }
+  }
+]

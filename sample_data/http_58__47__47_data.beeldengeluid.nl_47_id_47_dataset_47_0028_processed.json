@@ -1,0 +1,61 @@
+[
+  {
+    "operation": "create",
+    "document": {
+      "id": "http_58__47__47_data.beeldengeluid.nl_47_id_47_dataset_47_0028",
+      "title": "Muziekopnamen Zendgemachtigden",
+      "intro": "Selection from the Sound & Vision open data catalog that is registered under the series Music recordings broadcasting agents (MOZ). This selection can be queried from the contentUrl using this query: https://cat.apis.beeldengeluid.nl/sparql?query=PREFIX%20sdo%3A%20%3Chttps%3A//schema.or... Original concert and studio recordings made by public broadcasters. Integral recordings across many genres.",
+      "publishedAt": [],
+      "media": {
+        "thumbnail": [],
+        "slider": []
+      },
+      "tabs": {
+        "overview": {},
+        "learn": {},
+        "mentions": {},
+        "metadata": {}
+      },
+      "properties": {
+        "programmingLanguages": [],
+        "learn": [],
+        "resourceHost": [
+          {
+            "title": "https://zoeken.beeldengeluid.nl",
+            "link": "https://zoeken.beeldengeluid.nl"
+          }
+        ],
+        "funding": [],
+        "problemContact": [],
+        "informationTypes": null,
+        "languages": null,
+        "access": [
+          {
+            "title": "UNSPECIFIED",
+            "link": "http://rightsstatements.org/vocab/UND/1.0/"
+          }
+        ],
+        "sourceCodeLocation": [],
+        "researchContact": [],
+        "generalContact": [],
+        "resourceTypes": [
+          "Data"
+        ],
+        "status": null,
+        "versions": [],
+        "standards": [],
+        "resourceOwner": null,
+        "link": "https://zoeken.beeldengeluid.nl/series/urn:vme:default:series:2101608030025711131",
+        "intro": "Selection from the Sound & Vision open data catalog that is registered under the series Music recordings broadcasting agents (MOZ). This selection can be queried from the contentUrl using this query: https://cat.apis.beeldengeluid.nl/sparql?query=PREFIX%20sdo%3A%20%3Chttps%3A//schema.or... Original concert and studio recordings made by public broadcasters. Integral recordings across many genres.",
+        "researchActivities": [],
+        "researchDomains": null,
+        "mediaTypes": [
+          "1 application"
+        ],
+        "provenance": [],
+        "community": [],
+        "development": null
+      }
+    }
+  }
+]

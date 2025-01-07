@@ -1,0 +1,74 @@
+[
+  {
+    "operation": "create",
+    "document": {
+      "id": "opendutchwordnet",
+      "title": "OpenDutchWordnet",
+      "intro": "This repo provides a python module to work with Open Dutch WordNet.  It was created using python 3.4.",
+      "publishedAt": "2015-09-01",
+      "media": {},
+      "tabs": {
+        "overview": {},
+        "learn": {},
+        "mentions": {},
+        "metadata": {}
+      },
+      "properties": {
+        "learn": [
+          {
+            "title": "",
+            "link": "https://github.com/MartenPostma/OpenDutchWordnet/raw/master/odwn_documentation.pdf"
+          }
+        ],
+        "problemContact": [
+          {
+            "title": "Issue tracker",
+            "link": "https://github.com/cltl/OpenDutchWordnet/issues"
+          }
+        ],
+        "informationTypes": [],
+        "access": [
+          {
+            "title": "Open Access",
+            "link": "https://github.com/cltl/OpenDutchWordnet"
+          }
+        ],
+        "sourceCodeLocation": [
+          {
+            "title": "github.com",
+            "link": "https://github.com/cltl/OpenDutchWordnet"
+          }
+        ],
+        "researchContact": [],
+        "resourceTypes": [
+          "Tools"
+        ],
+        "status": [
+          "Suspended"
+        ],
+        "versions": [
+          {
+            "title": "",
+            "url": ""
+          }
+        ],
+        "standards": [],
+        "resourceOwner": [
+          {
+            "title": "Computational Linguistics and & Text Mining Lab",
+            "link": "http://www.cltl.nl/"
+          }
+        ],
+        "link": "https://github.com/cltl/OpenDutchWordnet",
+        "intro": "This repo provides a python module to work with Open Dutch WordNet.  It was created using python 3.4.",
+        "provenance": [],
+        "community": [
+          {
+            "title": "Issue tracker",
+            "link": "https://github.com/cltl/OpenDutchWordnet/issues"
+          }
+        ]
+      }
+    }
+  }
+]

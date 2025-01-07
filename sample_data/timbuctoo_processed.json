@@ -1,0 +1,124 @@
+[
+  {
+    "operation": "create",
+    "document": {
+      "id": "timbuctoo",
+      "title": "Timbuctoo",
+      "intro": "An RDF datastore that gives researchers control over the sharing of data between datasets",
+      "publishedAt": "2012-08-15",
+      "media": {},
+      "tabs": {
+        "overview": {},
+        "learn": {},
+        "mentions": {},
+        "metadata": {}
+      },
+      "properties": {
+        "programmingLanguages": [
+          {
+            "title": "Java",
+            "link": null
+          }
+        ],
+        "learn": [
+          {
+            "title": "",
+            "link": "https://github.com/HuygensING/timbuctoo/blob/master/documentation/timbuctoo-graphql-api-guide.adoc[this"
+          }
+        ],
+        "problemContact": [
+          {
+            "title": "Issue tracker",
+            "link": "https://github.com/HuygensING/timbuctoo/issues"
+          }
+        ],
+        "informationTypes": [],
+        "access": [
+          {
+            "title": "Open Access",
+            "link": "https://github.com/HuygensING/timbuctoo"
+          }
+        ],
+        "sourceCodeLocation": [
+          {
+            "title": "github.com",
+            "link": "https://github.com/HuygensING/timbuctoo"
+          }
+        ],
+        "researchContact": [],
+        "generalContact": [
+          {
+            "title": "Ronald\u00a0Haentjens Dekker",
+            "link": ""
+          }
+        ],
+        "resourceTypes": [
+          "Tools"
+        ],
+        "status": [
+          "Active"
+        ],
+        "versions": [
+          {
+            "title": "7.15",
+            "url": ""
+          }
+        ],
+        "standards": [],
+        "resourceOwner": [
+          {
+            "title": "Huygens ING",
+            "link": "https://www.huygens.knaw.nl/"
+          }
+        ],
+        "link": "https://github.com/HuygensING/timbuctoo",
+        "intro": "An RDF datastore that gives researchers control over the sharing of data between datasets",
+        "provenance": [],
+        "community": [
+          {
+            "title": "Issue tracker",
+            "link": "https://github.com/HuygensING/timbuctoo/issues"
+          }
+        ],
+        "development": [
+          {
+            "title": "Ronald Haentjens Dekker",
+            "link": ""
+          },
+          {
+            "title": "Pratham Joshi",
+            "link": ""
+          },
+          {
+            "title": "Meindert Kroese",
+            "link": ""
+          },
+          {
+            "title": "Martijn Maas",
+            "link": ""
+          },
+          {
+            "title": "Kerim Meijer",
+            "link": ""
+          },
+          {
+            "title": "Jauco Noordzij",
+            "link": ""
+          },
+          {
+            "title": "Walter Ravenek",
+            "link": ""
+          },
+          {
+            "title": "Henk van den Berg",
+            "link": ""
+          },
+          {
+            "title": "Ren\u00e9 van der Ark",
+            "link": ""
+          }
+        ]
+      }
+    }
+  }
+]

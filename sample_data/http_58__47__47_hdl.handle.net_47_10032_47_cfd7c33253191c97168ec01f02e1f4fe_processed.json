@@ -1,0 +1,61 @@
+[
+  {
+    "operation": "create",
+    "document": {
+      "id": "http_58__47__47_hdl.handle.net_47_10032_47_cfd7c33253191c97168ec01f02e1f4fe",
+      "title": "MNW",
+      "intro": "The Dictionary of Middle Dutch (MNW) describes the Medieval Dutch vocabulary from the period 1250 to 1550. The dictionary of Middle Dutch (MNW) online is the electronic version of the MNW. The dictionary describes the Medieval Dutch vocabulary from the period 1250 to 1550. Modern Dutch Lemma Middle Dutch Lemma",
+      "publishedAt": [],
+      "media": {
+        "thumbnail": [],
+        "slider": []
+      },
+      "tabs": {
+        "overview": {},
+        "learn": {},
+        "mentions": {},
+        "metadata": {}
+      },
+      "properties": {
+        "programmingLanguages": [],
+        "learn": [],
+        "resourceHost": null,
+        "funding": [],
+        "problemContact": [],
+        "informationTypes": null,
+        "languages": [
+          "Middle Dutch"
+        ],
+        "access": [
+          {
+            "title": "free for academic use; \n                    non applicable for commercial parties",
+            "link": ""
+          }
+        ],
+        "sourceCodeLocation": [],
+        "researchContact": [],
+        "generalContact": [],
+        "resourceTypes": [
+          "Data"
+        ],
+        "status": null,
+        "versions": [],
+        "standards": [],
+        "resourceOwner": [
+          {
+            "title": "Dutch Language Institute (Instituut voor de Nederlandse Taal, INT)",
+            "link": "null"
+          }
+        ],
+        "link": "http://hdl.handle.net/10032/tm-a2-g8",
+        "intro": "The Dictionary of Middle Dutch (MNW) describes the Medieval Dutch vocabulary from the period 1250 to 1550. The dictionary of Middle Dutch (MNW) online is the electronic version of the MNW. The dictionary describes the Medieval Dutch vocabulary from the period 1250 to 1550. Modern Dutch Lemma Middle Dutch Lemma",
+        "researchActivities": [],
+        "researchDomains": null,
+        "mediaTypes": null,
+        "provenance": [],
+        "community": [],
+        "development": null
+      }
+    }
+  }
+]

@@ -1,0 +1,61 @@
+[
+  {
+    "operation": "create",
+    "document": {
+      "id": "hdl_58_21.11114_47_COLL-0000-000F-7A18-E",
+      "title": "Purepecha Dataset 2",
+      "intro": "Dataset on Purepecha in the form of 14 hours of audio material and texts, collected in Michoac\u00e1n, Mexico. Elicitation test children in Michoac\u00e1n have to do for school. -",
+      "publishedAt": [],
+      "media": {
+        "thumbnail": [],
+        "slider": []
+      },
+      "tabs": {
+        "overview": {},
+        "learn": {},
+        "mentions": {},
+        "metadata": {}
+      },
+      "properties": {
+        "programmingLanguages": [],
+        "learn": [],
+        "resourceHost": [
+          {
+            "title": "http://leiland.lucdh.nl",
+            "link": "http://leiland.lucdh.nl"
+          }
+        ],
+        "funding": [],
+        "problemContact": [],
+        "informationTypes": null,
+        "languages": [
+          "Western Highland Purepecha"
+        ],
+        "access": [
+          {
+            "title": "UNSPECIFIED",
+            "link": ""
+          }
+        ],
+        "sourceCodeLocation": [],
+        "researchContact": [],
+        "generalContact": [],
+        "resourceTypes": [
+          "Data"
+        ],
+        "status": null,
+        "versions": [],
+        "standards": [],
+        "resourceOwner": null,
+        "link": "http://leiland.lucdh.nl",
+        "intro": "Dataset on Purepecha in the form of 14 hours of audio material and texts, collected in Michoac\u00e1n, Mexico. Elicitation test children in Michoac\u00e1n have to do for school. -",
+        "researchActivities": [],
+        "researchDomains": null,
+        "mediaTypes": null,
+        "provenance": [],
+        "community": [],
+        "development": null
+      }
+    }
+  }
+]

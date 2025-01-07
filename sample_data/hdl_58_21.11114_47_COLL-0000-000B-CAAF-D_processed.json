@@ -1,0 +1,68 @@
+[
+  {
+    "operation": "create",
+    "document": {
+      "id": "hdl_58_21.11114_47_COLL-0000-000B-CAAF-D",
+      "title": "HEBREW TEXT DATABASE ETCBC4",
+      "intro": "The ETCBC database of the Hebrew Bible (formerly known as WIVU database), contains the scholarly text of the Hebrew Bible with linguistic markup.",
+      "publishedAt": [],
+      "media": {
+        "thumbnail": [],
+        "slider": []
+      },
+      "tabs": {
+        "overview": {},
+        "learn": {},
+        "mentions": {},
+        "metadata": {}
+      },
+      "properties": {
+        "programmingLanguages": [],
+        "learn": [],
+        "resourceHost": [
+          {
+            "title": "https://doi.org",
+            "link": "https://doi.org"
+          }
+        ],
+        "funding": [],
+        "problemContact": [],
+        "informationTypes": null,
+        "languages": [
+          "Hebrew",
+          "Official Aramaic; Imperial Aramaic",
+          "English"
+        ],
+        "access": [
+          {
+            "title": "Restricted for individual",
+            "link": ""
+          }
+        ],
+        "sourceCodeLocation": [],
+        "researchContact": [],
+        "generalContact": [],
+        "resourceTypes": [
+          "Data"
+        ],
+        "status": null,
+        "versions": [],
+        "standards": [],
+        "resourceOwner": [
+          {
+            "title": "unknown",
+            "link": "null"
+          }
+        ],
+        "link": "https://doi.org/10.17026/dans-2z3-arxf",
+        "intro": "The ETCBC database of the Hebrew Bible (formerly known as WIVU database), contains the scholarly text of the Hebrew Bible with linguistic markup.",
+        "researchActivities": [],
+        "researchDomains": null,
+        "mediaTypes": null,
+        "provenance": [],
+        "community": [],
+        "development": null
+      }
+    }
+  }
+]

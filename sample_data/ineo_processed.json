@@ -1,0 +1,43 @@
+[
+  {
+    "operation": "create",
+    "document": {
+      "id": "ineo",
+      "title": "ineo",
+      "media": {},
+      "tabs": {
+        "overview": {},
+        "learn": {},
+        "mentions": {},
+        "metadata": {}
+      },
+      "properties": {
+        "informationTypes": [],
+        "sourceCodeLocation": [
+          {
+            "title": "",
+            "link": ""
+          }
+        ],
+        "researchContact": [],
+        "resourceTypes": [
+          "Tools"
+        ],
+        "versions": [
+          {
+            "title": "",
+            "url": ""
+          }
+        ],
+        "standards": [],
+        "resourceOwner": [
+          {
+            "title": "",
+            "link": ""
+          }
+        ],
+        "provenance": []
+      }
+    }
+  }
+]

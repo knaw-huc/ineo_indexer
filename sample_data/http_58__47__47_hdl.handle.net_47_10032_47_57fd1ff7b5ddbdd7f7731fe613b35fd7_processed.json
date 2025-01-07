@@ -1,0 +1,62 @@
+[
+    {
+        "operation": "create",
+        "document": {
+            "id": "http_58__47__47_hdl.handle.net_47_10032_47_57fd1ff7b5ddbdd7f7731fe613b35fd7",
+            "title": "AUTONOMATA POI Corpus",
+            "intro": "The AUTONOMATA POI Corpus is a database containing ca. 800 read-aloud Points-of-Interest (POIs) from The Netherlands and Belgium, containing names of restaurants, hotels, camp sites, bars et cetera. The corpus contains recordings of 80 speakers with various native languages, a total of ... Dutch as spoken by native and non-native speakers Not all documentation is available in both languages. This annotation is a manually created broad phonetic transcription (phonemic transcription) including syllable boundaries and stressmarkers.",
+            "publishedAt": [],
+            "media": {
+                "thumbnail": [],
+                "slider": []
+            },
+            "tabs": {
+                "overview": {},
+                "learn": {},
+                "mentions": {},
+                "metadata": {}
+            },
+            "properties": {
+                "programmingLanguages": [],
+                "learn": [],
+                "resourceHost": null,
+                "funding": [],
+                "problemContact": [],
+                "informationTypes": null,
+                "languages": [
+                    "Dutch",
+                    "English"
+                ],
+                "access": [
+                    {
+                        "title": "available for non-commercial use by non-commercial organisations; user license required\n\t\t\t\t",
+                        "link": ""
+                    }
+                ],
+                "sourceCodeLocation": [],
+                "researchContact": [],
+                "generalContact": [],
+                "resourceTypes": [
+                    "Data"
+                ],
+                "status": null,
+                "versions": [],
+                "standards": [],
+                "resourceOwner": [
+                    {
+                        "title": "Dutch Language Union",
+                        "link": "null"
+                    }
+                ],
+                "link": "http://hdl.handle.net/10032/tm-a2-n7",
+                "intro": "The AUTONOMATA POI Corpus is a database containing ca. 800 read-aloud Points-of-Interest (POIs) from The Netherlands and Belgium, containing names of restaurants, hotels, camp sites, bars et cetera. The corpus contains recordings of 80 speakers with various native languages, a total of ... Dutch as spoken by native and non-native speakers Not all documentation is available in both languages. This annotation is a manually created broad phonetic transcription (phonemic transcription) including syllable boundaries and stressmarkers.",
+                "researchActivities": [],
+                "researchDomains": [],
+                "mediaTypes": null,
+                "provenance": [],
+                "community": [],
+                "development": null
+            }
+        }
+    }
+]

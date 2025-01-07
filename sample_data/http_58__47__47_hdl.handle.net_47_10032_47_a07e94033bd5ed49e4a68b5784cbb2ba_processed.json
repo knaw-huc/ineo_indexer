@@ -1,0 +1,62 @@
+[
+  {
+    "operation": "create",
+    "document": {
+      "id": "http_58__47__47_hdl.handle.net_47_10032_47_a07e94033bd5ed49e4a68b5784cbb2ba",
+      "title": "Basiscript Corpus",
+      "intro": "The Basiscript Corpus contains 9 million written words produced by pupils in Dutch elementary school. The corpus contains longitudinal data collected over 3 consecutive years (fall 2012 till spring 2015). Basiscript Corpus has been designed for comparison of educative diversity (types o... BasiScript is een corpus met 9 miljoen woorden geschreven tekst geproduceerd door leerlingen van de Nederlandse basisschool. Het corpus bevat longitudinale data verzameld over drie achtereenvolgende jaren (najaar 2012 - voorjaar 2015). BasiScript Corpus is ontworpen om zowel de educatie... Part of Speech Frequency",
+      "publishedAt": [],
+      "media": {
+        "thumbnail": [],
+        "slider": []
+      },
+      "tabs": {
+        "overview": {},
+        "learn": {},
+        "mentions": {},
+        "metadata": {}
+      },
+      "properties": {
+        "programmingLanguages": [],
+        "learn": [],
+        "resourceHost": null,
+        "funding": [],
+        "problemContact": [],
+        "informationTypes": null,
+        "languages": [
+          "Dutch",
+          "English"
+        ],
+        "access": [
+          {
+            "title": "available for commercial and non-commercial organisations; user licence required; ",
+            "link": ""
+          }
+        ],
+        "sourceCodeLocation": [],
+        "researchContact": [],
+        "generalContact": [],
+        "resourceTypes": [
+          "Data"
+        ],
+        "status": null,
+        "versions": [],
+        "standards": [],
+        "resourceOwner": [
+          {
+            "title": "Radboud University, Nijmegen",
+            "link": "null"
+          }
+        ],
+        "link": "http://hdl.handle.net/10032/tm-a2-p2",
+        "intro": "The Basiscript Corpus contains 9 million written words produced by pupils in Dutch elementary school. The corpus contains longitudinal data collected over 3 consecutive years (fall 2012 till spring 2015). Basiscript Corpus has been designed for comparison of educative diversity (types o... BasiScript is een corpus met 9 miljoen woorden geschreven tekst geproduceerd door leerlingen van de Nederlandse basisschool. Het corpus bevat longitudinale data verzameld over drie achtereenvolgende jaren (najaar 2012 - voorjaar 2015). BasiScript Corpus is ontworpen om zowel de educatie... Part of Speech Frequency",
+        "researchActivities": [],
+        "researchDomains": null,
+        "mediaTypes": null,
+        "provenance": [],
+        "community": [],
+        "development": null
+      }
+    }
+  }
+]

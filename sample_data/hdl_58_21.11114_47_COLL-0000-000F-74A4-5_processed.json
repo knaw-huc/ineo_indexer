@@ -1,0 +1,61 @@
+[
+    {
+        "operation": "create",
+        "document": {
+            "id": "hdl_58_21.11114_47_COLL-0000-000F-74A4-5",
+            "title": "Oral History. Anna Maria Bruzzone Archive - Ravensbr\u00fcck series. Int...",
+            "intro": "Anna Maria Bruzzone Archive - Ravensbr\u00fcck series. Interview with Livia Borsi Rossi. The spoken variety is the Regional Ligurian Italian. The spoken variety is the Regional Piedmontese Italian. time aligned transcript",
+            "publishedAt": [],
+            "media": {
+                "thumbnail": [],
+                "slider": []
+            },
+            "tabs": {
+                "overview": {},
+                "learn": {},
+                "mentions": {},
+                "metadata": {}
+            },
+            "properties": {
+                "programmingLanguages": [],
+                "learn": [],
+                "resourceHost": null,
+                "funding": [],
+                "problemContact": [],
+                "informationTypes": null,
+                "languages": null,
+                "access": [
+                    {
+                        "title": "To be determined",
+                        "link": ""
+                    }
+                ],
+                "sourceCodeLocation": [],
+                "researchContact": [],
+                "generalContact": [],
+                "resourceTypes": [
+                    "Data"
+                ],
+                "status": null,
+                "versions": [],
+                "standards": [],
+                "resourceOwner": [
+                    {
+                        "title": "Universit\u00e0 degli Studi di Siena, Archivio Storico dell'Ospedale Neuropsichiatrico di Arezzo, Arezzo (AR), Italy",
+                        "link": "null"
+                    }
+                ],
+                "link": "hdl:21.11114/COLL-0000-000F-74A4-5",
+                "intro": "Anna Maria Bruzzone Archive - Ravensbr\u00fcck series. Interview with Livia Borsi Rossi. The spoken variety is the Regional Ligurian Italian. The spoken variety is the Regional Piedmontese Italian. time aligned transcript",
+                "researchActivities": [],
+                "researchDomains": [],
+                "mediaTypes": [
+                    "1 application"
+                ],
+                "provenance": [],
+                "community": [],
+                "development": null
+            }
+        }
+    }
+]

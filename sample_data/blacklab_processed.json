@@ -1,0 +1,96 @@
+[
+  {
+    "operation": "create",
+    "document": {
+      "id": "blacklab",
+      "title": "BlackLab Corpus Search",
+      "intro": "[BlackLab](https://inl.github.io/BlackLab/) is a corpus search engine built on top of [Apache Lucene](https://lucene.apache.org/). It supports token-based querying and querying (dependency) relations.",
+      "publishedAt": "2012-10-04",
+      "media": {},
+      "tabs": {
+        "overview": {
+          "body": "### Overview\n * BlackLab was designed primarily for linguists, but is also used for other purposes, like historical research and knowledge extraction.\n\n* It is available as a REST API (web service), so you can use it from any programming language.\n\n* BlackLab's features include:\n  * Index annotated text, so you can search for specific headwords or parts of speech.\n  * Easy to use, well-documented REST API.\n  * Fast and scalable: find complex patterns in large corpora in seconds.\n  * Index your data using a built-in format or by writing a configuration file.\n  * Search for complex patterns using the powerful [BlackLab Corpus Query Language](https://inl.github.io/BlackLab/guide/corpus-query-language.html).\n  * Search within spans to e.g. find named entities containing tower at the end of a sentence.\n  * Search (dependency) relations, to find specific (tree) structures in your text. (NEW in v4)\n  * Capture parts of matches.\n  * Group and sort result sets on many criteria, such as the text preceding the match.\n  * Highlight hits in a document and keyword-in-context (KWIC) view of hits.\n  * Actively developed since 2010, with many [plans for the future](https://inl.github.io/BlackLab/guide/future-plans.html)."
+        },
+        "learn": {
+          "body": "### Try it online\nFor a quick example of the BlackLab Frontend web application, have a look at either of these:\n\n* [Brieven als Buit](https://brievenalsbuit.ivdnt.org/corpus-frontend/BaB/search/) (\"Letters as Loot\"), where you can search a collection of historical letters to and from sailors from the 17th to the 19th century;\n* [Corpus Gysseling](https://corpusgysseling.ivdnt.org/corpus-frontend/Gysseling/search/), a small corpus of historic Dutch (1200-1300).\n\nWith a [free CLARIN account](https://idm.clarin.eu/unitygw/pub#!registration-CLARIN%20Identity%20Registration), you can also check out:\n\n* [Corpus Hedendaags Nederlands](https://chn.ivdnt.org/);\n* [OpenSonar](https://opensonar.ivdnt.org/).\n\nHere are a few searches you can try (click on the Extended tab):\n\n* **Lemma: \"koe\"** Finds all forms of the word \"koe\" (cow). Other words to try: \"wet\" (law), \"zien\" (to see), \"groot\" (large).\n* **Part of speech: \"NOU-C\"** Find all common nouns. Other values to try: \"VRB*\" (verbs), \"ADJ*\" (adjectives).\n* **Word: \"coe\"** Find a specific historic spelling of \"koe\".\n\nThis is just a small sample of the capabilities of BlackLab.\n\n### Documentation\n\nIf you're excited about the possibilities and want to get BlackLab up and running yourself, we kindly refer to the [BlackLab Guide](https://inl.github.io/BlackLab/guide/getting-started.html).\n\n### BlackLab Corpus Query Language (BCQL)\n\nBlackLab Corpus Query Language or BCQL is a powerful query language for text corpora. A guide to speaking BCQL can be found [here](https://inl.github.io/BlackLab/guide/corpus-query-language.html)."
+        },
+        "mentions": {
+          "body": "### Corpora using BlackLab (selection)\n\n* [Brieven als Buit](https://brievenalsbuit.ivdnt.org/corpus-frontend/BaB/search/)\n* [Corpus Gysseling](https://corpusgysseling.ivdnt.org/corpus-frontend/Gysseling/search/)\n* [Corpus Hedendaags Nederlands](https://chn.ivdnt.org/)\n* [OpenSonar](https://www.ineo.tools/resources/OpenSoNaR)\n\n### Webpages\n\n* GitHub repositories: [BlackLab Server and Core](https://github.com/INL/BlackLab) and [BlackLab Frontend](https://github.com/INL/corpus-frontend)\n* [Release history](https://inl.github.io/BlackLab/development/changelog.html)\n\n### Credits and Contact Information\n\nBlackLab was developed at the [Dutch Language Institute (INT)](https://ivdnt.org/) to provide a fast and feature-rich search interface on our historical and contemporary text corpora. It was released as open source (Apache License 2.0) in 2012 and has since gathered a number of users and contributors. It is still in active development.\n\nFor technical questions, contact [Jan Niestadt](mailto:jan.niestadt@ivdnt.org).\n\nFollow [@BlackLab_IvdNT](https://twitter.com/BlackLab_IvdNT) on Twitter (very low activity)."
+        },
+        "metadata": {}
+      },
+      "properties": {
+        "programmingLanguages": [
+          {
+            "title": "Java",
+            "link": null
+          }
+        ],
+        "problemContact": [
+          {
+            "title": "Issue tracker",
+            "link": "https://github.com/INL/BlackLab/issues"
+          }
+        ],
+        "informationTypes": [],
+        "access": [
+          {
+            "title": "Open Access",
+            "link": "https://github.com/INL/BlackLab"
+          }
+        ],
+        "sourceCodeLocation": [
+          {
+            "title": "github.com",
+            "link": "https://github.com/INL/BlackLab"
+          }
+        ],
+        "researchContact": [],
+        "generalContact": [
+          {
+            "title": "Jan\u00a0Niestadt",
+            "link": "mailto:jan.niestadt@ivdnt.org"
+          }
+        ],
+        "resourceTypes": [
+          "Tools"
+        ],
+        "status": [
+          "Active"
+        ],
+        "versions": [
+          {
+            "title": "3.0.1",
+            "url": ""
+          }
+        ],
+        "standards": [],
+        "resourceOwner": [
+          {
+            "title": "Instituut voor Nederlandse Taal (INT)",
+            "link": "https://www.ivdnt.org/"
+          }
+        ],
+        "link": "https://github.com/INL/BlackLab",
+        "intro": "The parent project for BlackLab Core and BlackLab Server.",
+        "provenance": [],
+        "community": [
+          {
+            "title": "Issue tracker",
+            "link": "https://github.com/INL/BlackLab/issues"
+          }
+        ],
+        "development": [
+          {
+            "title": "Jan Niestadt",
+            "link": "https://github.com/jan-niestadt"
+          },
+          {
+            "title": "Koen Mertens",
+            "link": "https://github.com/KCMertens"
+          }
+        ]
+      }
+    }
+  }
+]

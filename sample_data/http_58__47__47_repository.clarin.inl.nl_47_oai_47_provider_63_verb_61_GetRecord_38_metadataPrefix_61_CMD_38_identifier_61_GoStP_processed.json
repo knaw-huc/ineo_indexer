@@ -1,0 +1,64 @@
+[
+    {
+        "operation": "create",
+        "document": {
+            "id": "http_58__47__47_repository.clarin.inl.nl_47_oai_47_provider_63_verb_61_GetRecord_38_metadataPrefix_61_CMD_38_identifier_61_GoStP",
+            "title": "Gold Standard Parallel Corpus of Sign and spoken Language",
+            "intro": "The Gost-ParC-Sign is a multimodal corpus of VGT as source and a translation into written Dutch as target language. All VGT material included in this corpus consists of already existing VGT videos which were produced by authentic VGT signers for a signing audience. Therefore, they are a... Documentation in English GoSt-ParC-Sign is een multimodaal corpus van VGT met een vertaling in geschreven Nederlands als doeltaal. Alle VGT materiaal in dit corpus bestaat uit reeds bestaande video's die werden gemaakt door oorspronkelijke VGT sprekers voor een VGT publiek. Om die reden komt het zo dichtbij son... Original texts of the reviews Written Dutch transcription of Signed language in VGT",
+            "publishedAt": [],
+            "media": {
+                "thumbnail": [],
+                "slider": []
+            },
+            "tabs": {
+                "overview": {},
+                "learn": {},
+                "mentions": {},
+                "metadata": {}
+            },
+            "properties": {
+                "programmingLanguages": [],
+                "learn": [],
+                "resourceHost": null,
+                "funding": [],
+                "problemContact": [],
+                "informationTypes": null,
+                "languages": [
+                    "Dutch",
+                    "Vlaamse Gebarentaal"
+                ],
+                "access": [
+                    {
+                        "title": "Public",
+                        "link": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+                    }
+                ],
+                "sourceCodeLocation": [],
+                "researchContact": [],
+                "generalContact": [],
+                "resourceTypes": [
+                    "Data"
+                ],
+                "status": null,
+                "versions": [],
+                "standards": [],
+                "resourceOwner": [
+                    {
+                        "title": "INT",
+                        "link": "null"
+                    }
+                ],
+                "link": "http://hdl.handle.net/10032/tm-a2-x9",
+                "intro": "The Gost-ParC-Sign is a multimodal corpus of VGT as source and a translation into written Dutch as target language. All VGT material included in this corpus consists of already existing VGT videos which were produced by authentic VGT signers for a signing audience. Therefore, they are a... Documentation in English GoSt-ParC-Sign is een multimodaal corpus van VGT met een vertaling in geschreven Nederlands als doeltaal. Alle VGT materiaal in dit corpus bestaat uit reeds bestaande video's die werden gemaakt door oorspronkelijke VGT sprekers voor een VGT publiek. Om die reden komt het zo dichtbij son... Original texts of the reviews Written Dutch transcription of Signed language in VGT",
+                "researchActivities": [],
+                "researchDomains": [
+                    "https://w3id.org/nwo-research-fields#TranslationStudies"
+                ],
+                "mediaTypes": null,
+                "provenance": [],
+                "community": [],
+                "development": null
+            }
+        }
+    }
+]

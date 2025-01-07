@@ -1,0 +1,66 @@
+[
+  {
+    "operation": "create",
+    "document": {
+      "id": "hdl_58_21.11114_47_COLL-0000-0011-BD3E-4",
+      "title": "Internisten Zwolle",
+      "intro": "This is a collection of transcriptions of interviews in the medical domain. All interviews are in Dutch. These interviews are between medical specialists and patients, and are collected and hosted at Nivel, Utrecht (https://www.nivel.nl/en). The interviews were transcribed in the contex... Media file name: VIDEO800_801_011_1.m2p, Media quality: Medium Media file name: VIDEO800_801_020_1.m2p, Media quality: Medium Media file name: VIDEO800_801_047_1.m2p, Media quality: Bad Media file name: VIDEO800_802_002_1.m2p, Media quality: Medium Media file name: VIDEO800_802_004_1.m2p, Media quality: Medium Media file name: VIDEO800_802_005_1.m2p, Media quality: Medium Media file name: VIDEO800_802_009_1.m2p, Media quality: Medium Media file name: VIDEO800_803_003_1.m2p, Media quality: Medium Media file name: VIDEO800_803_007_4.m2p, Media quality: Medium Media file name: VIDEO800_803_009_1.m2p, Media quality: Medium Media file name: VIDEO800_803_018_1.m2p, Media quality: Medium Media file name: VIDEO800_803_027_5.m2p, Media quality: Medium",
+      "publishedAt": [],
+      "media": {
+        "thumbnail": [],
+        "slider": []
+      },
+      "tabs": {
+        "overview": {},
+        "learn": {},
+        "mentions": {},
+        "metadata": {}
+      },
+      "properties": {
+        "programmingLanguages": [],
+        "learn": [],
+        "resourceHost": [
+          {
+            "title": "https://homed.ruhosting.nl",
+            "link": "https://homed.ruhosting.nl"
+          }
+        ],
+        "funding": [],
+        "problemContact": [],
+        "informationTypes": null,
+        "languages": [
+          "Dutch"
+        ],
+        "access": [
+          {
+            "title": "Restricted for individual",
+            "link": ""
+          }
+        ],
+        "sourceCodeLocation": [],
+        "researchContact": [],
+        "generalContact": [],
+        "resourceTypes": [
+          "Data"
+        ],
+        "status": null,
+        "versions": [],
+        "standards": [],
+        "resourceOwner": [
+          {
+            "title": "Nivel",
+            "link": "null"
+          }
+        ],
+        "link": "https://homed.ruhosting.nl/",
+        "intro": "This is a collection of transcriptions of interviews in the medical domain. All interviews are in Dutch. These interviews are between medical specialists and patients, and are collected and hosted at Nivel, Utrecht (https://www.nivel.nl/en). The interviews were transcribed in the contex... Media file name: VIDEO800_801_011_1.m2p, Media quality: Medium Media file name: VIDEO800_801_020_1.m2p, Media quality: Medium Media file name: VIDEO800_801_047_1.m2p, Media quality: Bad Media file name: VIDEO800_802_002_1.m2p, Media quality: Medium Media file name: VIDEO800_802_004_1.m2p, Media quality: Medium Media file name: VIDEO800_802_005_1.m2p, Media quality: Medium Media file name: VIDEO800_802_009_1.m2p, Media quality: Medium Media file name: VIDEO800_803_003_1.m2p, Media quality: Medium Media file name: VIDEO800_803_007_4.m2p, Media quality: Medium Media file name: VIDEO800_803_009_1.m2p, Media quality: Medium Media file name: VIDEO800_803_018_1.m2p, Media quality: Medium Media file name: VIDEO800_803_027_5.m2p, Media quality: Medium",
+        "researchActivities": [],
+        "researchDomains": null,
+        "mediaTypes": null,
+        "provenance": [],
+        "community": [],
+        "development": null
+      }
+    }
+  }
+]

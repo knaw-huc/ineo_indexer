@@ -1,0 +1,102 @@
+[
+  {
+    "operation": "create",
+    "document": {
+      "id": "dataset-register",
+      "title": "Dataset Register",
+      "intro": "Live index of heritage datasets",
+      "publishedAt": "2020-12-14",
+      "media": {},
+      "tabs": {
+        "overview": {},
+        "learn": {},
+        "mentions": {},
+        "metadata": {}
+      },
+      "properties": {
+        "programmingLanguages": [
+          {
+            "title": "TypeScript",
+            "link": null
+          }
+        ],
+        "learn": [
+          {
+            "title": "",
+            "link": "https://datasetregister.netwerkdigitaalerfgoed.nl/?lang=en"
+          }
+        ],
+        "funding": [
+          {
+            "title": " Ministerie van Onderwijs, Cultuur en Wetenschap",
+            "link": " https://www.rijksoverheid.nl/ministeries/ministerie-van-onderwijs-cultuur-en-wetenschap"
+          }
+        ],
+        "problemContact": [
+          {
+            "title": "Issue tracker",
+            "link": "https://github.com/netwerk-digitaal-erfgoed/dataset-register/issues"
+          }
+        ],
+        "informationTypes": [],
+        "access": [
+          {
+            "title": "Open Access",
+            "link": "https://github.com/netwerk-digitaal-erfgoed/dataset-register"
+          }
+        ],
+        "sourceCodeLocation": [
+          {
+            "title": "github.com",
+            "link": "https://github.com/netwerk-digitaal-erfgoed/dataset-register"
+          }
+        ],
+        "researchContact": [],
+        "generalContact": [
+          {
+            "title": "David\u00a0de Boer",
+            "link": "mailto:david@ddeboer.nl"
+          }
+        ],
+        "resourceTypes": [
+          "Tools"
+        ],
+        "status": [
+          "Active"
+        ],
+        "versions": [
+          {
+            "title": "",
+            "url": ""
+          }
+        ],
+        "standards": [],
+        "resourceOwner": [
+          {
+            "title": "Netwerk Digitaal Erfgoed",
+            "link": "https://www.netwerkdigitaalerfgoed.nl"
+          }
+        ],
+        "link": "https://github.com/netwerk-digitaal-erfgoed/dataset-register",
+        "intro": "Live index of heritage datasets",
+        "provenance": [],
+        "community": [
+          {
+            "title": "Issue tracker",
+            "link": "https://github.com/netwerk-digitaal-erfgoed/dataset-register/issues"
+          }
+        ],
+        "development": [
+          {
+            "title": "David de Boer",
+            "link": ""
+          },
+          {
+            "title": "Bob Coret",
+            "link": ""
+          }
+        ]
+      }
+    }
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "operation": "create",
+    "document": {
+      "id": "hdl_58_21.11114_47_COLL-0000-000B-CAD5-1",
+      "title": "VU-DNC",
+      "intro": "VU-DNC is a unique diachronic corpus of Dutch newspaper articles from five major Dutch newspapers from 1950/1951 and 2002 (2 MW). The VU-DNC has beete between the words directly under responsibility of the journalist.n annotated for quotations, which enables the researcher to differenti... This is the part with newspaper articles from the years 1950-1951 This is the part with newspaper articles from the year 2002",
+      "publishedAt": [],
+      "media": {
+        "thumbnail": [],
+        "slider": []
+      },
+      "tabs": {
+        "overview": {},
+        "learn": {},
+        "mentions": {},
+        "metadata": {}
+      },
+      "properties": {
+        "programmingLanguages": [],
+        "learn": [],
+        "resourceHost": [
+          {
+            "title": "http://portal.clarin.nl",
+            "link": "http://portal.clarin.nl"
+          }
+        ],
+        "funding": [],
+        "problemContact": [],
+        "informationTypes": null,
+        "languages": [
+          "Dutch",
+          "English"
+        ],
+        "access": [
+          {
+            "title": "Restricted for individual",
+            "link": ""
+          }
+        ],
+        "sourceCodeLocation": [],
+        "researchContact": [],
+        "generalContact": [],
+        "resourceTypes": [
+          "Data"
+        ],
+        "status": null,
+        "versions": [],
+        "standards": [],
+        "resourceOwner": [
+          {
+            "title": "VU University AmsterdamProf. W. Spooren",
+            "link": "null"
+          }
+        ],
+        "link": "http://portal.clarin.nl/node/4194",
+        "intro": "VU-DNC is a unique diachronic corpus of Dutch newspaper articles from five major Dutch newspapers from 1950/1951 and 2002 (2 MW). The VU-DNC has beete between the words directly under responsibility of the journalist.n annotated for quotations, which enables the researcher to differenti... This is the part with newspaper articles from the years 1950-1951 This is the part with newspaper articles from the year 2002",
+        "researchActivities": [],
+        "researchDomains": null,
+        "mediaTypes": null,
+        "provenance": [],
+        "community": [],
+        "development": null
+      }
+    }
+  }
+]

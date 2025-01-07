@@ -1,0 +1,92 @@
+[
+  {
+    "operation": "create",
+    "document": {
+      "id": "foliadocserve",
+      "title": "Foliadocserve",
+      "intro": "The FoLiA Document Server is a backend HTTP service to interact with documents in the FoLiA format, a rich XML-based format for linguistic annotation (http://proycon.github.io/folia). It provides an interface to efficiently edit FoLiA documents through the FoLiA Query Language (FQL).",
+      "publishedAt": "2015-02-12",
+      "media": {},
+      "tabs": {
+        "overview": {},
+        "learn": {},
+        "mentions": {},
+        "metadata": {}
+      },
+      "properties": {
+        "programmingLanguages": [
+          {
+            "title": "Python",
+            "link": null
+          }
+        ],
+        "learn": [
+          {
+            "title": "Page not found \u2013 Sketch Engine",
+            "link": "http://www.sketchengine.co.uk/documentation/wiki/SkE/CorpusQuerying"
+          }
+        ],
+        "problemContact": [
+          {
+            "title": "Issue tracker",
+            "link": "https://github.com/proycon/foliadocserve/issues"
+          }
+        ],
+        "informationTypes": [],
+        "access": [
+          {
+            "title": "Open Access",
+            "link": "https://github.com/proycon/foliadocserve"
+          }
+        ],
+        "sourceCodeLocation": [
+          {
+            "title": "github.com",
+            "link": "https://github.com/proycon/foliadocserve"
+          }
+        ],
+        "researchContact": [],
+        "generalContact": [
+          {
+            "title": "Maarten\u00a0van Gompel",
+            "link": "mailto:proycon@anaproy.nl"
+          }
+        ],
+        "resourceTypes": [
+          "Tools"
+        ],
+        "status": [
+          "Active"
+        ],
+        "versions": [
+          {
+            "title": "0.7.8",
+            "url": ""
+          }
+        ],
+        "standards": [],
+        "resourceOwner": [
+          {
+            "title": "KNAW Humanities Cluster & CLST, Radboud University",
+            "link": ""
+          }
+        ],
+        "link": "https://github.com/proycon/foliadocserve",
+        "intro": "The FoLiA Document Server is a backend HTTP service to interact with documents in the FoLiA format, a rich XML-based format for linguistic annotation (http://proycon.github.io/folia). It provides an interface to efficiently edit FoLiA documents through the FoLiA Query Language (FQL).",
+        "provenance": [],
+        "community": [
+          {
+            "title": "Issue tracker",
+            "link": "https://github.com/proycon/foliadocserve/issues"
+          }
+        ],
+        "development": [
+          {
+            "title": "Maarten van Gompel, KNAW Humanities Cluster & CLST, Radboud University",
+            "link": "https://proycon.anaproy.nl"
+          }
+        ]
+      }
+    }
+  }
+]

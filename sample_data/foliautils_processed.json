@@ -1,0 +1,93 @@
+[
+  {
+    "operation": "create",
+    "document": {
+      "id": "foliautils",
+      "title": "Foliautils",
+      "intro": "Command-line utilities for working with the Format for Linguistic Annotation (FoLiA).",
+      "media": {},
+      "tabs": {
+        "overview": {},
+        "learn": {},
+        "mentions": {},
+        "metadata": {}
+      },
+      "properties": {
+        "programmingLanguages": [
+          {
+            "title": "C++",
+            "link": null
+          }
+        ],
+        "problemContact": [
+          {
+            "title": "Issue tracker",
+            "link": "https://github.com/LanguageMachines/foliautils/issues"
+          }
+        ],
+        "informationTypes": [],
+        "access": [
+          {
+            "title": "Open Access",
+            "link": "https://github.com/languagemachines/foliautils"
+          }
+        ],
+        "sourceCodeLocation": [
+          {
+            "title": "github.com",
+            "link": "https://github.com/languagemachines/foliautils"
+          }
+        ],
+        "researchContact": [],
+        "generalContact": [
+          {
+            "title": "Maarten\u00a0van Gompel",
+            "link": "mailto:proycon@anaproy.nl"
+          },
+          {
+            "title": "Ko\u00a0van der Sloot",
+            "link": "mailto:Ko.vanderSloot@ziggo.nl"
+          }
+        ],
+        "resourceTypes": [
+          "Tools"
+        ],
+        "status": [
+          "Active"
+        ],
+        "versions": [
+          {
+            "title": "0.22",
+            "url": ""
+          }
+        ],
+        "standards": [],
+        "resourceOwner": [
+          {
+            "title": "Centre for Language and Speech Technology",
+            "link": "https://www.ru.nl/clst"
+          }
+        ],
+        "link": "https://github.com/languagemachines/foliautils",
+        "intro": "Command-line utilities for working with the Format for Linguistic Annotation (FoLiA).",
+        "provenance": [],
+        "community": [
+          {
+            "title": "Issue tracker",
+            "link": "https://github.com/LanguageMachines/foliautils/issues"
+          }
+        ],
+        "development": [
+          {
+            "title": "Ko van der Sloot, Centre for Language and Speech Technology",
+            "link": ""
+          },
+          {
+            "title": "Maarten van Gompel, Centre for Language and Speech Technology",
+            "link": "https://orcid.org/0000-0002-1046-0006"
+          }
+        ]
+      }
+    }
+  }
+]

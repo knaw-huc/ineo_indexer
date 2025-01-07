@@ -1,0 +1,67 @@
+[
+  {
+    "operation": "create",
+    "document": {
+      "id": "hdl_58_21.11114_47_COLL-0000-000B-CAB2-8",
+      "title": "IFA Dialog Video corpus",
+      "intro": "The IFA Dialog Video corpus is a collection of annotated video recordings of friendly Face-to-Face dialogs. It is modelled on the Face-to-Face dialogs in the Spoken Dutch Corpus (CGN). The procedures and design of the corpus were adapted to make this corpus useful for other researchers ... IFA video corpus. The IFA Dialog Video corpus is a collection of annotated video recordings of friendly Face-to-Face dialogs. It is modelled on the Face-to-Face dialogs in the Spoken Dutch Corpus (CGN). The procedures and design of the corpus were adapted to make this corpus useful for ...",
+      "publishedAt": [],
+      "media": {
+        "thumbnail": [],
+        "slider": []
+      },
+      "tabs": {
+        "overview": {},
+        "learn": {},
+        "mentions": {},
+        "metadata": {}
+      },
+      "properties": {
+        "programmingLanguages": [],
+        "learn": [],
+        "resourceHost": [
+          {
+            "title": "http://www.fon.hum.uva.nl",
+            "link": "http://www.fon.hum.uva.nl"
+          }
+        ],
+        "funding": [],
+        "problemContact": [],
+        "informationTypes": null,
+        "languages": [
+          "Dutch",
+          "English"
+        ],
+        "access": [
+          {
+            "title": "Public",
+            "link": ""
+          }
+        ],
+        "sourceCodeLocation": [],
+        "researchContact": [],
+        "generalContact": [],
+        "resourceTypes": [
+          "Data"
+        ],
+        "status": null,
+        "versions": [],
+        "standards": [],
+        "resourceOwner": [
+          {
+            "title": "the Dutch Language Union",
+            "link": "null"
+          }
+        ],
+        "link": "http://www.fon.hum.uva.nl/IFA-SpokenLanguageCorpora/IFADVcorpus/",
+        "intro": "The IFA Dialog Video corpus is a collection of annotated video recordings of friendly Face-to-Face dialogs. It is modelled on the Face-to-Face dialogs in the Spoken Dutch Corpus (CGN). The procedures and design of the corpus were adapted to make this corpus useful for other researchers ... IFA video corpus. The IFA Dialog Video corpus is a collection of annotated video recordings of friendly Face-to-Face dialogs. It is modelled on the Face-to-Face dialogs in the Spoken Dutch Corpus (CGN). The procedures and design of the corpus were adapted to make this corpus useful for ...",
+        "researchActivities": [],
+        "researchDomains": null,
+        "mediaTypes": null,
+        "provenance": [],
+        "community": [],
+        "development": null
+      }
+    }
+  }
+]

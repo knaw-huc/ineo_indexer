@@ -1,0 +1,67 @@
+[
+  {
+    "operation": "create",
+    "document": {
+      "id": "hdl_58_21.11114_47_COLL-0000-000B-CAA4-8",
+      "title": "CHILDES Schaerlaekens Corpus",
+      "intro": "The original database consists of the spontaneous language of two triplets (in total six children) between the ages of 1;10.18 and 3;1.7 for the first set and 1;6.17 and 2;10.23 for the second set. The original database consists of the spontaneous language of two triplets (in total six children) between the ages of 1;10.18 and 3;1.7 for the first set and 1;6.17 and 2;10.23 for the second set. Gijs, Joost, and Katelijne are nonidentical triplets, two boys and one girl. They were bo...",
+      "publishedAt": [],
+      "media": {
+        "thumbnail": [],
+        "slider": []
+      },
+      "tabs": {
+        "overview": {},
+        "learn": {},
+        "mentions": {},
+        "metadata": {}
+      },
+      "properties": {
+        "programmingLanguages": [],
+        "learn": [],
+        "resourceHost": [
+          {
+            "title": "https://doi.org",
+            "link": "https://doi.org"
+          }
+        ],
+        "funding": [],
+        "problemContact": [],
+        "informationTypes": null,
+        "languages": [
+          "Dutch",
+          "English"
+        ],
+        "access": [
+          {
+            "title": "Public",
+            "link": ""
+          }
+        ],
+        "sourceCodeLocation": [],
+        "researchContact": [],
+        "generalContact": [],
+        "resourceTypes": [
+          "Data"
+        ],
+        "status": null,
+        "versions": [],
+        "standards": [],
+        "resourceOwner": [
+          {
+            "title": "unknown",
+            "link": "null"
+          }
+        ],
+        "link": "https://doi.org/10.21415/T5TC7Z",
+        "intro": "The original database consists of the spontaneous language of two triplets (in total six children) between the ages of 1;10.18 and 3;1.7 for the first set and 1;6.17 and 2;10.23 for the second set. The original database consists of the spontaneous language of two triplets (in total six children) between the ages of 1;10.18 and 3;1.7 for the first set and 1;6.17 and 2;10.23 for the second set. Gijs, Joost, and Katelijne are nonidentical triplets, two boys and one girl. They were bo...",
+        "researchActivities": [],
+        "researchDomains": null,
+        "mediaTypes": null,
+        "provenance": [],
+        "community": [],
+        "development": null
+      }
+    }
+  }
+]

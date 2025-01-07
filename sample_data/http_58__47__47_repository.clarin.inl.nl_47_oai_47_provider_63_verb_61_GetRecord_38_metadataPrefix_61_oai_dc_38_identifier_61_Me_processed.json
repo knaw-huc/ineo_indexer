@@ -1,0 +1,61 @@
+[
+  {
+    "operation": "create",
+    "document": {
+      "id": "http_58__47__47_repository.clarin.inl.nl_47_oai_47_provider_63_verb_61_GetRecord_38_metadataPrefix_61_oai_dc_38_identifier_61_Me",
+      "title": "META-COVID Ontology",
+      "intro": "The META-COVID Ontology links 30 high-level interdisciplinary COVID topics to 203 specific concepts from scientific ontologies. This ontology was developed within the EOSC Future project as part of the Test Science Project \u201cCOVID-19 metadata findability and interoperability in EOSC (MET... De META-COVID Ontology verbindt 30 interdiciplenaire COVID onderwerpen met 203 specifieke concepten vanuit wetenschappelijke ontologie\u00ebn. Deze ontologie is ontwikkeld binnen het EOSC Future project als onderdeel van het wetenschappelijk proefproject \"COVID-19 metadata findability and in...",
+      "publishedAt": [],
+      "media": {
+        "thumbnail": [],
+        "slider": []
+      },
+      "tabs": {
+        "overview": {},
+        "learn": {},
+        "mentions": {},
+        "metadata": {}
+      },
+      "properties": {
+        "programmingLanguages": [],
+        "learn": [],
+        "resourceHost": null,
+        "funding": [],
+        "problemContact": [],
+        "informationTypes": null,
+        "languages": [
+          "English"
+        ],
+        "access": [
+          {
+            "title": "Public",
+            "link": ""
+          }
+        ],
+        "sourceCodeLocation": [],
+        "researchContact": [],
+        "generalContact": [],
+        "resourceTypes": [
+          "Data"
+        ],
+        "status": null,
+        "versions": [],
+        "standards": [],
+        "resourceOwner": [
+          {
+            "title": "Antwerp University",
+            "link": "null"
+          }
+        ],
+        "link": "http://hdl.handle.net/10032/tm-a2-x2",
+        "intro": "The META-COVID Ontology links 30 high-level interdisciplinary COVID topics to 203 specific concepts from scientific ontologies. This ontology was developed within the EOSC Future project as part of the Test Science Project \u201cCOVID-19 metadata findability and interoperability in EOSC (MET... De META-COVID Ontology verbindt 30 interdiciplenaire COVID onderwerpen met 203 specifieke concepten vanuit wetenschappelijke ontologie\u00ebn. Deze ontologie is ontwikkeld binnen het EOSC Future project als onderdeel van het wetenschappelijk proefproject \"COVID-19 metadata findability and in...",
+        "researchActivities": [],
+        "researchDomains": null,
+        "mediaTypes": null,
+        "provenance": [],
+        "community": [],
+        "development": null
+      }
+    }
+  }
+]

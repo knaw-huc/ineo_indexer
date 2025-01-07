@@ -1,0 +1,61 @@
+[
+  {
+    "operation": "create",
+    "document": {
+      "id": "hdl_58_21.11114_47_COLL-0000-000F-76F0-D",
+      "title": "Oral History. Interview with Irma Trksak, an Austrian suvivor of Sl...",
+      "intro": "Interview with Irma Trksak, an Austrian suvivor of Slowakian origin of concentration camp Ravensbruck - conducted by the author of her biography Cecile Gordon in 1999. The interview consists of 5 parts",
+      "publishedAt": [],
+      "media": {
+        "thumbnail": [],
+        "slider": []
+      },
+      "tabs": {
+        "overview": {},
+        "learn": {},
+        "mentions": {},
+        "metadata": {}
+      },
+      "properties": {
+        "programmingLanguages": [],
+        "learn": [],
+        "resourceHost": null,
+        "funding": [],
+        "problemContact": [],
+        "informationTypes": null,
+        "languages": null,
+        "access": [
+          {
+            "title": "the metadata and the audio are directly avaible",
+            "link": ""
+          }
+        ],
+        "sourceCodeLocation": [],
+        "researchContact": [],
+        "generalContact": [],
+        "resourceTypes": [
+          "Data"
+        ],
+        "status": null,
+        "versions": [],
+        "standards": [],
+        "resourceOwner": [
+          {
+            "title": "\u00d6sterreichische Mediathek",
+            "link": "null"
+          }
+        ],
+        "link": "hdl:21.11114/COLL-0000-000F-76F0-D",
+        "intro": "Interview with Irma Trksak, an Austrian suvivor of Slowakian origin of concentration camp Ravensbruck - conducted by the author of her biography Cecile Gordon in 1999. The interview consists of 5 parts",
+        "researchActivities": [],
+        "researchDomains": null,
+        "mediaTypes": [
+          "1 application"
+        ],
+        "provenance": [],
+        "community": [],
+        "development": null
+      }
+    }
+  }
+]

@@ -1,0 +1,84 @@
+[
+  {
+    "operation": "create",
+    "document": {
+      "id": "toad",
+      "title": "Toad",
+      "intro": "Toad: Trainer Of All Data, the Frog training collection",
+      "publishedAt": "2015-12-08",
+      "media": {},
+      "tabs": {
+        "overview": {},
+        "learn": {},
+        "mentions": {},
+        "metadata": {}
+      },
+      "properties": {
+        "problemContact": [
+          {
+            "title": "Issue tracker",
+            "link": "https://github.com/LanguageMachines/toad/issues"
+          }
+        ],
+        "informationTypes": [],
+        "access": [
+          {
+            "title": "Open Access",
+            "link": "https://github.com/LanguageMachines/toad"
+          }
+        ],
+        "sourceCodeLocation": [
+          {
+            "title": "github.com",
+            "link": "https://github.com/LanguageMachines/toad"
+          }
+        ],
+        "researchContact": [],
+        "generalContact": [
+          {
+            "title": "Antal\u00a0van de Bosch",
+            "link": "https://tools.clariah.nl/person/antal-van-de-bosch"
+          }
+        ],
+        "resourceTypes": [
+          "Tools"
+        ],
+        "status": [
+          "Active"
+        ],
+        "versions": [
+          {
+            "title": "v0.8",
+            "url": ""
+          }
+        ],
+        "standards": [],
+        "resourceOwner": [
+          {
+            "title": "Language Machines",
+            "link": "http://cls.ru.nl/languagemachines"
+          }
+        ],
+        "link": "https://github.com/LanguageMachines/toad",
+        "intro": "Toad: Trainer Of All Data, the Frog training collection",
+        "provenance": [],
+        "community": [
+          {
+            "title": "Issue tracker",
+            "link": "https://github.com/LanguageMachines/toad/issues"
+          }
+        ],
+        "development": [
+          {
+            "title": "Antal van de Bosch",
+            "link": ""
+          },
+          {
+            "title": "Ko van der Sloot",
+            "link": ""
+          }
+        ]
+      }
+    }
+  }
+]

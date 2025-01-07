@@ -1,0 +1,66 @@
+[
+  {
+    "operation": "create",
+    "document": {
+      "id": "http_58__47__47_hdl.handle.net_47_10032_47_585cf5ed857b25f4e3b2b9aa4a522940",
+      "title": "SumNL-samenvattingencorpus",
+      "intro": "The SumNL Corpus of Summaries is based on 30 clusters. Each cluster consists of a subject and 5-25 newspaper articles who are relevant to that subject. Two summaries (of different size) were made for each cluster and also extracts which consist of ten sentences from the texts. Summaries",
+      "publishedAt": [],
+      "media": {
+        "thumbnail": [],
+        "slider": []
+      },
+      "tabs": {
+        "overview": {},
+        "learn": {},
+        "mentions": {},
+        "metadata": {}
+      },
+      "properties": {
+        "programmingLanguages": [],
+        "learn": [],
+        "resourceHost": null,
+        "funding": [],
+        "problemContact": [],
+        "informationTypes": null,
+        "languages": [
+          "Dutch"
+        ],
+        "access": [
+          {
+            "title": "available for non-commercial and commercial organisations;  user licence required\t",
+            "link": ""
+          }
+        ],
+        "sourceCodeLocation": [],
+        "researchContact": [],
+        "generalContact": [],
+        "resourceTypes": [
+          "Data"
+        ],
+        "status": null,
+        "versions": [],
+        "standards": [],
+        "resourceOwner": [
+          {
+            "title": "University of Antwerp",
+            "link": "null"
+          }
+        ],
+        "link": "http://hdl.handle.net/10032/b4fc4e6894b961e713f2207b62d50928",
+        "intro": "The SumNL Corpus of Summaries is based on 30 clusters. Each cluster consists of a subject and 5-25 newspaper articles who are relevant to that subject. Two summaries (of different size) were made for each cluster and also extracts which consist of ten sentences from the texts. Summaries",
+        "researchActivities": [],
+        "researchDomains": null,
+        "mediaTypes": null,
+        "provenance": [],
+        "community": [],
+        "development": [
+          {
+            "title": "Iris Hendrickx",
+            "link": "null"
+          }
+        ]
+      }
+    }
+  }
+]

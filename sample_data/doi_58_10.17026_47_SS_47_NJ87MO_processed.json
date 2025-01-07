@@ -1,0 +1,66 @@
+[
+    {
+        "operation": "create",
+        "document": {
+            "id": "doi_58_10.17026_47_SS_47_NJ87MO",
+            "title": "Project Ongekend Bijzonder, Amsterdam, interview 03",
+            "intro": "geslacht: Man land van herkomst: Irak leeftijd aankomst NL: 36 stad: Amsterdam vluchtreden: 0 relaties met eigen gemeenschap: werkt bij een Koerdische vereniging en organiseert activiteiten voor de gemeenschap. opleiding: Goudsmid beroep land van herkomst: Goudsmid beroep in Nederland:...",
+            "publishedAt": [],
+            "media": {
+                "thumbnail": [],
+                "slider": []
+            },
+            "tabs": {
+                "overview": {},
+                "learn": {},
+                "mentions": {},
+                "metadata": {}
+            },
+            "properties": {
+                "programmingLanguages": [],
+                "learn": [],
+                "resourceHost": [
+                    {
+                        "title": "https://doi.org",
+                        "link": "https://doi.org"
+                    }
+                ],
+                "funding": [],
+                "problemContact": [],
+                "informationTypes": null,
+                "languages": [
+                    "Dutch"
+                ],
+                "access": [
+                    {
+                        "title": "UNSPECIFIED",
+                        "link": ""
+                    }
+                ],
+                "sourceCodeLocation": [],
+                "researchContact": [],
+                "generalContact": [],
+                "resourceTypes": [
+                    "Data"
+                ],
+                "status": null,
+                "versions": [],
+                "standards": [],
+                "resourceOwner": null,
+                "link": "https://doi.org/10.17026/SS/NJ87MO",
+                "intro": "geslacht: Man land van herkomst: Irak leeftijd aankomst NL: 36 stad: Amsterdam vluchtreden: 0 relaties met eigen gemeenschap: werkt bij een Koerdische vereniging en organiseert activiteiten voor de gemeenschap. opleiding: Goudsmid beroep land van herkomst: Goudsmid beroep in Nederland:...",
+                "researchActivities": [],
+                "researchDomains": [],
+                "mediaTypes": null,
+                "provenance": [],
+                "community": [],
+                "development": [
+                    {
+                        "title": "Stichting Bevordering Maatschappelijke Participatie - BMP",
+                        "link": "null"
+                    }
+                ]
+            }
+        }
+    }
+]

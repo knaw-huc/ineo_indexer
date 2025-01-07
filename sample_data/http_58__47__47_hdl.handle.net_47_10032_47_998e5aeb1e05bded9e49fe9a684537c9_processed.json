@@ -1,0 +1,62 @@
+[
+    {
+        "operation": "create",
+        "document": {
+            "id": "http_58__47__47_hdl.handle.net_47_10032_47_998e5aeb1e05bded9e49fe9a684537c9",
+            "title": "CHOREC-spraakcorpus (Children's Oral Reading Corpus)",
+            "intro": "The Children's Oral Reading Corpus (CHOREC) is a collection of 130 hours of speech, produced by 400 Flemish children who read texts and word lists. The corpus was used to develop tools to automate the reading assessment process and to assist children in developing their reading skills. Dutch spoken by Flemish children A broad phonetic transcription. Only for those words the child hesitates or makes a reading error, labels of oral reading strategies and errors were added.",
+            "publishedAt": [],
+            "media": {
+                "thumbnail": [],
+                "slider": []
+            },
+            "tabs": {
+                "overview": {},
+                "learn": {},
+                "mentions": {},
+                "metadata": {}
+            },
+            "properties": {
+                "programmingLanguages": [],
+                "learn": [],
+                "resourceHost": null,
+                "funding": [],
+                "problemContact": [],
+                "informationTypes": null,
+                "languages": [
+                    "Dutch",
+                    "English"
+                ],
+                "access": [
+                    {
+                        "title": "available for academic use by non-commercial organisation; user licence required",
+                        "link": ""
+                    }
+                ],
+                "sourceCodeLocation": [],
+                "researchContact": [],
+                "generalContact": [],
+                "resourceTypes": [
+                    "Data"
+                ],
+                "status": null,
+                "versions": [],
+                "standards": [],
+                "resourceOwner": [
+                    {
+                        "title": "University of Leuven (KULeuven), University of Ghent (UGent)",
+                        "link": "null"
+                    }
+                ],
+                "link": "http://hdl.handle.net/10032/tm-a2-j5",
+                "intro": "The Children's Oral Reading Corpus (CHOREC) is a collection of 130 hours of speech, produced by 400 Flemish children who read texts and word lists. The corpus was used to develop tools to automate the reading assessment process and to assist children in developing their reading skills. Dutch spoken by Flemish children A broad phonetic transcription. Only for those words the child hesitates or makes a reading error, labels of oral reading strategies and errors were added.",
+                "researchActivities": [],
+                "researchDomains": [],
+                "mediaTypes": null,
+                "provenance": [],
+                "community": [],
+                "development": null
+            }
+        }
+    }
+]

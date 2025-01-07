@@ -1,0 +1,58 @@
+[
+  {
+    "operation": "create",
+    "document": {
+      "id": "hdl_58_21.11114_47_COLL-0000-000F-7A12-4",
+      "title": "Papuan Dataset",
+      "intro": "Dataset on Papuan and Austronesian languagues, in the form of 1000 GB of audio material and texts, collected in Indonesia. Transciption included, type unknown -",
+      "publishedAt": [],
+      "media": {
+        "thumbnail": [],
+        "slider": []
+      },
+      "tabs": {
+        "overview": {},
+        "learn": {},
+        "mentions": {},
+        "metadata": {}
+      },
+      "properties": {
+        "programmingLanguages": [],
+        "learn": [],
+        "resourceHost": null,
+        "funding": [],
+        "problemContact": [],
+        "informationTypes": null,
+        "languages": [
+          "---",
+          "Papapana",
+          "Bedjond"
+        ],
+        "access": [
+          {
+            "title": "Restricted for individual",
+            "link": ""
+          }
+        ],
+        "sourceCodeLocation": [],
+        "researchContact": [],
+        "generalContact": [],
+        "resourceTypes": [
+          "Data"
+        ],
+        "status": null,
+        "versions": [],
+        "standards": [],
+        "resourceOwner": null,
+        "link": "https://doi.org/10.5281/zenodo.1164782, https://hdl.handle.net/1839/06afa50e-aee9-4adb-a6a7-d7496a8a47fc, http://hdl.handle.net/1839/00-0000-0000-0018-CB72-4@view",
+        "intro": "Dataset on Papuan and Austronesian languagues, in the form of 1000 GB of audio material and texts, collected in Indonesia. Transciption included, type unknown -",
+        "researchActivities": [],
+        "researchDomains": null,
+        "mediaTypes": null,
+        "provenance": [],
+        "community": [],
+        "development": null
+      }
+    }
+  }
+]

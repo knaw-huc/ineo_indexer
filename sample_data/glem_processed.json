@@ -1,0 +1,111 @@
+[
+    {
+        "operation": "create",
+        "document": {
+            "id": "glem",
+            "title": "Glem",
+            "intro": "GLEM is a lemmatizer for Ancient Greek.",
+            "publishedAt": "2017-04-09",
+            "media": {},
+            "tabs": {
+                "overview": {},
+                "learn": {},
+                "mentions": {},
+                "metadata": {}
+            },
+            "properties": {
+                "programmingLanguages": [
+                    {
+                        "title": "Python",
+                        "link": null
+                    }
+                ],
+                "funding": [
+                    {
+                        "title": "Unraveling the Language of Perspective (FP7, ERC Starting Grant 338421-Perspective) European Research council",
+                        "link": "https://cordis.europa.eu/project/id/338421/reporting https://erc.europa.eu/"
+                    }
+                ],
+                "problemContact": [
+                    {
+                        "title": "Issue tracker",
+                        "link": "https://github.com/GreekPerspective/glem/issues"
+                    }
+                ],
+                "informationTypes": [],
+                "access": [
+                    {
+                        "title": "Open Access",
+                        "link": "https://github.com/GreekPerspective/glem/"
+                    }
+                ],
+                "sourceCodeLocation": [
+                    {
+                        "title": "github.com",
+                        "link": "https://github.com/GreekPerspective/glem/"
+                    }
+                ],
+                "researchContact": [],
+                "generalContact": [
+                    {
+                        "title": "Corien\u00a0Bary",
+                        "link": "mailto:ko.vandersloot@let.ru.nl"
+                    }
+                ],
+                "resourceTypes": [
+                    "Tools"
+                ],
+                "status": [
+                    "Inactive"
+                ],
+                "versions": [
+                    {
+                        "title": "1.3.1",
+                        "url": ""
+                    }
+                ],
+                "standards": [],
+                "resourceOwner": [
+                    {
+                        "title": "",
+                        "link": ""
+                    }
+                ],
+                "link": "https://github.com/GreekPerspective/glem/",
+                "intro": "GLEM is a lemmatizer for Ancient Greek.",
+                "researchActivities": [
+                    "https://vocabs.dariah.eu/tadirah/annotating"
+                ],
+                "researchDomains": [
+                    "https://w3id.org/nwo-research-fields#ComputationalLinguisticsAndPhilology",
+                    "https://w3id.org/nwo-research-fields#GreekAndLatinPhilologyAndLiterature"
+                ],
+                "provenance": [],
+                "community": [
+                    {
+                        "title": "Issue tracker",
+                        "link": "https://github.com/GreekPerspective/glem/issues"
+                    }
+                ],
+                "development": [
+                    {
+                        "title": "Corien Bary, Theology and Religious Studies",
+                        "link": ""
+                    },
+                    {
+                        "title": "Peter Berck, Centre for Language and Speech Technology",
+                        "link": ""
+                    },
+                    {
+                        "title": "Iris Hendrickx, Centre for Language and Speech Technology",
+                        "link": ""
+                    },
+                    {
+                        "title": "Wessel Stoop, Centre for Language and Speech Technology",
+                        "link": ""
+                    }
+                ]
+            }
+        }
+    }
+]

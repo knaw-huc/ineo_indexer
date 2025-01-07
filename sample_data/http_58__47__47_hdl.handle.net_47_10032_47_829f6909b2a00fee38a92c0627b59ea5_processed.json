@@ -1,0 +1,56 @@
+[
+  {
+    "operation": "create",
+    "document": {
+      "id": "http_58__47__47_hdl.handle.net_47_10032_47_829f6909b2a00fee38a92c0627b59ea5",
+      "title": "Names Corpus",
+      "intro": "Het NAMES corpus bevat een verzameling van 189.707 voornamen (61.9 miljoen tokens) en 562.676 achternamen (54.6 miljoen tokens) zoals gevonden in 19de eeuwse geboorte-, huwelijks- en overlijdensakten (toegankelijk via wiewaswie.nl in de versie van 2011). Het is een resultaat van het CLA... Spelling variations of names Etymological analysis of names Decomposition of names The NAMES corpus is a collection of 189,707 given names (61,9 million tokens) and 562,676 surnames (54,6 million tokens) as present in 19th century certificates for birth, marriage and decease (wiewaswie.nl asof 2011). It is the result of the CLARIAH 'NAMES' project that aimed to develo...",
+      "publishedAt": [],
+      "media": {
+        "thumbnail": [],
+        "slider": []
+      },
+      "tabs": {
+        "overview": {},
+        "learn": {},
+        "mentions": {},
+        "metadata": {}
+      },
+      "properties": {
+        "programmingLanguages": [],
+        "learn": [],
+        "resourceHost": null,
+        "funding": [],
+        "problemContact": [],
+        "informationTypes": null,
+        "languages": [
+          "Dutch"
+        ],
+        "access": [
+          {
+            "title": "Available for non-commercial organisations. For commercial organisations a user licence required",
+            "link": ""
+          }
+        ],
+        "sourceCodeLocation": [],
+        "researchContact": [],
+        "generalContact": [],
+        "resourceTypes": [
+          "Data"
+        ],
+        "status": null,
+        "versions": [],
+        "standards": [],
+        "resourceOwner": null,
+        "link": "http://hdl.handle.net/10032/tm-a2-r6",
+        "intro": "Het NAMES corpus bevat een verzameling van 189.707 voornamen (61.9 miljoen tokens) en 562.676 achternamen (54.6 miljoen tokens) zoals gevonden in 19de eeuwse geboorte-, huwelijks- en overlijdensakten (toegankelijk via wiewaswie.nl in de versie van 2011). Het is een resultaat van het CLA... Spelling variations of names Etymological analysis of names Decomposition of names The NAMES corpus is a collection of 189,707 given names (61,9 million tokens) and 562,676 surnames (54,6 million tokens) as present in 19th century certificates for birth, marriage and decease (wiewaswie.nl asof 2011). It is the result of the CLARIAH 'NAMES' project that aimed to develo...",
+        "researchActivities": [],
+        "researchDomains": null,
+        "mediaTypes": null,
+        "provenance": [],
+        "community": [],
+        "development": null
+      }
+    }
+  }
+]

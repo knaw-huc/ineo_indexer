@@ -1,0 +1,86 @@
+[
+  {
+    "operation": "create",
+    "document": {
+      "id": "g2pservice",
+      "title": "G2pservice",
+      "intro": "Grapheme to Phoneme converter. Input is a list of words (utf8). Choose one of the language options.",
+      "publishedAt": "2019-02-25",
+      "media": {},
+      "tabs": {
+        "overview": {},
+        "learn": {},
+        "mentions": {},
+        "metadata": {}
+      },
+      "properties": {
+        "programmingLanguages": [
+          {
+            "title": "Python",
+            "link": null
+          }
+        ],
+        "problemContact": [
+          {
+            "title": "Issue tracker",
+            "link": "https://github.com/opensource-spraakherkenning-nl/g2pservice/issues"
+          }
+        ],
+        "informationTypes": [],
+        "access": [
+          {
+            "title": "Open Access",
+            "link": "https://github.com/opensource-spraakherkenning-nl/g2pservice"
+          }
+        ],
+        "sourceCodeLocation": [
+          {
+            "title": "github.com",
+            "link": "https://github.com/opensource-spraakherkenning-nl/g2pservice"
+          }
+        ],
+        "researchContact": [],
+        "generalContact": [
+          {
+            "title": "Louis\u00a0ten Bosch",
+            "link": "https://tools.clariah.nl/person/louis-ten-bosch"
+          }
+        ],
+        "resourceTypes": [
+          "Tools"
+        ],
+        "status": [
+          "Active"
+        ],
+        "versions": [
+          {
+            "title": "0.3.4",
+            "url": ""
+          }
+        ],
+        "standards": [],
+        "resourceOwner": [
+          {
+            "title": "Open Spraaktechnologie",
+            "link": "https://openspraaktechnologie.org/"
+          }
+        ],
+        "link": "https://github.com/opensource-spraakherkenning-nl/g2pservice",
+        "intro": "Grapheme to Phoneme converter. Input is a list of words (utf8). Choose one of the language options.",
+        "provenance": [],
+        "community": [
+          {
+            "title": "Issue tracker",
+            "link": "https://github.com/opensource-spraakherkenning-nl/g2pservice/issues"
+          }
+        ],
+        "development": [
+          {
+            "title": "Louis ten Bosch",
+            "link": ""
+          }
+        ]
+      }
+    }
+  }
+]

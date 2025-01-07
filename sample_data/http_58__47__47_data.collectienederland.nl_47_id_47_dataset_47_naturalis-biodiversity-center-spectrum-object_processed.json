@@ -1,0 +1,59 @@
+[
+  {
+    "operation": "create",
+    "document": {
+      "id": "http_58__47__47_data.collectienederland.nl_47_id_47_dataset_47_naturalis-biodiversity-center-spectrum-object",
+      "title": "naturalis-biodiversity-center-spectrum-object",
+      "intro": null,
+      "publishedAt": [],
+      "media": {
+        "thumbnail": [],
+        "slider": []
+      },
+      "tabs": {
+        "overview": {},
+        "learn": {},
+        "mentions": {},
+        "metadata": {}
+      },
+      "properties": {
+        "programmingLanguages": [],
+        "learn": [],
+        "resourceHost": [
+          {
+            "title": "https://www.collectienederland.nl",
+            "link": "https://www.collectienederland.nl"
+          }
+        ],
+        "funding": [],
+        "problemContact": [],
+        "informationTypes": null,
+        "languages": null,
+        "access": [
+          {
+            "title": "Public",
+            "link": "https://creativecommons.org/publicdomain/zero/1.0/"
+          }
+        ],
+        "sourceCodeLocation": [],
+        "researchContact": [],
+        "generalContact": [],
+        "resourceTypes": [
+          "Data"
+        ],
+        "status": null,
+        "versions": [],
+        "standards": [],
+        "resourceOwner": null,
+        "link": "https://www.collectienederland.nl/search?qf=delving_spec:naturalis-biodiversity-center-spectrum-object",
+        "intro": null,
+        "researchActivities": [],
+        "researchDomains": null,
+        "mediaTypes": null,
+        "provenance": [],
+        "community": [],
+        "development": null
+      }
+    }
+  }
+]

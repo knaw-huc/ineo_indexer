@@ -1,0 +1,64 @@
+[
+    {
+        "operation": "create",
+        "document": {
+            "id": "http_58__47__47_hdl.handle.net_47_10032_47_539c4e97058a1112de173e22c4a548f4",
+            "title": "Hotel Review Corpus - Spanish Sign Language - Lengua de Signos Espa...",
+            "intro": "A multimodal parallel corpus of Spanish and Spanish Sign Language (Lengua de Signos Espa\u00f1ola - SLE), in which 283 hotel reviews in written Spanish were translated into LSE videos by deaf professional translators. Documentation in English Een multimodaal parallel corpus met de talen Spanish en Spanish Sign Language (Lengua de Signos Espa\u00f1ola - LSE) waarin 283 hotel-reviews werden vertaald uit het Spaans in LSE door professionele vertalers. Original texts of the reviews Sign language interpretation of written text",
+            "publishedAt": [],
+            "media": {
+                "thumbnail": [],
+                "slider": []
+            },
+            "tabs": {
+                "overview": {},
+                "learn": {},
+                "mentions": {},
+                "metadata": {}
+            },
+            "properties": {
+                "programmingLanguages": [],
+                "learn": [],
+                "resourceHost": null,
+                "funding": [],
+                "problemContact": [],
+                "informationTypes": null,
+                "languages": [
+                    "Spanish; Castilian",
+                    "Spanish Sign Language"
+                ],
+                "access": [
+                    {
+                        "title": "Public",
+                        "link": "https://creativecommons.org/licenses/by-nc-sa/3.0/"
+                    }
+                ],
+                "sourceCodeLocation": [],
+                "researchContact": [],
+                "generalContact": [],
+                "resourceTypes": [
+                    "Data"
+                ],
+                "status": null,
+                "versions": [],
+                "standards": [],
+                "resourceOwner": [
+                    {
+                        "title": "INT",
+                        "link": "null"
+                    }
+                ],
+                "link": "http://hdl.handle.net/10032/tm-a2-x6",
+                "intro": "A multimodal parallel corpus of Spanish and Spanish Sign Language (Lengua de Signos Espa\u00f1ola - SLE), in which 283 hotel reviews in written Spanish were translated into LSE videos by deaf professional translators. Documentation in English Een multimodaal parallel corpus met de talen Spanish en Spanish Sign Language (Lengua de Signos Espa\u00f1ola - LSE) waarin 283 hotel-reviews werden vertaald uit het Spaans in LSE door professionele vertalers. Original texts of the reviews Sign language interpretation of written text",
+                "researchActivities": [],
+                "researchDomains": [
+                    "https://w3id.org/nwo-research-fields#TranslationStudies"
+                ],
+                "mediaTypes": null,
+                "provenance": [],
+                "community": [],
+                "development": null
+            }
+        }
+    }
+]

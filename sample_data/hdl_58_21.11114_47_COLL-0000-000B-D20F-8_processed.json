@@ -1,0 +1,71 @@
+[
+  {
+    "operation": "create",
+    "document": {
+      "id": "hdl_58_21.11114_47_COLL-0000-000B-D20F-8",
+      "title": "FAME! Radio Broadcast Corpus",
+      "intro": "A large broadcast database is created by collecting recordings from the archives of the regional broadcaster Omrop Frysl\u00e2n, and annotating them with various information such as the language switches and speaker details. The collection comprises over 3000 hours and the transcription and ... A large broadcast database is created by collecting recordings from the archives of the regional broadcaster Omrop Frysl\u00e2n, and annotating them with various information such as the language switches and speaker details. The collection comprises over 3000 hours and the transcription and ...",
+      "publishedAt": [],
+      "media": {
+        "thumbnail": [],
+        "slider": []
+      },
+      "tabs": {
+        "overview": {},
+        "learn": {},
+        "mentions": {},
+        "metadata": {}
+      },
+      "properties": {
+        "programmingLanguages": [],
+        "learn": [],
+        "resourceHost": [
+          {
+            "title": "https://fame.frl",
+            "link": "https://fame.frl"
+          }
+        ],
+        "funding": [],
+        "problemContact": [],
+        "informationTypes": null,
+        "languages": [
+          "Western Frisian",
+          "Dutch",
+          "English"
+        ],
+        "access": [
+          {
+            "title": "Restricted for individual",
+            "link": ""
+          }
+        ],
+        "sourceCodeLocation": [],
+        "researchContact": [],
+        "generalContact": [],
+        "resourceTypes": [
+          "Data"
+        ],
+        "status": null,
+        "versions": [],
+        "standards": [],
+        "resourceOwner": [
+          {
+            "title": "Omrop Frysl\u00e2nTresoarRadboud University",
+            "link": "null"
+          }
+        ],
+        "link": "https://fame.frl",
+        "intro": "A large broadcast database is created by collecting recordings from the archives of the regional broadcaster Omrop Frysl\u00e2n, and annotating them with various information such as the language switches and speaker details. The collection comprises over 3000 hours and the transcription and ... A large broadcast database is created by collecting recordings from the archives of the regional broadcaster Omrop Frysl\u00e2n, and annotating them with various information such as the language switches and speaker details. The collection comprises over 3000 hours and the transcription and ...",
+        "researchActivities": [],
+        "researchDomains": null,
+        "mediaTypes": [
+          "7.37 tab-separated-values",
+          "7 text"
+        ],
+        "provenance": [],
+        "community": [],
+        "development": null
+      }
+    }
+  }
+]

@@ -1,0 +1,61 @@
+[
+  {
+    "operation": "create",
+    "document": {
+      "id": "http_58__47__47_hdl.handle.net_47_10032_47_e7f7b1839c16c8a9998f6436c63a102b",
+      "title": "Online Personal Exploration and Navigation of SoNaR",
+      "intro": "OpenSoNaR contains the SoNaR500 and SoNaR New Media written Dutch texts from 1950 to 2102. The texts are enriched with several annotations (Part of Speech and lemma information) and are available as FoLiA xml files (folia.xml). The system relies on BlackLab server as back-end and WhiteL... The SoNaR corpus was developed within the context of the research program STEVIN. Documentation in English annotation of syntax: Part of Speech tagging; annotator: Frog tagger; set: CGN annotation set; annotator type: automatic",
+      "publishedAt": [],
+      "media": {
+        "thumbnail": [],
+        "slider": []
+      },
+      "tabs": {
+        "overview": {},
+        "learn": {},
+        "mentions": {},
+        "metadata": {}
+      },
+      "properties": {
+        "programmingLanguages": [],
+        "learn": [],
+        "resourceHost": null,
+        "funding": [],
+        "problemContact": [],
+        "informationTypes": null,
+        "languages": [
+          "Dutch"
+        ],
+        "access": [
+          {
+            "title": "Academic",
+            "link": ""
+          }
+        ],
+        "sourceCodeLocation": [],
+        "researchContact": [],
+        "generalContact": [],
+        "resourceTypes": [
+          "Data"
+        ],
+        "status": null,
+        "versions": [],
+        "standards": [],
+        "resourceOwner": [
+          {
+            "title": "Tilburg University, The Netherlands, dr. Martin Reynaert",
+            "link": "null"
+          }
+        ],
+        "link": "http://hdl.handle.net/10032/tm-a2-c7",
+        "intro": "OpenSoNaR contains the SoNaR500 and SoNaR New Media written Dutch texts from 1950 to 2102. The texts are enriched with several annotations (Part of Speech and lemma information) and are available as FoLiA xml files (folia.xml). The system relies on BlackLab server as back-end and WhiteL... The SoNaR corpus was developed within the context of the research program STEVIN. Documentation in English annotation of syntax: Part of Speech tagging; annotator: Frog tagger; set: CGN annotation set; annotator type: automatic",
+        "researchActivities": [],
+        "researchDomains": null,
+        "mediaTypes": null,
+        "provenance": [],
+        "community": [],
+        "development": null
+      }
+    }
+  }
+]

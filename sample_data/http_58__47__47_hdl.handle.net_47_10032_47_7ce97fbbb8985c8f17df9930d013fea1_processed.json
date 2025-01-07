@@ -1,0 +1,62 @@
+[
+  {
+    "operation": "create",
+    "document": {
+      "id": "http_58__47__47_hdl.handle.net_47_10032_47_7ce97fbbb8985c8f17df9930d013fea1",
+      "title": "CDROM Middelnederlands",
+      "intro": "The CD-ROM Middle Dutch (first released in 1998) contains the Middle Dutch Dictionary, the texts from the CorpusGysseling and a collection of almost 300 poetry and prose texts. For reason that the software for installation is no longer compatible with modern operating systems the applic... Cd-rom Middelnederlands (verschenen in 1998): bevat het Middelnederlandsch Woordenboek, de teksten van het Corpus Gysseling en een collectie van bijna 300 rijm- en prozateksten. Omdat de installatiesoftware niet meer compatibel is met de huidige besturingssystemen, wordt de woordenboeka...",
+      "publishedAt": [],
+      "media": {
+        "thumbnail": [],
+        "slider": []
+      },
+      "tabs": {
+        "overview": {},
+        "learn": {},
+        "mentions": {},
+        "metadata": {}
+      },
+      "properties": {
+        "programmingLanguages": [],
+        "learn": [],
+        "resourceHost": null,
+        "funding": [],
+        "problemContact": [],
+        "informationTypes": null,
+        "languages": [
+          "Middle Dutch",
+          "Dutch"
+        ],
+        "access": [
+          {
+            "title": "available for non-commercial use; user licence required ",
+            "link": ""
+          }
+        ],
+        "sourceCodeLocation": [],
+        "researchContact": [],
+        "generalContact": [],
+        "resourceTypes": [
+          "Data"
+        ],
+        "status": null,
+        "versions": [],
+        "standards": [],
+        "resourceOwner": [
+          {
+            "title": "Instituut voor de Nederlandse Taal",
+            "link": "null"
+          }
+        ],
+        "link": "http://hdl.handle.net/10032/tm-a2-f5",
+        "intro": "The CD-ROM Middle Dutch (first released in 1998) contains the Middle Dutch Dictionary, the texts from the CorpusGysseling and a collection of almost 300 poetry and prose texts. For reason that the software for installation is no longer compatible with modern operating systems the applic... Cd-rom Middelnederlands (verschenen in 1998): bevat het Middelnederlandsch Woordenboek, de teksten van het Corpus Gysseling en een collectie van bijna 300 rijm- en prozateksten. Omdat de installatiesoftware niet meer compatibel is met de huidige besturingssystemen, wordt de woordenboeka...",
+        "researchActivities": [],
+        "researchDomains": null,
+        "mediaTypes": null,
+        "provenance": [],
+        "community": [],
+        "development": null
+      }
+    }
+  }
+]

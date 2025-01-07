@@ -1,0 +1,89 @@
+[
+  {
+    "operation": "create",
+    "document": {
+      "id": "hdl_58_21.11114_47_COLL-0000-000F-7A0B-D",
+      "title": "Multilingual Dataset",
+      "intro": "33 interviews on language attitude, considering the following languages: Russian, Croatian, Berber, British English, Haags, Romanian, Mexican Spanish, Icelandic, Sarn\u00e1mi, Papiamento, French, Dutch, Ngiemboon, Malay, German, Italian, Chechen, Greek, Polish, Kurdish, Chinese, Georgian, Hu... -",
+      "publishedAt": [],
+      "media": {
+        "thumbnail": [],
+        "slider": []
+      },
+      "tabs": {
+        "overview": {},
+        "learn": {},
+        "mentions": {},
+        "metadata": {}
+      },
+      "properties": {
+        "programmingLanguages": [],
+        "learn": [],
+        "resourceHost": [
+          {
+            "title": "http://leiland.lucdh.nl",
+            "link": "http://leiland.lucdh.nl"
+          }
+        ],
+        "funding": [],
+        "problemContact": [],
+        "informationTypes": null,
+        "languages": [
+          "---",
+          "Russian",
+          "Croatian",
+          "Berik",
+          "English",
+          "Romanian; Moldavian; Moldovan",
+          "Spanish; Castilian",
+          "Icelandic",
+          "Papiamento",
+          "French",
+          "Dutch",
+          "Ngiemboon",
+          "Central Malay",
+          "German",
+          "Italian",
+          "Chechen",
+          "Modern Greek",
+          "Polish",
+          "Kurdish",
+          "Chinese",
+          "Georgian",
+          "Hungarian",
+          "Armenian",
+          "Catalan; Valencian",
+          "Balkan Gagauz Turkish",
+          "Malaccan Creole Malay",
+          "Finnish",
+          "Biak",
+          "Eastern Frisian"
+        ],
+        "access": [
+          {
+            "title": "Restricted for individual",
+            "link": ""
+          }
+        ],
+        "sourceCodeLocation": [],
+        "researchContact": [],
+        "generalContact": [],
+        "resourceTypes": [
+          "Data"
+        ],
+        "status": null,
+        "versions": [],
+        "standards": [],
+        "resourceOwner": null,
+        "link": "http://leiland.lucdh.nl",
+        "intro": "33 interviews on language attitude, considering the following languages: Russian, Croatian, Berber, British English, Haags, Romanian, Mexican Spanish, Icelandic, Sarn\u00e1mi, Papiamento, French, Dutch, Ngiemboon, Malay, German, Italian, Chechen, Greek, Polish, Kurdish, Chinese, Georgian, Hu... -",
+        "researchActivities": [],
+        "researchDomains": null,
+        "mediaTypes": null,
+        "provenance": [],
+        "community": [],
+        "development": null
+      }
+    }
+  }
+]

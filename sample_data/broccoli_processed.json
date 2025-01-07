@@ -1,0 +1,74 @@
+[
+  {
+    "operation": "create",
+    "document": {
+      "id": "broccoli",
+      "title": "Broccoli",
+      "intro": "Da Broker \ud83e\udd66",
+      "publishedAt": "2022-06-29",
+      "media": {},
+      "tabs": {
+        "overview": {},
+        "learn": {},
+        "mentions": {},
+        "metadata": {}
+      },
+      "properties": {
+        "programmingLanguages": [
+          {
+            "title": "Java",
+            "link": null
+          }
+        ],
+        "problemContact": [
+          {
+            "title": "Issue tracker",
+            "link": "https://github.com/knaw-huc/broccoli/issues"
+          }
+        ],
+        "informationTypes": [],
+        "access": [
+          {
+            "title": "Open Access",
+            "link": "https://github.com/knaw-huc/broccoli"
+          }
+        ],
+        "sourceCodeLocation": [
+          {
+            "title": "github.com",
+            "link": "https://github.com/knaw-huc/broccoli"
+          }
+        ],
+        "researchContact": [],
+        "resourceTypes": [
+          "Tools"
+        ],
+        "status": [
+          "Active"
+        ],
+        "versions": [
+          {
+            "title": "0.35.2",
+            "url": ""
+          }
+        ],
+        "standards": [],
+        "resourceOwner": [
+          {
+            "title": "KNAW Humanities Cluster",
+            "link": "https://huc.knaw.nl/"
+          }
+        ],
+        "link": "https://github.com/knaw-huc/broccoli",
+        "intro": "Da Broker \ud83e\udd66",
+        "provenance": [],
+        "community": [
+          {
+            "title": "Issue tracker",
+            "link": "https://github.com/knaw-huc/broccoli/issues"
+          }
+        ]
+      }
+    }
+  }
+]

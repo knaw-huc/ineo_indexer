@@ -1,0 +1,59 @@
+[
+  {
+    "operation": "create",
+    "document": {
+      "id": "http_58__47__47_hdl.handle.net_47_10032_47_5396932fccc93c93c9578c6de5898385",
+      "title": "Diachroon seMantisch lexicon van de Nederlandse Taal - DiaMaNT",
+      "intro": "Web interface to query the content of the lexicon The DiaMaNT (Diachroon seMantisch lexicon van de Nederlandse Taal) is a computational semantical lexicon that offers diachronical semantical information. It is built as a layer on top of GiGaNT, by adding semantic information. The lexicon links word forms to concepts and places these on... Lexicon content of the queried lemma",
+      "publishedAt": [],
+      "media": {
+        "thumbnail": [],
+        "slider": []
+      },
+      "tabs": {
+        "overview": {},
+        "learn": {},
+        "mentions": {},
+        "metadata": {}
+      },
+      "properties": {
+        "programmingLanguages": [],
+        "learn": [],
+        "resourceHost": null,
+        "funding": [],
+        "problemContact": [],
+        "informationTypes": null,
+        "languages": null,
+        "access": [
+          {
+            "title": "Public",
+            "link": ""
+          }
+        ],
+        "sourceCodeLocation": [],
+        "researchContact": [],
+        "generalContact": [],
+        "resourceTypes": [
+          "Data"
+        ],
+        "status": null,
+        "versions": [],
+        "standards": [],
+        "resourceOwner": [
+          {
+            "title": "Instituut voor de Nederlandse Taal",
+            "link": "null"
+          }
+        ],
+        "link": "http://hdl.handle.net/10032/tm-a2-q9",
+        "intro": "Web interface to query the content of the lexicon The DiaMaNT (Diachroon seMantisch lexicon van de Nederlandse Taal) is a computational semantical lexicon that offers diachronical semantical information. It is built as a layer on top of GiGaNT, by adding semantic information. The lexicon links word forms to concepts and places these on... Lexicon content of the queried lemma",
+        "researchActivities": [],
+        "researchDomains": null,
+        "mediaTypes": null,
+        "provenance": [],
+        "community": [],
+        "development": null
+      }
+    }
+  }
+]

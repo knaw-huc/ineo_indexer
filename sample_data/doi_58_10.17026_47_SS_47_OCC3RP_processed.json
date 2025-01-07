@@ -1,0 +1,68 @@
+[
+    {
+        "operation": "create",
+        "document": {
+            "id": "doi_58_10.17026_47_SS_47_OCC3RP",
+            "title": "Project Ongekend Bijzonder, Den Haag, interview 14",
+            "intro": "geslacht: V land van herkomst: Congo leeftijd aankomst NL: 17 stad: Den Haag vluchtreden: relaties met eigen gemeenschap: via de kerk met veel Afrikaanse mensen opleiding: doet opleiding tot financieel administratief medewerker opvallend/bijzonder: koorzangeres in de kerk; vind dat ee...",
+            "publishedAt": [],
+            "media": {
+                "thumbnail": [],
+                "slider": []
+            },
+            "tabs": {
+                "overview": {},
+                "learn": {},
+                "mentions": {},
+                "metadata": {}
+            },
+            "properties": {
+                "programmingLanguages": [],
+                "learn": [],
+                "resourceHost": [
+                    {
+                        "title": "https://doi.org",
+                        "link": "https://doi.org"
+                    }
+                ],
+                "funding": [],
+                "problemContact": [],
+                "informationTypes": null,
+                "languages": [
+                    "Dutch",
+                    "English",
+                    "French"
+                ],
+                "access": [
+                    {
+                        "title": "UNSPECIFIED",
+                        "link": ""
+                    }
+                ],
+                "sourceCodeLocation": [],
+                "researchContact": [],
+                "generalContact": [],
+                "resourceTypes": [
+                    "Data"
+                ],
+                "status": null,
+                "versions": [],
+                "standards": [],
+                "resourceOwner": null,
+                "link": "https://doi.org/10.17026/SS/OCC3RP",
+                "intro": "geslacht: V land van herkomst: Congo leeftijd aankomst NL: 17 stad: Den Haag vluchtreden: relaties met eigen gemeenschap: via de kerk met veel Afrikaanse mensen opleiding: doet opleiding tot financieel administratief medewerker opvallend/bijzonder: koorzangeres in de kerk; vind dat ee...",
+                "researchActivities": [],
+                "researchDomains": [],
+                "mediaTypes": null,
+                "provenance": [],
+                "community": [],
+                "development": [
+                    {
+                        "title": "Stichting Bevordering Maatschappelijke Participatie - BMP",
+                        "link": "null"
+                    }
+                ]
+            }
+        }
+    }
+]

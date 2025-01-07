@@ -1,0 +1,61 @@
+[
+  {
+    "operation": "create",
+    "document": {
+      "id": "http_58__47__47_data.beeldengeluid.nl_47_id_47_dataset_47_0007",
+      "title": "Radio Herrijzend Nederland",
+      "intro": "The collection of broadcasts from Radio Herrijzend Nederland (Radio \"The Netherlands Revived\") contains a selection of the radio broadcasts that were transmitted between 1944 and 1946. They were broadcasted by the military authorities from Eindhoven after its liberation in September 194... The collection of Broadcasts from Radio Herrijzend Nederland (Radio 'The Netherlands Revived') contains a selection of the radio broadcasts that were transmitted between 1944 and 1946. They were broadcasted by the military authorities from Eindhoven after its liberation in September 194... Radio uitzendingen Radio Herrijzend Nederland van Beeld en Geluid op Wikimedia Commons.",
+      "publishedAt": [],
+      "media": {
+        "thumbnail": [],
+        "slider": []
+      },
+      "tabs": {
+        "overview": {},
+        "learn": {},
+        "mentions": {},
+        "metadata": {}
+      },
+      "properties": {
+        "programmingLanguages": [],
+        "learn": [],
+        "resourceHost": [
+          {
+            "title": "https://soundcloud.com",
+            "link": "https://soundcloud.com"
+          }
+        ],
+        "funding": [],
+        "problemContact": [],
+        "informationTypes": null,
+        "languages": null,
+        "access": [
+          {
+            "title": "Public",
+            "link": "https://creativecommons.org/publicdomain/zero/1.0/"
+          }
+        ],
+        "sourceCodeLocation": [],
+        "researchContact": [],
+        "generalContact": [],
+        "resourceTypes": [
+          "Data"
+        ],
+        "status": null,
+        "versions": [],
+        "standards": [],
+        "resourceOwner": null,
+        "link": "https://soundcloud.com/beeldengeluid/sets/radio-herrijzend-nederland",
+        "intro": "The collection of broadcasts from Radio Herrijzend Nederland (Radio \"The Netherlands Revived\") contains a selection of the radio broadcasts that were transmitted between 1944 and 1946. They were broadcasted by the military authorities from Eindhoven after its liberation in September 194... The collection of Broadcasts from Radio Herrijzend Nederland (Radio 'The Netherlands Revived') contains a selection of the radio broadcasts that were transmitted between 1944 and 1946. They were broadcasted by the military authorities from Eindhoven after its liberation in September 194... Radio uitzendingen Radio Herrijzend Nederland van Beeld en Geluid op Wikimedia Commons.",
+        "researchActivities": [],
+        "researchDomains": null,
+        "mediaTypes": [
+          "2 audio"
+        ],
+        "provenance": [],
+        "community": [],
+        "development": null
+      }
+    }
+  }
+]

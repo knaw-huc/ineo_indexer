@@ -1,0 +1,71 @@
+[
+  {
+    "operation": "create",
+    "document": {
+      "id": "http_58__47__47_hdl.handle.net_47_10032_47_3baf9acf44f95763603f9b71e389a9a8",
+      "title": "DuOMAn Subjectivity Lexicon",
+      "intro": "The DuOMAn Subjectivity Lexicon contains approximately 9,000 verbs, adverbs, substantives and adjectives which have been classified as having a (very) negative, neutral, or (very) positive connotation. The DuOMAn project focuses on the development of a set of Dutch language resources and tools for media analysis, specifically, for identifying and aggregating sentiments and opinions in online data sources, such as news and blogs. sentiment: negative, neutral, positive Het DuOMAn-subjectivitylexicon bevat ongeveer 9.000 werkwoorden, bijwoorden, substantieven en adjectieven waarvan aangegeven werd of ze een (zeer) negatieve, een neutrale of een (zeer) positieve gevoelswaarde hebben.",
+      "publishedAt": [],
+      "media": {
+        "thumbnail": [],
+        "slider": []
+      },
+      "tabs": {
+        "overview": {},
+        "learn": {},
+        "mentions": {},
+        "metadata": {}
+      },
+      "properties": {
+        "programmingLanguages": [],
+        "learn": [],
+        "resourceHost": null,
+        "funding": [],
+        "problemContact": [],
+        "informationTypes": null,
+        "languages": [
+          "Dutch",
+          "English"
+        ],
+        "access": [
+          {
+            "title": "available for commercial and non-commercial organisation; user license required",
+            "link": ""
+          }
+        ],
+        "sourceCodeLocation": [],
+        "researchContact": [],
+        "generalContact": [],
+        "resourceTypes": [
+          "Data"
+        ],
+        "status": null,
+        "versions": [],
+        "standards": [],
+        "resourceOwner": [
+          {
+            "title": "Dutch Language Union",
+            "link": "null"
+          }
+        ],
+        "link": "http://hdl.handle.net/10032/tm-a2-g9",
+        "intro": "The DuOMAn Subjectivity Lexicon contains approximately 9,000 verbs, adverbs, substantives and adjectives which have been classified as having a (very) negative, neutral, or (very) positive connotation. The DuOMAn project focuses on the development of a set of Dutch language resources and tools for media analysis, specifically, for identifying and aggregating sentiments and opinions in online data sources, such as news and blogs. sentiment: negative, neutral, positive Het DuOMAn-subjectivitylexicon bevat ongeveer 9.000 werkwoorden, bijwoorden, substantieven en adjectieven waarvan aangegeven werd of ze een (zeer) negatieve, een neutrale of een (zeer) positieve gevoelswaarde hebben.",
+        "researchActivities": [],
+        "researchDomains": null,
+        "mediaTypes": null,
+        "provenance": [],
+        "community": [],
+        "development": [
+          {
+            "title": "Valentin Jijkoun",
+            "link": "null"
+          },
+          {
+            "title": "Katja Hofmann",
+            "link": "null"
+          }
+        ]
+      }
+    }
+  }
+]

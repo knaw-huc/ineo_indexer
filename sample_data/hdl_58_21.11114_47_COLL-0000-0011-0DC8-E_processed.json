@@ -1,0 +1,66 @@
+[
+  {
+    "operation": "create",
+    "document": {
+      "id": "hdl_58_21.11114_47_COLL-0000-0011-0DC8-E",
+      "title": "academia collection",
+      "intro": "The Netherlands Institute for Sound and Vision (NISV) Academia collection contains audiovisual sources that can be used in higher education in the Netherlands. This unique selection from the NISV's archives has been made available and has been described by means of metadata specifically... The Netherlands Institute for Sound and Vision (NISV) Academia collection contains audiovisuele sources that can be used in higher education in the Netherlands. This unique selection from the NISV's archives has been made available and has been described by means of metadata specificall...",
+      "publishedAt": [],
+      "media": {
+        "thumbnail": [],
+        "slider": []
+      },
+      "tabs": {
+        "overview": {},
+        "learn": {},
+        "mentions": {},
+        "metadata": {}
+      },
+      "properties": {
+        "programmingLanguages": [],
+        "learn": [],
+        "resourceHost": [
+          {
+            "title": "http://www.academia.nl",
+            "link": "http://www.academia.nl"
+          }
+        ],
+        "funding": [],
+        "problemContact": [],
+        "informationTypes": null,
+        "languages": [
+          "Dutch"
+        ],
+        "access": [
+          {
+            "title": "Restricted for individual",
+            "link": ""
+          }
+        ],
+        "sourceCodeLocation": [],
+        "researchContact": [],
+        "generalContact": [],
+        "resourceTypes": [
+          "Data"
+        ],
+        "status": null,
+        "versions": [],
+        "standards": [],
+        "resourceOwner": [
+          {
+            "title": "NISV",
+            "link": "null"
+          }
+        ],
+        "link": "http://www.academia.nl/",
+        "intro": "The Netherlands Institute for Sound and Vision (NISV) Academia collection contains audiovisual sources that can be used in higher education in the Netherlands. This unique selection from the NISV's archives has been made available and has been described by means of metadata specifically... The Netherlands Institute for Sound and Vision (NISV) Academia collection contains audiovisuele sources that can be used in higher education in the Netherlands. This unique selection from the NISV's archives has been made available and has been described by means of metadata specificall...",
+        "researchActivities": [],
+        "researchDomains": null,
+        "mediaTypes": null,
+        "provenance": [],
+        "community": [],
+        "development": null
+      }
+    }
+  }
+]

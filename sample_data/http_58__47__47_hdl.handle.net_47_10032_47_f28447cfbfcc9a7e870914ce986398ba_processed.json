@@ -1,0 +1,83 @@
+[
+    {
+        "operation": "create",
+        "document": {
+            "id": "http_58__47__47_hdl.handle.net_47_10032_47_f28447cfbfcc9a7e870914ce986398ba",
+            "title": "AUTONOMATA Spoken Names Corpus",
+            "intro": "The AUTONOMATA Spoken Names Corpus is a database of read-aloud first names, surnames, street names, city names and control words. The corpus consists of a Dutch part and a Flemish part. Dutch as spoken by native and non-native speakers Not all documentation is available in both languages. This annotation is a manually created broad phonetic transcription (phonemic transcription) including syllable boundaries and stressmarkers.",
+            "publishedAt": [],
+            "media": {
+                "thumbnail": [],
+                "slider": []
+            },
+            "tabs": {
+                "overview": {},
+                "learn": {},
+                "mentions": {},
+                "metadata": {}
+            },
+            "properties": {
+                "programmingLanguages": [],
+                "learn": [],
+                "resourceHost": null,
+                "funding": [],
+                "problemContact": [],
+                "informationTypes": null,
+                "languages": [
+                    "Dutch",
+                    "English"
+                ],
+                "access": [
+                    {
+                        "title": "free for academic and commercial organisation; user licence required\n\t\t\t\t",
+                        "link": ""
+                    }
+                ],
+                "sourceCodeLocation": [],
+                "researchContact": [],
+                "generalContact": [],
+                "resourceTypes": [
+                    "Data"
+                ],
+                "status": null,
+                "versions": [],
+                "standards": [],
+                "resourceOwner": [
+                    {
+                        "title": "Dutch Language Union",
+                        "link": "null"
+                    }
+                ],
+                "link": "http://hdl.handle.net/10032/tm-a2-m2",
+                "intro": "The AUTONOMATA Spoken Names Corpus is a database of read-aloud first names, surnames, street names, city names and control words. The corpus consists of a Dutch part and a Flemish part. Dutch as spoken by native and non-native speakers Not all documentation is available in both languages. This annotation is a manually created broad phonetic transcription (phonemic transcription) including syllable boundaries and stressmarkers.",
+                "researchActivities": [],
+                "researchDomains": [],
+                "mediaTypes": null,
+                "provenance": [],
+                "community": [],
+                "development": [
+                    {
+                        "title": "Henk van den Heuvel",
+                        "link": "null"
+                    },
+                    {
+                        "title": "Jean-Pierre Martens",
+                        "link": "null"
+                    },
+                    {
+                        "title": "Bart D'hoore",
+                        "link": "null"
+                    },
+                    {
+                        "title": "Kristof D'hanens",
+                        "link": "null"
+                    },
+                    {
+                        "title": "Nanneke Konings",
+                        "link": "null"
+                    }
+                ]
+            }
+        }
+    }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "operation": "create",
+    "document": {
+      "id": "hdl_58_21.11114_47_COLL-0000-000B-CAAA-2",
+      "title": "The Degand 2.2 subcorpus",
+      "intro": "The Degand 2.2 subcorpus was compiled for a study of the causal connectives 'aangezien', 'want' and 'omdat' in Dutch news. It consists of 143 cases from a Dutch newspaper (NRC Handelsblad from 1994). The DiscAn corpus is a collection of subcorpora of Dutch language that have been annota... The Degand 2.2 subcorpus was compiled for a study of the causal connectives 'aangezien', 'want' and 'omdat' in Dutch news. It consists of 143 cases from a Dutch newspaper (NRC Handelsblad from 1994).",
+      "publishedAt": [],
+      "media": {
+        "thumbnail": [],
+        "slider": []
+      },
+      "tabs": {
+        "overview": {},
+        "learn": {},
+        "mentions": {},
+        "metadata": {}
+      },
+      "properties": {
+        "programmingLanguages": [],
+        "learn": [],
+        "resourceHost": null,
+        "funding": [],
+        "problemContact": [],
+        "informationTypes": null,
+        "languages": [
+          "Dutch",
+          "English"
+        ],
+        "access": [
+          {
+            "title": "Restricted for individual",
+            "link": ""
+          }
+        ],
+        "sourceCodeLocation": [],
+        "researchContact": [],
+        "generalContact": [],
+        "resourceTypes": [
+          "Data"
+        ],
+        "status": null,
+        "versions": [],
+        "standards": [],
+        "resourceOwner": [
+          {
+            "title": "The Language Archive",
+            "link": "null"
+          }
+        ],
+        "link": "https://hdl.handle.net/1839/00-69C7E1DF-8206-46FF-8369-3506235BE319@view",
+        "intro": "The Degand 2.2 subcorpus was compiled for a study of the causal connectives 'aangezien', 'want' and 'omdat' in Dutch news. It consists of 143 cases from a Dutch newspaper (NRC Handelsblad from 1994). The DiscAn corpus is a collection of subcorpora of Dutch language that have been annota... The Degand 2.2 subcorpus was compiled for a study of the causal connectives 'aangezien', 'want' and 'omdat' in Dutch news. It consists of 143 cases from a Dutch newspaper (NRC Handelsblad from 1994).",
+        "researchActivities": [],
+        "researchDomains": null,
+        "mediaTypes": null,
+        "provenance": [],
+        "community": [],
+        "development": null
+      }
+    }
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "operation": "create",
+    "document": {
+      "id": "python-ucto",
+      "title": "Python-ucto",
+      "intro": "This is a Python binding to the tokenizer Ucto. Tokenisation is one of the first step in almost any Natural Language Processing task, yet it is not always as trivial a task as it appears to be. This binding makes the power of the ucto tokeniser available to Python. Ucto itself is a regular-expres...",
+      "publishedAt": "2014-05-21",
+      "media": {},
+      "tabs": {
+        "overview": {},
+        "learn": {},
+        "mentions": {},
+        "metadata": {}
+      },
+      "properties": {
+        "programmingLanguages": [
+          {
+            "title": "Python",
+            "link": null
+          }
+        ],
+        "learn": [
+          {
+            "title": "FoLiA: Format for Linguistic Annotation - Documentation and Reference Guide \u2014 FoLiA: Format for Linguistic Annotation v2.0 (rev 9.0) documentation",
+            "link": "https://folia.readthedocs.io/en/latest/"
+          }
+        ],
+        "problemContact": [
+          {
+            "title": "Issue tracker",
+            "link": "https://github.com/proycon/python-ucto/issues"
+          }
+        ],
+        "informationTypes": [],
+        "access": [
+          {
+            "title": "Open Access",
+            "link": "https://github.com/proycon/python-ucto"
+          }
+        ],
+        "sourceCodeLocation": [
+          {
+            "title": "github.com",
+            "link": "https://github.com/proycon/python-ucto"
+          }
+        ],
+        "researchContact": [],
+        "generalContact": [
+          {
+            "title": "Maarten\u00a0van Gompel",
+            "link": "mailto:proycon@anaproy.nl"
+          }
+        ],
+        "resourceTypes": [
+          "Tools"
+        ],
+        "status": [
+          "Active"
+        ],
+        "versions": [
+          {
+            "title": "0.6.7",
+            "url": ""
+          }
+        ],
+        "standards": [],
+        "resourceOwner": [
+          {
+            "title": "KNAW Humanities Cluster & CLST, Radboud University",
+            "link": ""
+          }
+        ],
+        "link": "https://github.com/proycon/python-ucto",
+        "intro": "This is a Python binding to the tokenizer Ucto. Tokenisation is one of the first step in almost any Natural Language Processing task, yet it is not always as trivial a task as it appears to be. This binding makes the power of the ucto tokeniser available to Python. Ucto itself is a regular-expres...",
+        "provenance": [],
+        "community": [
+          {
+            "title": "Issue tracker",
+            "link": "https://github.com/proycon/python-ucto/issues"
+          }
+        ],
+        "development": [
+          {
+            "title": "Maarten van Gompel, KNAW Humanities Cluster & CLST, Radboud University",
+            "link": "https://proycon.anaproy.nl"
+          }
+        ]
+      }
+    }
+  }
+]

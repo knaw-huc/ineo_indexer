@@ -1,0 +1,58 @@
+[
+    {
+        "operation": "create",
+        "document": {
+            "id": "http_58__47__47_hdl.handle.net_47_10032_47_0a4939309e51902942f86e91758f8dd8",
+            "title": "Taalportaal",
+            "intro": "Taalportaal is a large project aiming at a comprehensive and authoritative scientific grammar, originally only for Dutch and Frisian. Since 2015, Afrikaans has also been added to the original project. Taalportaal will be an interactive knowledge base about these three languages, coverin... The aim of Taalportaal is to collect existing information about the grammars of Dutch, Frisian and Afrikaans and to make it available through the internet in a way which is both accessible and scientifically viable. Such a language portal is unique in the world. Three core domains tradi...",
+            "publishedAt": [],
+            "media": {
+                "thumbnail": [],
+                "slider": []
+            },
+            "tabs": {
+                "overview": {},
+                "learn": {},
+                "mentions": {},
+                "metadata": {}
+            },
+            "properties": {
+                "programmingLanguages": [],
+                "learn": [],
+                "resourceHost": null,
+                "funding": [],
+                "problemContact": [],
+                "informationTypes": null,
+                "languages": [
+                    "Afrikaans",
+                    "Western Frisian",
+                    "Dutch"
+                ],
+                "access": [
+                    {
+                        "title": "UNSPECIFIED",
+                        "link": ""
+                    }
+                ],
+                "sourceCodeLocation": [],
+                "researchContact": [],
+                "generalContact": [],
+                "resourceTypes": [
+                    "Data"
+                ],
+                "status": null,
+                "versions": [],
+                "standards": [],
+                "resourceOwner": null,
+                "link": "http://hdl.handle.net/10032/370e00d7ae1d0dbed5895f87ca35abd6",
+                "intro": "Taalportaal is a large project aiming at a comprehensive and authoritative scientific grammar, originally only for Dutch and Frisian. Since 2015, Afrikaans has also been added to the original project. Taalportaal will be an interactive knowledge base about these three languages, coverin... The aim of Taalportaal is to collect existing information about the grammars of Dutch, Frisian and Afrikaans and to make it available through the internet in a way which is both accessible and scientifically viable. Such a language portal is unique in the world. Three core domains tradi...",
+                "researchActivities": [],
+                "researchDomains": [],
+                "mediaTypes": null,
+                "provenance": [],
+                "community": [],
+                "development": null
+            }
+        }
+    }
+]

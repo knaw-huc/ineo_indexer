@@ -1,0 +1,67 @@
+[
+  {
+    "operation": "create",
+    "document": {
+      "id": "hdl_58_21.11114_47_COLL-0000-000B-CAA6-6",
+      "title": "CHILDES Zink corpus",
+      "intro": "The recordings for this corpus were made in Leuven, Brabant, Belgium (3 children: Meinder, Judith, Laurien) and Antwerp, Belgium (1 child: David). The participants were recorded every two weeks from 8 months to 25 months of age. Each recording session lasted approximately 60 minutes The recordings for this corpus were made in Leuven, Brabant, Belgium (3 children: Meinder, Judith, Laurien) and Antwerp, Belgium (1 child: David). The participants were recorded every two weeks from 8 months to 25 months of age. Each recording session lasted approximately 60 minutes. Du...",
+      "publishedAt": [],
+      "media": {
+        "thumbnail": [],
+        "slider": []
+      },
+      "tabs": {
+        "overview": {},
+        "learn": {},
+        "mentions": {},
+        "metadata": {}
+      },
+      "properties": {
+        "programmingLanguages": [],
+        "learn": [],
+        "resourceHost": [
+          {
+            "title": "https://doi.org",
+            "link": "https://doi.org"
+          }
+        ],
+        "funding": [],
+        "problemContact": [],
+        "informationTypes": null,
+        "languages": [
+          "Dutch",
+          "English"
+        ],
+        "access": [
+          {
+            "title": "Public",
+            "link": ""
+          }
+        ],
+        "sourceCodeLocation": [],
+        "researchContact": [],
+        "generalContact": [],
+        "resourceTypes": [
+          "Data"
+        ],
+        "status": null,
+        "versions": [],
+        "standards": [],
+        "resourceOwner": [
+          {
+            "title": "unknown",
+            "link": "null"
+          }
+        ],
+        "link": "https://doi.org/10.21415/T5QG6P",
+        "intro": "The recordings for this corpus were made in Leuven, Brabant, Belgium (3 children: Meinder, Judith, Laurien) and Antwerp, Belgium (1 child: David). The participants were recorded every two weeks from 8 months to 25 months of age. Each recording session lasted approximately 60 minutes The recordings for this corpus were made in Leuven, Brabant, Belgium (3 children: Meinder, Judith, Laurien) and Antwerp, Belgium (1 child: David). The participants were recorded every two weeks from 8 months to 25 months of age. Each recording session lasted approximately 60 minutes. Du...",
+        "researchActivities": [],
+        "researchDomains": null,
+        "mediaTypes": null,
+        "provenance": [],
+        "community": [],
+        "development": null
+      }
+    }
+  }
+]

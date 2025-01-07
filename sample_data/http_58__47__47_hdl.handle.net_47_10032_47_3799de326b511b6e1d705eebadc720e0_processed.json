@@ -1,0 +1,59 @@
+[
+  {
+    "operation": "create",
+    "document": {
+      "id": "http_58__47__47_hdl.handle.net_47_10032_47_3799de326b511b6e1d705eebadc720e0",
+      "title": "Database van de Zuidelijk-Nederlandse Dialecten (DSDD)",
+      "intro": "The Database of the Southern Dutch Dialects (DSDD) is an aggregation of three regional dialect dictionaries: the Dictionary of Flemish Dialects (Woordenboek van de Vlaamse Dialecten - WVD), the Dictionary of the Brabantian Dialects (Woordenboek van de Brabantse Dialecten - WBD), and the... syntactically annotated text fragments",
+      "publishedAt": [],
+      "media": {
+        "thumbnail": [],
+        "slider": []
+      },
+      "tabs": {
+        "overview": {},
+        "learn": {},
+        "mentions": {},
+        "metadata": {}
+      },
+      "properties": {
+        "programmingLanguages": [],
+        "learn": [],
+        "resourceHost": null,
+        "funding": [],
+        "problemContact": [],
+        "informationTypes": null,
+        "languages": null,
+        "access": [
+          {
+            "title": "Public",
+            "link": ""
+          }
+        ],
+        "sourceCodeLocation": [],
+        "researchContact": [],
+        "generalContact": [],
+        "resourceTypes": [
+          "Data"
+        ],
+        "status": null,
+        "versions": [],
+        "standards": [],
+        "resourceOwner": [
+          {
+            "title": "Instituut voor de Nederlandse Taal",
+            "link": "null"
+          }
+        ],
+        "link": "http://hdl.handle.net/10032/tm-a2-s2",
+        "intro": "The Database of the Southern Dutch Dialects (DSDD) is an aggregation of three regional dialect dictionaries: the Dictionary of Flemish Dialects (Woordenboek van de Vlaamse Dialecten - WVD), the Dictionary of the Brabantian Dialects (Woordenboek van de Brabantse Dialecten - WBD), and the... syntactically annotated text fragments",
+        "researchActivities": [],
+        "researchDomains": null,
+        "mediaTypes": null,
+        "provenance": [],
+        "community": [],
+        "development": null
+      }
+    }
+  }
+]

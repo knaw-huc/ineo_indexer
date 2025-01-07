@@ -1,0 +1,80 @@
+[
+    {
+        "operation": "create",
+        "document": {
+            "id": "doi_58_10.17026_47_SS_47_TGPDJF",
+            "title": "ChiSCor: Children's Story Corpus",
+            "intro": "ChiSCor is a new corpus containing 619 fantasy stories, told freely by 442 Dutch children aged 4-12. ChiSCor was compiled for studying how children render character perspectives, and unravelling language and cognition in development, with computational tools. ChiSCor hosts text, audio, ...",
+            "publishedAt": [],
+            "media": {
+                "thumbnail": [],
+                "slider": []
+            },
+            "tabs": {
+                "overview": {},
+                "learn": {},
+                "mentions": {},
+                "metadata": {}
+            },
+            "properties": {
+                "programmingLanguages": [],
+                "learn": [],
+                "resourceHost": [
+                    {
+                        "title": "https://doi.org",
+                        "link": "https://doi.org"
+                    }
+                ],
+                "funding": [],
+                "problemContact": [],
+                "informationTypes": null,
+                "languages": [
+                    "English"
+                ],
+                "access": [
+                    {
+                        "title": "UNSPECIFIED",
+                        "link": ""
+                    }
+                ],
+                "sourceCodeLocation": [],
+                "researchContact": [],
+                "generalContact": [],
+                "resourceTypes": [
+                    "Data"
+                ],
+                "status": null,
+                "versions": [],
+                "standards": [],
+                "resourceOwner": null,
+                "link": "https://doi.org/10.17026/SS/TGPDJF",
+                "intro": "ChiSCor is a new corpus containing 619 fantasy stories, told freely by 442 Dutch children aged 4-12. ChiSCor was compiled for studying how children render character perspectives, and unravelling language and cognition in development, with computational tools. ChiSCor hosts text, audio, ...",
+                "researchActivities": [],
+                "researchDomains": [
+                    "https://w3id.org/nwo-research-fields#ComputationalLinguisticsAndPhilology"
+                ],
+                "mediaTypes": null,
+                "provenance": [],
+                "community": [],
+                "development": [
+                    {
+                        "title": "van Dijk, Bram",
+                        "link": "null"
+                    },
+                    {
+                        "title": "van Duijn, Max J.",
+                        "link": "null"
+                    },
+                    {
+                        "title": "Verberne, S.",
+                        "link": "null"
+                    },
+                    {
+                        "title": "Spruit, Marco R.",
+                        "link": "null"
+                    }
+                ]
+            }
+        }
+    }
+]

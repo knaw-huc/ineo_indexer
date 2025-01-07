@@ -1,0 +1,99 @@
+[
+  {
+    "operation": "create",
+    "document": {
+      "id": "http_58__47__47_hdl.handle.net_47_10032_47_ae24b3e3d2da92f4654ada13fcf8573a",
+      "title": "COREA-coreferentiecorpus",
+      "intro": "The COREA Coreference Corpus (ca. 150,000 tokens) is a collection of Dutch texts in which coreference relations were systematically marked. The corpus consists of newspaper articles (D-Coi), transcribed spoken language (Spoken Dutch Corpus - CGN) and lemmas from the Spectrum (Winkler Pr... Not all documentation is available in both languages.",
+      "publishedAt": [],
+      "media": {
+        "thumbnail": [],
+        "slider": []
+      },
+      "tabs": {
+        "overview": {},
+        "learn": {},
+        "mentions": {},
+        "metadata": {}
+      },
+      "properties": {
+        "programmingLanguages": [],
+        "learn": [],
+        "resourceHost": null,
+        "funding": [],
+        "problemContact": [],
+        "informationTypes": null,
+        "languages": [
+          "Dutch",
+          "English"
+        ],
+        "access": [
+          {
+            "title": "available for commercial and non-commercial organisation; user license required",
+            "link": ""
+          }
+        ],
+        "sourceCodeLocation": [],
+        "researchContact": [],
+        "generalContact": [],
+        "resourceTypes": [
+          "Data"
+        ],
+        "status": null,
+        "versions": [],
+        "standards": [],
+        "resourceOwner": [
+          {
+            "title": "Dutch Language Union",
+            "link": "null"
+          }
+        ],
+        "link": "http://hdl.handle.net/10032/tm-a2-f9",
+        "intro": "The COREA Coreference Corpus (ca. 150,000 tokens) is a collection of Dutch texts in which coreference relations were systematically marked. The corpus consists of newspaper articles (D-Coi), transcribed spoken language (Spoken Dutch Corpus - CGN) and lemmas from the Spectrum (Winkler Pr... Not all documentation is available in both languages.",
+        "researchActivities": [],
+        "researchDomains": null,
+        "mediaTypes": null,
+        "provenance": [],
+        "community": [],
+        "development": [
+          {
+            "title": "Iris Hendrickx",
+            "link": "null"
+          },
+          {
+            "title": "Gosse Bouma",
+            "link": "null"
+          },
+          {
+            "title": "Frederik Coppens",
+            "link": "null"
+          },
+          {
+            "title": "Walter Daelemans",
+            "link": "null"
+          },
+          {
+            "title": "Veronique Hoste",
+            "link": "null"
+          },
+          {
+            "title": "Geert Kloosterman",
+            "link": "null"
+          },
+          {
+            "title": "Anne-Marie Mineur",
+            "link": "null"
+          },
+          {
+            "title": "Joeri Van Der Vloet",
+            "link": "null"
+          },
+          {
+            "title": "Jean-Luc Verschelde",
+            "link": "null"
+          }
+        ]
+      }
+    }
+  }
+]

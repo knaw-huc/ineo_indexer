@@ -1,0 +1,67 @@
+[
+    {
+        "operation": "create",
+        "document": {
+            "id": "doi_58_10.17026_47_SS_47_VIZVO2",
+            "title": "Project Ongekend Bijzonder, Amsterdam, interview 62",
+            "intro": "geslacht: V land van herkomst: Azerbaijan leeftijd aankomst Nederland: 55 vluchtreden: politiek nationaliteit Tartaren bijzonderheden: vrijwilligerswerk bejaardenhuis en praatbijeenkomsten oud-asielzoekers VluchtelingenWerk en bijeenkomsten Hart van Osdorp",
+            "publishedAt": [],
+            "media": {
+                "thumbnail": [],
+                "slider": []
+            },
+            "tabs": {
+                "overview": {},
+                "learn": {},
+                "mentions": {},
+                "metadata": {}
+            },
+            "properties": {
+                "programmingLanguages": [],
+                "learn": [],
+                "resourceHost": [
+                    {
+                        "title": "https://doi.org",
+                        "link": "https://doi.org"
+                    }
+                ],
+                "funding": [],
+                "problemContact": [],
+                "informationTypes": null,
+                "languages": [
+                    "Dutch",
+                    "English"
+                ],
+                "access": [
+                    {
+                        "title": "UNSPECIFIED",
+                        "link": ""
+                    }
+                ],
+                "sourceCodeLocation": [],
+                "researchContact": [],
+                "generalContact": [],
+                "resourceTypes": [
+                    "Data"
+                ],
+                "status": null,
+                "versions": [],
+                "standards": [],
+                "resourceOwner": null,
+                "link": "https://doi.org/10.17026/SS/VIZVO2",
+                "intro": "geslacht: V land van herkomst: Azerbaijan leeftijd aankomst Nederland: 55 vluchtreden: politiek nationaliteit Tartaren bijzonderheden: vrijwilligerswerk bejaardenhuis en praatbijeenkomsten oud-asielzoekers VluchtelingenWerk en bijeenkomsten Hart van Osdorp",
+                "researchActivities": [],
+                "researchDomains": [],
+                "mediaTypes": null,
+                "provenance": [],
+                "community": [],
+                "development": [
+                    {
+                        "title": "Stichting Bevordering Maatschappelijke Participatie - BMP",
+                        "link": "null"
+                    }
+                ]
+            }
+        }
+    }
+]

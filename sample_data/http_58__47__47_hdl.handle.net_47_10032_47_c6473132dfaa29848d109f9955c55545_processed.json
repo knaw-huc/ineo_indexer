@@ -1,0 +1,62 @@
+[
+  {
+    "operation": "create",
+    "document": {
+      "id": "http_58__47__47_hdl.handle.net_47_10032_47_c6473132dfaa29848d109f9955c55545",
+      "title": "Moroccorp",
+      "intro": "Moroccorp is a corpus of computer-mediated communication in Dutch by Moroccan-Dutch language users, consisting of ten million words of chat material. The data is delivered in a .txt file of 82.4 Mb. Moroccorp is een corpus van communicatie via internet-chat tussen Marokkaans-Nederlandse taalgebruikers, bestaande uit tien miljoen woorden. De data wordt aangeboden als een tekstbestand van 82.4 Mb.",
+      "publishedAt": [],
+      "media": {
+        "thumbnail": [],
+        "slider": []
+      },
+      "tabs": {
+        "overview": {},
+        "learn": {},
+        "mentions": {},
+        "metadata": {}
+      },
+      "properties": {
+        "programmingLanguages": [],
+        "learn": [],
+        "resourceHost": null,
+        "funding": [],
+        "problemContact": [],
+        "informationTypes": null,
+        "languages": [
+          "Dutch",
+          "English"
+        ],
+        "access": [
+          {
+            "title": "available for academic use, no user licence required; ",
+            "link": ""
+          }
+        ],
+        "sourceCodeLocation": [],
+        "researchContact": [],
+        "generalContact": [],
+        "resourceTypes": [
+          "Data"
+        ],
+        "status": null,
+        "versions": [],
+        "standards": [],
+        "resourceOwner": [
+          {
+            "title": "Freek van de Velde and Tom Ruette",
+            "link": "null"
+          }
+        ],
+        "link": "http://hdl.handle.net/10032/tm-a2-q4",
+        "intro": "Moroccorp is a corpus of computer-mediated communication in Dutch by Moroccan-Dutch language users, consisting of ten million words of chat material. The data is delivered in a .txt file of 82.4 Mb. Moroccorp is een corpus van communicatie via internet-chat tussen Marokkaans-Nederlandse taalgebruikers, bestaande uit tien miljoen woorden. De data wordt aangeboden als een tekstbestand van 82.4 Mb.",
+        "researchActivities": [],
+        "researchDomains": null,
+        "mediaTypes": null,
+        "provenance": [],
+        "community": [],
+        "development": null
+      }
+    }
+  }
+]

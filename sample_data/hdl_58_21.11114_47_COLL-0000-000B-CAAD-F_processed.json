@@ -1,0 +1,65 @@
+[
+  {
+    "operation": "create",
+    "document": {
+      "id": "hdl_58_21.11114_47_COLL-0000-000B-CAAD-F",
+      "title": "MIMORE - DynaSand",
+      "intro": "the dynamic syntactic atlas of the Dutch dialects. The data in DynaSAND, the dynamic syntactic atlas of the Dutch dialects (http://www.meertens.knaw.nl/sand/ (link is external) (link is external)), were collected between 2000 and 2005 by oral interviews (fieldwork and telephone) in abo... The data in DynaSAND, the dynamic syntactic atlas of the Dutch dialects (http://www.meertens.knaw.nl/sand/ (link is external) (link is external)), were collected between 2000 and 2005 by oral interviews (fieldwork and telephone) in about 300 locations across The Netherlands, Belgium and...",
+      "publishedAt": [],
+      "media": {
+        "thumbnail": [],
+        "slider": []
+      },
+      "tabs": {
+        "overview": {},
+        "learn": {},
+        "mentions": {},
+        "metadata": {}
+      },
+      "properties": {
+        "programmingLanguages": [],
+        "learn": [],
+        "resourceHost": null,
+        "funding": [],
+        "problemContact": [],
+        "informationTypes": null,
+        "languages": [
+          "Dutch",
+          "English"
+        ],
+        "access": [
+          {
+            "title": "Public",
+            "link": "https://creativecommons.org/licenses/by-nc/4.0/"
+          }
+        ],
+        "sourceCodeLocation": [],
+        "researchContact": [],
+        "generalContact": [],
+        "resourceTypes": [
+          "Data"
+        ],
+        "status": null,
+        "versions": [],
+        "standards": [],
+        "resourceOwner": [
+          {
+            "title": "Meertens Instituut",
+            "link": "null"
+          }
+        ],
+        "link": "http://hdl.handle.net/11858/00-395C-0000-0000-6EB4-4",
+        "intro": "the dynamic syntactic atlas of the Dutch dialects. The data in DynaSAND, the dynamic syntactic atlas of the Dutch dialects (http://www.meertens.knaw.nl/sand/ (link is external) (link is external)), were collected between 2000 and 2005 by oral interviews (fieldwork and telephone) in abo... The data in DynaSAND, the dynamic syntactic atlas of the Dutch dialects (http://www.meertens.knaw.nl/sand/ (link is external) (link is external)), were collected between 2000 and 2005 by oral interviews (fieldwork and telephone) in about 300 locations across The Netherlands, Belgium and...",
+        "researchActivities": [],
+        "researchDomains": null,
+        "mediaTypes": [
+          "7.37 tab-separated-values",
+          "7 text"
+        ],
+        "provenance": [],
+        "community": [],
+        "development": null
+      }
+    }
+  }
+]

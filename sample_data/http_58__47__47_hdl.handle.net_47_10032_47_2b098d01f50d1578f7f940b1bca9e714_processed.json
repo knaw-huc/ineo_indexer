@@ -1,0 +1,71 @@
+[
+  {
+    "operation": "create",
+    "document": {
+      "id": "http_58__47__47_hdl.handle.net_47_10032_47_2b098d01f50d1578f7f940b1bca9e714",
+      "title": "DAESO Corpus: Parallell Dutch Monolingual Treebank",
+      "intro": "The DAESO Corpus is a parallel monolingual treebank for Dutch and it consists of over 2.1M words of aligned text, about 678k manually aligned and about 1511k words automatically aligned. The alignments are labelled in terms of elementary semantic relations.",
+      "publishedAt": [],
+      "media": {
+        "thumbnail": [],
+        "slider": []
+      },
+      "tabs": {
+        "overview": {},
+        "learn": {},
+        "mentions": {},
+        "metadata": {}
+      },
+      "properties": {
+        "programmingLanguages": [],
+        "learn": [],
+        "resourceHost": null,
+        "funding": [],
+        "problemContact": [],
+        "informationTypes": null,
+        "languages": [
+          "Dutch",
+          "English"
+        ],
+        "access": [
+          {
+            "title": "available for non-commercial and commercial organisation; user licence required ",
+            "link": ""
+          }
+        ],
+        "sourceCodeLocation": [],
+        "researchContact": [],
+        "generalContact": [],
+        "resourceTypes": [
+          "Data"
+        ],
+        "status": null,
+        "versions": [],
+        "standards": [],
+        "resourceOwner": [
+          {
+            "title": "Dutch Language Union",
+            "link": "null"
+          }
+        ],
+        "link": "http://hdl.handle.net/10032/tm-a2-h9",
+        "intro": "The DAESO Corpus is a parallel monolingual treebank for Dutch and it consists of over 2.1M words of aligned text, about 678k manually aligned and about 1511k words automatically aligned. The alignments are labelled in terms of elementary semantic relations.",
+        "researchActivities": [],
+        "researchDomains": null,
+        "mediaTypes": null,
+        "provenance": [],
+        "community": [],
+        "development": [
+          {
+            "title": "Erwin Marsi",
+            "link": "null"
+          },
+          {
+            "title": "Emiel Krahmer",
+            "link": "null"
+          }
+        ]
+      }
+    }
+  }
+]

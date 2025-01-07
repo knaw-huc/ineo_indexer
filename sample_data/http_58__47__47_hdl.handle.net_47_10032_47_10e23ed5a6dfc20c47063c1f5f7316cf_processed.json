@@ -1,0 +1,79 @@
+[
+  {
+    "operation": "create",
+    "document": {
+      "id": "http_58__47__47_hdl.handle.net_47_10032_47_10e23ed5a6dfc20c47063c1f5f7316cf",
+      "title": "JASMIN Speech Corpus",
+      "intro": "The JASMIN speech corpus is a collection of ca. 115 hours of Dutch speech by young speakers, non-native speakers and elderly speakers living in Flanders and the Netherlands. The speech recordings concern read text and human-machine interaction (HMI) with various annotations. The JASMIN ... Dutch as spoken by young speakers, non-native speakers and elderly speakers living in Flanders and the Netherlands. Not all documentation is available in both languages. Part of speech tags were added to each word in the corpus. A phonemic annotation was made by adapting an automatically generated broad phonetic transcription. An annotation layer which describes phenomena that are characteristic for man-machine interaction, e.g. restarts, fillers, selftalk,...",
+      "publishedAt": [],
+      "media": {
+        "thumbnail": [],
+        "slider": []
+      },
+      "tabs": {
+        "overview": {},
+        "learn": {},
+        "mentions": {},
+        "metadata": {}
+      },
+      "properties": {
+        "programmingLanguages": [],
+        "learn": [],
+        "resourceHost": null,
+        "funding": [],
+        "problemContact": [],
+        "informationTypes": null,
+        "languages": [
+          "Dutch",
+          "English"
+        ],
+        "access": [
+          {
+            "title": "available for non-commercial and commercial organisations; user licence required\n\t\t\t\t",
+            "link": ""
+          }
+        ],
+        "sourceCodeLocation": [],
+        "researchContact": [],
+        "generalContact": [],
+        "resourceTypes": [
+          "Data"
+        ],
+        "status": null,
+        "versions": [],
+        "standards": [],
+        "resourceOwner": [
+          {
+            "title": "Dutch Language Union",
+            "link": "null"
+          }
+        ],
+        "link": "http://hdl.handle.net/10032/tm-a2-j7",
+        "intro": "The JASMIN speech corpus is a collection of ca. 115 hours of Dutch speech by young speakers, non-native speakers and elderly speakers living in Flanders and the Netherlands. The speech recordings concern read text and human-machine interaction (HMI) with various annotations. The JASMIN ... Dutch as spoken by young speakers, non-native speakers and elderly speakers living in Flanders and the Netherlands. Not all documentation is available in both languages. Part of speech tags were added to each word in the corpus. A phonemic annotation was made by adapting an automatically generated broad phonetic transcription. An annotation layer which describes phenomena that are characteristic for man-machine interaction, e.g. restarts, fillers, selftalk,...",
+        "researchActivities": [],
+        "researchDomains": null,
+        "mediaTypes": null,
+        "provenance": [],
+        "community": [],
+        "development": [
+          {
+            "title": "Catia Cucchiarini",
+            "link": "null"
+          },
+          {
+            "title": "Joris Driesen",
+            "link": "null"
+          },
+          {
+            "title": "Hugo Van hamme",
+            "link": "null"
+          },
+          {
+            "title": "E. Sanders",
+            "link": "null"
+          }
+        ]
+      }
+    }
+  }
+]

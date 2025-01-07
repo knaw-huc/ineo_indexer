@@ -1,0 +1,61 @@
+[
+  {
+    "operation": "create",
+    "document": {
+      "id": "http_58__47__47_data.beeldengeluid.nl_47_id_47_dataset_47_0002",
+      "title": "Open Beelden",
+      "intro": "Creative Commons licensed audiovisual heritage from the Netherlands Institute for Sound and Vision Een verzameling van videomateriaal dat Beeld en Geluid onder een Creative Commons licentie vrijgeeft, of reeds in het Publiek Domein valt. De beeldengeluid dataset op Open Beelden bevat meer dan 7000 videos. Het bestaat uit Polygoon journaals en andere films uit de 20ste eeuw. De videos... Open Beelden is een open mediaplatform dat toegang biedt tot audiovisuele collecties die eenvoudig hergebruikt kunnen worden.",
+      "publishedAt": [],
+      "media": {
+        "thumbnail": [],
+        "slider": []
+      },
+      "tabs": {
+        "overview": {},
+        "learn": {},
+        "mentions": {},
+        "metadata": {}
+      },
+      "properties": {
+        "programmingLanguages": [],
+        "learn": [],
+        "resourceHost": [
+          {
+            "title": "https://www.openbeelden.nl",
+            "link": "https://www.openbeelden.nl"
+          }
+        ],
+        "funding": [],
+        "problemContact": [],
+        "informationTypes": null,
+        "languages": null,
+        "access": [
+          {
+            "title": "Public",
+            "link": "https://creativecommons.org/publicdomain/zero/1.0/"
+          }
+        ],
+        "sourceCodeLocation": [],
+        "researchContact": [],
+        "generalContact": [],
+        "resourceTypes": [
+          "Data"
+        ],
+        "status": null,
+        "versions": [],
+        "standards": [],
+        "resourceOwner": null,
+        "link": "https://www.openbeelden.nl/users/beeldengeluid",
+        "intro": "Creative Commons licensed audiovisual heritage from the Netherlands Institute for Sound and Vision Een verzameling van videomateriaal dat Beeld en Geluid onder een Creative Commons licentie vrijgeeft, of reeds in het Publiek Domein valt. De beeldengeluid dataset op Open Beelden bevat meer dan 7000 videos. Het bestaat uit Polygoon journaals en andere films uit de 20ste eeuw. De videos... Open Beelden is een open mediaplatform dat toegang biedt tot audiovisuele collecties die eenvoudig hergebruikt kunnen worden.",
+        "researchActivities": [],
+        "researchDomains": null,
+        "mediaTypes": [
+          "7 text"
+        ],
+        "provenance": [],
+        "community": [],
+        "development": null
+      }
+    }
+  }
+]

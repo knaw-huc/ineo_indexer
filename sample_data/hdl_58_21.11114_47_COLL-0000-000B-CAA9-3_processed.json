@@ -1,0 +1,69 @@
+[
+  {
+    "operation": "create",
+    "document": {
+      "id": "hdl_58_21.11114_47_COLL-0000-000B-CAA9-3",
+      "title": "MIMORE - DiDDD",
+      "intro": "The data in DiDDD (Diversity in Dutch DP Design; http://www.meertens.knaw.nl/diddd/ (link is external) were collected between 2005 and 2009 with oral and written interviews in about 200 locations in the Dutch language area, with a methodology highly parallel to DynaSAND. The data involv... DiDDD transcribed interviews. For 29 interviews there are sound recordings which have been lined up with their transcriptions. The DIDDD data cover the morphosyntactic variation within nominal groups, in particular possessives, partitives, noun ellipsis, the demonstrative system, the n...",
+      "publishedAt": [],
+      "media": {
+        "thumbnail": [],
+        "slider": []
+      },
+      "tabs": {
+        "overview": {},
+        "learn": {},
+        "mentions": {},
+        "metadata": {}
+      },
+      "properties": {
+        "programmingLanguages": [],
+        "learn": [],
+        "resourceHost": [
+          {
+            "title": "http://www.meertens.knaw.nl",
+            "link": "http://www.meertens.knaw.nl"
+          }
+        ],
+        "funding": [],
+        "problemContact": [],
+        "informationTypes": null,
+        "languages": [
+          "Dutch"
+        ],
+        "access": [
+          {
+            "title": "Public",
+            "link": "https://creativecommons.org/licenses/by-nc/4.0/"
+          }
+        ],
+        "sourceCodeLocation": [],
+        "researchContact": [],
+        "generalContact": [],
+        "resourceTypes": [
+          "Data"
+        ],
+        "status": null,
+        "versions": [],
+        "standards": [],
+        "resourceOwner": [
+          {
+            "title": "Utrecht University",
+            "link": "null"
+          }
+        ],
+        "link": "http://www.meertens.knaw.nl/diddd/",
+        "intro": "The data in DiDDD (Diversity in Dutch DP Design; http://www.meertens.knaw.nl/diddd/ (link is external) were collected between 2005 and 2009 with oral and written interviews in about 200 locations in the Dutch language area, with a methodology highly parallel to DynaSAND. The data involv... DiDDD transcribed interviews. For 29 interviews there are sound recordings which have been lined up with their transcriptions. The DIDDD data cover the morphosyntactic variation within nominal groups, in particular possessives, partitives, noun ellipsis, the demonstrative system, the n...",
+        "researchActivities": [],
+        "researchDomains": null,
+        "mediaTypes": [
+          "7 text",
+          "7.37 tab-separated-values"
+        ],
+        "provenance": [],
+        "community": [],
+        "development": null
+      }
+    }
+  }
+]

@@ -1,0 +1,108 @@
+[
+    {
+        "operation": "create",
+        "document": {
+            "id": "int-pie",
+            "title": "Int-pie",
+            "intro": "The PIE tagger with custom modifications by the Dutch Language Institute (INT).",
+            "publishedAt": "2024-05-31",
+            "media": {},
+            "tabs": {
+                "overview": {},
+                "learn": {},
+                "mentions": {},
+                "metadata": {}
+            },
+            "properties": {
+                "programmingLanguages": [
+                    {
+                        "title": "Python",
+                        "link": null
+                    }
+                ],
+                "problemContact": [
+                    {
+                        "title": "Issue tracker",
+                        "link": "https://github.com/INL/int-pie/issues"
+                    }
+                ],
+                "informationTypes": [],
+                "access": [
+                    {
+                        "title": "Open Access",
+                        "link": "https://github.com/INL/int-pie"
+                    }
+                ],
+                "sourceCodeLocation": [
+                    {
+                        "title": "github.com",
+                        "link": "https://github.com/INL/int-pie"
+                    }
+                ],
+                "researchContact": [],
+                "generalContact": [
+                    {
+                        "title": "Vincent\u00a0Prins",
+                        "link": "mailto:vincent.prins@ivdnt.org"
+                    }
+                ],
+                "resourceTypes": [
+                    "Tools"
+                ],
+                "status": [
+                    "Active"
+                ],
+                "versions": [
+                    {
+                        "title": "1.0.0",
+                        "url": ""
+                    }
+                ],
+                "standards": [],
+                "resourceOwner": [
+                    {
+                        "title": "Instituut voor de Nederlandse taal",
+                        "link": "https://www.ivdnt.org"
+                    }
+                ],
+                "link": "https://github.com/INL/int-pie",
+                "intro": "The PIE tagger with custom modifications by the Dutch Language Institute (INT).",
+                "researchActivities": [
+                    "https://vocabs.dariah.eu/tadirah/analyzing",
+                    "https://vocabs.dariah.eu/tadirah/annotating",
+                    "https://vocabs.dariah.eu/tadirah/enriching",
+                    "https://vocabs.dariah.eu/tadirah/lemmatizing",
+                    "https://vocabs.dariah.eu/tadirah/machineLearning",
+                    "https://vocabs.dariah.eu/tadirah/posTagging",
+                    "https://vocabs.dariah.eu/tadirah/tagging"
+                ],
+                "researchDomains": [
+                    "https://w3id.org/nwo-research-fields#ArtificialIntelligenceExpertSystems",
+                    "https://w3id.org/nwo-research-fields#ComputationalLinguisticsAndPhilology",
+                    "https://w3id.org/nwo-research-fields#Linguistics"
+                ],
+                "provenance": [],
+                "community": [
+                    {
+                        "title": "Issue tracker",
+                        "link": "https://github.com/INL/int-pie/issues"
+                    }
+                ],
+                "development": [
+                    {
+                        "title": "Enrique Manjavacas",
+                        "link": ""
+                    },
+                    {
+                        "title": "Mike Kestemont",
+                        "link": ""
+                    },
+                    {
+                        "title": "Thibault Clerice",
+                        "link": ""
+                    }
+                ]
+            }
+        }
+    }
+]

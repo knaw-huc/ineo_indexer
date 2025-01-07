@@ -1,0 +1,101 @@
+[
+  {
+    "operation": "create",
+    "document": {
+      "id": "colibri-core",
+      "title": "Colibri Core",
+      "intro": "Colibri Core is an NLP tool as well as a C++ and Python library for working with basic linguistic constructions such as n-grams and skipgrams (i.e. patterns with one or more gaps, either of fixed or dynamic size) in a quick and memory-efficient way.",
+      "publishedAt": "2013-09-15",
+      "media": {
+        "slider": [
+          "https://raw.githubusercontent.com/CLARIAH/ineo-content/master/media/colibri_architecture.svg",
+          "https://raw.githubusercontent.com/CLARIAH/ineo-content/master/media/colibri-core.gif"
+        ]
+      },
+      "tabs": {
+        "overview": {
+          "body": "### Overview\n * [Colibri Core](https://proycon.github.io/colibri-core/) is software to quickly and efficiently count and extract patterns from large corpus data, to extract various statistics on the extracted patterns, and to compute relations between the extracted patterns.\n* The employed notion of pattern or construction encompasses the following categories: n-gram -- *n* consecutive words; skipgram -- An abstract pattern of predetermined length with one or multiple gaps (of specific size); flexgram -- An abstract pattern with one or more gaps of variable-size.\n* At the heart of the sofware is the notion of pattern models. A pattern model is simply a collection of extracted patterns (any of the three categories) and their counts from a specific corpus.\n* Colibri Core is available as a collection of [standalone command-line tools](https://github.com/proycon/colibri-core), as a [C++ library](https://proycon.github.io/colibri-core/capi/html/), and as a [Python library](https://pypi.org/project/colibricore/)."
+        },
+        "learn": {
+          "body": "Colibri Core is software to quickly and efficiently count and extract patterns from large corpus data, to extract various statistics on the extracted patterns, and to compute relations between the extracted patterns. The employed notion of pattern or construction encompasses the following categories:\n\n* n-gram -- n consecutive words;\n* skipgram -- An abstract pattern of predetermined length with one or multiple gaps (of specific size);\n* flexgram -- An abstract pattern with one or more gaps of variable-size.\n\nN-gram extraction may seem fairly trivial at first, with a few lines in your favourite scripting language, you can move a simple sliding window of size *n* over your corpus and store the results in some kind of hashmap. This trivial approach however makes an unnecessarily high demand on memory resources, this often becomes prohibitive if unleashed on large corpora. Colibri Core tries to minimise these space requirements in several ways:\n\n* Compressed binary representation -- Each word type is assigned a numeric class, which is encoded in a compact binary format in which highly frequent classes take less space than less frequent classes. Colibri core always uses this representation rather than a full string representation, both on disk and in memory.\n* Informed iterative counting -- Counting is performed more intelligently by iteratively processing the corpus in several passes and quickly discarding patterns that won't reach the desired occurrence threshold.\n\nSkipgram and flexgram extraction are computationally more demanding but have been implemented with similar optimisations. Skipgrams are computed by abstracting over n-grams, and flexgrams in turn are computed either by abstracting over skipgrams, or directly from n-grams on the basis of co-occurrence information (mutual pointwise information).\n\nAt the heart of the sofware is the notion of *pattern models*. The core tool, to be used from the command-line, is `colibri-patternmodeller` which enables you to build pattern models, generate statistical reports, query for specific patterns and relations, and manipulate models.\n\nA pattern model is simply a collection of extracted patterns (any of the three categories) and their counts from a specific corpus. Pattern models come in two varieties:\n\n* Unindexed Pattern Model -- The simplest form, which simply stores the patterns and their count;\n* Indexed Pattern Model -- The more informed form, which retains all indices to the original corpus, at the cost of more memory/diskspace.\n\nThe Indexed Pattern Model is much more powerful, and allows more statistics and relations to be inferred.\n\nThe generation of pattern models is optionally parametrised by a minimum occurrence threshold, a maximum pattern length, and a lower-boundary on the different types that may instantiate a skipgram (i.e. possible fillings of the gaps).\n\n\n### Distributions\n\nColibri Core is available as a collection of [standalone command-line tools](https://github.com/proycon/colibri-core), as a [C++ library](https://proycon.github.io/colibri-core/capi/html/), and as a [Python library](https://pypi.org/project/colibricore/).\n\n### Documentation and resources\n\nColibri Core is well documented in the following places:\n\n* van Gompel, M., & van den Bosch, A. (2016). [Efficient n-gram, Skipgram and Flexgram Modelling with Colibri Core.](http://dx.doi.org/10.5334/jors.105) *Journal of Open Research Software, 4*(1), e30. http://dx.doi.org/10.5334/jors.105\n* [Source code on GitHub](https://github.com/proycon/colibri-core)\n* [Documentation and Python API reference](https://proycon.github.io/colibri-core/doc/)\n* [C++ API reference](https://proycon.github.io/colibri-core/capi/html/)\n* [Python Tutorial (ipython notebook)](https://proycon.github.io/colibri-core/doc/colibricore-python-tutorial.html)\n\n### User support\n\nColibri Core was developed by Maarten van Gompel at the Centre of Language Studies, Radboud University Nijmegen, under supervision of Antal van den Bosch."
+        },
+        "mentions": {
+          "body": "### Key publications\n\n* van Gompel, M., & van den Bosch, A. (2016). [Efficient n-gram, Skipgram and Flexgram Modelling with Colibri Core.](http://dx.doi.org/10.5334/jors.105) *Journal of Open Research Software, 4*(1), e30. http://dx.doi.org/10.5334/jors.105\n\n### Webpages\n\n* [Source code on GitHub](https://github.com/proycon/colibri-core)\n* [Documentation and Python API reference](https://proycon.github.io/colibri-core/doc/)\n* [C++ API reference](https://proycon.github.io/colibri-core/capi/html/)\n* [Python Tutorial (ipython notebook)](https://proycon.github.io/colibri-core/doc/colibricore-python-tutorial.html)"
+        },
+        "metadata": {}
+      },
+      "properties": {
+        "programmingLanguages": [
+          {
+            "title": "ComputerLanguagec++C++",
+            "link": null
+          },
+          {
+            "title": "ComputerLanguagecythonCython",
+            "link": null
+          }
+        ],
+        "problemContact": [
+          {
+            "title": "Issue tracker",
+            "link": "https://github.com/proycon/colibri-core/issues"
+          }
+        ],
+        "informationTypes": [],
+        "access": [
+          {
+            "title": "Open Access",
+            "link": "https://github.com/proycon/colibri-core"
+          }
+        ],
+        "sourceCodeLocation": [
+          {
+            "title": "github.com",
+            "link": "https://github.com/proycon/colibri-core"
+          }
+        ],
+        "researchContact": [],
+        "generalContact": [
+          {
+            "title": "Maarten\u00a0van Gompel",
+            "link": "mailto:proycon@anaproy.nl"
+          }
+        ],
+        "resourceTypes": [
+          "Tools"
+        ],
+        "status": [
+          "Active"
+        ],
+        "versions": [
+          {
+            "title": "2.5.9",
+            "url": ""
+          }
+        ],
+        "standards": [],
+        "resourceOwner": [
+          {
+            "title": "Centre for Language Studies",
+            "link": "https://www.ru.nl/cls"
+          }
+        ],
+        "link": "https://github.com/proycon/colibri-core",
+        "intro": "Colibri core is an NLP tool as well as a C++ and Python library for working with basic linguistic constructions such as n-grams and skipgrams (i.e patterns with one or more gaps, either of fixed or dynamic size) in a quick and memory-efficient way.",
+        "provenance": [],
+        "community": [
+          {
+            "title": "Issue tracker",
+            "link": "https://github.com/proycon/colibri-core/issues"
+          }
+        ],
+        "development": [
+          {
+            "title": "Maarten van Gompel, Centre for Language Studies",
+            "link": "https://orcid.org/0000-0002-1046-0006"
+          }
+        ]
+      }
+    }
+  }
+]

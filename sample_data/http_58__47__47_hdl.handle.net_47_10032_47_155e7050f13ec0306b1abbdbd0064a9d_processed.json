@@ -1,0 +1,61 @@
+[
+  {
+    "operation": "create",
+    "document": {
+      "id": "http_58__47__47_hdl.handle.net_47_10032_47_155e7050f13ec0306b1abbdbd0064a9d",
+      "title": "Reference Lexicon for Belgian-Dutch (RBBN)",
+      "intro": "The Reference Lexicon for Belgian-Dutch is a monolingual lexicon of Belgian-Dutch, containing ca. 4.000 entries (lemmas). The RBBN contains only those words which have a specific meaning in Belgian-Dutch or appear only in Belgian-Dutch. If possible, the description is related to the Nor... Belgian-Dutch; Dutch as spoken in Flanders",
+      "publishedAt": [],
+      "media": {
+        "thumbnail": [],
+        "slider": []
+      },
+      "tabs": {
+        "overview": {},
+        "learn": {},
+        "mentions": {},
+        "metadata": {}
+      },
+      "properties": {
+        "programmingLanguages": [],
+        "learn": [],
+        "resourceHost": null,
+        "funding": [],
+        "problemContact": [],
+        "informationTypes": null,
+        "languages": [
+          "Dutch"
+        ],
+        "access": [
+          {
+            "title": "available for non-commercial and commercial organisations; user licence required ",
+            "link": ""
+          }
+        ],
+        "sourceCodeLocation": [],
+        "researchContact": [],
+        "generalContact": [],
+        "resourceTypes": [
+          "Data"
+        ],
+        "status": null,
+        "versions": [],
+        "standards": [],
+        "resourceOwner": [
+          {
+            "title": "Dutch Language Union",
+            "link": "null"
+          }
+        ],
+        "link": "http://hdl.handle.net/10032/tm-a2-h4",
+        "intro": "The Reference Lexicon for Belgian-Dutch is a monolingual lexicon of Belgian-Dutch, containing ca. 4.000 entries (lemmas). The RBBN contains only those words which have a specific meaning in Belgian-Dutch or appear only in Belgian-Dutch. If possible, the description is related to the Nor... Belgian-Dutch; Dutch as spoken in Flanders",
+        "researchActivities": [],
+        "researchDomains": null,
+        "mediaTypes": null,
+        "provenance": [],
+        "community": [],
+        "development": null
+      }
+    }
+  }
+]

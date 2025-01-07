@@ -1,0 +1,62 @@
+[
+  {
+    "operation": "create",
+    "document": {
+      "id": "http_58__47__47_hdl.handle.net_47_10032_47_49e4cf2ce240b8d4eb3cbceab563b8da",
+      "title": "The Dutch Corpus of Pathological and Normal Speech (COPAS)",
+      "intro": "Dutch spoken by native adults with or without speech impediments The target text that had to be read. Not all recordings were annotated. For the categories SV, DKR, FT, SS and SSS no annotations were made. The Dutch Corpus of Pathological and Normal Speech (COPAS) contains recordings of the DIA (Dutch Intelligibilty Assessment). The corpus also contains a variety of other samples like reading passages, isolated sentences and recordings of spontaneous speech. The corpus contains samples o...",
+      "publishedAt": [],
+      "media": {
+        "thumbnail": [],
+        "slider": []
+      },
+      "tabs": {
+        "overview": {},
+        "learn": {},
+        "mentions": {},
+        "metadata": {}
+      },
+      "properties": {
+        "programmingLanguages": [],
+        "learn": [],
+        "resourceHost": null,
+        "funding": [],
+        "problemContact": [],
+        "informationTypes": null,
+        "languages": [
+          "Dutch",
+          "English"
+        ],
+        "access": [
+          {
+            "title": "free for academic use by non-commercial organisation; user licence required",
+            "link": ""
+          }
+        ],
+        "sourceCodeLocation": [],
+        "researchContact": [],
+        "generalContact": [],
+        "resourceTypes": [
+          "Data"
+        ],
+        "status": null,
+        "versions": [],
+        "standards": [],
+        "resourceOwner": [
+          {
+            "title": "University of Ghent (UGent), the Antwerp University Hospital (UZA)",
+            "link": "null"
+          }
+        ],
+        "link": "http://hdl.handle.net/10032/tm-a2-n3",
+        "intro": "Dutch spoken by native adults with or without speech impediments The target text that had to be read. Not all recordings were annotated. For the categories SV, DKR, FT, SS and SSS no annotations were made. The Dutch Corpus of Pathological and Normal Speech (COPAS) contains recordings of the DIA (Dutch Intelligibilty Assessment). The corpus also contains a variety of other samples like reading passages, isolated sentences and recordings of spontaneous speech. The corpus contains samples o...",
+        "researchActivities": [],
+        "researchDomains": null,
+        "mediaTypes": null,
+        "provenance": [],
+        "community": [],
+        "development": null
+      }
+    }
+  }
+]

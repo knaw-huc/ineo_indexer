@@ -1,0 +1,69 @@
+[
+  {
+    "operation": "create",
+    "document": {
+      "id": "hdl_58_21.11114_47_COLL-0000-000B-CAB0-A",
+      "title": "Goeman, Taeldeman, van Reenen Project",
+      "intro": "the data in GTRP (Goeman, Taeldeman, van Reenen Project; http://www.meertens.knaw.nl/mand/database/ (link is external) were collected between 1979 and 2000 with oral interviews in about 600 locations in the Dutch language area. Informants were asked to translate words or short sentence...",
+      "publishedAt": [],
+      "media": {
+        "thumbnail": [],
+        "slider": []
+      },
+      "tabs": {
+        "overview": {},
+        "learn": {},
+        "mentions": {},
+        "metadata": {}
+      },
+      "properties": {
+        "programmingLanguages": [],
+        "learn": [],
+        "resourceHost": [
+          {
+            "title": "http://www.meertens.knaw.nl",
+            "link": "http://www.meertens.knaw.nl"
+          }
+        ],
+        "funding": [],
+        "problemContact": [],
+        "informationTypes": null,
+        "languages": [
+          "Dutch"
+        ],
+        "access": [
+          {
+            "title": "Public",
+            "link": ""
+          }
+        ],
+        "sourceCodeLocation": [],
+        "researchContact": [],
+        "generalContact": [],
+        "resourceTypes": [
+          "Data"
+        ],
+        "status": null,
+        "versions": [],
+        "standards": [],
+        "resourceOwner": [
+          {
+            "title": "Meertens Institute",
+            "link": "null"
+          }
+        ],
+        "link": "http://www.meertens.knaw.nl/mand/database/",
+        "intro": "the data in GTRP (Goeman, Taeldeman, van Reenen Project; http://www.meertens.knaw.nl/mand/database/ (link is external) were collected between 1979 and 2000 with oral interviews in about 600 locations in the Dutch language area. Informants were asked to translate words or short sentence...",
+        "researchActivities": [],
+        "researchDomains": null,
+        "mediaTypes": [
+          "7.37 tab-separated-values",
+          "7 text"
+        ],
+        "provenance": [],
+        "community": [],
+        "development": null
+      }
+    }
+  }
+]

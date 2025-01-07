@@ -1,0 +1,62 @@
+[
+  {
+    "operation": "create",
+    "document": {
+      "id": "http_58__47__47_hdl.handle.net_47_10032_47_3ad7f56388f64c7df707303e746685d4",
+      "title": "OMBI-Dutch-Danish",
+      "intro": "OMBI-Dutch-Danish is a reversible bilingual lexical file (in Dutch, OMBI, omkeerbare bilinguale bestanden) in which Dutch is the source language and Danish the target language. OMBI- Dutch-Danish can be used in computational applications s... OMBI is a tool for creating and editing bilingual dictionaries The OMBI bilingual resources have been developed by order of and under the auspices of the CLVV (Commissie voor Lexicografische Vertaalvoorzieningen), which was established by the Ministers of Education of both the Netherlands and Flanders in 1993. The chairman of the CLVV was Willy Mar... OMBI-Dutch-Danish contains 46.000 entries.",
+      "publishedAt": [],
+      "media": {
+        "thumbnail": [],
+        "slider": []
+      },
+      "tabs": {
+        "overview": {},
+        "learn": {},
+        "mentions": {},
+        "metadata": {}
+      },
+      "properties": {
+        "programmingLanguages": [],
+        "learn": [],
+        "resourceHost": null,
+        "funding": [],
+        "problemContact": [],
+        "informationTypes": null,
+        "languages": [
+          "Dutch",
+          "Danish"
+        ],
+        "access": [
+          {
+            "title": "available for non-commercial and commercial organisations. For commercial use an user licence is required",
+            "link": ""
+          }
+        ],
+        "sourceCodeLocation": [],
+        "researchContact": [],
+        "generalContact": [],
+        "resourceTypes": [
+          "Data"
+        ],
+        "status": null,
+        "versions": [],
+        "standards": [],
+        "resourceOwner": [
+          {
+            "title": "Dutch Language Union",
+            "link": "null"
+          }
+        ],
+        "link": "http://hdl.handle.net/10032/tm-a2-b4",
+        "intro": "OMBI-Dutch-Danish is a reversible bilingual lexical file (in Dutch, OMBI, omkeerbare bilinguale bestanden) in which Dutch is the source language and Danish the target language. OMBI- Dutch-Danish can be used in computational applications s... OMBI is a tool for creating and editing bilingual dictionaries The OMBI bilingual resources have been developed by order of and under the auspices of the CLVV (Commissie voor Lexicografische Vertaalvoorzieningen), which was established by the Ministers of Education of both the Netherlands and Flanders in 1993. The chairman of the CLVV was Willy Mar... OMBI-Dutch-Danish contains 46.000 entries.",
+        "researchActivities": [],
+        "researchDomains": null,
+        "mediaTypes": null,
+        "provenance": [],
+        "community": [],
+        "development": null
+      }
+    }
+  }
+]

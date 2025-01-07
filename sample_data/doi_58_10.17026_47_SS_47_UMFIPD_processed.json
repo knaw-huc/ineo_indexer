@@ -1,0 +1,68 @@
+[
+    {
+        "operation": "create",
+        "document": {
+            "id": "doi_58_10.17026_47_SS_47_UMFIPD",
+            "title": "Friends in a Cold Climate: Schiedam-1",
+            "intro": "The integration of Western Europe after the Second World War was driven by a broad movement aimed at peace, security and prosperity. Organized youth exchange between European cities formed an important part of that movement. This research focuses on young people who, from the 1960s onwa...",
+            "publishedAt": [],
+            "media": {
+                "thumbnail": [],
+                "slider": []
+            },
+            "tabs": {
+                "overview": {},
+                "learn": {},
+                "mentions": {},
+                "metadata": {}
+            },
+            "properties": {
+                "programmingLanguages": [],
+                "learn": [],
+                "resourceHost": [
+                    {
+                        "title": "https://doi.org",
+                        "link": "https://doi.org"
+                    }
+                ],
+                "funding": [],
+                "problemContact": [],
+                "informationTypes": null,
+                "languages": [
+                    "Dutch"
+                ],
+                "access": [
+                    {
+                        "title": "UNSPECIFIED",
+                        "link": ""
+                    }
+                ],
+                "sourceCodeLocation": [],
+                "researchContact": [],
+                "generalContact": [],
+                "resourceTypes": [
+                    "Data"
+                ],
+                "status": null,
+                "versions": [],
+                "standards": [],
+                "resourceOwner": null,
+                "link": "https://doi.org/10.17026/SS/UMFIPD",
+                "intro": "The integration of Western Europe after the Second World War was driven by a broad movement aimed at peace, security and prosperity. Organized youth exchange between European cities formed an important part of that movement. This research focuses on young people who, from the 1960s onwa...",
+                "researchActivities": [],
+                "researchDomains": [
+                    "https://w3id.org/nwo-research-fields#ArchaeologyOther"
+                ],
+                "mediaTypes": null,
+                "provenance": [],
+                "community": [],
+                "development": [
+                    {
+                        "title": "de Jager MA, E. J.",
+                        "link": "null"
+                    }
+                ]
+            }
+        }
+    }
+]

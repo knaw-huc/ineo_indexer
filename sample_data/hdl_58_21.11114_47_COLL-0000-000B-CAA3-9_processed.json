@@ -1,0 +1,68 @@
+[
+  {
+    "operation": "create",
+    "document": {
+      "id": "hdl_58_21.11114_47_COLL-0000-000B-CAA3-9",
+      "title": "CHILDES van Oosten Bilingual Corpus",
+      "intro": "Picture descriptions by 20 children in the age range of 4-13 years. Half of the children were Italian-Dutch bilinguals and the other 10 were monolinguals (5 Dutch monolinguals and 5 Italian monolinguals). The study is reported in an MA thesis at the University of Utrecht entitled \u201cLo sv... Picture descriptions by 20 children in the age range of 4-13 years. Half of the children were Italian-Dutch bilinguals and the other 10 were monolinguals (5 Dutch monolinguals and 5 Italian monolinguals). There are four different stories, all made out of about ten pictures. The childre...",
+      "publishedAt": [],
+      "media": {
+        "thumbnail": [],
+        "slider": []
+      },
+      "tabs": {
+        "overview": {},
+        "learn": {},
+        "mentions": {},
+        "metadata": {}
+      },
+      "properties": {
+        "programmingLanguages": [],
+        "learn": [],
+        "resourceHost": [
+          {
+            "title": "https://doi.org",
+            "link": "https://doi.org"
+          }
+        ],
+        "funding": [],
+        "problemContact": [],
+        "informationTypes": null,
+        "languages": [
+          "Dutch",
+          "Italian",
+          "English"
+        ],
+        "access": [
+          {
+            "title": "Public",
+            "link": ""
+          }
+        ],
+        "sourceCodeLocation": [],
+        "researchContact": [],
+        "generalContact": [],
+        "resourceTypes": [
+          "Data"
+        ],
+        "status": null,
+        "versions": [],
+        "standards": [],
+        "resourceOwner": [
+          {
+            "title": "utrecht university",
+            "link": "null"
+          }
+        ],
+        "link": "https://doi.org/10.21415/T5631B",
+        "intro": "Picture descriptions by 20 children in the age range of 4-13 years. Half of the children were Italian-Dutch bilinguals and the other 10 were monolinguals (5 Dutch monolinguals and 5 Italian monolinguals). The study is reported in an MA thesis at the University of Utrecht entitled \u201cLo sv... Picture descriptions by 20 children in the age range of 4-13 years. Half of the children were Italian-Dutch bilinguals and the other 10 were monolinguals (5 Dutch monolinguals and 5 Italian monolinguals). There are four different stories, all made out of about ten pictures. The childre...",
+        "researchActivities": [],
+        "researchDomains": null,
+        "mediaTypes": null,
+        "provenance": [],
+        "community": [],
+        "development": null
+      }
+    }
+  }
+]

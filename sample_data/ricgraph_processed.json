@@ -1,0 +1,110 @@
+[
+    {
+        "operation": "create",
+        "document": {
+            "id": "ricgraph",
+            "title": "Ricgraph - Research in context graph",
+            "intro": "Ricgraph, also known as Research in context graph, enables the exploration of researchers, teams, their results, collaborations, skills, projects, and the relations between these items.\nRicgraph can store many types of items into a single graph.  These items can be obtained from various systems a...",
+            "publishedAt": "2023-01-10",
+            "media": {
+                "thumbnail": "https://raw.githubusercontent.com/UtrechtUniversity/ricgraph/master/docs/images/ricgraph_logo.jpg"
+            },
+            "tabs": {
+                "overview": {},
+                "learn": {},
+                "mentions": {},
+                "metadata": {}
+            },
+            "properties": {
+                "programmingLanguages": [
+                    {
+                        "title": "Python",
+                        "link": null
+                    }
+                ],
+                "learn": [
+                    {
+                        "title": "Ricgraph - Research in context graph documentation",
+                        "link": "https://github.com/UtrechtUniversity/ricgraph/blob/master/README.md"
+                    }
+                ],
+                "funding": [
+                    {
+                        "title": "Utrecht University",
+                        "link": ""
+                    }
+                ],
+                "problemContact": [
+                    {
+                        "title": "Issue tracker",
+                        "link": "https://github.com/UtrechtUniversity/ricgraph/issues"
+                    }
+                ],
+                "informationTypes": [],
+                "access": [
+                    {
+                        "title": "Open Access",
+                        "link": "https://github.com/UtrechtUniversity/ricgraph"
+                    }
+                ],
+                "sourceCodeLocation": [
+                    {
+                        "title": "github.com",
+                        "link": "https://github.com/UtrechtUniversity/ricgraph"
+                    }
+                ],
+                "researchContact": [],
+                "generalContact": [
+                    {
+                        "title": "Rik D.T.\u00a0Janssen",
+                        "link": "https://orcid.org/0000-0001-9510-0802"
+                    }
+                ],
+                "resourceTypes": [
+                    "Tools"
+                ],
+                "status": [
+                    "Active"
+                ],
+                "versions": [
+                    {
+                        "title": "v2.2",
+                        "url": ""
+                    }
+                ],
+                "standards": [],
+                "resourceOwner": [
+                    {
+                        "title": "Utrecht University",
+                        "link": "https://www.uu.nl"
+                    }
+                ],
+                "link": "https://github.com/UtrechtUniversity/ricgraph",
+                "intro": "Ricgraph, also known as Research in context graph, enables the exploration of researchers, teams, their results, collaborations, skills, projects, and the relations between these items.\nRicgraph can store many types of items into a single graph.  These items can be obtained from various systems a...",
+                "researchActivities": [
+                    "https://vocabs.dariah.eu/tadirah/analyzing",
+                    "https://vocabs.dariah.eu/tadirah/browsing",
+                    "https://vocabs.dariah.eu/tadirah/capturing",
+                    "https://vocabs.dariah.eu/tadirah/discovering",
+                    "https://vocabs.dariah.eu/tadirah/enriching",
+                    "https://vocabs.dariah.eu/tadirah/exploration",
+                    "https://vocabs.dariah.eu/tadirah/informationRetrieval",
+                    "https://vocabs.dariah.eu/tadirah/storing"
+                ],
+                "provenance": [],
+                "community": [
+                    {
+                        "title": "Issue tracker",
+                        "link": "https://github.com/UtrechtUniversity/ricgraph/issues"
+                    }
+                ],
+                "development": [
+                    {
+                        "title": "Rik D.T. Janssen, Utrecht University",
+                        "link": "https://orcid.org/0000-0001-9510-0802"
+                    }
+                ]
+            }
+        }
+    }
+]

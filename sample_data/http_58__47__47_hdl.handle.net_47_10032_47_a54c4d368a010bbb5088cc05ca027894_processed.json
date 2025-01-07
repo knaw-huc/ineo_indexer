@@ -1,0 +1,71 @@
+[
+  {
+    "operation": "create",
+    "document": {
+      "id": "http_58__47__47_hdl.handle.net_47_10032_47_a54c4d368a010bbb5088cc05ca027894",
+      "title": "Letters as Loot",
+      "intro": "Approximately 40,000 both commercial and private Dutch letters from the 17th and 18th centuary that were confiscated and survived due to European warfare and privateering. Historical Dutch from the 17th and 18th centuary Not all documentation is available in both languages.",
+      "publishedAt": [],
+      "media": {
+        "thumbnail": [],
+        "slider": []
+      },
+      "tabs": {
+        "overview": {},
+        "learn": {},
+        "mentions": {},
+        "metadata": {}
+      },
+      "properties": {
+        "programmingLanguages": [],
+        "learn": [],
+        "resourceHost": null,
+        "funding": [],
+        "problemContact": [],
+        "informationTypes": null,
+        "languages": [
+          "Dutch",
+          "English"
+        ],
+        "access": [
+          {
+            "title": "available for commercial and non-commercial organisation; user license required",
+            "link": ""
+          }
+        ],
+        "sourceCodeLocation": [],
+        "researchContact": [],
+        "generalContact": [],
+        "resourceTypes": [
+          "Data"
+        ],
+        "status": null,
+        "versions": [],
+        "standards": [],
+        "resourceOwner": [
+          {
+            "title": "Leiden University",
+            "link": "null"
+          }
+        ],
+        "link": "http://hdl.handle.net/10032/tm-a2-a7",
+        "intro": "Approximately 40,000 both commercial and private Dutch letters from the 17th and 18th centuary that were confiscated and survived due to European warfare and privateering. Historical Dutch from the 17th and 18th centuary Not all documentation is available in both languages.",
+        "researchActivities": [],
+        "researchDomains": null,
+        "mediaTypes": null,
+        "provenance": [],
+        "community": [],
+        "development": [
+          {
+            "title": "Gijsbert Rutten",
+            "link": "null"
+          },
+          {
+            "title": "Marijke  van der Wal",
+            "link": "null"
+          }
+        ]
+      }
+    }
+  }
+]

@@ -1,0 +1,61 @@
+[
+  {
+    "operation": "create",
+    "document": {
+      "id": "http_58__47__47_hdl.handle.net_47_10032_47_61a6bde5376425b36f2eb07a86abc957",
+      "title": "WAI-NOT Corpus",
+      "intro": "The WAI-NOT Corpus consists of 874 newspaper articles from the WAI-NOT paper. The articles are written in easy accessible Dutch and stem fro the period 2009-2021. The corpus contains about 75.000 words. The articles are available as XML-files which contain the title, content and date. T... Het WAI-NOT-corpus bestaat uit 874 krantenartikels, afkomstig uit de WAI-NOT-krant. De artikels zijn opgesteld in eenvoudig te lezen Nederlands en zijn afkomstig uit de periode 2009-2021. Het corpus bevat ongeveer 75.000 woorden. De artikels zijn beschikbaar als xml-bestanden met daarin... Annotated with Frog Dependency ralations, annotated with Alpino",
+      "publishedAt": [],
+      "media": {
+        "thumbnail": [],
+        "slider": []
+      },
+      "tabs": {
+        "overview": {},
+        "learn": {},
+        "mentions": {},
+        "metadata": {}
+      },
+      "properties": {
+        "programmingLanguages": [],
+        "learn": [],
+        "resourceHost": null,
+        "funding": [],
+        "problemContact": [],
+        "informationTypes": null,
+        "languages": [
+          "Dutch"
+        ],
+        "access": [
+          {
+            "title": "available for academic use, no user licence required; ",
+            "link": ""
+          }
+        ],
+        "sourceCodeLocation": [],
+        "researchContact": [],
+        "generalContact": [],
+        "resourceTypes": [
+          "Data"
+        ],
+        "status": null,
+        "versions": [],
+        "standards": [],
+        "resourceOwner": [
+          {
+            "title": "WAI-NOT, Belgium",
+            "link": "null"
+          }
+        ],
+        "link": "http://hdl.handle.net/10032/tm-a2-t9",
+        "intro": "The WAI-NOT Corpus consists of 874 newspaper articles from the WAI-NOT paper. The articles are written in easy accessible Dutch and stem fro the period 2009-2021. The corpus contains about 75.000 words. The articles are available as XML-files which contain the title, content and date. T... Het WAI-NOT-corpus bestaat uit 874 krantenartikels, afkomstig uit de WAI-NOT-krant. De artikels zijn opgesteld in eenvoudig te lezen Nederlands en zijn afkomstig uit de periode 2009-2021. Het corpus bevat ongeveer 75.000 woorden. De artikels zijn beschikbaar als xml-bestanden met daarin... Annotated with Frog Dependency ralations, annotated with Alpino",
+        "researchActivities": [],
+        "researchDomains": null,
+        "mediaTypes": null,
+        "provenance": [],
+        "community": [],
+        "development": null
+      }
+    }
+  }
+]

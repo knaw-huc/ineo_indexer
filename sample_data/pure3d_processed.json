@@ -1,0 +1,86 @@
+[
+  {
+    "operation": "create",
+    "document": {
+      "id": "pure3d",
+      "title": "Pure3dtools",
+      "intro": "Pure3D tools",
+      "publishedAt": "2022-04-19",
+      "media": {},
+      "tabs": {
+        "overview": {},
+        "learn": {},
+        "mentions": {},
+        "metadata": {}
+      },
+      "properties": {
+        "programmingLanguages": [
+          {
+            "title": "Python",
+            "link": null
+          }
+        ],
+        "problemContact": [
+          {
+            "title": "Issue tracker",
+            "link": "https://github.com/CLARIAH/pure3d/issues"
+          }
+        ],
+        "informationTypes": [],
+        "access": [
+          {
+            "title": "Open Access",
+            "link": "https://github.com/CLARIAH/pure3d"
+          }
+        ],
+        "sourceCodeLocation": [
+          {
+            "title": "github.com",
+            "link": "https://github.com/CLARIAH/pure3d"
+          }
+        ],
+        "researchContact": [],
+        "generalContact": [
+          {
+            "title": "Vic\u00a0Ding",
+            "link": "mailto:qiqing.ding@di.huc.knaw.nl"
+          }
+        ],
+        "resourceTypes": [
+          "Tools"
+        ],
+        "status": [
+          "Work in progress"
+        ],
+        "versions": [
+          {
+            "title": "0.0.4",
+            "url": ""
+          }
+        ],
+        "standards": [],
+        "resourceOwner": [
+          {
+            "title": "CLARIAH",
+            "link": "http://www.clariah.nl"
+          }
+        ],
+        "link": "https://github.com/CLARIAH/pure3d",
+        "intro": "Pure3D tools",
+        "provenance": [],
+        "community": [
+          {
+            "title": "Issue tracker",
+            "link": "https://github.com/CLARIAH/pure3d/issues"
+          }
+        ],
+        "development": [
+          {
+            "title": "Vic Ding",
+            "link": ""
+          }
+        ]
+      }
+    }
+  }
+]

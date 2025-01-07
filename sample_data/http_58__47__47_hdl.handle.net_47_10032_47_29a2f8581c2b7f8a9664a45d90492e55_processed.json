@@ -1,0 +1,66 @@
+[
+  {
+    "operation": "create",
+    "document": {
+      "id": "http_58__47__47_hdl.handle.net_47_10032_47_29a2f8581c2b7f8a9664a45d90492e55",
+      "title": "SumNL-samenvattingencorpus Commercieel",
+      "intro": "The SumNL Corpus of Summaries (Commercial) is based on 28 clusters. Each cluster consists of a subject and 5-25 newspaper articles who are relevant to that subject. Two summaries (of different size) were made for each cluster and also extracts which consist of ten sentences from the tex... Summaries",
+      "publishedAt": [],
+      "media": {
+        "thumbnail": [],
+        "slider": []
+      },
+      "tabs": {
+        "overview": {},
+        "learn": {},
+        "mentions": {},
+        "metadata": {}
+      },
+      "properties": {
+        "programmingLanguages": [],
+        "learn": [],
+        "resourceHost": null,
+        "funding": [],
+        "problemContact": [],
+        "informationTypes": null,
+        "languages": [
+          "Dutch"
+        ],
+        "access": [
+          {
+            "title": "available for commercial organisations;  user licence required\t",
+            "link": ""
+          }
+        ],
+        "sourceCodeLocation": [],
+        "researchContact": [],
+        "generalContact": [],
+        "resourceTypes": [
+          "Data"
+        ],
+        "status": null,
+        "versions": [],
+        "standards": [],
+        "resourceOwner": [
+          {
+            "title": "University of Antwerp",
+            "link": "null"
+          }
+        ],
+        "link": "http://hdl.handle.net/10032/tm-a2-q5",
+        "intro": "The SumNL Corpus of Summaries (Commercial) is based on 28 clusters. Each cluster consists of a subject and 5-25 newspaper articles who are relevant to that subject. Two summaries (of different size) were made for each cluster and also extracts which consist of ten sentences from the tex... Summaries",
+        "researchActivities": [],
+        "researchDomains": null,
+        "mediaTypes": null,
+        "provenance": [],
+        "community": [],
+        "development": [
+          {
+            "title": "Iris Hendrickx",
+            "link": "null"
+          }
+        ]
+      }
+    }
+  }
+]

@@ -1,0 +1,66 @@
+[
+    {
+        "operation": "create",
+        "document": {
+            "id": "doi_58_10.17026_47_SS_47_T4EFAQ",
+            "title": "Project Ongekend Bijzonder, Amsterdam, interview 27",
+            "intro": "geslacht: Man land van herkomst: Eritrea leeftijd aankomst Nederland: 25 stad: Amsterdam vluchtreden: Politieke situatie relaties met eigen gemeenschap: Heeft contact met eigen gemeenschap en doet bijvoorbeeld vrijwilligerswerk bij de stichting ADE. opleiding: HTS beroep land van herkom...",
+            "publishedAt": [],
+            "media": {
+                "thumbnail": [],
+                "slider": []
+            },
+            "tabs": {
+                "overview": {},
+                "learn": {},
+                "mentions": {},
+                "metadata": {}
+            },
+            "properties": {
+                "programmingLanguages": [],
+                "learn": [],
+                "resourceHost": [
+                    {
+                        "title": "https://doi.org",
+                        "link": "https://doi.org"
+                    }
+                ],
+                "funding": [],
+                "problemContact": [],
+                "informationTypes": null,
+                "languages": [
+                    "Dutch"
+                ],
+                "access": [
+                    {
+                        "title": "UNSPECIFIED",
+                        "link": ""
+                    }
+                ],
+                "sourceCodeLocation": [],
+                "researchContact": [],
+                "generalContact": [],
+                "resourceTypes": [
+                    "Data"
+                ],
+                "status": null,
+                "versions": [],
+                "standards": [],
+                "resourceOwner": null,
+                "link": "https://doi.org/10.17026/SS/T4EFAQ",
+                "intro": "geslacht: Man land van herkomst: Eritrea leeftijd aankomst Nederland: 25 stad: Amsterdam vluchtreden: Politieke situatie relaties met eigen gemeenschap: Heeft contact met eigen gemeenschap en doet bijvoorbeeld vrijwilligerswerk bij de stichting ADE. opleiding: HTS beroep land van herkom...",
+                "researchActivities": [],
+                "researchDomains": [],
+                "mediaTypes": null,
+                "provenance": [],
+                "community": [],
+                "development": [
+                    {
+                        "title": "Stichting Bevordering Maatschappelijke Participatie - BMP",
+                        "link": "null"
+                    }
+                ]
+            }
+        }
+    }
+]

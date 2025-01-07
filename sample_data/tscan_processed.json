@@ -1,0 +1,114 @@
+[
+  {
+    "operation": "create",
+    "document": {
+      "id": "tscan",
+      "title": "T-Scan",
+      "intro": "T-Scan is an analysis tool for Dutch texts to assess the complexity of the text, and is based on original work by Rogier Kraf",
+      "publishedAt": "2012-09-12",
+      "media": {},
+      "tabs": {
+        "overview": {},
+        "learn": {},
+        "mentions": {},
+        "metadata": {}
+      },
+      "properties": {
+        "programmingLanguages": [
+          {
+            "title": "C++",
+            "link": null
+          }
+        ],
+        "resourceHost": [
+          {
+            "title": "",
+            "link": ""
+          }
+        ],
+        "funding": [
+          {
+            "title": "Leesbaarheids-Index Nederlands (LIN) (NWO grant)",
+            "link": ""
+          }
+        ],
+        "problemContact": [
+          {
+            "title": "Issue tracker",
+            "link": "https://github.com/proycon/tscan/issues"
+          }
+        ],
+        "informationTypes": [],
+        "access": [
+          {
+            "title": "Open Access",
+            "link": "https://github.com/UUDigitalHumanitieslab/tscan"
+          }
+        ],
+        "sourceCodeLocation": [
+          {
+            "title": "github.com",
+            "link": "https://github.com/UUDigitalHumanitieslab/tscan"
+          }
+        ],
+        "researchContact": [],
+        "generalContact": [
+          {
+            "title": "Martijn\u00a0van der Klis",
+            "link": "mailto:m.h.vanderklis@uu.nl"
+          }
+        ],
+        "resourceTypes": [
+          "Tools"
+        ],
+        "status": [
+          "Active"
+        ],
+        "versions": [
+          {
+            "title": "0.9.8",
+            "url": ""
+          }
+        ],
+        "standards": [],
+        "resourceOwner": [
+          {
+            "title": "",
+            "link": ""
+          }
+        ],
+        "link": "https://github.com/UUDigitalHumanitieslab/tscan",
+        "intro": "T-Scan is an analysis tool for Dutch texts to assess the complexity of the text, and is based on original work by Rogier Kraf",
+        "mediaTypes": [
+          "7.23 plain",
+          "7.5 csv",
+          "11.120 xslt+xml",
+          "7.69 xml",
+          "7 text",
+          "1 application"
+        ],
+        "provenance": [],
+        "community": [
+          {
+            "title": "Issue tracker",
+            "link": "https://github.com/proycon/tscan/issues"
+          }
+        ],
+        "development": [
+          {
+            "title": "Martijn van der Klis, Utrecht Institute of Linguistics OTS",
+            "link": ""
+          },
+          {
+            "title": "Ko van der Sloot, Centre for Language and Speech Technology",
+            "link": ""
+          },
+          {
+            "title": "Maarten van Gompel, Centre for Language and Speech Technology",
+            "link": "https://orcid.org/0000-0002-1046-0006"
+          }
+        ]
+      }
+    }
+  }
+]

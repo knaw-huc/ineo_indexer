@@ -1,0 +1,61 @@
+[
+  {
+    "operation": "create",
+    "document": {
+      "id": "http_58__47__47_hdl.handle.net_47_10032_47_c8fe678faddf2e59cced0adf2aef6afe",
+      "title": "Wablieft Corpus",
+      "intro": "The Wablieft Corpus contains the digital archive of the Wablieft paper (from 2011-2017), as it was published on the website http://www.wablieft.be/krant/archief.It contains two million words from newspaper articles in easy to read Dutch. Metadata is available describing the subject (dom... Het Wablieft-corpus bevat het digitaal archief van de Wablieft-krant (periode 2011-2017), zoals ook beschikbaar op de website http://www.wablieft.be/krant/archief. Het bevat 2 miljoen woorden krantenmateriaal in eenvoudig te lezen Nederlands. Er is metadata beschikbaar betreffende de kr... Annotated with Frog Dependency ralations, annotated with Alpino",
+      "publishedAt": [],
+      "media": {
+        "thumbnail": [],
+        "slider": []
+      },
+      "tabs": {
+        "overview": {},
+        "learn": {},
+        "mentions": {},
+        "metadata": {}
+      },
+      "properties": {
+        "programmingLanguages": [],
+        "learn": [],
+        "resourceHost": null,
+        "funding": [],
+        "problemContact": [],
+        "informationTypes": null,
+        "languages": [
+          "Dutch"
+        ],
+        "access": [
+          {
+            "title": "available for academic use, no user licence required; ",
+            "link": ""
+          }
+        ],
+        "sourceCodeLocation": [],
+        "researchContact": [],
+        "generalContact": [],
+        "resourceTypes": [
+          "Data"
+        ],
+        "status": null,
+        "versions": [],
+        "standards": [],
+        "resourceOwner": [
+          {
+            "title": "Wablieft, Belgium",
+            "link": "null"
+          }
+        ],
+        "link": "http://hdl.handle.net/10032/tm-a2-q6",
+        "intro": "The Wablieft Corpus contains the digital archive of the Wablieft paper (from 2011-2017), as it was published on the website http://www.wablieft.be/krant/archief.It contains two million words from newspaper articles in easy to read Dutch. Metadata is available describing the subject (dom... Het Wablieft-corpus bevat het digitaal archief van de Wablieft-krant (periode 2011-2017), zoals ook beschikbaar op de website http://www.wablieft.be/krant/archief. Het bevat 2 miljoen woorden krantenmateriaal in eenvoudig te lezen Nederlands. Er is metadata beschikbaar betreffende de kr... Annotated with Frog Dependency ralations, annotated with Alpino",
+        "researchActivities": [],
+        "researchDomains": null,
+        "mediaTypes": null,
+        "provenance": [],
+        "community": [],
+        "development": null
+      }
+    }
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "operation": "create",
+    "document": {
+      "id": "nederlab-pipeline",
+      "title": "Nederlab Pipeline",
+      "intro": "A set of workflows for linguistic enrichment of historical dutch",
+      "publishedAt": "2017",
+      "media": {},
+      "tabs": {
+        "overview": {},
+        "learn": {},
+        "mentions": {},
+        "metadata": {}
+      },
+      "properties": {
+        "programmingLanguages": [
+          {
+            "title": "Nextflow",
+            "link": null
+          }
+        ],
+        "funding": [
+          {
+            "title": "Nederlab",
+            "link": "http://www.nederlab.nl"
+          }
+        ],
+        "problemContact": [
+          {
+            "title": "Issue tracker",
+            "link": "https://github.com/proycon/nederlab-pipeline/issues"
+          }
+        ],
+        "informationTypes": [],
+        "access": [
+          {
+            "title": "Open Access",
+            "link": "https://github.com/proycon/nederlab-pipeline"
+          }
+        ],
+        "sourceCodeLocation": [
+          {
+            "title": "github.com",
+            "link": "https://github.com/proycon/nederlab-pipeline"
+          }
+        ],
+        "researchContact": [],
+        "generalContact": [
+          {
+            "title": "Maarten\u00a0van Gompel",
+            "link": "mailto:proycon@anaproy.nl"
+          }
+        ],
+        "resourceTypes": [
+          "Tools"
+        ],
+        "status": [
+          "Inactive"
+        ],
+        "versions": [
+          {
+            "title": "0.8.0",
+            "url": ""
+          }
+        ],
+        "standards": [],
+        "resourceOwner": [
+          {
+            "title": "Centre for Language and Speech Technology",
+            "link": "https://www.ru.nl/clst"
+          }
+        ],
+        "link": "https://github.com/proycon/nederlab-pipeline",
+        "intro": "A set of workflows for linguistic enrichment of historical dutch",
+        "provenance": [],
+        "community": [
+          {
+            "title": "Issue tracker",
+            "link": "https://github.com/proycon/nederlab-pipeline/issues"
+          }
+        ],
+        "development": [
+          {
+            "title": "Maarten van Gompel, Centre for Language and Speech Technology",
+            "link": "https://orcid.org/0000-0002-1046-0006"
+          }
+        ]
+      }
+    }
+  }
+]

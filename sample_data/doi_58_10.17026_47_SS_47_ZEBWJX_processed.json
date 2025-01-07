@@ -1,0 +1,73 @@
+[
+    {
+        "operation": "create",
+        "document": {
+            "id": "doi_58_10.17026_47_SS_47_ZEBWJX",
+            "title": "Charles de Rochefort: Natuurlyke en zedelyke historie van d'Eylande...",
+            "intro": "Diplomatische weergave van: Natuurlyke en Zedelyke Historie van d\u2019Eylanden de Voor-Eylanden van Amerika. Verrijkt met vele schoone Platen, die uytbeelden d\u2019aller-aanmerkelijkste seldsaamheden die\u2019er in beschreven zijn. Met eenen Cara\u00efbaanschen Woorden-schat. Door D. Charles de Rochefort...",
+            "publishedAt": [],
+            "media": {
+                "thumbnail": [],
+                "slider": []
+            },
+            "tabs": {
+                "overview": {},
+                "learn": {},
+                "mentions": {},
+                "metadata": {}
+            },
+            "properties": {
+                "programmingLanguages": [],
+                "learn": [],
+                "resourceHost": [
+                    {
+                        "title": "https://doi.org",
+                        "link": "https://doi.org"
+                    }
+                ],
+                "funding": [],
+                "problemContact": [],
+                "informationTypes": null,
+                "languages": [
+                    "Dutch"
+                ],
+                "access": [
+                    {
+                        "title": "UNSPECIFIED",
+                        "link": ""
+                    }
+                ],
+                "sourceCodeLocation": [],
+                "researchContact": [],
+                "generalContact": [],
+                "resourceTypes": [
+                    "Data"
+                ],
+                "status": null,
+                "versions": [],
+                "standards": [],
+                "resourceOwner": null,
+                "link": "https://doi.org/10.17026/SS/ZEBWJX",
+                "intro": "Diplomatische weergave van: Natuurlyke en Zedelyke Historie van d\u2019Eylanden de Voor-Eylanden van Amerika. Verrijkt met vele schoone Platen, die uytbeelden d\u2019aller-aanmerkelijkste seldsaamheden die\u2019er in beschreven zijn. Met eenen Cara\u00efbaanschen Woorden-schat. Door D. Charles de Rochefort...",
+                "researchActivities": [],
+                "researchDomains": [
+                    "https://w3id.org/nwo-research-fields#BiogeographyTaxonomy",
+                    "https://w3id.org/nwo-research-fields#AntiquityAndLateAntiquityHistory"
+                ],
+                "mediaTypes": null,
+                "provenance": [],
+                "community": [],
+                "development": [
+                    {
+                        "title": "Stichting Vrijwilligersnetwerk Nederlandse Taal",
+                        "link": "null"
+                    },
+                    {
+                        "title": "van der Sijs, N.",
+                        "link": "null"
+                    }
+                ]
+            }
+        }
+    }
+]

@@ -1,0 +1,61 @@
+[
+  {
+    "operation": "create",
+    "document": {
+      "id": "http_58__47__47_hdl.handle.net_47_10032_47_f920edc0a2a8174d7cb3be98d12e4d2c",
+      "title": "Medische Pilot (MedPilot)",
+      "intro": "De Medische Pilot is een bij wijze van experiment ingerichte database waarin een klein deel van de medische woordschat beschreven wordt op verschillende niveaus, van wetenschappelijk tot toegankelijk voor laaggeletterden, en waarin ook verschillen tussen Vlaamse en Nederlandse termen wo... The Medical Pilot study is an experimental containing a limited medical thesaurus with descriptions at several levels; from scientific to low-literate audiences",
+      "publishedAt": [],
+      "media": {
+        "thumbnail": [],
+        "slider": []
+      },
+      "tabs": {
+        "overview": {},
+        "learn": {},
+        "mentions": {},
+        "metadata": {}
+      },
+      "properties": {
+        "programmingLanguages": [],
+        "learn": [],
+        "resourceHost": null,
+        "funding": [],
+        "problemContact": [],
+        "informationTypes": null,
+        "languages": [
+          "Dutch"
+        ],
+        "access": [
+          {
+            "title": "Academic",
+            "link": ""
+          }
+        ],
+        "sourceCodeLocation": [],
+        "researchContact": [],
+        "generalContact": [],
+        "resourceTypes": [
+          "Data"
+        ],
+        "status": null,
+        "versions": [],
+        "standards": [],
+        "resourceOwner": [
+          {
+            "title": "Dutch Language Institute",
+            "link": "null"
+          }
+        ],
+        "link": "http://hdl.handle.net/10032/tm-a2-s7",
+        "intro": "De Medische Pilot is een bij wijze van experiment ingerichte database waarin een klein deel van de medische woordschat beschreven wordt op verschillende niveaus, van wetenschappelijk tot toegankelijk voor laaggeletterden, en waarin ook verschillen tussen Vlaamse en Nederlandse termen wo... The Medical Pilot study is an experimental containing a limited medical thesaurus with descriptions at several levels; from scientific to low-literate audiences",
+        "researchActivities": [],
+        "researchDomains": null,
+        "mediaTypes": null,
+        "provenance": [],
+        "community": [],
+        "development": null
+      }
+    }
+  }
+]

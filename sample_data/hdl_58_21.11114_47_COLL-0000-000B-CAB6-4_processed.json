@@ -1,0 +1,62 @@
+[
+  {
+    "operation": "create",
+    "document": {
+      "id": "hdl_58_21.11114_47_COLL-0000-000B-CAB6-4",
+      "title": "LESLLA",
+      "intro": "The LESLLA corpus dates from 2003\u00ad-2005 and contains speech of 15 low educated learners of Dutch as a second language. The learners are all women. Eight learners have a Turkish background, seven learners have a Moroccan background. From these learners, data were collected over time in t... LESLLA: speech of 15 low educated learners of Dutch as a second language. The learners are all women.",
+      "publishedAt": [],
+      "media": {
+        "thumbnail": [],
+        "slider": []
+      },
+      "tabs": {
+        "overview": {},
+        "learn": {},
+        "mentions": {},
+        "metadata": {}
+      },
+      "properties": {
+        "programmingLanguages": [],
+        "learn": [],
+        "resourceHost": null,
+        "funding": [],
+        "problemContact": [],
+        "informationTypes": null,
+        "languages": [
+          "Dutch",
+          "English"
+        ],
+        "access": [
+          {
+            "title": "Academic",
+            "link": ""
+          }
+        ],
+        "sourceCodeLocation": [],
+        "researchContact": [],
+        "generalContact": [],
+        "resourceTypes": [
+          "Data"
+        ],
+        "status": null,
+        "versions": [],
+        "standards": [],
+        "resourceOwner": [
+          {
+            "title": "CLST Radboud University Nijmegen",
+            "link": "null"
+          }
+        ],
+        "link": "https://hdl.handle.net/1839/00-37EBCC6D-04A5-4598-88E2-E0F390D5FCE1@view",
+        "intro": "The LESLLA corpus dates from 2003\u00ad-2005 and contains speech of 15 low educated learners of Dutch as a second language. The learners are all women. Eight learners have a Turkish background, seven learners have a Moroccan background. From these learners, data were collected over time in t... LESLLA: speech of 15 low educated learners of Dutch as a second language. The learners are all women.",
+        "researchActivities": [],
+        "researchDomains": null,
+        "mediaTypes": null,
+        "provenance": [],
+        "community": [],
+        "development": null
+      }
+    }
+  }
+]

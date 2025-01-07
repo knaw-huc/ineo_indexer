@@ -1,0 +1,64 @@
+[
+    {
+        "operation": "create",
+        "document": {
+            "id": "hdl_58_21.11114_47_COLL-0000-000F-76E9-6",
+            "title": "Oral History. Ravensbr\u00fcck. Interview with Tine Boeke-Kramer",
+            "intro": "Tine Boeke-Kramer (Oterleek, 1919) werkte samen met haar toenmalige echtgenoot Herman Waage in het ziekenhuis van Zaandam, toen ze Duitse vluchtelingen verpleegde en hun verhalen over Nazi-Duitsland hoorde. In 1940 besloot ze verzetswerk te gaan doen. Ze bracht vele Joodse kinderen naar...",
+            "publishedAt": [],
+            "media": {
+                "thumbnail": [],
+                "slider": []
+            },
+            "tabs": {
+                "overview": {},
+                "learn": {},
+                "mentions": {},
+                "metadata": {}
+            },
+            "properties": {
+                "programmingLanguages": [],
+                "learn": [],
+                "resourceHost": [
+                    {
+                        "title": "https://easy.dans.knaw.nl",
+                        "link": "https://easy.dans.knaw.nl"
+                    }
+                ],
+                "funding": [],
+                "problemContact": [],
+                "informationTypes": null,
+                "languages": null,
+                "access": [
+                    {
+                        "title": "Open access for registered users - Unrestricted access for all registered EASY users.\nUnrestricted access to video, for access to transcript  you have to register at the Dutch data archive DANS",
+                        "link": ""
+                    }
+                ],
+                "sourceCodeLocation": [],
+                "researchContact": [],
+                "generalContact": [],
+                "resourceTypes": [
+                    "Data"
+                ],
+                "status": null,
+                "versions": [],
+                "standards": [],
+                "resourceOwner": [
+                    {
+                        "title": "Cultuur & Co.",
+                        "link": "null"
+                    }
+                ],
+                "link": "https://easy.dans.knaw.nl/ui/datasets/id/easy-dataset:41259",
+                "intro": "Tine Boeke-Kramer (Oterleek, 1919) werkte samen met haar toenmalige echtgenoot Herman Waage in het ziekenhuis van Zaandam, toen ze Duitse vluchtelingen verpleegde en hun verhalen over Nazi-Duitsland hoorde. In 1940 besloot ze verzetswerk te gaan doen. Ze bracht vele Joodse kinderen naar...",
+                "researchActivities": [],
+                "researchDomains": [],
+                "mediaTypes": null,
+                "provenance": [],
+                "community": [],
+                "development": null
+            }
+        }
+    }
+]

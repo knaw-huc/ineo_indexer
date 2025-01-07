@@ -1,0 +1,86 @@
+[
+  {
+    "operation": "create",
+    "document": {
+      "id": "folia-rust",
+      "title": "Folia",
+      "intro": "High-performance library for handling the FoLiA XML format (Format for Linguistic Annotation)",
+      "publishedAt": "2019-06-08",
+      "media": {},
+      "tabs": {
+        "overview": {},
+        "learn": {},
+        "mentions": {},
+        "metadata": {}
+      },
+      "properties": {
+        "programmingLanguages": [
+          {
+            "title": "Rust",
+            "link": null
+          }
+        ],
+        "problemContact": [
+          {
+            "title": "Issue tracker",
+            "link": "https://github.com/proycon/folia-rust/issues"
+          }
+        ],
+        "informationTypes": [],
+        "access": [
+          {
+            "title": "Open Access",
+            "link": "https://github.com/proycon/folia-rust"
+          }
+        ],
+        "sourceCodeLocation": [
+          {
+            "title": "github.com",
+            "link": "https://github.com/proycon/folia-rust"
+          }
+        ],
+        "researchContact": [],
+        "generalContact": [
+          {
+            "title": "Maarten\u00a0van Gompel",
+            "link": "mailto:proycon@anaproy.nl"
+          }
+        ],
+        "resourceTypes": [
+          "Tools"
+        ],
+        "status": [
+          "Inactive"
+        ],
+        "versions": [
+          {
+            "title": "0.0.6",
+            "url": ""
+          }
+        ],
+        "standards": [],
+        "resourceOwner": [
+          {
+            "title": "KNAW Humanities Cluster & CLST, Radboud University",
+            "link": ""
+          }
+        ],
+        "link": "https://github.com/proycon/folia-rust",
+        "intro": "High-performance library for handling the FoLiA XML format (Format for Linguistic Annotation)",
+        "provenance": [],
+        "community": [
+          {
+            "title": "Issue tracker",
+            "link": "https://github.com/proycon/folia-rust/issues"
+          }
+        ],
+        "development": [
+          {
+            "title": "Maarten van Gompel, KNAW Humanities Cluster & CLST, Radboud University",
+            "link": "https://proycon.anaproy.nl"
+          }
+        ]
+      }
+    }
+  }
+]

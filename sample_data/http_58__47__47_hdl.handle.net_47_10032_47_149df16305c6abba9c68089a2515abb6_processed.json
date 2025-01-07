@@ -1,0 +1,66 @@
+[
+  {
+    "operation": "create",
+    "document": {
+      "id": "http_58__47__47_hdl.handle.net_47_10032_47_149df16305c6abba9c68089a2515abb6",
+      "title": "Meertalige Ondertiteldata 2BDutch",
+      "intro": "The product Multilingual Subtitle Data 2BDutch consists subtitle data belonging to the Dutch videos on the website www.2BDutch.nl. That website presents videos which can display subtitles in different languages. These videos enable students of Dutch to practice their listening skills an... De ondertiteldata behorend bij de Nederlandstalige video\u2019s op de website www.2BDutch.nl , vormt het product Meertalige Ondertiteldata 2BDutch. Op de website van 2BDutch staan video's met ondertitelingsmogelijkheid in verschillende talen. Met deze video's kunnen studenten Nederlands van ...",
+      "publishedAt": [],
+      "media": {
+        "thumbnail": [],
+        "slider": []
+      },
+      "tabs": {
+        "overview": {},
+        "learn": {},
+        "mentions": {},
+        "metadata": {}
+      },
+      "properties": {
+        "programmingLanguages": [],
+        "learn": [],
+        "resourceHost": null,
+        "funding": [],
+        "problemContact": [],
+        "informationTypes": null,
+        "languages": [
+          "Dutch",
+          "Spanish; Castilian",
+          "Portuguese",
+          "English",
+          "French",
+          "German"
+        ],
+        "access": [
+          {
+            "title": "available for non-commercial organisations",
+            "link": ""
+          }
+        ],
+        "sourceCodeLocation": [],
+        "researchContact": [],
+        "generalContact": [],
+        "resourceTypes": [
+          "Data"
+        ],
+        "status": null,
+        "versions": [],
+        "standards": [],
+        "resourceOwner": [
+          {
+            "title": "Sowmedia en Ditvoorst internet Services",
+            "link": "null"
+          }
+        ],
+        "link": "http://hdl.handle.net/10032/tm-a2-m5",
+        "intro": "The product Multilingual Subtitle Data 2BDutch consists subtitle data belonging to the Dutch videos on the website www.2BDutch.nl. That website presents videos which can display subtitles in different languages. These videos enable students of Dutch to practice their listening skills an... De ondertiteldata behorend bij de Nederlandstalige video\u2019s op de website www.2BDutch.nl , vormt het product Meertalige Ondertiteldata 2BDutch. Op de website van 2BDutch staan video's met ondertitelingsmogelijkheid in verschillende talen. Met deze video's kunnen studenten Nederlands van ...",
+        "researchActivities": [],
+        "researchDomains": null,
+        "mediaTypes": null,
+        "provenance": [],
+        "community": [],
+        "development": null
+      }
+    }
+  }
+]

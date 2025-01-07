@@ -1,0 +1,64 @@
+[
+    {
+        "operation": "create",
+        "document": {
+            "id": "hdl_58_21.11114_47_COLL-0000-000F-76F5-8",
+            "title": "Oral History. Interview with survivor of Ravensbr\u00fcck concentration ...",
+            "intro": "Interview with survivor of Ravensbruck concentration camp Renee Scott",
+            "publishedAt": [],
+            "media": {
+                "thumbnail": [],
+                "slider": []
+            },
+            "tabs": {
+                "overview": {},
+                "learn": {},
+                "mentions": {},
+                "metadata": {}
+            },
+            "properties": {
+                "programmingLanguages": [],
+                "learn": [],
+                "resourceHost": [
+                    {
+                        "title": "https://vha.usc.edu",
+                        "link": "https://vha.usc.edu"
+                    }
+                ],
+                "funding": [],
+                "problemContact": [],
+                "informationTypes": null,
+                "languages": null,
+                "access": [
+                    {
+                        "title": "The CRF contains interviews from the Shoah Visual History archive that are open to the public, but access to them requires creating an account. Access to all interviews of this archive is only possible for scholars who can visit one of the access points: https://vha.usc.edu/about?tab=sites",
+                        "link": ""
+                    }
+                ],
+                "sourceCodeLocation": [],
+                "researchContact": [],
+                "generalContact": [],
+                "resourceTypes": [
+                    "Data"
+                ],
+                "status": null,
+                "versions": [],
+                "standards": [],
+                "resourceOwner": [
+                    {
+                        "title": "USC Shoah Foundation -- a license has been granted by the USC Shoah Foundation  to the 'Voices of Ravensbruck' multilingual oral history Clarin Resource Family for the integration of metadata of seven freely accessible interviews  with survivors of camp Ravensbruck from their collection.  We are grateful for their support in creating this multilingual research resource.",
+                        "link": "null"
+                    }
+                ],
+                "link": "https://vha.usc.edu/testimony/26486?from=search&seg=3",
+                "intro": "Interview with survivor of Ravensbruck concentration camp Renee Scott",
+                "researchActivities": [],
+                "researchDomains": [],
+                "mediaTypes": null,
+                "provenance": [],
+                "community": [],
+                "development": null
+            }
+        }
+    }
+]

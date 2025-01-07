@@ -1,0 +1,61 @@
+[
+  {
+    "operation": "create",
+    "document": {
+      "id": "http_58__47__47_hdl.handle.net_47_10032_47_ef6232e7109a9e5901fe4fc04b706c3d",
+      "title": "CHN N-grams",
+      "intro": "N-grams are series of consecutative words from texts. The n-grams in this product are derived from the Corpus Hedendaags Nederlands (CHN - Corpus of Contemporary Dutch); a large corpus consisting mainly of newspapers, magazines, news broadcasts and legal texts. CHN N-grams contains seri... N-grammen zijn reeksen opeenvolgende woorden uit lopende teksten. De n-grammen in dit product zijn afkomstig uit het Corpus Hedendaags Nederlands (CHN), een groot corpus van voornamelijk hedendaagse kranten tijdschriften, journaaluitzendingen en juridisch materiaal. CHN-ngrams bevat n-g...",
+      "publishedAt": [],
+      "media": {
+        "thumbnail": [],
+        "slider": []
+      },
+      "tabs": {
+        "overview": {},
+        "learn": {},
+        "mentions": {},
+        "metadata": {}
+      },
+      "properties": {
+        "programmingLanguages": [],
+        "learn": [],
+        "resourceHost": null,
+        "funding": [],
+        "problemContact": [],
+        "informationTypes": null,
+        "languages": [
+          "Dutch"
+        ],
+        "access": [
+          {
+            "title": "available for non-commercial and commercial organisations; user licence required",
+            "link": ""
+          }
+        ],
+        "sourceCodeLocation": [],
+        "researchContact": [],
+        "generalContact": [],
+        "resourceTypes": [
+          "Data"
+        ],
+        "status": null,
+        "versions": [],
+        "standards": [],
+        "resourceOwner": [
+          {
+            "title": "Dutch Language Institute",
+            "link": "null"
+          }
+        ],
+        "link": "http://hdl.handle.net/10032/tm-a2-p6",
+        "intro": "N-grams are series of consecutative words from texts. The n-grams in this product are derived from the Corpus Hedendaags Nederlands (CHN - Corpus of Contemporary Dutch); a large corpus consisting mainly of newspapers, magazines, news broadcasts and legal texts. CHN N-grams contains seri... N-grammen zijn reeksen opeenvolgende woorden uit lopende teksten. De n-grammen in dit product zijn afkomstig uit het Corpus Hedendaags Nederlands (CHN), een groot corpus van voornamelijk hedendaagse kranten tijdschriften, journaaluitzendingen en juridisch materiaal. CHN-ngrams bevat n-g...",
+        "researchActivities": [],
+        "researchDomains": null,
+        "mediaTypes": null,
+        "provenance": [],
+        "community": [],
+        "development": null
+      }
+    }
+  }
+]

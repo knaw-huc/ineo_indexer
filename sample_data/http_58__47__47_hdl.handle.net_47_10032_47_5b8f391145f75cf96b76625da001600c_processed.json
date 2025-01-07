@@ -1,0 +1,54 @@
+[
+  {
+    "operation": "create",
+    "document": {
+      "id": "http_58__47__47_hdl.handle.net_47_10032_47_5b8f391145f75cf96b76625da001600c",
+      "title": "AUTONOMATA Transcriptie Toolset",
+      "intro": "The AUTONOMATA Transcription Toolset consists of a transcription tool and a number of learning tools which can be used to enhance list of words with precise information on pronounciation. The tool uses a general g2p converter.",
+      "publishedAt": [],
+      "media": {
+        "thumbnail": [],
+        "slider": []
+      },
+      "tabs": {
+        "overview": {},
+        "learn": {},
+        "mentions": {},
+        "metadata": {}
+      },
+      "properties": {
+        "programmingLanguages": [],
+        "learn": [],
+        "resourceHost": null,
+        "funding": [],
+        "problemContact": [],
+        "informationTypes": null,
+        "languages": null,
+        "access": [
+          {
+            "title": "UNSPECIFIED",
+            "link": ""
+          }
+        ],
+        "sourceCodeLocation": [],
+        "researchContact": [],
+        "generalContact": [],
+        "resourceTypes": [
+          "Data"
+        ],
+        "status": null,
+        "versions": [],
+        "standards": [],
+        "resourceOwner": null,
+        "link": "http://hdl.handle.net/10032/tm-a2-j2",
+        "intro": "The AUTONOMATA Transcription Toolset consists of a transcription tool and a number of learning tools which can be used to enhance list of words with precise information on pronounciation. The tool uses a general g2p converter.",
+        "researchActivities": [],
+        "researchDomains": null,
+        "mediaTypes": null,
+        "provenance": [],
+        "community": [],
+        "development": null
+      }
+    }
+  }
+]

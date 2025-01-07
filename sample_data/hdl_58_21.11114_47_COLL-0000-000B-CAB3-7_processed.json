@@ -1,0 +1,70 @@
+[
+  {
+    "operation": "create",
+    "document": {
+      "id": "hdl_58_21.11114_47_COLL-0000-000B-CAB3-7",
+      "title": "INTER-VIEWS Data",
+      "intro": "the Netherlands Veterans Institute (VI) hosts about 250 interviews (audio) in which Dutch former military personel speak about their experiences during World War II (interviews about the years 1935-1945) and decolonisation in the Dutch East Indies (1945-1950) and Dutch New Guinea (1960-... About 250 interviews (audio) in which Dutch former military personel speak about their experiences during World War II (interviews about the years 1935-1945) and decolonisation in the Dutch East Indies (1945-1950) and Dutch New Guinea (1960-1962).",
+      "publishedAt": [],
+      "media": {
+        "thumbnail": [],
+        "slider": []
+      },
+      "tabs": {
+        "overview": {},
+        "learn": {},
+        "mentions": {},
+        "metadata": {}
+      },
+      "properties": {
+        "programmingLanguages": [],
+        "learn": [],
+        "resourceHost": [
+          {
+            "title": "https://doi.org",
+            "link": "https://doi.org"
+          }
+        ],
+        "funding": [],
+        "problemContact": [],
+        "informationTypes": null,
+        "languages": [
+          "Dutch",
+          "English"
+        ],
+        "access": [
+          {
+            "title": "Restricted for individual",
+            "link": ""
+          }
+        ],
+        "sourceCodeLocation": [],
+        "researchContact": [],
+        "generalContact": [],
+        "resourceTypes": [
+          "Data"
+        ],
+        "status": null,
+        "versions": [],
+        "standards": [],
+        "resourceOwner": [
+          {
+            "title": "Veterans Institute, Doorn, The Netherlands",
+            "link": "null"
+          }
+        ],
+        "link": "https://doi.org/10.17026/dans-ztn-9ked",
+        "intro": "the Netherlands Veterans Institute (VI) hosts about 250 interviews (audio) in which Dutch former military personel speak about their experiences during World War II (interviews about the years 1935-1945) and decolonisation in the Dutch East Indies (1945-1950) and Dutch New Guinea (1960-... About 250 interviews (audio) in which Dutch former military personel speak about their experiences during World War II (interviews about the years 1935-1945) and decolonisation in the Dutch East Indies (1945-1950) and Dutch New Guinea (1960-1962).",
+        "researchActivities": [],
+        "researchDomains": null,
+        "mediaTypes": [
+          "7.37 tab-separated-values",
+          "7 text"
+        ],
+        "provenance": [],
+        "community": [],
+        "development": null
+      }
+    }
+  }
+]

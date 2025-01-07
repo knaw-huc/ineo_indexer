@@ -1,0 +1,100 @@
+[
+  {
+    "operation": "create",
+    "document": {
+      "id": "pagexml-tools",
+      "title": "Pagexml-tools",
+      "intro": "Utility functions for reading PageXML files",
+      "publishedAt": "2021-05-07",
+      "media": {},
+      "tabs": {
+        "overview": {},
+        "learn": {},
+        "mentions": {},
+        "metadata": {}
+      },
+      "properties": {
+        "programmingLanguages": [
+          {
+            "title": "Python",
+            "link": null
+          }
+        ],
+        "learn": [
+          {
+            "title": "pagexml-tools \u2014 pagexml-tools 0.3.2 documentation",
+            "link": "https://pagexml.readthedocs.io/en/latest/?badge=latest"
+          },
+          {
+            "title": "pagexml-tools \u2014 pagexml-tools 0.3.2 documentation",
+            "link": "https://pagexml.readthedocs.io/en/latest/"
+          }
+        ],
+        "problemContact": [
+          {
+            "title": "Issue tracker",
+            "link": "https://github.com/knaw-huc/pagexml/issues"
+          }
+        ],
+        "informationTypes": [],
+        "access": [
+          {
+            "title": "Open Access",
+            "link": "https://github.com/knaw-huc/pagexml"
+          }
+        ],
+        "sourceCodeLocation": [
+          {
+            "title": "github.com",
+            "link": "https://github.com/knaw-huc/pagexml"
+          }
+        ],
+        "researchContact": [],
+        "generalContact": [
+          {
+            "title": "Marijn\u00a0Koolen",
+            "link": "https://orcid.org/0000-0002-0301-2029"
+          }
+        ],
+        "resourceTypes": [
+          "Tools"
+        ],
+        "status": [
+          "Active"
+        ],
+        "versions": [
+          {
+            "title": "0.5.0",
+            "url": ""
+          }
+        ],
+        "standards": [],
+        "resourceOwner": [
+          {
+            "title": "KNAW Humanities Cluster",
+            "link": "https://huc.knaw.nl/"
+          }
+        ],
+        "link": "https://github.com/knaw-huc/pagexml",
+        "intro": "Utility functions for reading PageXML files",
+        "provenance": [],
+        "community": [
+          {
+            "title": "Issue tracker",
+            "link": "https://github.com/knaw-huc/pagexml/issues"
+          }
+        ],
+        "development": [
+          {
+            "title": "Marijn Koolen",
+            "link": "https://orcid.org/0000-0002-0301-2029"
+          },
+          {
+            "title": "Bram Buitendijk",
+            "link": "https://orcid.org/0000-0002-3755-5929"
+          }
+        ]
+      }
+    }
+  }
+]

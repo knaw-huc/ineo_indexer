@@ -1,0 +1,100 @@
+[
+  {
+    "operation": "create",
+    "document": {
+      "id": "network-of-terms-graphql",
+      "title": "Network of Terms GraphQL API",
+      "intro": "GraphQL API for the Network of Terms, a Search engine for finding terms in terminology sources (such as thesauri, classification systems and reference lists)",
+      "publishedAt": "2020-04-17",
+      "media": {},
+      "tabs": {
+        "overview": {},
+        "learn": {},
+        "mentions": {},
+        "metadata": {}
+      },
+      "properties": {
+        "programmingLanguages": [
+          {
+            "title": "TypeScript",
+            "link": null
+          }
+        ],
+        "funding": [
+          {
+            "title": " Ministerie van Onderwijs, Cultuur en Wetenschap",
+            "link": " https://www.rijksoverheid.nl/ministeries/ministerie-van-onderwijs-cultuur-en-wetenschap"
+          }
+        ],
+        "problemContact": [
+          {
+            "title": "Issue tracker",
+            "link": "https://github.com/netwerk-digitaal-erfgoed/network-of-terms/issues"
+          }
+        ],
+        "informationTypes": [],
+        "access": [
+          {
+            "title": "Open Access",
+            "link": "https://github.com/netwerk-digitaal-erfgoed/network-of-terms"
+          }
+        ],
+        "sourceCodeLocation": [
+          {
+            "title": "github.com",
+            "link": "https://github.com/netwerk-digitaal-erfgoed/network-of-terms"
+          }
+        ],
+        "researchContact": [],
+        "generalContact": [
+          {
+            "title": "David\u00a0de Boer",
+            "link": "mailto:david@ddeboer.nl"
+          }
+        ],
+        "resourceTypes": [
+          "Tools"
+        ],
+        "status": [
+          "Active"
+        ],
+        "versions": [
+          {
+            "title": "",
+            "url": ""
+          }
+        ],
+        "standards": [],
+        "resourceOwner": [
+          {
+            "title": "Netwerk Digitaal Erfgoed",
+            "link": "https://www.netwerkdigitaalerfgoed.nl"
+          }
+        ],
+        "link": "https://github.com/netwerk-digitaal-erfgoed/network-of-terms",
+        "intro": "GraphQL API for the Network of Terms, a Search engine for finding terms in terminology sources (such as thesauri, classification systems and reference lists)",
+        "provenance": [],
+        "community": [
+          {
+            "title": "Issue tracker",
+            "link": "https://github.com/netwerk-digitaal-erfgoed/network-of-terms/issues"
+          }
+        ],
+        "development": [
+          {
+            "title": "David de Boer",
+            "link": ""
+          },
+          {
+            "title": "Sjors de Valk",
+            "link": ""
+          },
+          {
+            "title": "Enno Meijers",
+            "link": ""
+          }
+        ]
+      }
+    }
+  }
+]

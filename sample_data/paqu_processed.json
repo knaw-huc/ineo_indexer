@@ -1,0 +1,122 @@
+[
+    {
+        "operation": "create",
+        "document": {
+            "id": "paqu",
+            "title": "PaQu",
+            "intro": "The PaQu web service makes it possible to search in syntactically annotated corpora in Dutch. You can parse your own Dutch text corpus or use one of two corpora provided by the developers.",
+            "publishedAt": "2014-05-21",
+            "media": {
+                "slider": [
+                    "https://raw.githubusercontent.com/CLARIAH/ineo-content/master/media/paqu-cover1.png",
+                    "https://raw.githubusercontent.com/CLARIAH/ineo-content/master/media/paqu-cover2.png",
+                    "https://raw.githubusercontent.com/CLARIAH/ineo-content/master/media/paqu-cover3.png"
+                ]
+            },
+            "tabs": {
+                "overview": {
+                    "body": "### Overview\n * PaQu uses the [Alpino parser](https://www.ineo.tools/resources/alpino) to make treebanks of your own text corpus, and to search in these treebanks using an interface based on the [LASSY Word Relations Search interface](http://www.let.rug.nl/~alfa/lassy/bin/lassy-save). Uploading one's own corpus requires a log-in.\n\n* Two treebanks are already available in the application: [Lassy Klein](https://www.let.rug.nl/~vannoord/Lassy/) (1M words, manually checked syntactic analysis) and [Lassy Groot](https://www.let.rug.nl/~vannoord/Lassy/) (700M words, syntactic analysis automatically assigned by Alpino).\n\n* PaQu offers two ways to search through the syntactically annotated texts. The first option is to use the search bar to look for word pairs, optionally complemented by their syntactic relationship. The second search option is to use the query language XPath."
+                },
+                "learn": {
+                    "body": "### Preliminaries \u2013 Alpino annotations\n\nUsing PaQu requires one to be familiar with the [Alpino](https://www.ineo.tools/resources/alpino) annotation guidelines. [PaQu's own information page](https://www.let.rug.nl/alfa/paqu/info.html#rel) gives a good brief overview of all syntactic relations. For a detailed description of the syntactic annotations used by Alpino, one should check the document: [Lassy Syntactische Annotatie](https://www.let.rug.nl/vannoord/Lassy/sa-man_lassy.pdf). For the annotation of parts-of-speech and lemmas, one should check the document: [Part of speech tagging en lemmatisering van het D-coi corpus](https://www.let.rug.nl/vannoord/Lassy/POS_manual.pdf). *These documents are, however, only available in Dutch.*\n\nThe following document (in English) may also be useful: [Manual for syntactic annotators](https://www.let.rug.nl/~vannoord/DCOI/AnnotationGuide.html).\n\n### Querying with PaQu\n\nPaQu offers two ways to search through the syntactically annotated texts. \n\nThe first option is to use the search bar to look for word pairs, optionally complemented by their syntactic relationship. For instance, in the image below, PaQu is told to look for the adjective (adj) *taalkundig* 'linguistic' that is a modifier (mod) to the noun (n) *onderzoek* 'research'. As said above, to use this effectively, the user must be familiar with the Alpino annotation guidelines, for which see the links provided under Preliminaries. Also check out [PaQu's own information page](https://www.let.rug.nl/alfa/paqu/info.html#zoeken) for more tips and tricks on search for word pairs (in Dutch).\n\n![PaQu is told to look for the adjective (adj) *taalkundig* 'linguistic' that is a modifier (mod) to the noun (n) *onderzoek* 'research'.](https://github.com/CLARIAH/ineo-content/blob/master/media/paqu-cover1.png?raw=1)\n\nThe second search option is to use the query language XPath. In the image below, the XPath query tells PaQu to look for any instance of the verb *zoeken* 'search' that takes a PP-complement headed by the preposition *in*. \n\n![The XPath query tells PaQu to look for any instance of the verb *zoeken* 'search' that takes a PP-complement headed by the preposition *in*.](https://github.com/CLARIAH/ineo-content/blob/master/media/paqu-cover3.png?raw=1)\n\nUsing the more advanced XPath querying method allows the user to search for more complex structures, however requires them to be familiar with the Alpino annotations, as well as XPath. A 'cookbook' for writing XPath queries for Alpino-annotated treebanks can be found [here](https://rug-compling.github.io/dact/cookbook/) (in English). Also check out [PaQu's own information page](https://www.let.rug.nl/alfa/paqu/info.html#xpath) for more tips and tricks on using XPath in PaQu (in Dutch).\n\n\n\n### Local Installation\n\nPaQu can be installed locally. For this, we refer to the tool's [GitHub page](https://github.com/rug-compling/paqu) (in Dutch).\n\n### Contact\n\nProject leader: [Gertjan van Noord](https://www.rug.nl/staff/g.j.m.van.noord/)\nDeveloper: [Peter Kleiweg](https://www.rug.nl/staff/p.c.j.kleiweg/)"
+                },
+                "mentions": {
+                    "body": "### Publications\n\n* Odijk, Jan, van Noord, Gertjan, Kleiweg, Peter & Tjong Kim Sang, Erik. (2017). The Parse and Query (PaQu) Application . In: Odijk, Jan & van Hessen, Arjan (eds.) *CLARIN in the Low Countries* (pp. 281-297). Ubiquity Press, London. https://doi.org/10.5334/bbi.23\n\n### Webpages\n\n* [PaQu webservice](https://www.let.rug.nl/alfa/paqu/)\n* [GitHub page](https://github.com/rug-compling/paqu)\n\n### Related tools and resources\n\n* [Alpino](https://www.ineo.tools/resources/alpino) is a parser for Dutch, used by PaQu.\n\n* [GrETEL](https://www.ineo.tools/resources/gretel) is a tool to query-by-example corpora and treebanks that were parsed by Alpino.\n\n* The [Lassy corpus](https://www.let.rug.nl/~vannoord/Lassy/) was parsed with Alpino. The Lassy Klein subcorpus was manually corrected.\n  * Van Noord, Gertjan, Bouma, Gosse, Van Eynde, Frank, De Kok, Dani\u00ebl, Van der Linde, Jelmer, Schuurman, Ineke, Tjong Kim Sang, Erik, & Vandeghinste, Vincent (2013). Large scale syntactic annotation of written Dutch: Lassy. In Peter Spyns, & Jan Odijk (Eds.), *Essential speech and language technology for Dutch: Results by the STEVIN programme* (pp. 147-164). Springer Berlin, Heidelberg. https://doi.org/10.1007/978-3-642-30910-6"
+                },
+                "metadata": {}
+            },
+            "properties": {
+                "programmingLanguages": [
+                    {
+                        "title": "Go",
+                        "link": null
+                    }
+                ],
+                "learn": [
+                    {
+                        "title": "PaQu -- Info",
+                        "link": "https://www.let.rug.nl/alfa/paqu/info.html"
+                    }
+                ],
+                "resourceHost": [
+                    {
+                        "title": "Computational Linguistics, Faculty of Arts, Groningen University",
+                        "url": "https://www.rug.nl/research/clcg/research/cl/"
+                    }
+                ],
+                "funding": [
+                    {
+                        "title": "PaQu",
+                        "link": ""
+                    }
+                ],
+                "problemContact": [
+                    {
+                        "title": "Issue tracker",
+                        "link": "https://github.com/rug-compling/paqu/issues"
+                    }
+                ],
+                "informationTypes": [],
+                "access": [
+                    {
+                        "title": "Open Access",
+                        "link": "https://github.com/rug-compling/paqu"
+                    }
+                ],
+                "sourceCodeLocation": [
+                    {
+                        "title": "github.com",
+                        "link": "https://github.com/rug-compling/paqu"
+                    }
+                ],
+                "researchContact": [],
+                "generalContact": [
+                    {
+                        "title": "Peter\u00a0Kleiweg",
+                        "link": "mailto:p.c.j.kleiweg@rug.nl"
+                    }
+                ],
+                "resourceTypes": [
+                    "Tools"
+                ],
+                "status": [
+                    "Active"
+                ],
+                "versions": [
+                    {
+                        "title": "1.0.5",
+                        "url": ""
+                    }
+                ],
+                "standards": [],
+                "resourceOwner": [
+                    {
+                        "title": "Computational Linguistics, Faculty of Arts, Groningen University",
+                        "link": "https://www.rug.nl/research/clcg/research/cl/"
+                    }
+                ],
+                "link": "https://github.com/rug-compling/paqu",
+                "intro": "Met PaQu (Parse & Query) kun je zoeken in syntactisch geannoteerde Nederlandstalige corpora.\nPaQu ondersteunt twee manieren van zoeken. Met de eerste, eenvoudige, manier kun je naar woordparen zoeken, met daarbij eventueel hun syntactische relatie. De tweede, ingewikkeldere, manier gebruikt de zo...",
+                "researchActivities": [
+                    "https://vocabs.dariah.eu/tadirah/structuralAnalysis"
+                ],
+                "researchDomains": [
+                    "https://w3id.org/nwo-research-fields#ComputationalLinguisticsAndPhilology"
+                ],
+                "provenance": [],
+                "community": [
+                    {
+                        "title": "Issue tracker",
+                        "link": "https://github.com/rug-compling/paqu/issues"
+                    }
+                ],
+                "development": [
+                    {
+                        "title": "",
+                        "link": "https://orcid.org/0000-0001-8364-3201"
+                    }
+                ]
+            }
+        }
+    }
+]

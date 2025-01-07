@@ -1,0 +1,64 @@
+[
+    {
+        "operation": "create",
+        "document": {
+            "id": "http_58__47__47_hdl.handle.net_47_10032_47_62468f551ce51dc10f61131c65dbb1e5",
+            "title": "Hotel Review Corpus - Vlaamse Gebarentaal (VTG_HoReCo)",
+            "intro": "A multimodal parallel corpus of Dutch and Flemish Sign Language (VGT), in which 297 hotel reviews in written Dutch were translated into VGT videos by deaf professional translators. Documentation in English Een multimodaal parallel corpus met de talen Nederlands en Vlaamse Gebarentaal (VGT) waarin 297 hotel-reviews werden vertaald uit het Nederlands in VGT door professionele vertalers. Original texts of the reviews Sign language interpretation of written text",
+            "publishedAt": [],
+            "media": {
+                "thumbnail": [],
+                "slider": []
+            },
+            "tabs": {
+                "overview": {},
+                "learn": {},
+                "mentions": {},
+                "metadata": {}
+            },
+            "properties": {
+                "programmingLanguages": [],
+                "learn": [],
+                "resourceHost": null,
+                "funding": [],
+                "problemContact": [],
+                "informationTypes": null,
+                "languages": [
+                    "Dutch",
+                    "Vlaamse Gebarentaal"
+                ],
+                "access": [
+                    {
+                        "title": "Public",
+                        "link": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+                    }
+                ],
+                "sourceCodeLocation": [],
+                "researchContact": [],
+                "generalContact": [],
+                "resourceTypes": [
+                    "Data"
+                ],
+                "status": null,
+                "versions": [],
+                "standards": [],
+                "resourceOwner": [
+                    {
+                        "title": "INT",
+                        "link": "null"
+                    }
+                ],
+                "link": "http://hdl.handle.net/10032/tm-a2-y3",
+                "intro": "A multimodal parallel corpus of Dutch and Flemish Sign Language (VGT), in which 297 hotel reviews in written Dutch were translated into VGT videos by deaf professional translators. Documentation in English Een multimodaal parallel corpus met de talen Nederlands en Vlaamse Gebarentaal (VGT) waarin 297 hotel-reviews werden vertaald uit het Nederlands in VGT door professionele vertalers. Original texts of the reviews Sign language interpretation of written text",
+                "researchActivities": [],
+                "researchDomains": [
+                    "https://w3id.org/nwo-research-fields#TranslationStudies"
+                ],
+                "mediaTypes": null,
+                "provenance": [],
+                "community": [],
+                "development": null
+            }
+        }
+    }
+]

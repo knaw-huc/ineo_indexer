@@ -1,0 +1,56 @@
+[
+  {
+    "operation": "create",
+    "document": {
+      "id": "hdl_58_21.11114_47_COLL-0000-000F-79AF-5",
+      "title": "Alorese Dataset",
+      "intro": "Dataset on Alorese in the form of 2 hours of audio material, collected in Alor and Pantar, Indonesia. Transciption included, type unknown -",
+      "publishedAt": [],
+      "media": {
+        "thumbnail": [],
+        "slider": []
+      },
+      "tabs": {
+        "overview": {},
+        "learn": {},
+        "mentions": {},
+        "metadata": {}
+      },
+      "properties": {
+        "programmingLanguages": [],
+        "learn": [],
+        "resourceHost": null,
+        "funding": [],
+        "problemContact": [],
+        "informationTypes": null,
+        "languages": [
+          "Alor"
+        ],
+        "access": [
+          {
+            "title": "UNSPECIFIED",
+            "link": ""
+          }
+        ],
+        "sourceCodeLocation": [],
+        "researchContact": [],
+        "generalContact": [],
+        "resourceTypes": [
+          "Data"
+        ],
+        "status": null,
+        "versions": [],
+        "standards": [],
+        "resourceOwner": null,
+        "link": "https://doi.org/10.34894/APQDTX, https://hdl.handle.net/1839/06afa50e-aee9-4adb-a6a7-d7496a8a47fc",
+        "intro": "Dataset on Alorese in the form of 2 hours of audio material, collected in Alor and Pantar, Indonesia. Transciption included, type unknown -",
+        "researchActivities": [],
+        "researchDomains": null,
+        "mediaTypes": null,
+        "provenance": [],
+        "community": [],
+        "development": null
+      }
+    }
+  }
+]

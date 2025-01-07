@@ -1,0 +1,62 @@
+[
+  {
+    "operation": "create",
+    "document": {
+      "id": "hdl_58_21.11114_47_COLL-0000-000B-CACC-C",
+      "title": "ADHD and SLI corpus UvA database",
+      "intro": "Video recordings of 67 children to compare the language and executive functioning profiles of children with ADHD and children with SLI and TD children: 26 Dutch children with ADHD 19 Dutch children with SLI 22 children Dutch controls 26 Dutch children with ADHD 19 Dutch children with SLI 22 children Dutch controls Tests: Sentence repetition task; Non-Word repetition task; Frog story narratives, processed in SPSS on morphological, syntactic and pragmatic measures; Children\u2019s Communicative Check-list II; CANTAB EF tasks for executive functioning",
+      "publishedAt": [],
+      "media": {
+        "thumbnail": [],
+        "slider": []
+      },
+      "tabs": {
+        "overview": {},
+        "learn": {},
+        "mentions": {},
+        "metadata": {}
+      },
+      "properties": {
+        "programmingLanguages": [],
+        "learn": [],
+        "resourceHost": null,
+        "funding": [],
+        "problemContact": [],
+        "informationTypes": null,
+        "languages": [
+          "Sgn",
+          "Dutch"
+        ],
+        "access": [
+          {
+            "title": "Public",
+            "link": ""
+          }
+        ],
+        "sourceCodeLocation": [],
+        "researchContact": [],
+        "generalContact": [],
+        "resourceTypes": [
+          "Data"
+        ],
+        "status": null,
+        "versions": [],
+        "standards": [],
+        "resourceOwner": [
+          {
+            "title": "unknown",
+            "link": "null"
+          }
+        ],
+        "link": "https://hdl.handle.net/1839/00-2766F32F-4305-4F13-A02C-F4A8F5216425@view",
+        "intro": "Video recordings of 67 children to compare the language and executive functioning profiles of children with ADHD and children with SLI and TD children: 26 Dutch children with ADHD 19 Dutch children with SLI 22 children Dutch controls 26 Dutch children with ADHD 19 Dutch children with SLI 22 children Dutch controls Tests: Sentence repetition task; Non-Word repetition task; Frog story narratives, processed in SPSS on morphological, syntactic and pragmatic measures; Children\u2019s Communicative Check-list II; CANTAB EF tasks for executive functioning",
+        "researchActivities": [],
+        "researchDomains": null,
+        "mediaTypes": null,
+        "provenance": [],
+        "community": [],
+        "development": null
+      }
+    }
+  }
+]

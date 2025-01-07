@@ -1,0 +1,62 @@
+[
+  {
+    "operation": "create",
+    "document": {
+      "id": "hdl_58_21.11114_47_COLL-0000-000B-CACF-9",
+      "title": "SLI RU-Kentalis database",
+      "intro": "Corpus for investigation of the expression of spatial relations by children with SLI and normally developing children in their spoken language production. Photo/Film Task - audio recorded: transcript in Praat; data processed and coded in SPSS TAK Narrative Task - audio recorded: transcript in Praat; data processed and coded in SPSS Frog Narrative Task - audio recorded: transcript in Praat; data st nd processed and coded in SPSS. Tests: Ra... Route Description Task - audio/video recorded: transcript in Praat; data processed and coded in SPSS Tests: Raven, WISC (Block Pattern, Mazes), Peabody: SPSS data files; Photo/Film Task - audio recorded: transcript in Praat; data processed and coded in SPSS Route Description Task - audio/video recorded: transcript in Praat; data processed and coded in SPSS TAK Narrative Task - audio re...",
+      "publishedAt": [],
+      "media": {
+        "thumbnail": [],
+        "slider": []
+      },
+      "tabs": {
+        "overview": {},
+        "learn": {},
+        "mentions": {},
+        "metadata": {}
+      },
+      "properties": {
+        "programmingLanguages": [],
+        "learn": [],
+        "resourceHost": null,
+        "funding": [],
+        "problemContact": [],
+        "informationTypes": null,
+        "languages": [
+          "Dutch",
+          "English"
+        ],
+        "access": [
+          {
+            "title": "Public",
+            "link": ""
+          }
+        ],
+        "sourceCodeLocation": [],
+        "researchContact": [],
+        "generalContact": [],
+        "resourceTypes": [
+          "Data"
+        ],
+        "status": null,
+        "versions": [],
+        "standards": [],
+        "resourceOwner": [
+          {
+            "title": "Radboud University Nijmegen",
+            "link": "null"
+          }
+        ],
+        "link": "https://hdl.handle.net/1839/00-712802F3-C245-4EF0-BE9D-D09714DEDE67@view",
+        "intro": "Corpus for investigation of the expression of spatial relations by children with SLI and normally developing children in their spoken language production. Photo/Film Task - audio recorded: transcript in Praat; data processed and coded in SPSS TAK Narrative Task - audio recorded: transcript in Praat; data processed and coded in SPSS Frog Narrative Task - audio recorded: transcript in Praat; data st nd processed and coded in SPSS. Tests: Ra... Route Description Task - audio/video recorded: transcript in Praat; data processed and coded in SPSS Tests: Raven, WISC (Block Pattern, Mazes), Peabody: SPSS data files; Photo/Film Task - audio recorded: transcript in Praat; data processed and coded in SPSS Route Description Task - audio/video recorded: transcript in Praat; data processed and coded in SPSS TAK Narrative Task - audio re...",
+        "researchActivities": [],
+        "researchDomains": null,
+        "mediaTypes": null,
+        "provenance": [],
+        "community": [],
+        "development": null
+      }
+    }
+  }
+]

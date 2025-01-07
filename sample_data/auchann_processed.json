@@ -1,0 +1,100 @@
+[
+  {
+    "operation": "create",
+    "document": {
+      "id": "auchann",
+      "title": "Auchann",
+      "intro": "AuChAnn (Automatic CHAT Annotation) is a python package that provides CHAT annotations based on a transcript string and an interpretation (or 'corrected') string. For example, the following transcript and correction\n\nTranscript: 'ik wilt nu eh na huis'\\\nCorrection: 'Ik wil nu naar huis.'\n\nwill yi...",
+      "publishedAt": "2022-01-12",
+      "media": {
+        "slider": [
+          "https://raw.githubusercontent.com/CLARIAH/ineo-content/master/media/auchann.png"
+        ]
+      },
+      "tabs": {
+        "overview": {
+          "body": "### Overview\n * AuChAnn \u2013 Automatic CHAT Annotation tool \u2013 is a python library that can read a Dutch transcript and interpretation pair and generate a fitting CHAT annotation.\n* AuChAnn was specifically developed to enhance linguistic data in the form of a transcript and interpretation by a linguist for use with [SASTA](https://www.ineo.tools/resources/sasta).\n* AuChAnn consistently outperforms human annotators, and provides annotations in a fraction of the time, making it a useful improvement for SASTA, but also for any other linguists that want to use information-rich CHAT annotations for their research."
+        },
+        "learn": {
+          "body": "Professor Frank Wijnen gave a lunch lecture on AuChAnn on 25 May 2023. During this lecture, Wijnen expanded on how complete and correct CHAT annotations can be generated on the basis of transcribed actual utterance-correct version pairs:\n\n<iframe title=\"vimeo-player\" src=\"https://player.vimeo.com/video/870688674?h=be1200bc9f\" width=\"640\" height=\"360\" frameborder=\"0\"    allowfullscreen></iframe>\n\n### Getting Started with AuChAnn\n\nYou can install AuChAnn using pip:\n\n```bash\npip install auchann\n```\n\nYou can also optionally install [``sastadev``](https://github.com/UUDigitalHumanitieslab/sastadev)\nwhich is used for detecting inflection errors.\n\n```bash\npip install auchann[NL]\n```\n\nWhen installed, the program can be run interactively from the console using the command `auchann`.\n\n### Import as Library\n\nTo use AuChAnn in your own Python applications, you can import the `align_words` function from `align_words`, see below. This is the main functionality of the package.\n\n```python\nfrom auchann.align_words import align_words\n\ntranscript = input(\"Transcript: \")\ncorrection = input(\"Correction: \")\nalignment = align_words(transcript, correction)\nprint(alignment)\n```\n\n#### Settings\n\nVarious settings can be adjusted. Default values are used for every unchanged property.\n\n```python\nfrom auchann.align_words import align_words, AlignmentSettings\nimport editdistance\n\nsettings = AlignmentSettings()\n\n# Return the edit distance between the original and correction\nsettings.calc_distance = lambda original, correction: editdistance.distance(original, correction)\n\n# Return an override of the distance and the error type;\n# if error type is None the distance returned will be ignored\n# Default method detects inflection errors\nsettings.detect_error = lambda original, correction: (1, \"m\") if original == \"geloopt\" and correction == \"liep\" else (0, None)\n\n### Sastadev contains a helper function for Dutch which detects inflection errors\nfrom sastadev.deregularise import detect_error\nsettings.detect_error = detect_error\n\n# How many words could be split from one?\n# e.g. das -> da(t) (i)s requires a lookahead of 2\n# hoest -> hoe (i)s (he)t requires a lookahead of 3\nsettings.lookahead = 5\n\n# Allow detection of replacements within a group\n# e.g. swapping articles this will then be marked with\n# the specified key\n\n# EXAMPLE:\n# Transcript: de huis\n# Correction: het huis\n# de [: het] [* s:r:gc:art] huis\nsettings.replacements = {\n    's:r:gc:art': ['de', 'het', 'een'],\n    's:r:gc:pro': ['dit', 'dat', 'deze'],\n    's:r:prep': ['aan', 'uit']\n}\n\n# Other lists to adjust\nsettings.fillers = ['eh', 'hm', 'uh']\nsettings.fragments = ['ba', 'to', 'mu']\n\n### Example usage\ntranscript = input(\"Transcript: \")\ncorrection = input(\"Correction: \")\nalignment = align_words(transcript, correction, settings)\nprint(alignment)\n```\n\n### How it Works\n\nThe `align_words` function scans the transcript and correction and determines for each token whether a correction token is copied exactly from the transcript, replaces a token from the transcript, is inserted, or whether a transcript token has been omitted. Based on which of these operations has occurred, the function adds the appropriate CHAT annotation to the output string.\n\nThe algorithm uses edit distance to establish which words are replacements of each other, i.e. it links a transcript token to a correction token. Words with the lowest available edit distance are matched together, and based on this match the operations COPY and REPLACE are determined. If two candidates have the same edit distance to a token, word position is used to determine the match. The operations REMOVE and INSERT are established if no suitable match can be found for a transcript and correction token respectively.\n\nIn addition to establishing these four operations, the function detects several other properties of the transcript and correction which can be expressed in CHAT. For example, it determines whether a word is a filler or fragment, whether a conjugation error has occurred, or if a pronoun, preposition, or article has been used incorrectly.\n\n### Development\n\nTo install the requirements:\n\n```bash\npip install -r requirements.txt\n```\n\nTo run the AuChAnn command-line function from the console:\n\n```bash\npython -m auchann\n```\n\n#### Run Tests\n\n```bash\npip install pytest\npytest\n```\n\n#### Upload to PyPi\n\n```bash\npip install pip-tools twine\npython setup.py sdist\ntwine upload dist/*.tar.gz\n```"
+        },
+        "mentions": {
+          "body": "### Acknowledgments\n\nAuChAnn was developed by the [Centre for Digital Humanities \u2013 Research Software Lab](https://cdh.uu.nl/about/research-software-lab/) (Sheean Spoel and Mees van Stiphout), in collaboration with Frank Wijnen, Professor of psycholinguistics at the Department of Languages, Literature and Communication.\n\nThe research for this software was made possible by the CLARIAH-PLUS project financed by NWO (Grant 184.034.023).\n\n### Lunch Lecture\n\nProfessor Frank Wijnen gave a lunch lecture on AuChAnn on 25 May 2023. During this lecture, Wijnen expanded on how complete and correct CHAT annotations can be generated on the basis of transcribed actual utterance-correct version pairs: https://www.clariah.nl/nl/evenementen/lunchlezing-auchann\n\n### Webpages\n\n* [AuChAnn on pypi](https://pypi.org/project/auchann/)\n* [AuChAnn GitHub page](https://github.com/UUDigitalHumanitieslab/auchann)\n* [AuChAnn in the RSL portfolio](https://cdh.uu.nl/portfolio/automatic-chat-annotation-tool-auchann/)\n\n### Other\n\n* [SASTA](https://www.ineo.tools/resources/sasta): AuChAnn was specifically developed to enhance linguistic data in the form of a transcript and interpretation by a linguist for use with SASTA.\n\n### References\n\n* MacWhinney, B. (2000). *The CHILDES project: Tools for analyzing talk: Transcription format and programs* (3rd ed.). Lawrence Erlbaum Associates Publishers."
+        },
+        "metadata": {}
+      },
+      "properties": {
+        "programmingLanguages": [
+          {
+            "title": "Python",
+            "link": null
+          }
+        ],
+        "problemContact": [
+          {
+            "title": "Issue tracker",
+            "link": "https://github.com/UUDigitalHumanitieslab/auchann/issues"
+          }
+        ],
+        "informationTypes": [],
+        "access": [
+          {
+            "title": "Open Access",
+            "link": "https://github.com/UUDigitalHumanitieslab/auchann"
+          }
+        ],
+        "sourceCodeLocation": [
+          {
+            "title": "github.com",
+            "link": "https://github.com/UUDigitalHumanitieslab/auchann"
+          }
+        ],
+        "researchContact": [],
+        "generalContact": [
+          {
+            "title": "Digital\u00a0Humanities Lab",
+            "link": "mailto:digitalhumanities@uu.nl"
+          }
+        ],
+        "resourceTypes": [
+          "Tools"
+        ],
+        "status": [
+          "Inactive"
+        ],
+        "versions": [
+          {
+            "title": "0.2.0",
+            "url": ""
+          }
+        ],
+        "standards": [],
+        "resourceOwner": [
+          {
+            "title": "UU Digital Humanities Lab",
+            "link": "https://cdh.uu.nl/rsl/"
+          }
+        ],
+        "link": "https://github.com/UUDigitalHumanitieslab/auchann",
+        "intro": "The AuChAnn (Automatic CHAT Annotation) package can generate CHAT annotations based on a transcript-correction pairs of utterances.",
+        "provenance": [],
+        "community": [
+          {
+            "title": "Issue tracker",
+            "link": "https://github.com/UUDigitalHumanitieslab/auchann/issues"
+          }
+        ],
+        "development": [
+          {
+            "title": "Digital Humanities Lab",
+            "link": ""
+          },
+          {
+            "title": "Utrecht University",
+            "link": ""
+          }
+        ]
+      }
+    }
+  }
+]

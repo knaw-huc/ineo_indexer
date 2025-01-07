@@ -1,0 +1,62 @@
+[
+  {
+    "operation": "create",
+    "document": {
+      "id": "hdl_58_21.11114_47_COLL-0000-000B-CACE-A",
+      "title": "Deaf adults RU database",
+      "intro": "Recordings of the writing process to investigate the acquisition of Dutch by deaf Dutch adults (late L1/early L2) and comparison to hearing Turkish and Moroccan-Arabic L2-learners of Dutch (late L2) on morphosyntactic aspects. Participants: 46 deaf Dutch adults 38 hearing Turkish adults... the results on the writing task of The Frog Story, that are recorded and stored in ScriptLog (Holmquist; see Wengelin, 2012) and coded and processed in Excel and SPSS. 108 participants: 46 deaf Dutch adults 38 hearing Turkish adults 24 hearing Moroccan adults 10 Dutch controls males: 2...",
+      "publishedAt": [],
+      "media": {
+        "thumbnail": [],
+        "slider": []
+      },
+      "tabs": {
+        "overview": {},
+        "learn": {},
+        "mentions": {},
+        "metadata": {}
+      },
+      "properties": {
+        "programmingLanguages": [],
+        "learn": [],
+        "resourceHost": null,
+        "funding": [],
+        "problemContact": [],
+        "informationTypes": null,
+        "languages": [
+          "Dutch",
+          "English"
+        ],
+        "access": [
+          {
+            "title": "Public",
+            "link": ""
+          }
+        ],
+        "sourceCodeLocation": [],
+        "researchContact": [],
+        "generalContact": [],
+        "resourceTypes": [
+          "Data"
+        ],
+        "status": null,
+        "versions": [],
+        "standards": [],
+        "resourceOwner": [
+          {
+            "title": "CLSRadboud University Nijmegen",
+            "link": "null"
+          }
+        ],
+        "link": "https://hdl.handle.net/1839/00-97AF29EA-877D-422A-BAF7-25FA269351A6@view",
+        "intro": "Recordings of the writing process to investigate the acquisition of Dutch by deaf Dutch adults (late L1/early L2) and comparison to hearing Turkish and Moroccan-Arabic L2-learners of Dutch (late L2) on morphosyntactic aspects. Participants: 46 deaf Dutch adults 38 hearing Turkish adults... the results on the writing task of The Frog Story, that are recorded and stored in ScriptLog (Holmquist; see Wengelin, 2012) and coded and processed in Excel and SPSS. 108 participants: 46 deaf Dutch adults 38 hearing Turkish adults 24 hearing Moroccan adults 10 Dutch controls males: 2...",
+        "researchActivities": [],
+        "researchDomains": null,
+        "mediaTypes": null,
+        "provenance": [],
+        "community": [],
+        "development": null
+      }
+    }
+  }
+]

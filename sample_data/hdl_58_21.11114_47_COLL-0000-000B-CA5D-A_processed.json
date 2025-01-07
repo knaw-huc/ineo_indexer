@@ -1,0 +1,68 @@
+[
+  {
+    "operation": "create",
+    "document": {
+      "id": "hdl_58_21.11114_47_COLL-0000-000B-CA5D-A",
+      "title": "Nijmegen Parsed Corpus of Modern Chechen",
+      "intro": "The Nijmegen Parsed Corpus of Modern Chechen contains a number of manually corrected syntactically annotated texts. Some of the texts originally come from a corpus of Chechen texts created by Ron Zacharski & Jim Cowie at the New Mexico State University. These texts were originally avail...",
+      "publishedAt": [],
+      "media": {
+        "thumbnail": [],
+        "slider": []
+      },
+      "tabs": {
+        "overview": {},
+        "learn": {},
+        "mentions": {},
+        "metadata": {}
+      },
+      "properties": {
+        "programmingLanguages": [],
+        "learn": [],
+        "resourceHost": [
+          {
+            "title": "http://erwinkomen.ruhosting.nl",
+            "link": "http://erwinkomen.ruhosting.nl"
+          }
+        ],
+        "funding": [],
+        "problemContact": [],
+        "informationTypes": null,
+        "languages": [
+          "Chechen",
+          "English",
+          "Dutch"
+        ],
+        "access": [
+          {
+            "title": "Academic",
+            "link": ""
+          }
+        ],
+        "sourceCodeLocation": [],
+        "researchContact": [],
+        "generalContact": [],
+        "resourceTypes": [
+          "Data"
+        ],
+        "status": null,
+        "versions": [],
+        "standards": [],
+        "resourceOwner": [
+          {
+            "title": "SIL-InternationalRadboud University Nijmegen",
+            "link": "null"
+          }
+        ],
+        "link": "http://erwinkomen.ruhosting.nl/che/crp",
+        "intro": "The Nijmegen Parsed Corpus of Modern Chechen contains a number of manually corrected syntactically annotated texts. Some of the texts originally come from a corpus of Chechen texts created by Ron Zacharski & Jim Cowie at the New Mexico State University. These texts were originally avail...",
+        "researchActivities": [],
+        "researchDomains": null,
+        "mediaTypes": null,
+        "provenance": [],
+        "community": [],
+        "development": null
+      }
+    }
+  }
+]

@@ -1,0 +1,79 @@
+[
+  {
+    "operation": "create",
+    "document": {
+      "id": "http_58__47__47_hdl.handle.net_47_10032_47_6fe1e37f2ead3834b37b5c922af37e1f",
+      "title": "IFA Dutch Spoken Language Corpus",
+      "intro": "The IFA Spoken Language corpus is a free (GPL) database of hand-segmented Dutch speech. It was constructed with off-the-shelf software using speech from 8 speakers in a variety of speaking styles. The IFA Corpus has a total of 50,000 words (41 minutes/speaker). Dutch as spoken by adults (native speakers) in the Netherlands Of all recordings a verbatim transcript is made. A phonemic transcription was made by a lookup from a CELEX word list, the pronunciation lexicon. Unknown words were hand-transcribed and added to the list. In case of ambiguity, the most normative transcription was chosen. Phonemic labeling and segmentation: defining the phoneme (phoneme transcription) and marking the start and end point of each phoneme (segmentation).",
+      "publishedAt": [],
+      "media": {
+        "thumbnail": [],
+        "slider": []
+      },
+      "tabs": {
+        "overview": {},
+        "learn": {},
+        "mentions": {},
+        "metadata": {}
+      },
+      "properties": {
+        "programmingLanguages": [],
+        "learn": [],
+        "resourceHost": null,
+        "funding": [],
+        "problemContact": [],
+        "informationTypes": null,
+        "languages": [
+          "Dutch",
+          "English"
+        ],
+        "access": [
+          {
+            "title": "available for commercial and non-commercial organisations",
+            "link": ""
+          }
+        ],
+        "sourceCodeLocation": [],
+        "researchContact": [],
+        "generalContact": [],
+        "resourceTypes": [
+          "Data"
+        ],
+        "status": null,
+        "versions": [],
+        "standards": [],
+        "resourceOwner": [
+          {
+            "title": "Dutch Language Union",
+            "link": "null"
+          }
+        ],
+        "link": "http://hdl.handle.net/10032/tm-a2-n8",
+        "intro": "The IFA Spoken Language corpus is a free (GPL) database of hand-segmented Dutch speech. It was constructed with off-the-shelf software using speech from 8 speakers in a variety of speaking styles. The IFA Corpus has a total of 50,000 words (41 minutes/speaker). Dutch as spoken by adults (native speakers) in the Netherlands Of all recordings a verbatim transcript is made. A phonemic transcription was made by a lookup from a CELEX word list, the pronunciation lexicon. Unknown words were hand-transcribed and added to the list. In case of ambiguity, the most normative transcription was chosen. Phonemic labeling and segmentation: defining the phoneme (phoneme transcription) and marking the start and end point of each phoneme (segmentation).",
+        "researchActivities": [],
+        "researchDomains": null,
+        "mediaTypes": null,
+        "provenance": [],
+        "community": [],
+        "development": [
+          {
+            "title": "R.J.J.H. van Son",
+            "link": "null"
+          },
+          {
+            "title": "Diana Binnenpoorte",
+            "link": "null"
+          },
+          {
+            "title": "Henk van den Heuvel",
+            "link": "null"
+          },
+          {
+            "title": "Louis C.W. Pols",
+            "link": "null"
+          }
+        ]
+      }
+    }
+  }
+]

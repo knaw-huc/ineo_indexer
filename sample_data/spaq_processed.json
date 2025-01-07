@@ -1,0 +1,68 @@
+[
+  {
+    "operation": "create",
+    "document": {
+      "id": "spaq",
+      "title": "SPAQ",
+      "intro": "SPAQ (speech aquisition using Surveys)",
+      "publishedAt": "2021-01-26",
+      "media": {},
+      "tabs": {
+        "overview": {},
+        "learn": {},
+        "mentions": {},
+        "metadata": {}
+      },
+      "properties": {
+        "problemContact": [
+          {
+            "title": "Issue tracker",
+            "link": "https://github.com/knaw-huc/SPAQ/issues"
+          }
+        ],
+        "informationTypes": [],
+        "access": [
+          {
+            "title": "Open Access",
+            "link": "https://github.com/knaw-huc/SPAQ"
+          }
+        ],
+        "sourceCodeLocation": [
+          {
+            "title": "github.com",
+            "link": "https://github.com/knaw-huc/SPAQ"
+          }
+        ],
+        "researchContact": [],
+        "resourceTypes": [
+          "Tools"
+        ],
+        "status": [
+          "Work in progress"
+        ],
+        "versions": [
+          {
+            "title": "",
+            "url": ""
+          }
+        ],
+        "standards": [],
+        "resourceOwner": [
+          {
+            "title": "KNAW Humanities Cluster",
+            "link": "https://huc.knaw.nl/"
+          }
+        ],
+        "link": "https://github.com/knaw-huc/SPAQ",
+        "intro": "SPAQ (speech aquisition using Surveys)",
+        "provenance": [],
+        "community": [
+          {
+            "title": "Issue tracker",
+            "link": "https://github.com/knaw-huc/SPAQ/issues"
+          }
+        ]
+      }
+    }
+  }
+]

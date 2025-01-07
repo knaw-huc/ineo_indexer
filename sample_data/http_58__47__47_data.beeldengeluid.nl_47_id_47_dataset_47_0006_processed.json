@@ -1,0 +1,61 @@
+[
+  {
+    "operation": "create",
+    "document": {
+      "id": "http_58__47__47_data.beeldengeluid.nl_47_id_47_dataset_47_0006",
+      "title": "Radio Oranje",
+      "intro": "The collection of broadcasts from Radio Oranje (Radio Orange) contains a selection of the radio broadcasts that were transmitted between 1940 and 1945. They were broadcasts created by the Dutch Government in exile in London, transmitted to encourage and inform the people of the Netherla... The collection of Broadcasts from Radio Oranje (Radio Orange) contains a selection of the radio broadcasts that were transmitted between 1940 and 1945. They were broadcasts created by the Dutch Government in exile in London, transmitted to encourage and inform the people of the Netherla...",
+      "publishedAt": [],
+      "media": {
+        "thumbnail": [],
+        "slider": []
+      },
+      "tabs": {
+        "overview": {},
+        "learn": {},
+        "mentions": {},
+        "metadata": {}
+      },
+      "properties": {
+        "programmingLanguages": [],
+        "learn": [],
+        "resourceHost": [
+          {
+            "title": "https://soundcloud.com",
+            "link": "https://soundcloud.com"
+          }
+        ],
+        "funding": [],
+        "problemContact": [],
+        "informationTypes": null,
+        "languages": null,
+        "access": [
+          {
+            "title": "Public",
+            "link": "https://creativecommons.org/publicdomain/zero/1.0/"
+          }
+        ],
+        "sourceCodeLocation": [],
+        "researchContact": [],
+        "generalContact": [],
+        "resourceTypes": [
+          "Data"
+        ],
+        "status": null,
+        "versions": [],
+        "standards": [],
+        "resourceOwner": null,
+        "link": "https://soundcloud.com/beeldengeluid/sets/radio-oranje",
+        "intro": "The collection of broadcasts from Radio Oranje (Radio Orange) contains a selection of the radio broadcasts that were transmitted between 1940 and 1945. They were broadcasts created by the Dutch Government in exile in London, transmitted to encourage and inform the people of the Netherla... The collection of Broadcasts from Radio Oranje (Radio Orange) contains a selection of the radio broadcasts that were transmitted between 1940 and 1945. They were broadcasts created by the Dutch Government in exile in London, transmitted to encourage and inform the people of the Netherla...",
+        "researchActivities": [],
+        "researchDomains": null,
+        "mediaTypes": [
+          "2 audio"
+        ],
+        "provenance": [],
+        "community": [],
+        "development": null
+      }
+    }
+  }
+]

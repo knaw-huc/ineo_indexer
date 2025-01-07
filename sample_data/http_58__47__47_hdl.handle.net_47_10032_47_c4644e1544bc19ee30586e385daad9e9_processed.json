@@ -1,0 +1,68 @@
+[
+    {
+        "operation": "create",
+        "document": {
+            "id": "http_58__47__47_hdl.handle.net_47_10032_47_c4644e1544bc19ee30586e385daad9e9",
+            "title": "The LiLaH Emotion Lexicon of Greek, Kurdish, Turkish, Spanish, Fars...",
+            "intro": "The Dictionary VGT of the INT contains the video material of the Dictionary of Flemish Sign Language. The 10025 video's contain a gesture per video. Documentation in English Het Woordenboek VGT van het INT bevat het videomateriaal uit het online Woordenboek Vlaamse Gebarentaal. In de 10025 video's is per video een gebaar vastgelegd. .",
+            "publishedAt": [],
+            "media": {
+                "thumbnail": [],
+                "slider": []
+            },
+            "tabs": {
+                "overview": {},
+                "learn": {},
+                "mentions": {},
+                "metadata": {}
+            },
+            "properties": {
+                "programmingLanguages": [],
+                "learn": [],
+                "resourceHost": null,
+                "funding": [],
+                "problemContact": [],
+                "informationTypes": null,
+                "languages": [
+                    "Modern Greek",
+                    "Kurdish",
+                    "Turkish",
+                    "Spanish; Castilian",
+                    "Farsi; Persian",
+                    "Chinese"
+                ],
+                "access": [
+                    {
+                        "title": "Public",
+                        "link": "https://creativecommons.org/licenses/by-nc-sa/3.0/"
+                    }
+                ],
+                "sourceCodeLocation": [],
+                "researchContact": [],
+                "generalContact": [],
+                "resourceTypes": [
+                    "Data"
+                ],
+                "status": null,
+                "versions": [],
+                "standards": [],
+                "resourceOwner": [
+                    {
+                        "title": "University of Antwerp",
+                        "link": "null"
+                    }
+                ],
+                "link": "http://hdl.handle.net/10032/tm-a2-v7",
+                "intro": "The Dictionary VGT of the INT contains the video material of the Dictionary of Flemish Sign Language. The 10025 video's contain a gesture per video. Documentation in English Het Woordenboek VGT van het INT bevat het videomateriaal uit het online Woordenboek Vlaamse Gebarentaal. In de 10025 video's is per video een gebaar vastgelegd. .",
+                "researchActivities": [],
+                "researchDomains": [
+                    "https://w3id.org/nwo-research-fields#SemanticsAndPhilosophyOfLanguage"
+                ],
+                "mediaTypes": null,
+                "provenance": [],
+                "community": [],
+                "development": null
+            }
+        }
+    }
+]

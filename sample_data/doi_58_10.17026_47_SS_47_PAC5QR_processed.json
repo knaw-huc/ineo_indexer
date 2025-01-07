@@ -1,0 +1,68 @@
+[
+    {
+        "operation": "create",
+        "document": {
+            "id": "doi_58_10.17026_47_SS_47_PAC5QR",
+            "title": "Project Ongekend Bijzonder, Den Haag, interview 10",
+            "intro": "geslacht: V land van herkomst: Democratische Republiek Congo leeftijd aankomst NL: 30 stad: Den Haag vluchtreden: relaties met eigen gemeenschap: vooral vriendschappen met mensen uit alle delen van de wereld opleiding: pedagogiek beroep land van herkomst: werk in NL: pedagogisch coach...",
+            "publishedAt": [],
+            "media": {
+                "thumbnail": [],
+                "slider": []
+            },
+            "tabs": {
+                "overview": {},
+                "learn": {},
+                "mentions": {},
+                "metadata": {}
+            },
+            "properties": {
+                "programmingLanguages": [],
+                "learn": [],
+                "resourceHost": [
+                    {
+                        "title": "https://doi.org",
+                        "link": "https://doi.org"
+                    }
+                ],
+                "funding": [],
+                "problemContact": [],
+                "informationTypes": null,
+                "languages": [
+                    "Dutch",
+                    "English",
+                    "French"
+                ],
+                "access": [
+                    {
+                        "title": "UNSPECIFIED",
+                        "link": ""
+                    }
+                ],
+                "sourceCodeLocation": [],
+                "researchContact": [],
+                "generalContact": [],
+                "resourceTypes": [
+                    "Data"
+                ],
+                "status": null,
+                "versions": [],
+                "standards": [],
+                "resourceOwner": null,
+                "link": "https://doi.org/10.17026/SS/PAC5QR",
+                "intro": "geslacht: V land van herkomst: Democratische Republiek Congo leeftijd aankomst NL: 30 stad: Den Haag vluchtreden: relaties met eigen gemeenschap: vooral vriendschappen met mensen uit alle delen van de wereld opleiding: pedagogiek beroep land van herkomst: werk in NL: pedagogisch coach...",
+                "researchActivities": [],
+                "researchDomains": [],
+                "mediaTypes": null,
+                "provenance": [],
+                "community": [],
+                "development": [
+                    {
+                        "title": "Stichting Bevordering Maatschappelijke Participatie - BMP",
+                        "link": "null"
+                    }
+                ]
+            }
+        }
+    }
+]

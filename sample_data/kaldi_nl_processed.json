@@ -1,0 +1,68 @@
+[
+  {
+    "operation": "create",
+    "document": {
+      "id": "kaldi_nl",
+      "title": "Kaldi_NL",
+      "intro": "Code related to the Dutch instance and user groups of the KALDI speech recognition toolkit",
+      "publishedAt": "2016-04-22",
+      "media": {},
+      "tabs": {
+        "overview": {},
+        "learn": {},
+        "mentions": {},
+        "metadata": {}
+      },
+      "properties": {
+        "problemContact": [
+          {
+            "title": "Issue tracker",
+            "link": "https://github.com/opensource-spraakherkenning-nl/Kaldi_NL/issues"
+          }
+        ],
+        "informationTypes": [],
+        "access": [
+          {
+            "title": "Open Access",
+            "link": "https://github.com/opensource-spraakherkenning-nl/Kaldi_NL"
+          }
+        ],
+        "sourceCodeLocation": [
+          {
+            "title": "github.com",
+            "link": "https://github.com/opensource-spraakherkenning-nl/Kaldi_NL"
+          }
+        ],
+        "researchContact": [],
+        "resourceTypes": [
+          "Tools"
+        ],
+        "status": [
+          "Active"
+        ],
+        "versions": [
+          {
+            "title": "v0.4.3",
+            "url": ""
+          }
+        ],
+        "standards": [],
+        "resourceOwner": [
+          {
+            "title": "Open Spraaktechnologie",
+            "link": "https://openspraaktechnologie.org/"
+          }
+        ],
+        "link": "https://github.com/opensource-spraakherkenning-nl/Kaldi_NL",
+        "intro": "Code related to the Dutch instance and user groups of the KALDI speech recognition toolkit",
+        "provenance": [],
+        "community": [
+          {
+            "title": "Issue tracker",
+            "link": "https://github.com/opensource-spraakherkenning-nl/Kaldi_NL/issues"
+          }
+        ]
+      }
+    }
+  }
+]

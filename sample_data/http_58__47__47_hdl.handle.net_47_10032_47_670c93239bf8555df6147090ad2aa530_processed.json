@@ -1,0 +1,61 @@
+[
+  {
+    "operation": "create",
+    "document": {
+      "id": "http_58__47__47_hdl.handle.net_47_10032_47_670c93239bf8555df6147090ad2aa530",
+      "title": "RND Woordenlijsten",
+      "intro": "The \"Reeks Nederlandse Dialectatlassen\" (RND - Series Dutch Dialect Atlasses) is a series books published between 1925 and 1976, containing the phonetic transcriptions of a fixed set of Dutch sentences. The prounciation was recorded of a speakers from a large number of villages and town... De Reeks Nederlandse Dialectatlassen is een serie boeken, uitgegeven tussen 1925 en 1976, met daarin de fonetische transcripties van een vast aantal zinnen. Daarbij is de uitspraak vastgelegd van zegslieden uit een groot aantal dorpen en steden in Nederland en Vlaanderen. De boeken zijn...",
+      "publishedAt": [],
+      "media": {
+        "thumbnail": [],
+        "slider": []
+      },
+      "tabs": {
+        "overview": {},
+        "learn": {},
+        "mentions": {},
+        "metadata": {}
+      },
+      "properties": {
+        "programmingLanguages": [],
+        "learn": [],
+        "resourceHost": null,
+        "funding": [],
+        "problemContact": [],
+        "informationTypes": null,
+        "languages": [
+          "Dutch"
+        ],
+        "access": [
+          {
+            "title": "available for non-commercial use only.",
+            "link": ""
+          }
+        ],
+        "sourceCodeLocation": [],
+        "researchContact": [],
+        "generalContact": [],
+        "resourceTypes": [
+          "Data"
+        ],
+        "status": null,
+        "versions": [],
+        "standards": [],
+        "resourceOwner": [
+          {
+            "title": "Uitgeverij Van In",
+            "link": "null"
+          }
+        ],
+        "link": "http://hdl.handle.net/10032/tm-a2-t6",
+        "intro": "The \"Reeks Nederlandse Dialectatlassen\" (RND - Series Dutch Dialect Atlasses) is a series books published between 1925 and 1976, containing the phonetic transcriptions of a fixed set of Dutch sentences. The prounciation was recorded of a speakers from a large number of villages and town... De Reeks Nederlandse Dialectatlassen is een serie boeken, uitgegeven tussen 1925 en 1976, met daarin de fonetische transcripties van een vast aantal zinnen. Daarbij is de uitspraak vastgelegd van zegslieden uit een groot aantal dorpen en steden in Nederland en Vlaanderen. De boeken zijn...",
+        "researchActivities": [],
+        "researchDomains": null,
+        "mediaTypes": null,
+        "provenance": [],
+        "community": [],
+        "development": null
+      }
+    }
+  }
+]

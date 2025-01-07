@@ -1,0 +1,134 @@
+[
+    {
+        "operation": "create",
+        "document": {
+            "id": "frog",
+            "title": "Frog",
+            "intro": "Frog is a suite containing a tokeniser, Part-of-Speech tagger, lemmatiser, morphological analyser, shallow parser, and dependency parser for Dutch.",
+            "publishedAt": "2011-03-31",
+            "media": {
+                "thumbnail": "https://raw.githubusercontent.com/LanguageMachines/frog/master/logo.svg"
+            },
+            "tabs": {
+                "overview": {
+                    "body": "### Overview\n * Frog is an integration of memory-based natural language processing (NLP) modules developed for Dutch. \n* All NLP modules are based on [Timbl](http://languagemachines.github.io/timbl/), the Tilburg memory-based learning software package. Most modules were created in the 1990s at the ILK Research Group (Tilburg University, the Netherlands) and the CLiPS Research Centre (University of Antwerp, Belgium). Over the years they have been integrated into a single text processing tool, which is currently maintained and developed by the [Language Machines Research Group](https://github.com/LanguageMachines) and the [Centre for Language and Speech Technology at Radboud University Nijmegen](https://www.ru.nl/en/cls/clst). A dependency parser, a base phrase chunker, and a named-entity recognizer module were added more recently. \n* Where possible, Frog makes use of multi-processor support to run subtasks in parallel.\n* Frog is also available as a webservice on (https://webservices.cls.ru.nl/frog).\n\n\n### What does it do?\n\nFrog's current version will tokenize, tag, lemmatize, and morphologically segment word tokens in Dutch text files, will assign a dependency graph to each sentence, will identify the base phrase chunks in the sentence, and will attempt to find and label all named entities.\n\nFrog produces [FoLiA XML](https://proycon.github.io/folia/), or tab-delimited column-formatted output, one line per token, that looks as follows:\n\n![Example of Frog output](https://github.com/CLARIAH/ineo-content/blob/master/media/frog/frog-output.png?raw=1)\n\nThe ten columns contain the following information:\n* Token number (resets every sentence)\n* Token\n* Lemma\n* Morphological segmentation\n* PoS tag ([CGN tagset](https://ivdnt.org/images/stories/producten/documentatie/cgn_website/doc_English/topics/project/pos_tagging/index.htm))\n* Confidence in the POS tag, a number between 0 and 1, representing the probability mass assigned to the best guess tag in the tag distribution\n* Named entity type, identifying person (PER), organization (ORG), location (LOC), product (PRO), event (EVE), and miscellaneous (MISC), using a BIO (or IOB2) encoding\n* Base (non-embedded) phrase chunk in BIO encoding\n* Token number of head word in dependency graph (according to CSI-DP)\n* Type of dependency relation with head word\n\n### Documentation\n\nThe Frog manual is available [here](https://frognlp.readthedocs.io/en/latest/). It describes in detail how to install Frog, how to use it, as well as explains the underlying principles upon which Frog is built.\n\nThe API reference is available from [here](https://languagemachines.github.io/frog/docs/api/html/)."
+                },
+                "learn": {
+                    "body": "### Download and installation\n\nFrog is free software; you can redistribute it and/or modify it under the terms of the [GNU General Public License](https://www.gnu.org/licenses/gpl-3.0.html) as published by the [Free Software Foundation](https://www.fsf.org/).\n\nTo download and install Frog:\n\n1. First check if there are up-to-date packages included in your distribution's package manager. There are packages for Alpine Linux, Homebrew (macos), Debian, Ubuntu and Arch Linux.\n2. Use a docker container as instructed [here](https://github.com/LanguageMachines/frog/blob/master/README.md#container-usage).\n3. Alternatively, you can always download, compile and install Frog manually, as shown next.\n\n#### Manual installation\n\n* [Source code](https://github.com/LanguageMachines/frog/)\n* [Stable releases](https://github.com/LanguageMachines/frog/releases)\n\nBecause of file sizes and to cleanly separate code from data, the data and configuration files for the modules of Frog have been packaged separately:\n\n* [Source repository](https://github.com/LanguageMachines/frogdata/)\n* [Stable releases](https://github.com/LanguageMachines/frogdata/releases)\n\nTo compile these manually consult the included INSTALL documents, you will need current versions of the following dependencies of our software:\n\n* [ticcutils](https://github.com/LanguageMachines/ticcutils/) - A shared utility library\n* [libfolia](https://github.com/LanguageMachines/libfolia/) - A library for the FoLiA format.\n* [ucto](https://github.com/LanguageMachines/ucto/) - A rule-based tokenizer\n* [timbl](https://github.com/LanguageMachines/timbl/) - The memory-based classifier engine\n* [timblserver](https://github.com/LanguageMachines/timbl/) - For server functionality around Timbl\n* [mbt](https://github.com/LanguageMachines/mbt/) - The memory-based tagger\n\nAs well as the following 3rd party dependencies:\n\n* [icu](https://icu.unicode.org/) - A C++ library for Unicode and Globalization support. On Debian/Ubuntu systems, install the package libicu-dev.\n* [libxml2](https://gitlab.gnome.org/GNOME/libxml2/-/wikis/home) - An XML library. On Debian/Ubuntu systems install the package libxml2-dev.\n* A sane build environment with a C++ compiler (e.g. gcc or clang), autotools, libtool, pkg-config.\n\n### Usage instructions: Making Frog leap\n\nTo let Frog leap, simply invoking frog without arguments will produce a list of available commandline options. Some main options are:\n\n* ``frog -t [file]`` will run all modules on the text in ``[file]``\n* ``frog --testdir=[dir]`` will let Frog process all files in the directory ``[dir]``.\n* ``frog -S [port]`` starts up a Frog server listening on port number ``[port]``.\n* With ``--skip=[mptnc]`` you can tell Frog to skip tokenization (``t``), base phrase chunking (``c``), named-entity recognition (``n``), multi-word unit chunking for the parser (``m``), or parsing (``p``).\n\nFrog can be used from Python through the [python-frog](https://github.com/proycon/python-frog) binding, which has to be obtained separately unless you are using [LaMachine](https://proycon.github.io/LaMachine/). A python-frog example is shown below:\n\n```\nimport frog\nfrog = frog.Frog(frog.FrogOptions(parser=False))\noutput = frog.process_raw(\"Dit is een test\")\nprint(\"RAW OUTPUT=\",output)\noutput = frog.process(\"Dit is nog een test.\")\nprint(\"PARSED OUTPUT=\",output)\n```\n\nIf you want to connect to the Frog server using Python, then you can use the Frog client included in [PyNLPl](https://github.com/proycon/pynlpl) (also included as part of [LaMachine](https://proycon.github.io/LaMachine/)).\n\n```\nfrom pynlpl.clients.frogclient import FrogClient\nport = 8020\nfrogclient = FrogClient('localhost',port)\nfor data in frogclient.process(\"Een voorbeeldbericht om te froggen\"):\n    word, lemma, morph, pos = data[:4]\n    #TODO: further processing\n```\n \nWouter van Atteveldt has developed a Frog client for R, [frogr](https://github.com/vanatteveldt/frogr/). This package contains functions for connecting to a Frog server from R and creating a document-term matrix from the resulting tokens. Since this yields a standard term-document matrix, it can be used with other R packages e.g. for [corpus analysis](https://github.com/kasperwelbers/corpus-tools/blob/master/howto/howto_compare_corpora.md) or text classification using [RTextTools](https://cran.r-project.org/web/packages/RTextTools/index.html).\n\nMachiel Molenaar developed a Frog client for Go, aptly named [gorf](https://github.com/Machiel/gorf).\n\n**Notice**: we are in the process of writing a reference guide for Frog that explains all options in detail."
+                },
+                "mentions": {
+                    "body": "### Publications\n\nIf you use Frog for your own work, please cite the following paper:\n* Van den Bosch, A., Busser, G.J., Daelemans, W., and Canisius, S. (2007). An efficient memory-based morphosyntactic tagger and parser for Dutch, In F. van Eynde, P. Dirix, I. Schuurman, and V. Vandeghinste (Eds.), Selected Papers of the 17th Computational Linguistics in the Netherlands Meeting, Leuven, Belgium, pp. 99-114\n\nFrog uses the CGN part-of-speech tagset. Full documentation can be found as:\n* Van Eynde, F. (2004). Part of speech tagging en lemmatisering van het Corpus Gesproken Nederlands. KU Leuven.\n\n\n### Credits and Contact Information\n\nFrog, formerly known as Tadpole and before that as MB-TALPA, was coded by Bertjan Busser, Ko van der Sloot, Maarten van Gompel, and Peter Berck, subsuming code by Sander Canisius (constraint satisfaction inference-based dependency parser), Antal van den Bosch (MBMA, MBLEM, tagger-lemmatizer integration), Jakub Zavrel (MBT), and Maarten van Gompel (Ucto). In the context of the CLARIN-NL infrastructure project TTNWW, Frederik Vaassen (CLiPS, Antwerp) created the base phrase chunking module, and Bart Desmet (LT3, Ghent) provided the data for the named-entity module.\n\nMaarten van Gompel designed the FoLiA XML output format that Frog produces, and also wrote a Frog client in Python. Wouter van Atteveldt wrote a Frog client in R.\n\nThe development of Frog relies on earlier work and ideas from Ko van der Sloot (lead programmer of MBT and TiMBL and the TiMBL API), Walter Daelemans, Jakub Zavrel, Peter Berck, Gert Durieux, and Ton Weijters.\n\nThe development and improvement of Frog also relies on your bug reports, suggestions, and comments. Use the [github issue tracker](https://github.com/LanguageMachines/frog/issues) or mail lamasoftware (at) science.ru.nl.\n\n### Webpages\n\n* [Frog mainpage](https://languagemachines.github.io/frog/)\n* [Frog as a webservice](https://webservices.cls.ru.nl/frog)\n* [Frog documentation](https://frognlp.readthedocs.io/en/latest/)\n* [Frog GitHub page](https://github.com/LanguageMachines/frog)"
+                },
+                "metadata": {}
+            },
+            "properties": {
+                "programmingLanguages": [
+                    {
+                        "title": "C++",
+                        "link": null
+                    }
+                ],
+                "learn": [
+                    {
+                        "title": "Introduction \u2014 frog  documentation",
+                        "link": "https://frognlp.readthedocs.io"
+                    }
+                ],
+                "funding": [
+                    {
+                        "title": "Frog",
+                        "link": "https://languagemachines.github.io/frog"
+                    }
+                ],
+                "problemContact": [
+                    {
+                        "title": "Issue tracker",
+                        "link": "https://github.com/LanguageMachines/frog/issues"
+                    }
+                ],
+                "informationTypes": [],
+                "languages": [
+                    "Dutch"
+                ],
+                "access": [
+                    {
+                        "title": "Open Access",
+                        "link": "https://github.com/LanguageMachines/frog"
+                    }
+                ],
+                "sourceCodeLocation": [
+                    {
+                        "title": "github.com",
+                        "link": "https://github.com/LanguageMachines/frog"
+                    }
+                ],
+                "researchContact": [],
+                "generalContact": [
+                    {
+                        "title": "Maarten\u00a0van Gompel",
+                        "link": "mailto:proycon@anaproy.nl"
+                    },
+                    {
+                        "title": "Ko\u00a0van der Sloot",
+                        "link": "mailto:Ko.vanderSloot@ziggo.nl"
+                    }
+                ],
+                "resourceTypes": [
+                    "Tools"
+                ],
+                "status": [
+                    "Active"
+                ],
+                "versions": [
+                    {
+                        "title": "0.33",
+                        "url": ""
+                    }
+                ],
+                "standards": [],
+                "resourceOwner": [
+                    {
+                        "title": "KNAW Humanities Cluster",
+                        "link": "https://huc.knaw.nl"
+                    }
+                ],
+                "link": "https://github.com/LanguageMachines/frog",
+                "intro": "Frog is an integration of memory-based natural language processing (NLP) modules developed for Dutch. It performs automatic linguistic enrichment such as part of speech tagging, lemmatisation, named entity recognition, shallow parsing, dependency parsing and morphological analysis. All NLP module...",
+                "researchActivities": [
+                    "https://vocabs.dariah.eu/tadirah/annotating",
+                    "https://vocabs.dariah.eu/tadirah/contextualizing",
+                    "https://vocabs.dariah.eu/tadirah/namedEntityRecognition",
+                    "https://vocabs.dariah.eu/tadirah/posTagging",
+                    "https://vocabs.dariah.eu/tadirah/segmenting",
+                    "https://vocabs.dariah.eu/tadirah/tagging",
+                    "https://vocabs.dariah.eu/tadirah/treeTagging"
+                ],
+                "researchDomains": [
+                    "https://w3id.org/nwo-research-fields#Linguistics",
+                    "https://w3id.org/nwo-research-fields#TextualAndContentAnalysis"
+                ],
+                "provenance": [],
+                "community": [
+                    {
+                        "title": "Issue tracker",
+                        "link": "https://github.com/LanguageMachines/frog/issues"
+                    }
+                ],
+                "development": [
+                    {
+                        "title": "Ko van der Sloot, Centre for Language and Speech Technology",
+                        "link": ""
+                    },
+                    {
+                        "title": "Antal van den Bosch",
+                        "link": "https://orcid.org/0000-0003-2493-656X"
+                    },
+                    {
+                        "title": "Maarten van Gompel, ",
+                        "link": "https://orcid.org/0000-0002-1046-0006"
+                    }
+                ]
+            }
+        }
+    }
+]

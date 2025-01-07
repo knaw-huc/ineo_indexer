@@ -1,0 +1,66 @@
+[
+  {
+    "operation": "create",
+    "document": {
+      "id": "hdl_58_21.11114_47_COLL-0000-000B-D238-9",
+      "title": "Whatsapp corpus Verheijen",
+      "intro": "Whatsappdata collected for the PhD research of Lieke Verheijen (Radboud University). Informed consent only from contributor and not from conversational partner. Consequently, the subcorpus only contains contributions from the submitter. Metadata per conversation are available in CMDI X... Whatsappdata collected for the PhD research of Lieke Verheijen (Radboud University). Informed consent only from contributor and not from conversational partner. Consequently, the subcorpus only contains contributions from the submitter. Metadata per conversation are available in CMDI X...",
+      "publishedAt": [],
+      "media": {
+        "thumbnail": [],
+        "slider": []
+      },
+      "tabs": {
+        "overview": {},
+        "learn": {},
+        "mentions": {},
+        "metadata": {}
+      },
+      "properties": {
+        "programmingLanguages": [],
+        "learn": [],
+        "resourceHost": [
+          {
+            "title": "https://easy.dans.knaw.nl",
+            "link": "https://easy.dans.knaw.nl"
+          }
+        ],
+        "funding": [],
+        "problemContact": [],
+        "informationTypes": null,
+        "languages": [
+          "Dutch"
+        ],
+        "access": [
+          {
+            "title": "Academic",
+            "link": ""
+          }
+        ],
+        "sourceCodeLocation": [],
+        "researchContact": [],
+        "generalContact": [],
+        "resourceTypes": [
+          "Data"
+        ],
+        "status": null,
+        "versions": [],
+        "standards": [],
+        "resourceOwner": [
+          {
+            "title": "Radboud University",
+            "link": "null"
+          }
+        ],
+        "link": "https://easy.dans.knaw.nl/ui/datasets/id/easy-dataset:112987",
+        "intro": "Whatsappdata collected for the PhD research of Lieke Verheijen (Radboud University). Informed consent only from contributor and not from conversational partner. Consequently, the subcorpus only contains contributions from the submitter. Metadata per conversation are available in CMDI X... Whatsappdata collected for the PhD research of Lieke Verheijen (Radboud University). Informed consent only from contributor and not from conversational partner. Consequently, the subcorpus only contains contributions from the submitter. Metadata per conversation are available in CMDI X...",
+        "researchActivities": [],
+        "researchDomains": null,
+        "mediaTypes": null,
+        "provenance": [],
+        "community": [],
+        "development": null
+      }
+    }
+  }
+]

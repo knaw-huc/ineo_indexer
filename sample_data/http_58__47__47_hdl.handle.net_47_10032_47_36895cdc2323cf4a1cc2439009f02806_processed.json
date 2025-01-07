@@ -1,0 +1,61 @@
+[
+  {
+    "operation": "create",
+    "document": {
+      "id": "http_58__47__47_hdl.handle.net_47_10032_47_36895cdc2323cf4a1cc2439009f02806",
+      "title": "CombiLex",
+      "intro": "The lexicon CombiLex 1.0 is based on the Wordlist of the Dutch Language 2005, source file (BWNT05 2.0), e-Lex 1.0 and the Reference Lexicon for Dutch (RBN 2.0). CombiLex 1.0 consists of two files: 1) a tab-separated file in which the first column contains the lemm...",
+      "publishedAt": [],
+      "media": {
+        "thumbnail": [],
+        "slider": []
+      },
+      "tabs": {
+        "overview": {},
+        "learn": {},
+        "mentions": {},
+        "metadata": {}
+      },
+      "properties": {
+        "programmingLanguages": [],
+        "learn": [],
+        "resourceHost": null,
+        "funding": [],
+        "problemContact": [],
+        "informationTypes": null,
+        "languages": [
+          "Dutch"
+        ],
+        "access": [
+          {
+            "title": "available for non-commercial and commercial organisations; user licence required ",
+            "link": ""
+          }
+        ],
+        "sourceCodeLocation": [],
+        "researchContact": [],
+        "generalContact": [],
+        "resourceTypes": [
+          "Data"
+        ],
+        "status": null,
+        "versions": [],
+        "standards": [],
+        "resourceOwner": [
+          {
+            "title": "Dutch Language Union",
+            "link": "null"
+          }
+        ],
+        "link": "http://hdl.handle.net/10032/tm-a2-k2",
+        "intro": "The lexicon CombiLex 1.0 is based on the Wordlist of the Dutch Language 2005, source file (BWNT05 2.0), e-Lex 1.0 and the Reference Lexicon for Dutch (RBN 2.0). CombiLex 1.0 consists of two files: 1) a tab-separated file in which the first column contains the lemm...",
+        "researchActivities": [],
+        "researchDomains": null,
+        "mediaTypes": null,
+        "provenance": [],
+        "community": [],
+        "development": null
+      }
+    }
+  }
+]

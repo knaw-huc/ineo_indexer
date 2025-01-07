@@ -1,0 +1,70 @@
+[
+    {
+        "operation": "create",
+        "document": {
+            "id": "doi_58_10.17026_47_SS_47_PVSFHZ",
+            "title": "Johannes Scheffer, Het Vermaak der Tover-hekzen van Lap- en Fin-lan...",
+            "intro": "Diplomatische weergave van: Het Vermaak der Tover-Hekzen van Lap en Fin-Land, met haar Tover-trommelen, Wind-verkopen, enz: Als mede de general historie van Lapland, Ofte, een Beschrijving van \u2019t Klimaat en Aard des Lands, de Godsdienst, Spijs en Drank, de Jagt, \u2019t Trouwen, \u2019t Op-voeden...",
+            "publishedAt": [],
+            "media": {
+                "thumbnail": [],
+                "slider": []
+            },
+            "tabs": {
+                "overview": {},
+                "learn": {},
+                "mentions": {},
+                "metadata": {}
+            },
+            "properties": {
+                "programmingLanguages": [],
+                "learn": [],
+                "resourceHost": [
+                    {
+                        "title": "https://doi.org",
+                        "link": "https://doi.org"
+                    }
+                ],
+                "funding": [],
+                "problemContact": [],
+                "informationTypes": null,
+                "languages": [
+                    "Dutch"
+                ],
+                "access": [
+                    {
+                        "title": "UNSPECIFIED",
+                        "link": ""
+                    }
+                ],
+                "sourceCodeLocation": [],
+                "researchContact": [],
+                "generalContact": [],
+                "resourceTypes": [
+                    "Data"
+                ],
+                "status": null,
+                "versions": [],
+                "standards": [],
+                "resourceOwner": null,
+                "link": "https://doi.org/10.17026/SS/PVSFHZ",
+                "intro": "Diplomatische weergave van: Het Vermaak der Tover-Hekzen van Lap en Fin-Land, met haar Tover-trommelen, Wind-verkopen, enz: Als mede de general historie van Lapland, Ofte, een Beschrijving van \u2019t Klimaat en Aard des Lands, de Godsdienst, Spijs en Drank, de Jagt, \u2019t Trouwen, \u2019t Op-voeden...",
+                "researchActivities": [],
+                "researchDomains": [],
+                "mediaTypes": null,
+                "provenance": [],
+                "community": [],
+                "development": [
+                    {
+                        "title": "Stichting Vrijwilligersnetwerk Nederlandse Taal",
+                        "link": "null"
+                    },
+                    {
+                        "title": "van der Sijs, N.",
+                        "link": "null"
+                    }
+                ]
+            }
+        }
+    }
+]

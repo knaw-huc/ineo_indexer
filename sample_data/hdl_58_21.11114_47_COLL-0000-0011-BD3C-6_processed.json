@@ -1,0 +1,66 @@
+[
+  {
+    "operation": "create",
+    "document": {
+      "id": "hdl_58_21.11114_47_COLL-0000-0011-BD3C-6",
+      "title": "PatientVOICE",
+      "intro": "This is a collection of transcriptions of interviews in the medical domain. All interviews are in Dutch. These interviews are between medical specialists and patients, and are collected and hosted at Nivel, Utrecht (https://www.nivel.nl/en). The interviews were transcribed in the contex... Media file name: CW_Radb_XXXXX_16102015.WAV, Media quality: Medium Media file name: CW_Radb_XXXXXX_13112015.WAV, Media quality: Medium Media file name: CW_Sling_XXXXXXXXX_30-07-2015.WAV, Media quality: Medium",
+      "publishedAt": [],
+      "media": {
+        "thumbnail": [],
+        "slider": []
+      },
+      "tabs": {
+        "overview": {},
+        "learn": {},
+        "mentions": {},
+        "metadata": {}
+      },
+      "properties": {
+        "programmingLanguages": [],
+        "learn": [],
+        "resourceHost": [
+          {
+            "title": "https://homed.ruhosting.nl",
+            "link": "https://homed.ruhosting.nl"
+          }
+        ],
+        "funding": [],
+        "problemContact": [],
+        "informationTypes": null,
+        "languages": [
+          "Dutch"
+        ],
+        "access": [
+          {
+            "title": "Restricted for individual",
+            "link": ""
+          }
+        ],
+        "sourceCodeLocation": [],
+        "researchContact": [],
+        "generalContact": [],
+        "resourceTypes": [
+          "Data"
+        ],
+        "status": null,
+        "versions": [],
+        "standards": [],
+        "resourceOwner": [
+          {
+            "title": "Nivel",
+            "link": "null"
+          }
+        ],
+        "link": "https://homed.ruhosting.nl/",
+        "intro": "This is a collection of transcriptions of interviews in the medical domain. All interviews are in Dutch. These interviews are between medical specialists and patients, and are collected and hosted at Nivel, Utrecht (https://www.nivel.nl/en). The interviews were transcribed in the contex... Media file name: CW_Radb_XXXXX_16102015.WAV, Media quality: Medium Media file name: CW_Radb_XXXXXX_13112015.WAV, Media quality: Medium Media file name: CW_Sling_XXXXXXXXX_30-07-2015.WAV, Media quality: Medium",
+        "researchActivities": [],
+        "researchDomains": null,
+        "mediaTypes": null,
+        "provenance": [],
+        "community": [],
+        "development": null
+      }
+    }
+  }
+]

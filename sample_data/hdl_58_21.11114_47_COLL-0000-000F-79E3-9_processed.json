@@ -1,0 +1,61 @@
+[
+  {
+    "operation": "create",
+    "document": {
+      "id": "hdl_58_21.11114_47_COLL-0000-000F-79E3-9",
+      "title": "Hieroglyphic Luwian Dataset 2",
+      "intro": "Dataset on Hieroglyphic Luwian in the form of an AWK script which reads Hawkins (2000): Corpus of Hieroglyphic Luwian Inscriptions. -",
+      "publishedAt": [],
+      "media": {
+        "thumbnail": [],
+        "slider": []
+      },
+      "tabs": {
+        "overview": {},
+        "learn": {},
+        "mentions": {},
+        "metadata": {}
+      },
+      "properties": {
+        "programmingLanguages": [],
+        "learn": [],
+        "resourceHost": [
+          {
+            "title": "http://leiland.lucdh.nl",
+            "link": "http://leiland.lucdh.nl"
+          }
+        ],
+        "funding": [],
+        "problemContact": [],
+        "informationTypes": null,
+        "languages": [
+          "Hieroglyphic Luwian"
+        ],
+        "access": [
+          {
+            "title": "Public",
+            "link": ""
+          }
+        ],
+        "sourceCodeLocation": [],
+        "researchContact": [],
+        "generalContact": [],
+        "resourceTypes": [
+          "Data"
+        ],
+        "status": null,
+        "versions": [],
+        "standards": [],
+        "resourceOwner": null,
+        "link": "http://leiland.lucdh.nl",
+        "intro": "Dataset on Hieroglyphic Luwian in the form of an AWK script which reads Hawkins (2000): Corpus of Hieroglyphic Luwian Inscriptions. -",
+        "researchActivities": [],
+        "researchDomains": null,
+        "mediaTypes": null,
+        "provenance": [],
+        "community": [],
+        "development": null
+      }
+    }
+  }
+]

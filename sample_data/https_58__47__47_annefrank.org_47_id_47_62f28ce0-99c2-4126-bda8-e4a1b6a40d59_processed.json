@@ -1,0 +1,61 @@
+[
+  {
+    "operation": "create",
+    "document": {
+      "id": "https_58__47__47_annefrank.org_47_id_47_62f28ce0-99c2-4126-bda8-e4a1b6a40d59",
+      "title": "Anne Frank Knowledge Base",
+      "intro": "Persons, events, locations and subjects related to the person Anne Frank, her family, and other people in hiding in the Secret Annex and their helpers. Information from current historical research of the Anne Frank House. Personen, gebeurtenissen, locaties en onderwerpen gerelateerd aan de persoon Anne Frank, haar familie, de andere onderduikers in het Achterhuis en hun helpers. Informatie uit doorlopend historisch onderzoek van de Anne Frank Stichting.{}SPARQL endpoint",
+      "publishedAt": [],
+      "media": {
+        "thumbnail": [],
+        "slider": []
+      },
+      "tabs": {
+        "overview": {},
+        "learn": {},
+        "mentions": {},
+        "metadata": {}
+      },
+      "properties": {
+        "programmingLanguages": [],
+        "learn": [],
+        "resourceHost": [
+          {
+            "title": "https://data.netwerkdigitaalerfgoed.nl",
+            "link": "https://data.netwerkdigitaalerfgoed.nl"
+          }
+        ],
+        "funding": [],
+        "problemContact": [],
+        "informationTypes": null,
+        "languages": null,
+        "access": [
+          {
+            "title": "Public",
+            "link": "https://creativecommons.org/publicdomain/zero/1.0/"
+          }
+        ],
+        "sourceCodeLocation": [],
+        "researchContact": [],
+        "generalContact": [],
+        "resourceTypes": [
+          "Data"
+        ],
+        "status": null,
+        "versions": [],
+        "standards": [],
+        "resourceOwner": null,
+        "link": "https://data.netwerkdigitaalerfgoed.nl/Anne-Frank-Stichting/Anne-Frank-Kennisbank",
+        "intro": "Persons, events, locations and subjects related to the person Anne Frank, her family, and other people in hiding in the Secret Annex and their helpers. Information from current historical research of the Anne Frank House. Personen, gebeurtenissen, locaties en onderwerpen gerelateerd aan de persoon Anne Frank, haar familie, de andere onderduikers in het Achterhuis en hun helpers. Informatie uit doorlopend historisch onderzoek van de Anne Frank Stichting.{}SPARQL endpoint",
+        "researchActivities": [],
+        "researchDomains": null,
+        "mediaTypes": [
+          "1 application"
+        ],
+        "provenance": [],
+        "community": [],
+        "development": null
+      }
+    }
+  }
+]

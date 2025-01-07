@@ -1,0 +1,92 @@
+[
+  {
+    "operation": "create",
+    "document": {
+      "id": "cesar",
+      "title": "Corpus Editor for Syntactically Annotated Resources (Cesar)",
+      "intro": "Django web application that communicates with the CorpusStudioWeb back-end 'Crpp'. Two main purposes: (1) browse texts, (2) conduct syntactic searches with definable output per hit. Searches are translated to Xquery 'under the hood'",
+      "publishedAt": "2018",
+      "media": {},
+      "tabs": {
+        "overview": {},
+        "learn": {},
+        "mentions": {},
+        "metadata": {}
+      },
+      "properties": {
+        "programmingLanguages": [
+          {
+            "title": "Django with Python3",
+            "link": null
+          }
+        ],
+        "funding": [
+          {
+            "title": "ClariaH",
+            "link": "https://www.clariah.nl/projecten/research-pilots/acad"
+          }
+        ],
+        "problemContact": [
+          {
+            "title": "Issue tracker",
+            "link": "https://github.com/ErwinKomen/RU-Cesar/issues"
+          }
+        ],
+        "informationTypes": [],
+        "access": [
+          {
+            "title": "Open Access",
+            "link": "https://github.com/ErwinKomen/RU-cesar"
+          }
+        ],
+        "sourceCodeLocation": [
+          {
+            "title": "github.com",
+            "link": "https://github.com/ErwinKomen/RU-cesar"
+          }
+        ],
+        "researchContact": [],
+        "generalContact": [
+          {
+            "title": "Erwin\u00a0Komen",
+            "link": ""
+          }
+        ],
+        "resourceTypes": [
+          "Tools"
+        ],
+        "status": [
+          "Active"
+        ],
+        "versions": [
+          {
+            "title": "unknown",
+            "url": ""
+          }
+        ],
+        "standards": [],
+        "resourceOwner": [
+          {
+            "title": "Technical Support Group",
+            "link": "https://www.ru.nl/humanitieslab/technical-support-group"
+          }
+        ],
+        "link": "https://github.com/ErwinKomen/RU-cesar",
+        "intro": "Django web application that communicates with the CorpusStudioWeb back-end 'Crpp'. Two main purposes: (1) browse texts, (2) conduct syntactic searches with definable output per hit. Searches are translated to Xquery 'under the hood'",
+        "provenance": [],
+        "community": [
+          {
+            "title": "Issue tracker",
+            "link": "https://github.com/ErwinKomen/RU-Cesar/issues"
+          }
+        ],
+        "development": [
+          {
+            "title": "Erwin Komen, Technical Support Group",
+            "link": ""
+          }
+        ]
+      }
+    }
+  }
+]

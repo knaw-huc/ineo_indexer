@@ -1,0 +1,86 @@
+[
+  {
+    "operation": "create",
+    "document": {
+      "id": "mtas",
+      "title": "MTAS",
+      "intro": "Multi Tier Annotation Search, a Solr/Lucene based library and plugin providing search and analysis on annotated and structured text.",
+      "publishedAt": "2016-07-11",
+      "media": {},
+      "tabs": {
+        "overview": {},
+        "learn": {},
+        "mentions": {},
+        "metadata": {}
+      },
+      "properties": {
+        "programmingLanguages": [
+          {
+            "title": "Java",
+            "link": null
+          }
+        ],
+        "problemContact": [
+          {
+            "title": "Issue tracker",
+            "link": "https://github.com/textexploration/mtas/issues"
+          }
+        ],
+        "informationTypes": [],
+        "access": [
+          {
+            "title": "Open Access",
+            "link": "https://github.com/textexploration/mtas"
+          }
+        ],
+        "sourceCodeLocation": [
+          {
+            "title": "github.com",
+            "link": "https://github.com/textexploration/mtas"
+          }
+        ],
+        "researchContact": [],
+        "generalContact": [
+          {
+            "title": "Matthijs\u00a0Brouwer",
+            "link": ""
+          }
+        ],
+        "resourceTypes": [
+          "Tools"
+        ],
+        "status": [
+          "Active"
+        ],
+        "versions": [
+          {
+            "title": "8.11.1.0",
+            "url": ""
+          }
+        ],
+        "standards": [],
+        "resourceOwner": [
+          {
+            "title": "Text Exploration",
+            "link": ""
+          }
+        ],
+        "link": "https://github.com/textexploration/mtas",
+        "intro": "Multi Tier Annotation Search, a Solr/Lucene based library and plugin providing search and analysis on annotated and structured text.",
+        "provenance": [],
+        "community": [
+          {
+            "title": "Issue tracker",
+            "link": "https://github.com/textexploration/mtas/issues"
+          }
+        ],
+        "development": [
+          {
+            "title": "Matthijs Brouwer",
+            "link": "https://nl.linkedin.com/in/brouwermatthijs/"
+          }
+        ]
+      }
+    }
+  }
+]

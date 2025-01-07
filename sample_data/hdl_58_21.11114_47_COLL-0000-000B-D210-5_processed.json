@@ -1,0 +1,71 @@
+[
+  {
+    "operation": "create",
+    "document": {
+      "id": "hdl_58_21.11114_47_COLL-0000-000B-D210-5",
+      "title": "FAME! Speech Corpus",
+      "intro": "The components of the Frisian data collection are speech and language resources gathered for building a large vocabulary ASR system for the Frisian language. Firstly, a new broadcast database is created by collecting recordings from the archives of the regional broadcaster Omrop Frysl\u00e2n... The components of the Frisian data collection are speech and language resources gathered for building a large vocabulary ASR system for the Frisian language. Firstly, a new broadcast database is created by collecting recordings from the archives of the regional broadcaster Omrop Frysl\u00e2n... This part of the collection is known as: FAME! Speaker Clustering and Verification Corpus The components for speaker clustering and verification experiments are added by adding around 80 hours of raw speech data and reorganizing the manually annotated data respectively. Music portions o...",
+      "publishedAt": [],
+      "media": {
+        "thumbnail": [],
+        "slider": []
+      },
+      "tabs": {
+        "overview": {},
+        "learn": {},
+        "mentions": {},
+        "metadata": {}
+      },
+      "properties": {
+        "programmingLanguages": [],
+        "learn": [],
+        "resourceHost": [
+          {
+            "title": "https://fame.ruhosting.nl",
+            "link": "https://fame.ruhosting.nl"
+          }
+        ],
+        "funding": [],
+        "problemContact": [],
+        "informationTypes": null,
+        "languages": [
+          "Western Frisian",
+          "Dutch",
+          "English"
+        ],
+        "access": [
+          {
+            "title": "UNSPECIFIED",
+            "link": ""
+          }
+        ],
+        "sourceCodeLocation": [],
+        "researchContact": [],
+        "generalContact": [],
+        "resourceTypes": [
+          "Data"
+        ],
+        "status": null,
+        "versions": [],
+        "standards": [],
+        "resourceOwner": [
+          {
+            "title": "Omrop Frysl\u00e2nFryske AkademyRadboud University",
+            "link": "null"
+          }
+        ],
+        "link": "https://fame.ruhosting.nl/wordpress/?page_id=34",
+        "intro": "The components of the Frisian data collection are speech and language resources gathered for building a large vocabulary ASR system for the Frisian language. Firstly, a new broadcast database is created by collecting recordings from the archives of the regional broadcaster Omrop Frysl\u00e2n... The components of the Frisian data collection are speech and language resources gathered for building a large vocabulary ASR system for the Frisian language. Firstly, a new broadcast database is created by collecting recordings from the archives of the regional broadcaster Omrop Frysl\u00e2n... This part of the collection is known as: FAME! Speaker Clustering and Verification Corpus The components for speaker clustering and verification experiments are added by adding around 80 hours of raw speech data and reorganizing the manually annotated data respectively. Music portions o...",
+        "researchActivities": [],
+        "researchDomains": null,
+        "mediaTypes": [
+          "7.37 tab-separated-values",
+          "7 text"
+        ],
+        "provenance": [],
+        "community": [],
+        "development": null
+      }
+    }
+  }
+]

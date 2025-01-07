@@ -1,0 +1,66 @@
+[
+  {
+    "operation": "create",
+    "document": {
+      "id": "hdl_58_21.11114_47_COLL-0000-0011-BD3F-3",
+      "title": "Goed Begrepen",
+      "intro": "This is a collection of transcriptions of interviews in the medical domain. All interviews are in Dutch. These interviews are between medical specialists and patients, and are collected and hosted at Nivel, Utrecht (https://www.nivel.nl/en). The interviews were transcribed in the contex... Media file name: Z1Long02.mpg, Media quality: Good Media file name: Z1Long03.mpg, Media quality: Good Media file name: Z1Long05.mpg, Media quality: Good Media file name: Z1Long07.mpg, Media quality: Good Media file name: Z1Long08.mpg, Media quality: Good Media file name: Z1Long10en11.mpg, Media quality: Good Media file name: Z1Long12.mpg, Media quality: Good Media file name: Z2Long01.mpg, Media quality: Good Media file name: Z2Long03.mpg, Media quality: Good Media file name: Z2Long05.mpg, Media quality: Good Media file name: Z2Long06.mpg, Media quality: Good Media file name: Z2Long08.mpg, Media quality: Good Media file name: Z2Long09.mpg, Media quality: Good Media file name: Z3Long01.mpg, Media quality: Good Media file name: Z3 Long 02.mpg, Media quality: Good Media file name: Z4 appg 02.mpg, Media quality: Good Media file name: Z4 appg 04.mpg, Media quality: Good Media file name: Z4 appg 05.mpg, Media quality: Good Media file name: Z2radio01.mpg, Media quality: Good Media file name: Z2radio02.mpg, Media quality: Good Media file name: Z2radio03.mpg, Media quality: Good Media file name: Z2radio04.mpg, Media quality: Good Media file name: Z2radio05.mpg, Media quality: Good Media file name: Z2radio06.mpg, Media quality: Good Media file name: Z2radio07.mpg, Media quality: Good Media file name: Z2radio08.mpg, Media quality: Good Media file name: Z3 onco 01.mpg, Media quality: Good",
+      "publishedAt": [],
+      "media": {
+        "thumbnail": [],
+        "slider": []
+      },
+      "tabs": {
+        "overview": {},
+        "learn": {},
+        "mentions": {},
+        "metadata": {}
+      },
+      "properties": {
+        "programmingLanguages": [],
+        "learn": [],
+        "resourceHost": [
+          {
+            "title": "https://homed.ruhosting.nl",
+            "link": "https://homed.ruhosting.nl"
+          }
+        ],
+        "funding": [],
+        "problemContact": [],
+        "informationTypes": null,
+        "languages": [
+          "Dutch"
+        ],
+        "access": [
+          {
+            "title": "Restricted for individual",
+            "link": ""
+          }
+        ],
+        "sourceCodeLocation": [],
+        "researchContact": [],
+        "generalContact": [],
+        "resourceTypes": [
+          "Data"
+        ],
+        "status": null,
+        "versions": [],
+        "standards": [],
+        "resourceOwner": [
+          {
+            "title": "Nivel",
+            "link": "null"
+          }
+        ],
+        "link": "https://homed.ruhosting.nl/",
+        "intro": "This is a collection of transcriptions of interviews in the medical domain. All interviews are in Dutch. These interviews are between medical specialists and patients, and are collected and hosted at Nivel, Utrecht (https://www.nivel.nl/en). The interviews were transcribed in the contex... Media file name: Z1Long02.mpg, Media quality: Good Media file name: Z1Long03.mpg, Media quality: Good Media file name: Z1Long05.mpg, Media quality: Good Media file name: Z1Long07.mpg, Media quality: Good Media file name: Z1Long08.mpg, Media quality: Good Media file name: Z1Long10en11.mpg, Media quality: Good Media file name: Z1Long12.mpg, Media quality: Good Media file name: Z2Long01.mpg, Media quality: Good Media file name: Z2Long03.mpg, Media quality: Good Media file name: Z2Long05.mpg, Media quality: Good Media file name: Z2Long06.mpg, Media quality: Good Media file name: Z2Long08.mpg, Media quality: Good Media file name: Z2Long09.mpg, Media quality: Good Media file name: Z3Long01.mpg, Media quality: Good Media file name: Z3 Long 02.mpg, Media quality: Good Media file name: Z4 appg 02.mpg, Media quality: Good Media file name: Z4 appg 04.mpg, Media quality: Good Media file name: Z4 appg 05.mpg, Media quality: Good Media file name: Z2radio01.mpg, Media quality: Good Media file name: Z2radio02.mpg, Media quality: Good Media file name: Z2radio03.mpg, Media quality: Good Media file name: Z2radio04.mpg, Media quality: Good Media file name: Z2radio05.mpg, Media quality: Good Media file name: Z2radio06.mpg, Media quality: Good Media file name: Z2radio07.mpg, Media quality: Good Media file name: Z2radio08.mpg, Media quality: Good Media file name: Z3 onco 01.mpg, Media quality: Good",
+        "researchActivities": [],
+        "researchDomains": null,
+        "mediaTypes": null,
+        "provenance": [],
+        "community": [],
+        "development": null
+      }
+    }
+  }
+]

@@ -1,0 +1,61 @@
+[
+  {
+    "operation": "create",
+    "document": {
+      "id": "http_58__47__47_hdl.handle.net_47_10032_47_98eeca5ebac51bc40abcbe4404231abd",
+      "title": "Dutch Idiom Database: Native Speakers (DID-NS)",
+      "intro": "A database with the judgement of 390 native speakers of 374 374 Dutch idiomatic expressions. In an online survey subjects judged the expressions on five aspects: Frequency, Usage, Familiarity, Imageability, and Frequency. In addition their knowledge of the idiom meaning was objectively ... Een database met beoordelingen van 390 moedertaalsprekers van 374 Nederlandse uitdrukkingen. In een online onderzoek hebben de deelnemers de idiomatsche uitdrukkingen beoordeeld op een aantal aspecten: frequentie, gebruik, bekendheid, voorstelbaarheid en transparantie. Ook is onderzocht...",
+      "publishedAt": [],
+      "media": {
+        "thumbnail": [],
+        "slider": []
+      },
+      "tabs": {
+        "overview": {},
+        "learn": {},
+        "mentions": {},
+        "metadata": {}
+      },
+      "properties": {
+        "programmingLanguages": [],
+        "learn": [],
+        "resourceHost": null,
+        "funding": [],
+        "problemContact": [],
+        "informationTypes": null,
+        "languages": [
+          "Dutch"
+        ],
+        "access": [
+          {
+            "title": "available for non-commercial and commercial organisations; user licence required",
+            "link": ""
+          }
+        ],
+        "sourceCodeLocation": [],
+        "researchContact": [],
+        "generalContact": [],
+        "resourceTypes": [
+          "Data"
+        ],
+        "status": null,
+        "versions": [],
+        "standards": [],
+        "resourceOwner": [
+          {
+            "title": "Radboud University, Nijmegen",
+            "link": "null"
+          }
+        ],
+        "link": "http://hdl.handle.net/10032/tm-a2-r7",
+        "intro": "A database with the judgement of 390 native speakers of 374 374 Dutch idiomatic expressions. In an online survey subjects judged the expressions on five aspects: Frequency, Usage, Familiarity, Imageability, and Frequency. In addition their knowledge of the idiom meaning was objectively ... Een database met beoordelingen van 390 moedertaalsprekers van 374 Nederlandse uitdrukkingen. In een online onderzoek hebben de deelnemers de idiomatsche uitdrukkingen beoordeeld op een aantal aspecten: frequentie, gebruik, bekendheid, voorstelbaarheid en transparantie. Ook is onderzocht...",
+        "researchActivities": [],
+        "researchDomains": null,
+        "mediaTypes": null,
+        "provenance": [],
+        "community": [],
+        "development": null
+      }
+    }
+  }
+]

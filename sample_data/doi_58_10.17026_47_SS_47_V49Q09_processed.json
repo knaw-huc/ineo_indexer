@@ -1,0 +1,70 @@
+[
+    {
+        "operation": "create",
+        "document": {
+            "id": "doi_58_10.17026_47_SS_47_V49Q09",
+            "title": "Interview with Mark Manders on Room, Constructed to Provide Persist...",
+            "intro": "Mark Manders is interviewed about his installation 'Room, Constructed to Provide Persistent Absence' (2001-2002) as a practical part of a class on Artwork Interviews for a Research Ethics seminar for the Master's programme in Fine Arts in Artistic Research (MFAAR) at Malm\u00f6 Art Academy a...",
+            "publishedAt": [],
+            "media": {
+                "thumbnail": [],
+                "slider": []
+            },
+            "tabs": {
+                "overview": {},
+                "learn": {},
+                "mentions": {},
+                "metadata": {}
+            },
+            "properties": {
+                "programmingLanguages": [],
+                "learn": [],
+                "resourceHost": [
+                    {
+                        "title": "https://doi.org",
+                        "link": "https://doi.org"
+                    }
+                ],
+                "funding": [],
+                "problemContact": [],
+                "informationTypes": null,
+                "languages": [
+                    "English"
+                ],
+                "access": [
+                    {
+                        "title": "UNSPECIFIED",
+                        "link": ""
+                    }
+                ],
+                "sourceCodeLocation": [],
+                "researchContact": [],
+                "generalContact": [],
+                "resourceTypes": [
+                    "Data"
+                ],
+                "status": null,
+                "versions": [],
+                "standards": [],
+                "resourceOwner": null,
+                "link": "https://doi.org/10.17026/SS/V49Q09",
+                "intro": "Mark Manders is interviewed about his installation 'Room, Constructed to Provide Persistent Absence' (2001-2002) as a practical part of a class on Artwork Interviews for a Research Ethics seminar for the Master's programme in Fine Arts in Artistic Research (MFAAR) at Malm\u00f6 Art Academy a...",
+                "researchActivities": [],
+                "researchDomains": [],
+                "mediaTypes": null,
+                "provenance": [],
+                "community": [],
+                "development": [
+                    {
+                        "title": "Sanneke Stigter",
+                        "link": "null"
+                    },
+                    {
+                        "title": "My Bundgaard",
+                        "link": "null"
+                    }
+                ]
+            }
+        }
+    }
+]

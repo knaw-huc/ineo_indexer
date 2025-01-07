@@ -1,0 +1,62 @@
+[
+  {
+    "operation": "create",
+    "document": {
+      "id": "http_58__47__47_hdl.handle.net_47_10032_47_306dfa96c48e12b91c33d50aea383b76",
+      "title": "Vrije Universiteit Diachroon Nieuwsteksten Corpus",
+      "intro": "The VU-DNC contains newspaper articles from five mayor national Dutch newspapers from 1950, 1951 and 2002. The newspaper texts are available as plain texts (.txt) and are enriched with several annotations (Part of Speech and lemma information, annotation of subjectivity and quotations) ... The VU-DNC-corpus was developed within the context of the research program \"Conversationalization in discourse\", led by Professor Wilbert Spooren and Professor Gerard Steen. This research program involved the participation of two PhD researchers, Kirsten Vis en Tryntje Pasma. The corpus... Documentation in English annotation of LEMMA annotation of syntax: Part of Speech tagging annotation of subjective elements as described in Vis (2011); automatic annotation; script annotation of quotations; automatic annotation used scripts written by O. Huber (VU University Amsterdam)",
+      "publishedAt": [],
+      "media": {
+        "thumbnail": [],
+        "slider": []
+      },
+      "tabs": {
+        "overview": {},
+        "learn": {},
+        "mentions": {},
+        "metadata": {}
+      },
+      "properties": {
+        "programmingLanguages": [],
+        "learn": [],
+        "resourceHost": null,
+        "funding": [],
+        "problemContact": [],
+        "informationTypes": null,
+        "languages": [
+          "English",
+          "Dutch"
+        ],
+        "access": [
+          {
+            "title": "[free; free for academic use; restricted use; request required; user license required; unknown]",
+            "link": ""
+          }
+        ],
+        "sourceCodeLocation": [],
+        "researchContact": [],
+        "generalContact": [],
+        "resourceTypes": [
+          "Data"
+        ],
+        "status": null,
+        "versions": [],
+        "standards": [],
+        "resourceOwner": [
+          {
+            "title": "VU University Amsterdam, prof. W. Spooren",
+            "link": "null"
+          }
+        ],
+        "link": "http://hdl.handle.net/10032/tm-a2-g4",
+        "intro": "The VU-DNC contains newspaper articles from five mayor national Dutch newspapers from 1950, 1951 and 2002. The newspaper texts are available as plain texts (.txt) and are enriched with several annotations (Part of Speech and lemma information, annotation of subjectivity and quotations) ... The VU-DNC-corpus was developed within the context of the research program \"Conversationalization in discourse\", led by Professor Wilbert Spooren and Professor Gerard Steen. This research program involved the participation of two PhD researchers, Kirsten Vis en Tryntje Pasma. The corpus... Documentation in English annotation of LEMMA annotation of syntax: Part of Speech tagging annotation of subjective elements as described in Vis (2011); automatic annotation; script annotation of quotations; automatic annotation used scripts written by O. Huber (VU University Amsterdam)",
+        "researchActivities": [],
+        "researchDomains": null,
+        "mediaTypes": null,
+        "provenance": [],
+        "community": [],
+        "development": null
+      }
+    }
+  }
+]

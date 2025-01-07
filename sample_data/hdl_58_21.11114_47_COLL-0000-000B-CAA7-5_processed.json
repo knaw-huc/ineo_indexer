@@ -1,0 +1,61 @@
+[
+  {
+    "operation": "create",
+    "document": {
+      "id": "hdl_58_21.11114_47_COLL-0000-000B-CAA7-5",
+      "title": "D-LUCEA",
+      "intro": "The LUCEA corpus (Longitudinal University College utrecht Corpus of English Accents) was collected to study this type of phonetic convergence in a multilingual environment. Students and teachers at University College Utrecht (UCU) come from various countries and native languages, yet th... The LUCEA database is a database of existing speech recordings of L1 and L2 speakers of English. The recorded speakers are students from an international student community where English is used as lingua franca. These students are being recorded longitudinally throughout their 3-year pe...",
+      "publishedAt": [],
+      "media": {
+        "thumbnail": [],
+        "slider": []
+      },
+      "tabs": {
+        "overview": {},
+        "learn": {},
+        "mentions": {},
+        "metadata": {}
+      },
+      "properties": {
+        "programmingLanguages": [],
+        "learn": [],
+        "resourceHost": null,
+        "funding": [],
+        "problemContact": [],
+        "informationTypes": null,
+        "languages": [
+          "English"
+        ],
+        "access": [
+          {
+            "title": "Restricted for individual",
+            "link": ""
+          }
+        ],
+        "sourceCodeLocation": [],
+        "researchContact": [],
+        "generalContact": [],
+        "resourceTypes": [
+          "Data"
+        ],
+        "status": null,
+        "versions": [],
+        "standards": [],
+        "resourceOwner": [
+          {
+            "title": "University College Utrecht",
+            "link": "null"
+          }
+        ],
+        "link": "https://hdl.handle.net/1839/00-C3AD1CEE-985D-42E5-8528-730774C187C1@view",
+        "intro": "The LUCEA corpus (Longitudinal University College utrecht Corpus of English Accents) was collected to study this type of phonetic convergence in a multilingual environment. Students and teachers at University College Utrecht (UCU) come from various countries and native languages, yet th... The LUCEA database is a database of existing speech recordings of L1 and L2 speakers of English. The recorded speakers are students from an international student community where English is used as lingua franca. These students are being recorded longitudinally throughout their 3-year pe...",
+        "researchActivities": [],
+        "researchDomains": null,
+        "mediaTypes": null,
+        "provenance": [],
+        "community": [],
+        "development": null
+      }
+    }
+  }
+]

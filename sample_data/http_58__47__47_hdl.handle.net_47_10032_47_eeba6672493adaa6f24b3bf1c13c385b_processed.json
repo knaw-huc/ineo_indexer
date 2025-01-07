@@ -1,0 +1,61 @@
+[
+  {
+    "operation": "create",
+    "document": {
+      "id": "http_58__47__47_hdl.handle.net_47_10032_47_eeba6672493adaa6f24b3bf1c13c385b",
+      "title": "Corpus Hedendaags Nederlands",
+      "intro": "Corpus Hedendaags Nederlands (CHN) is a text collection with more than 2.5 million texts from books, blogs, newspapers, magazines and news broadcasts from the Netherlands, Flanders, Suriname and the Netherlands Antilles. Together these texts amount to almost 1 billion words. Due to copy... The Corpus Hedendaags Nederlands in the current release is a first step towards a monitor corpus for contemporary Dutch Documentation in English https://portal.clarin.ivdnt.org/search/page/help WORD FORM, LEMMA and PART OF SPEECH",
+      "publishedAt": [],
+      "media": {
+        "thumbnail": [],
+        "slider": []
+      },
+      "tabs": {
+        "overview": {},
+        "learn": {},
+        "mentions": {},
+        "metadata": {}
+      },
+      "properties": {
+        "programmingLanguages": [],
+        "learn": [],
+        "resourceHost": null,
+        "funding": [],
+        "problemContact": [],
+        "informationTypes": null,
+        "languages": [
+          "Dutch"
+        ],
+        "access": [
+          {
+            "title": "Academic",
+            "link": ""
+          }
+        ],
+        "sourceCodeLocation": [],
+        "researchContact": [],
+        "generalContact": [],
+        "resourceTypes": [
+          "Data"
+        ],
+        "status": null,
+        "versions": [],
+        "standards": [],
+        "resourceOwner": [
+          {
+            "title": "INT",
+            "link": "null"
+          }
+        ],
+        "link": "http://hdl.handle.net/10032/tm-a2-s8",
+        "intro": "Corpus Hedendaags Nederlands (CHN) is a text collection with more than 2.5 million texts from books, blogs, newspapers, magazines and news broadcasts from the Netherlands, Flanders, Suriname and the Netherlands Antilles. Together these texts amount to almost 1 billion words. Due to copy... The Corpus Hedendaags Nederlands in the current release is a first step towards a monitor corpus for contemporary Dutch Documentation in English https://portal.clarin.ivdnt.org/search/page/help WORD FORM, LEMMA and PART OF SPEECH",
+        "researchActivities": [],
+        "researchDomains": null,
+        "mediaTypes": null,
+        "provenance": [],
+        "community": [],
+        "development": null
+      }
+    }
+  }
+]

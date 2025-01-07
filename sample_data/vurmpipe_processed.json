@@ -1,0 +1,86 @@
+[
+  {
+    "operation": "create",
+    "document": {
+      "id": "vurmpipe",
+      "title": "Vurmpipe",
+      "intro": "VU Reading Machine Pipeline",
+      "publishedAt": "2018-07-25",
+      "media": {},
+      "tabs": {
+        "overview": {},
+        "learn": {},
+        "mentions": {},
+        "metadata": {}
+      },
+      "properties": {
+        "programmingLanguages": [
+          {
+            "title": "Python",
+            "link": null
+          }
+        ],
+        "problemContact": [
+          {
+            "title": "Issue tracker",
+            "link": "https://github.com/cltl/vu-rm-pip3/issues"
+          }
+        ],
+        "informationTypes": [],
+        "access": [
+          {
+            "title": "Open Access",
+            "link": "https://github.com/cltl/vu-rm-pip3"
+          }
+        ],
+        "sourceCodeLocation": [
+          {
+            "title": "github.com",
+            "link": "https://github.com/cltl/vu-rm-pip3"
+          }
+        ],
+        "researchContact": [],
+        "generalContact": [
+          {
+            "title": "Sophie\u00a0Arnoult",
+            "link": "mailto:s.i.arnoult@vu.nl"
+          }
+        ],
+        "resourceTypes": [
+          "Tools"
+        ],
+        "status": [
+          "Inactive"
+        ],
+        "versions": [
+          {
+            "title": "3.0",
+            "url": ""
+          }
+        ],
+        "standards": [],
+        "resourceOwner": [
+          {
+            "title": "Computational Linguistics and & Text Mining Lab",
+            "link": "http://www.cltl.nl/"
+          }
+        ],
+        "link": "https://github.com/cltl/vu-rm-pip3",
+        "intro": "VU Reading Machine Pipeline",
+        "provenance": [],
+        "community": [
+          {
+            "title": "Issue tracker",
+            "link": "https://github.com/cltl/vu-rm-pip3/issues"
+          }
+        ],
+        "development": [
+          {
+            "title": "Sophie Arnoult",
+            "link": ""
+          }
+        ]
+      }
+    }
+  }
+]

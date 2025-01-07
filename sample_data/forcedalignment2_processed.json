@@ -1,0 +1,80 @@
+[
+  {
+    "operation": "create",
+    "document": {
+      "id": "forcedalignment2",
+      "title": "Forced Alignment 2",
+      "intro": "This webservice provides an output file with word alignments given an NL speech recording and a transcription.",
+      "publishedAt": "2020-03",
+      "media": {},
+      "tabs": {
+        "overview": {},
+        "learn": {},
+        "mentions": {},
+        "metadata": {}
+      },
+      "properties": {
+        "problemContact": [
+          {
+            "title": "Issue tracker",
+            "link": "https://github.com/opensource-spraakherkenning-nl/forcedalignment2/issues"
+          }
+        ],
+        "informationTypes": [],
+        "access": [
+          {
+            "title": "Open Access",
+            "link": "https://github.com//opensource-spraakherkenning-nl/forcedalignment2"
+          }
+        ],
+        "sourceCodeLocation": [
+          {
+            "title": "github.com",
+            "link": "https://github.com//opensource-spraakherkenning-nl/forcedalignment2"
+          }
+        ],
+        "researchContact": [],
+        "generalContact": [
+          {
+            "title": "Louis\u00a0ten Bosch",
+            "link": "mailto:l.tenbosch@let.ru.nl"
+          }
+        ],
+        "resourceTypes": [
+          "Tools"
+        ],
+        "status": [
+          "Active"
+        ],
+        "versions": [
+          {
+            "title": "0.3.1",
+            "url": ""
+          }
+        ],
+        "standards": [],
+        "resourceOwner": [
+          {
+            "title": "Centre for Language and Speech Technology",
+            "link": "https://www.ru.nl/clst"
+          }
+        ],
+        "link": "https://github.com//opensource-spraakherkenning-nl/forcedalignment2",
+        "intro": "This webservice provides an output file with word alignments given an NL speech recording and a transcription.",
+        "provenance": [],
+        "community": [
+          {
+            "title": "Issue tracker",
+            "link": "https://github.com/opensource-spraakherkenning-nl/forcedalignment2/issues"
+          }
+        ],
+        "development": [
+          {
+            "title": "Louis ten Bosch, Centre for Language and Speech Technology",
+            "link": ""
+          }
+        ]
+      }
+    }
+  }
+]

@@ -1,0 +1,75 @@
+[
+  {
+    "operation": "create",
+    "document": {
+      "id": "http_58__47__47_hdl.handle.net_47_10032_47_f00a7ee48364d6629a706790898507a6",
+      "title": "Lassy Klein-corpus",
+      "intro": "The Lassy Small Corpus 7.0 is a 1 million word corpus with manually verified syntactic annotations. The lemma and postag annotations have been automatically assigned using Tadpole. The syntactic dependency annotations have been assigned using the Alpino parser. The automatically assigne...",
+      "publishedAt": [],
+      "media": {
+        "thumbnail": [],
+        "slider": []
+      },
+      "tabs": {
+        "overview": {},
+        "learn": {},
+        "mentions": {},
+        "metadata": {}
+      },
+      "properties": {
+        "programmingLanguages": [],
+        "learn": [],
+        "resourceHost": null,
+        "funding": [],
+        "problemContact": [],
+        "informationTypes": null,
+        "languages": [
+          "Dutch",
+          "English"
+        ],
+        "access": [
+          {
+            "title": "available for non-commercial organisations; user licence required ",
+            "link": ""
+          }
+        ],
+        "sourceCodeLocation": [],
+        "researchContact": [],
+        "generalContact": [],
+        "resourceTypes": [
+          "Data"
+        ],
+        "status": null,
+        "versions": [],
+        "standards": [],
+        "resourceOwner": [
+          {
+            "title": "Dutch Language Union",
+            "link": "null"
+          }
+        ],
+        "link": "http://hdl.handle.net/10032/tm-a2-w9",
+        "intro": "The Lassy Small Corpus 7.0 is a 1 million word corpus with manually verified syntactic annotations. The lemma and postag annotations have been automatically assigned using Tadpole. The syntactic dependency annotations have been assigned using the Alpino parser. The automatically assigne...",
+        "researchActivities": [],
+        "researchDomains": null,
+        "mediaTypes": null,
+        "provenance": [],
+        "community": [],
+        "development": [
+          {
+            "title": "Gertjan van Noord",
+            "link": "null"
+          },
+          {
+            "title": "Ineke Schuurman",
+            "link": "null"
+          },
+          {
+            "title": "Vincent Vandeghinste",
+            "link": "null"
+          }
+        ]
+      }
+    }
+  }
+]

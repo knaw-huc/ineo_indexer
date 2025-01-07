@@ -1,0 +1,116 @@
+[
+    {
+        "operation": "create",
+        "document": {
+            "id": "frog-service",
+            "title": "Frog-Webservice",
+            "intro": "Frog is a suite containing a tokeniser, Part-of-Speech tagger, lemmatiser, morphological analyser, shallow parser, and dependency parser for Dutch. This is the webservice for it, for both humans and machines.",
+            "publishedAt": "2022-02-17",
+            "media": {},
+            "tabs": {
+                "overview": {},
+                "learn": {},
+                "mentions": {},
+                "metadata": {}
+            },
+            "properties": {
+                "programmingLanguages": [
+                    {
+                        "title": "Python",
+                        "link": null
+                    }
+                ],
+                "resourceHost": [
+                    {
+                        "title": "",
+                        "link": ""
+                    }
+                ],
+                "funding": [
+                    {
+                        "title": "Frog-Webservice",
+                        "link": "https://languagemachines.github.io/frog"
+                    }
+                ],
+                "problemContact": [
+                    {
+                        "title": "Issue tracker",
+                        "link": "https://github.com/proycon/frog_webservice/issues"
+                    }
+                ],
+                "informationTypes": [],
+                "access": [
+                    {
+                        "title": "Open Access",
+                        "link": "https://github.com/proycon/frog_webservice"
+                    }
+                ],
+                "sourceCodeLocation": [
+                    {
+                        "title": "github.com",
+                        "link": "https://github.com/proycon/frog_webservice"
+                    }
+                ],
+                "researchContact": [],
+                "generalContact": [
+                    {
+                        "title": "Maarten\u00a0van Gompel",
+                        "link": "mailto:proycon@anaproy.nl"
+                    }
+                ],
+                "resourceTypes": [
+                    "Tools"
+                ],
+                "status": [
+                    "Active"
+                ],
+                "versions": [
+                    {
+                        "title": "2.7",
+                        "url": ""
+                    }
+                ],
+                "standards": [],
+                "resourceOwner": [
+                    {
+                        "title": "KNAW Humanities Cluster",
+                        "link": "https://huc.knaw.nl"
+                    }
+                ],
+                "link": "https://github.com/proycon/frog_webservice",
+                "intro": "Frog is a suite containing a tokeniser, Part-of-Speech tagger, lemmatiser, morphological analyser, shallow parser, and dependency parser for Dutch. This is the webservice for it, for both humans and machines.",
+                "researchActivities": [
+                    "https://vocabs.dariah.eu/tadirah/annotating",
+                    "https://vocabs.dariah.eu/tadirah/contextualizing",
+                    "https://vocabs.dariah.eu/tadirah/namedEntityRecognition",
+                    "https://vocabs.dariah.eu/tadirah/posTagging",
+                    "https://vocabs.dariah.eu/tadirah/segmenting",
+                    "https://vocabs.dariah.eu/tadirah/tagging",
+                    "https://vocabs.dariah.eu/tadirah/treeTagging"
+                ],
+                "researchDomains": [
+                    "https://w3id.org/nwo-research-fields#Linguistics",
+                    "https://w3id.org/nwo-research-fields#TextualAndContentAnalysis"
+                ],
+                "mediaTypes": [
+                    "7.23 plain",
+                    "7.69 xml",
+                    "7 text"
+                ],
+                "provenance": [],
+                "community": [
+                    {
+                        "title": "Issue tracker",
+                        "link": "https://github.com/proycon/frog_webservice/issues"
+                    }
+                ],
+                "development": [
+                    {
+                        "title": "Maarten van Gompel, KNAW Humanities Cluster & CLST, Radboud University",
+                        "link": "https://proycon.anaproy.nl"
+                    }
+                ]
+            }
+        }
+    }
+]

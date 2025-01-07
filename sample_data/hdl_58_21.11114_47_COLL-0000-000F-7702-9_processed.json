@@ -1,0 +1,64 @@
+[
+  {
+    "operation": "create",
+    "document": {
+      "id": "hdl_58_21.11114_47_COLL-0000-000F-7702-9",
+      "title": "Oral History. Interview with survivor of Ravensbr\u00fcck concentration ...",
+      "intro": "Frieda Hummler ist die Frau des 1944 hingerichteten Widerstandsk\u00e4mpfers Anton Hummler. W\u00e4hrend des Prozesses vor dem Volksgerichtshof in Berlin versuchte sie alles Denkbare, um ihren Mann zu retten. Bis ins hohe Alter bleibt sie eine engagierte K\u00e4mpferin f\u00fcr Frieden und Gerechtigkeit.",
+      "publishedAt": [],
+      "media": {
+        "thumbnail": [],
+        "slider": []
+      },
+      "tabs": {
+        "overview": {},
+        "learn": {},
+        "mentions": {},
+        "metadata": {}
+      },
+      "properties": {
+        "programmingLanguages": [],
+        "learn": [],
+        "resourceHost": [
+          {
+            "title": "https://videoarchiv-ravensbrueck.de",
+            "link": "https://videoarchiv-ravensbrueck.de"
+          }
+        ],
+        "funding": [],
+        "problemContact": [],
+        "informationTypes": null,
+        "languages": null,
+        "access": [
+          {
+            "title": "all the materials on the website of Loretta Walz are freely accessible, but you have to register and create an account.",
+            "link": ""
+          }
+        ],
+        "sourceCodeLocation": [],
+        "researchContact": [],
+        "generalContact": [],
+        "resourceTypes": [
+          "Data"
+        ],
+        "status": null,
+        "versions": [],
+        "standards": [],
+        "resourceOwner": [
+          {
+            "title": "Loretta Walz Videoproduktion / Biografische Dokumentationen",
+            "link": "null"
+          }
+        ],
+        "link": "https://videoarchiv-ravensbrueck.de/de/protagonistinnen/id/020",
+        "intro": "Frieda Hummler ist die Frau des 1944 hingerichteten Widerstandsk\u00e4mpfers Anton Hummler. W\u00e4hrend des Prozesses vor dem Volksgerichtshof in Berlin versuchte sie alles Denkbare, um ihren Mann zu retten. Bis ins hohe Alter bleibt sie eine engagierte K\u00e4mpferin f\u00fcr Frieden und Gerechtigkeit.",
+        "researchActivities": [],
+        "researchDomains": null,
+        "mediaTypes": null,
+        "provenance": [],
+        "community": [],
+        "development": null
+      }
+    }
+  }
+]

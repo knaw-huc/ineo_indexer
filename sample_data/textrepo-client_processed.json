@@ -1,0 +1,90 @@
+[
+  {
+    "operation": "create",
+    "document": {
+      "id": "textrepo-client",
+      "title": "Textrepo-client",
+      "intro": "A Python client to access a textrepo server",
+      "publishedAt": "2021-03-08",
+      "media": {},
+      "tabs": {
+        "overview": {},
+        "learn": {},
+        "mentions": {},
+        "metadata": {}
+      },
+      "properties": {
+        "programmingLanguages": [
+          {
+            "title": "Python",
+            "link": null
+          }
+        ],
+        "problemContact": [
+          {
+            "title": "Issue tracker",
+            "link": "https://github.com/brambg/annorepo-python-client/issues"
+          }
+        ],
+        "informationTypes": [],
+        "access": [
+          {
+            "title": "Open Access",
+            "link": "https://github.com/knaw-huc/textrepo-client-python"
+          }
+        ],
+        "sourceCodeLocation": [
+          {
+            "title": "github.com",
+            "link": "https://github.com/knaw-huc/textrepo-client-python"
+          }
+        ],
+        "researchContact": [],
+        "generalContact": [
+          {
+            "title": "Bram\u00a0Buitendijk",
+            "link": "mailto:bram.buitendijk@di.huc.knaw.nl"
+          }
+        ],
+        "resourceTypes": [
+          "Tools"
+        ],
+        "status": [
+          "Active"
+        ],
+        "versions": [
+          {
+            "title": "0.5.1",
+            "url": ""
+          }
+        ],
+        "standards": [],
+        "resourceOwner": [
+          {
+            "title": "KNAW Humanities Cluster",
+            "link": "https://huc.knaw.nl/"
+          }
+        ],
+        "link": "https://github.com/knaw-huc/textrepo-client-python",
+        "intro": "A Python client to access a textrepo server",
+        "provenance": [],
+        "community": [
+          {
+            "title": "Issue tracker",
+            "link": "https://github.com/brambg/annorepo-python-client/issues"
+          }
+        ],
+        "development": [
+          {
+            "title": "Bram Buitendijk",
+            "link": ""
+          },
+          {
+            "title": "Hayco de Jong",
+            "link": ""
+          }
+        ]
+      }
+    }
+  }
+]

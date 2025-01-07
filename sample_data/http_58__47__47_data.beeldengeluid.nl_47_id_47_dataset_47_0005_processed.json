@@ -1,0 +1,61 @@
+[
+  {
+    "operation": "create",
+    "document": {
+      "id": "http_58__47__47_data.beeldengeluid.nl_47_id_47_dataset_47_0005",
+      "title": "Radio de Brandaris",
+      "intro": "The collection Radio De Brandaris contains radio broadcasts that were transmitted between 1944 and 1946 by Radio de Brandaris. The broadcasts of Radio De Brandaris were meant for Dutch allied seafarers and other ships from Holland. On July 10th, 1941 Radio De Brandaris began transmittin... On july 10th 1941 Radio De Brandaris began transmitting alongside Radio Orange. The broadcasts of Radio De Brandaris were meant for Dutch allied seafarers and other ships from Holland. In the beginning of november 1942 Radio de Brandaris became part of Radio Orange.",
+      "publishedAt": [],
+      "media": {
+        "thumbnail": [],
+        "slider": []
+      },
+      "tabs": {
+        "overview": {},
+        "learn": {},
+        "mentions": {},
+        "metadata": {}
+      },
+      "properties": {
+        "programmingLanguages": [],
+        "learn": [],
+        "resourceHost": [
+          {
+            "title": "https://soundcloud.com",
+            "link": "https://soundcloud.com"
+          }
+        ],
+        "funding": [],
+        "problemContact": [],
+        "informationTypes": null,
+        "languages": null,
+        "access": [
+          {
+            "title": "Public",
+            "link": "https://creativecommons.org/publicdomain/zero/1.0/"
+          }
+        ],
+        "sourceCodeLocation": [],
+        "researchContact": [],
+        "generalContact": [],
+        "resourceTypes": [
+          "Data"
+        ],
+        "status": null,
+        "versions": [],
+        "standards": [],
+        "resourceOwner": null,
+        "link": "https://soundcloud.com/beeldengeluid/sets/radio-de-brandaris",
+        "intro": "The collection Radio De Brandaris contains radio broadcasts that were transmitted between 1944 and 1946 by Radio de Brandaris. The broadcasts of Radio De Brandaris were meant for Dutch allied seafarers and other ships from Holland. On July 10th, 1941 Radio De Brandaris began transmittin... On july 10th 1941 Radio De Brandaris began transmitting alongside Radio Orange. The broadcasts of Radio De Brandaris were meant for Dutch allied seafarers and other ships from Holland. In the beginning of november 1942 Radio de Brandaris became part of Radio Orange.",
+        "researchActivities": [],
+        "researchDomains": null,
+        "mediaTypes": [
+          "2 audio"
+        ],
+        "provenance": [],
+        "community": [],
+        "development": null
+      }
+    }
+  }
+]

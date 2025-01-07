@@ -1,0 +1,68 @@
+[
+    {
+        "operation": "create",
+        "document": {
+            "id": "doi_58_10.17026_47_SS_47_WSL0YZ",
+            "title": "Project Ongekend Bijzonder, Amsterdam, interview 54",
+            "intro": "geslacht: Vrouw land van herkomst: Iran leeftijd aankomst Nederland: 30 vluchtreden: werd aantal keren gevangen gezet om politieke redenen opleiding: computerwetenschap beroep in land van herkomst: computerwetenschapper, docent beroep in Nederland: cyber deskundige, computerprogrammeur...",
+            "publishedAt": [],
+            "media": {
+                "thumbnail": [],
+                "slider": []
+            },
+            "tabs": {
+                "overview": {},
+                "learn": {},
+                "mentions": {},
+                "metadata": {}
+            },
+            "properties": {
+                "programmingLanguages": [],
+                "learn": [],
+                "resourceHost": [
+                    {
+                        "title": "https://doi.org",
+                        "link": "https://doi.org"
+                    }
+                ],
+                "funding": [],
+                "problemContact": [],
+                "informationTypes": null,
+                "languages": [
+                    "Dutch",
+                    "English",
+                    "Persian (Farsi)"
+                ],
+                "access": [
+                    {
+                        "title": "UNSPECIFIED",
+                        "link": ""
+                    }
+                ],
+                "sourceCodeLocation": [],
+                "researchContact": [],
+                "generalContact": [],
+                "resourceTypes": [
+                    "Data"
+                ],
+                "status": null,
+                "versions": [],
+                "standards": [],
+                "resourceOwner": null,
+                "link": "https://doi.org/10.17026/SS/WSL0YZ",
+                "intro": "geslacht: Vrouw land van herkomst: Iran leeftijd aankomst Nederland: 30 vluchtreden: werd aantal keren gevangen gezet om politieke redenen opleiding: computerwetenschap beroep in land van herkomst: computerwetenschapper, docent beroep in Nederland: cyber deskundige, computerprogrammeur...",
+                "researchActivities": [],
+                "researchDomains": [],
+                "mediaTypes": null,
+                "provenance": [],
+                "community": [],
+                "development": [
+                    {
+                        "title": "Stichting Bevordering Maatschappelijke Participatie - BMP",
+                        "link": "null"
+                    }
+                ]
+            }
+        }
+    }
+]

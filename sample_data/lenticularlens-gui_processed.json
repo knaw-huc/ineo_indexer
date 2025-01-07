@@ -1,0 +1,86 @@
+[
+  {
+    "operation": "create",
+    "document": {
+      "id": "lenticularlens-gui",
+      "title": "Lenticular-lens",
+      "intro": "Vue frontend for Lenticular Lens",
+      "publishedAt": "2021-06-16",
+      "media": {},
+      "tabs": {
+        "overview": {},
+        "learn": {},
+        "mentions": {},
+        "metadata": {}
+      },
+      "properties": {
+        "programmingLanguages": [
+          {
+            "title": "Javascript",
+            "link": null
+          }
+        ],
+        "problemContact": [
+          {
+            "title": "Issue tracker",
+            "link": "https://github.com/knaw-huc/lenticular-lens-gui-vue/issues"
+          }
+        ],
+        "informationTypes": [],
+        "access": [
+          {
+            "title": "Open Access",
+            "link": "https://github.com/knaw-huc/lenticular-lens-gui-vue"
+          }
+        ],
+        "sourceCodeLocation": [
+          {
+            "title": "github.com",
+            "link": "https://github.com/knaw-huc/lenticular-lens-gui-vue"
+          }
+        ],
+        "researchContact": [],
+        "generalContact": [
+          {
+            "title": "kerim1\u00a0",
+            "link": "mailto:kerim.meijer@di.huc.knaw.nl"
+          }
+        ],
+        "resourceTypes": [
+          "Tools"
+        ],
+        "status": [
+          "Inactive"
+        ],
+        "versions": [
+          {
+            "title": "1.0.0",
+            "url": ""
+          }
+        ],
+        "standards": [],
+        "resourceOwner": [
+          {
+            "title": "KNAW Humanities Cluster",
+            "link": "https://huc.knaw.nl/"
+          }
+        ],
+        "link": "https://github.com/knaw-huc/lenticular-lens-gui-vue",
+        "intro": "Vue frontend for Lenticular Lens",
+        "provenance": [],
+        "community": [
+          {
+            "title": "Issue tracker",
+            "link": "https://github.com/knaw-huc/lenticular-lens-gui-vue/issues"
+          }
+        ],
+        "development": [
+          {
+            "title": "kerim1 ",
+            "link": ""
+          }
+        ]
+      }
+    }
+  }
+]

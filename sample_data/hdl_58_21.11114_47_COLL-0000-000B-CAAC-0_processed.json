@@ -1,0 +1,67 @@
+[
+  {
+    "operation": "create",
+    "document": {
+      "id": "hdl_58_21.11114_47_COLL-0000-000B-CAAC-0",
+      "title": "DuELME",
+      "intro": "DUELME LMF is an electronic lexicon that contains more than 5,000 Dutch multiword expressions (MWEs). MWEs with the same syntactic pattern are grouped in the same equivalence class. The DUELME LMF lexicon is suitable for theoretical research on multiword expressions as for use in NLP sy...",
+      "publishedAt": [],
+      "media": {
+        "thumbnail": [],
+        "slider": []
+      },
+      "tabs": {
+        "overview": {},
+        "learn": {},
+        "mentions": {},
+        "metadata": {}
+      },
+      "properties": {
+        "programmingLanguages": [],
+        "learn": [],
+        "resourceHost": [
+          {
+            "title": "http://duelme.clarin.inl.nl",
+            "link": "http://duelme.clarin.inl.nl"
+          }
+        ],
+        "funding": [],
+        "problemContact": [],
+        "informationTypes": null,
+        "languages": [
+          "Dutch",
+          "English"
+        ],
+        "access": [
+          {
+            "title": "Restricted for individual",
+            "link": ""
+          }
+        ],
+        "sourceCodeLocation": [],
+        "researchContact": [],
+        "generalContact": [],
+        "resourceTypes": [
+          "Data"
+        ],
+        "status": null,
+        "versions": [],
+        "standards": [],
+        "resourceOwner": [
+          {
+            "title": "Dutch Language Union (Nederlandse Taalunie, NTU)",
+            "link": "null"
+          }
+        ],
+        "link": "http://duelme.clarin.inl.nl/",
+        "intro": "DUELME LMF is an electronic lexicon that contains more than 5,000 Dutch multiword expressions (MWEs). MWEs with the same syntactic pattern are grouped in the same equivalence class. The DUELME LMF lexicon is suitable for theoretical research on multiword expressions as for use in NLP sy...",
+        "researchActivities": [],
+        "researchDomains": null,
+        "mediaTypes": null,
+        "provenance": [],
+        "community": [],
+        "development": null
+      }
+    }
+  }
+]

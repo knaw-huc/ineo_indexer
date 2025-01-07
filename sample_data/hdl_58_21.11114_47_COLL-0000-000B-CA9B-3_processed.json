@@ -1,0 +1,67 @@
+[
+  {
+    "operation": "create",
+    "document": {
+      "id": "hdl_58_21.11114_47_COLL-0000-000B-CA9B-3",
+      "title": "Bol / Kuiken Corpus",
+      "intro": "This corpus includes data from the SLI children of the GRAMAT research, carried out by Gerard Bol and Folkert Kuiken between 1984 and 1988. This research was supported by a grant from the Praeventiefonds at The Hague in the Netherlands (Nr. 28-798). The 31 Dutch normally developing chil... The 31 Dutch normally developing children (15 male and 16 female) in this research ranged in age from 1;07.11 to 3;07.5. Sixteen children have been recorded at two moments in time so that the total number of recordings is 47. The names of the children in the corpus are pseudonyms. Parti... The 20 Dutch children with Down\u2019s syndrome (10 male and 10 female) in this research ranged in age from 4;04.21 to 18;11.5. Their intelligence level determined with a Dutch adaptation of the Merrill-Palmer Preschool Performance Tests, differed from 20 to 56. Their mental age was at least... The 20 Dutch SLI children (5 female and 15 male) in this research ranged in age from 4;01.16 to 8;01.17. The children all lacked sufficient intellectual or physiological impair-ment to account for their difficulties in language production. The IQ of the children has been tested (except ... The 20 Dutch hearing impaired children (11 male and 9 female) in this research ranged in age from 3;11.14 to 9;00.15. They all suffered from sensorineural or mixed hearing loss. Their hearing impairment had been diagnosed before they were 1;6 years of age. Their hearing loss differed fr...",
+      "publishedAt": [],
+      "media": {
+        "thumbnail": [],
+        "slider": []
+      },
+      "tabs": {
+        "overview": {},
+        "learn": {},
+        "mentions": {},
+        "metadata": {}
+      },
+      "properties": {
+        "programmingLanguages": [],
+        "learn": [],
+        "resourceHost": [
+          {
+            "title": "http://childes.talkbank.org",
+            "link": "http://childes.talkbank.org"
+          }
+        ],
+        "funding": [],
+        "problemContact": [],
+        "informationTypes": null,
+        "languages": [
+          "Dutch",
+          "English"
+        ],
+        "access": [
+          {
+            "title": "Public",
+            "link": ""
+          }
+        ],
+        "sourceCodeLocation": [],
+        "researchContact": [],
+        "generalContact": [],
+        "resourceTypes": [
+          "Data"
+        ],
+        "status": null,
+        "versions": [],
+        "standards": [],
+        "resourceOwner": [
+          {
+            "title": "Bol, Gerard, Kuiken, Folkert",
+            "link": "null"
+          }
+        ],
+        "link": "http://childes.talkbank.org/access/Clinical/BolKuiken/",
+        "intro": "This corpus includes data from the SLI children of the GRAMAT research, carried out by Gerard Bol and Folkert Kuiken between 1984 and 1988. This research was supported by a grant from the Praeventiefonds at The Hague in the Netherlands (Nr. 28-798). The 31 Dutch normally developing chil... The 31 Dutch normally developing children (15 male and 16 female) in this research ranged in age from 1;07.11 to 3;07.5. Sixteen children have been recorded at two moments in time so that the total number of recordings is 47. The names of the children in the corpus are pseudonyms. Parti... The 20 Dutch children with Down\u2019s syndrome (10 male and 10 female) in this research ranged in age from 4;04.21 to 18;11.5. Their intelligence level determined with a Dutch adaptation of the Merrill-Palmer Preschool Performance Tests, differed from 20 to 56. Their mental age was at least... The 20 Dutch SLI children (5 female and 15 male) in this research ranged in age from 4;01.16 to 8;01.17. The children all lacked sufficient intellectual or physiological impair-ment to account for their difficulties in language production. The IQ of the children has been tested (except ... The 20 Dutch hearing impaired children (11 male and 9 female) in this research ranged in age from 3;11.14 to 9;00.15. They all suffered from sensorineural or mixed hearing loss. Their hearing impairment had been diagnosed before they were 1;6 years of age. Their hearing loss differed fr...",
+        "researchActivities": [],
+        "researchDomains": null,
+        "mediaTypes": null,
+        "provenance": [],
+        "community": [],
+        "development": null
+      }
+    }
+  }
+]

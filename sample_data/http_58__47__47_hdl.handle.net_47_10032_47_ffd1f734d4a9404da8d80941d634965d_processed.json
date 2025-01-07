@@ -1,0 +1,64 @@
+[
+    {
+        "operation": "create",
+        "document": {
+            "id": "http_58__47__47_hdl.handle.net_47_10032_47_ffd1f734d4a9404da8d80941d634965d",
+            "title": "Corpus Vlaamse Gebarentaal (Corpus VGT)",
+            "intro": "The Corpus VGT is a collection of videos in Flamish Sign Language. Informants (native speakers of VGT) discuss in pairs a series of subjects. Documentation in English Het Corpus VGT is een verzameling van gannoteerde video\u2019s in Vlaamse Gebarentaal. Informanten (sprekers VGT) spreken twee aan twee over een reeks thema\u2019s. Glosses of the signed utterances Sign language interpretation of spoken messages",
+            "publishedAt": [],
+            "media": {
+                "thumbnail": [],
+                "slider": []
+            },
+            "tabs": {
+                "overview": {},
+                "learn": {},
+                "mentions": {},
+                "metadata": {}
+            },
+            "properties": {
+                "programmingLanguages": [],
+                "learn": [],
+                "resourceHost": null,
+                "funding": [],
+                "problemContact": [],
+                "informationTypes": null,
+                "languages": [
+                    "Dutch",
+                    "Vlaamse Gebarentaal"
+                ],
+                "access": [
+                    {
+                        "title": "Public",
+                        "link": "https://creativecommons.org/licenses/by-nc-sa/3.0/"
+                    }
+                ],
+                "sourceCodeLocation": [],
+                "researchContact": [],
+                "generalContact": [],
+                "resourceTypes": [
+                    "Data"
+                ],
+                "status": null,
+                "versions": [],
+                "standards": [],
+                "resourceOwner": [
+                    {
+                        "title": "INT",
+                        "link": "null"
+                    }
+                ],
+                "link": "http://hdl.handle.net/10032/tm-a2-v6",
+                "intro": "The Corpus VGT is a collection of videos in Flamish Sign Language. Informants (native speakers of VGT) discuss in pairs a series of subjects. Documentation in English Het Corpus VGT is een verzameling van gannoteerde video\u2019s in Vlaamse Gebarentaal. Informanten (sprekers VGT) spreken twee aan twee over een reeks thema\u2019s. Glosses of the signed utterances Sign language interpretation of spoken messages",
+                "researchActivities": [],
+                "researchDomains": [
+                    "https://w3id.org/nwo-research-fields#TranslationStudies"
+                ],
+                "mediaTypes": null,
+                "provenance": [],
+                "community": [],
+                "development": null
+            }
+        }
+    }
+]

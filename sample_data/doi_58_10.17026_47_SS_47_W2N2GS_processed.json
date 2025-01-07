@@ -1,0 +1,66 @@
+[
+    {
+        "operation": "create",
+        "document": {
+            "id": "doi_58_10.17026_47_SS_47_W2N2GS",
+            "title": "Project Ongekend Bijzonder, Den Haag, interview 32",
+            "intro": "geslacht: M land van herkomst: Iran leeftijd aankomst NL: 33 stad: De Haag vluchtreden: politiek vluchteling relaties met eigen gemeenschap: politieke partij opleiding: HBO Civiele Techniek beroep land van herkomst: technisch tekenaar werk in NL: ontwerper Civiele Techniek kinderen:...",
+            "publishedAt": [],
+            "media": {
+                "thumbnail": [],
+                "slider": []
+            },
+            "tabs": {
+                "overview": {},
+                "learn": {},
+                "mentions": {},
+                "metadata": {}
+            },
+            "properties": {
+                "programmingLanguages": [],
+                "learn": [],
+                "resourceHost": [
+                    {
+                        "title": "https://doi.org",
+                        "link": "https://doi.org"
+                    }
+                ],
+                "funding": [],
+                "problemContact": [],
+                "informationTypes": null,
+                "languages": [
+                    "Dutch"
+                ],
+                "access": [
+                    {
+                        "title": "UNSPECIFIED",
+                        "link": ""
+                    }
+                ],
+                "sourceCodeLocation": [],
+                "researchContact": [],
+                "generalContact": [],
+                "resourceTypes": [
+                    "Data"
+                ],
+                "status": null,
+                "versions": [],
+                "standards": [],
+                "resourceOwner": null,
+                "link": "https://doi.org/10.17026/SS/W2N2GS",
+                "intro": "geslacht: M land van herkomst: Iran leeftijd aankomst NL: 33 stad: De Haag vluchtreden: politiek vluchteling relaties met eigen gemeenschap: politieke partij opleiding: HBO Civiele Techniek beroep land van herkomst: technisch tekenaar werk in NL: ontwerper Civiele Techniek kinderen:...",
+                "researchActivities": [],
+                "researchDomains": [],
+                "mediaTypes": null,
+                "provenance": [],
+                "community": [],
+                "development": [
+                    {
+                        "title": "Stichting Bevordering Maatschappelijke Participatie - BMP",
+                        "link": "null"
+                    }
+                ]
+            }
+        }
+    }
+]

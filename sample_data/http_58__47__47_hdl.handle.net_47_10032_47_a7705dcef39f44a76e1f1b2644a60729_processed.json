@@ -1,0 +1,66 @@
+[
+  {
+    "operation": "create",
+    "document": {
+      "id": "http_58__47__47_hdl.handle.net_47_10032_47_a7705dcef39f44a76e1f1b2644a60729",
+      "title": "Dutch Electronic Lexicon of Multiword Expressions",
+      "intro": "DuELME is an electronic lexicon that contains more than 5,000 Dutch multiword expressions (MWEs). MWEs with the same syntactic pattern are grouped in the same equivalence class. The DuELME lexicon is suitable for theoretical research on multiword expressions as for use in NLP systems. T... Not all documentation is available in both languages. Multi-word expressions with similar syntactic patterns are grouped in equivalence classes.",
+      "publishedAt": [],
+      "media": {
+        "thumbnail": [],
+        "slider": []
+      },
+      "tabs": {
+        "overview": {},
+        "learn": {},
+        "mentions": {},
+        "metadata": {}
+      },
+      "properties": {
+        "programmingLanguages": [],
+        "learn": [],
+        "resourceHost": null,
+        "funding": [],
+        "problemContact": [],
+        "informationTypes": null,
+        "languages": [
+          "Dutch"
+        ],
+        "access": [
+          {
+            "title": "free non-commercial organisations; user licence required ",
+            "link": ""
+          }
+        ],
+        "sourceCodeLocation": [],
+        "researchContact": [],
+        "generalContact": [],
+        "resourceTypes": [
+          "Data"
+        ],
+        "status": null,
+        "versions": [],
+        "standards": [],
+        "resourceOwner": [
+          {
+            "title": "Dutch Language Union",
+            "link": "null"
+          }
+        ],
+        "link": "http://hdl.handle.net/10032/tm-a2-j9",
+        "intro": "DuELME is an electronic lexicon that contains more than 5,000 Dutch multiword expressions (MWEs). MWEs with the same syntactic pattern are grouped in the same equivalence class. The DuELME lexicon is suitable for theoretical research on multiword expressions as for use in NLP systems. T... Not all documentation is available in both languages. Multi-word expressions with similar syntactic patterns are grouped in equivalence classes.",
+        "researchActivities": [],
+        "researchDomains": null,
+        "mediaTypes": null,
+        "provenance": [],
+        "community": [],
+        "development": [
+          {
+            "title": "Nicole Gregoire",
+            "link": "null"
+          }
+        ]
+      }
+    }
+  }
+]

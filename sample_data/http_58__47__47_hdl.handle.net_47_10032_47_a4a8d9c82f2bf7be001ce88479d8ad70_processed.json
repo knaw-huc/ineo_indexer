@@ -1,0 +1,61 @@
+[
+  {
+    "operation": "create",
+    "document": {
+      "id": "http_58__47__47_hdl.handle.net_47_10032_47_a4a8d9c82f2bf7be001ce88479d8ad70",
+      "title": "iWNT",
+      "intro": "Woordenboek der Nederlandsche Taal (WNT) online is the electronic version of the Woordenboek der Nederlandsche Taal: a historical and scientific dictionary of the Dutch language. The dictionary decribes the meaning and history of hundred ... Modern Dutch Lemma",
+      "publishedAt": [],
+      "media": {
+        "thumbnail": [],
+        "slider": []
+      },
+      "tabs": {
+        "overview": {},
+        "learn": {},
+        "mentions": {},
+        "metadata": {}
+      },
+      "properties": {
+        "programmingLanguages": [],
+        "learn": [],
+        "resourceHost": null,
+        "funding": [],
+        "problemContact": [],
+        "informationTypes": null,
+        "languages": [
+          "Dutch"
+        ],
+        "access": [
+          {
+            "title": "free for academic use; \n                    non appliccable for commercial parties",
+            "link": ""
+          }
+        ],
+        "sourceCodeLocation": [],
+        "researchContact": [],
+        "generalContact": [],
+        "resourceTypes": [
+          "Data"
+        ],
+        "status": null,
+        "versions": [],
+        "standards": [],
+        "resourceOwner": [
+          {
+            "title": "Dutch Language Institute (Instituut voor de Nederlandse Taal, INT)",
+            "link": "null"
+          }
+        ],
+        "link": "http://hdl.handle.net/10032/tm-a2-g3",
+        "intro": "Woordenboek der Nederlandsche Taal (WNT) online is the electronic version of the Woordenboek der Nederlandsche Taal: a historical and scientific dictionary of the Dutch language. The dictionary decribes the meaning and history of hundred ... Modern Dutch Lemma",
+        "researchActivities": [],
+        "researchDomains": null,
+        "mediaTypes": null,
+        "provenance": [],
+        "community": [],
+        "development": null
+      }
+    }
+  }
+]

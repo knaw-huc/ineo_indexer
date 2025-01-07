@@ -1,0 +1,61 @@
+[
+  {
+    "operation": "create",
+    "document": {
+      "id": "hdl_58_21.11114_47_COLL-0000-000F-7A2D-7",
+      "title": "The Old English Martyrology Thesaurus Linked Data Annotation",
+      "intro": "The Old English Martyrology Thesaurus is a set of Linked Data annotations that reference the IRIs of A Thesaurus of Old English (https://oldenglishthesaurus.arts.gla.ac.uk/). The dataset can be browsed as a textual thesaurus within the web application Evoke and is available via http://e... -",
+      "publishedAt": [],
+      "media": {
+        "thumbnail": [],
+        "slider": []
+      },
+      "tabs": {
+        "overview": {},
+        "learn": {},
+        "mentions": {},
+        "metadata": {}
+      },
+      "properties": {
+        "programmingLanguages": [],
+        "learn": [],
+        "resourceHost": [
+          {
+            "title": "https://doi.org",
+            "link": "https://doi.org"
+          }
+        ],
+        "funding": [],
+        "problemContact": [],
+        "informationTypes": null,
+        "languages": [
+          "Old English"
+        ],
+        "access": [
+          {
+            "title": "Public",
+            "link": ""
+          }
+        ],
+        "sourceCodeLocation": [],
+        "researchContact": [],
+        "generalContact": [],
+        "resourceTypes": [
+          "Data"
+        ],
+        "status": null,
+        "versions": [],
+        "standards": [],
+        "resourceOwner": null,
+        "link": "https://doi.org/10.34894/IHVH0Z",
+        "intro": "The Old English Martyrology Thesaurus is a set of Linked Data annotations that reference the IRIs of A Thesaurus of Old English (https://oldenglishthesaurus.arts.gla.ac.uk/). The dataset can be browsed as a textual thesaurus within the web application Evoke and is available via http://e... -",
+        "researchActivities": [],
+        "researchDomains": null,
+        "mediaTypes": null,
+        "provenance": [],
+        "community": [],
+        "development": null
+      }
+    }
+  }
+]

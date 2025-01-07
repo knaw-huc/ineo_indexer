@@ -1,0 +1,63 @@
+[
+    {
+        "operation": "create",
+        "document": {
+            "id": "http_58__47__47_hdl.handle.net_47_10032_47_081050133744f5781aa019697b0f3bee",
+            "title": "Annotated Corpora for Term Extraction Research (ACTER)",
+            "intro": "ACTER is a manually annotated dataset for term extraction, covering 3 languages (English, French, and Dutch), and 4 domains (corruption, dressage, heart failure, and wind energy). Documentation in English ACTER is een handmatig geannoteerde dataset voor termextractie, die drie talen omvat (Engels, Frans en Nederlands), en vier domeinen (corruptie, dressuur, hartfalen en windenergie). Terminological labels Named entities",
+            "publishedAt": [],
+            "media": {
+                "thumbnail": [],
+                "slider": []
+            },
+            "tabs": {
+                "overview": {},
+                "learn": {},
+                "mentions": {},
+                "metadata": {}
+            },
+            "properties": {
+                "programmingLanguages": [],
+                "learn": [],
+                "resourceHost": null,
+                "funding": [],
+                "problemContact": [],
+                "informationTypes": null,
+                "languages": [
+                    "Dutch",
+                    "English",
+                    "French"
+                ],
+                "access": [
+                    {
+                        "title": "Public",
+                        "link": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+                    }
+                ],
+                "sourceCodeLocation": [],
+                "researchContact": [],
+                "generalContact": [],
+                "resourceTypes": [
+                    "Data"
+                ],
+                "status": null,
+                "versions": [],
+                "standards": [],
+                "resourceOwner": [
+                    {
+                        "title": "Ghent University",
+                        "link": "null"
+                    }
+                ],
+                "link": "http://hdl.handle.net/10032/tm-a2-v4",
+                "intro": "ACTER is a manually annotated dataset for term extraction, covering 3 languages (English, French, and Dutch), and 4 domains (corruption, dressage, heart failure, and wind energy). Documentation in English ACTER is een handmatig geannoteerde dataset voor termextractie, die drie talen omvat (Engels, Frans en Nederlands), en vier domeinen (corruptie, dressuur, hartfalen en windenergie). Terminological labels Named entities",
+                "researchActivities": [],
+                "researchDomains": [],
+                "mediaTypes": null,
+                "provenance": [],
+                "community": [],
+                "development": null
+            }
+        }
+    }
+]

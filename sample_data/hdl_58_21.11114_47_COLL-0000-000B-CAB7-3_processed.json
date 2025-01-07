@@ -1,0 +1,70 @@
+[
+  {
+    "operation": "create",
+    "document": {
+      "id": "hdl_58_21.11114_47_COLL-0000-000B-CAB7-3",
+      "title": "Nederlandse Liederenbank",
+      "intro": "De Nederlandse Liederenbank omvat zo'n 170.000 Nederlandse liederen* (stand medio 2014). In beginsel gaat het om Nederlandstalige liederen, zowel uit Nederland als Vlaanderen. De liederenbank bestrijkt zo'n 900 jaar, van de middeleeuwen tot de eenentwintigste eeuw. Het soort liederen en...",
+      "publishedAt": [],
+      "media": {
+        "thumbnail": [],
+        "slider": []
+      },
+      "tabs": {
+        "overview": {},
+        "learn": {},
+        "mentions": {},
+        "metadata": {}
+      },
+      "properties": {
+        "programmingLanguages": [],
+        "learn": [],
+        "resourceHost": [
+          {
+            "title": "http://www.liederenbank.nl",
+            "link": "http://www.liederenbank.nl"
+          }
+        ],
+        "funding": [],
+        "problemContact": [],
+        "informationTypes": null,
+        "languages": [
+          "Dutch",
+          "German",
+          "Latin",
+          "French",
+          "English"
+        ],
+        "access": [
+          {
+            "title": "Restricted for individual",
+            "link": ""
+          }
+        ],
+        "sourceCodeLocation": [],
+        "researchContact": [],
+        "generalContact": [],
+        "resourceTypes": [
+          "Data"
+        ],
+        "status": null,
+        "versions": [],
+        "standards": [],
+        "resourceOwner": [
+          {
+            "title": "Documentatie- en Onderzoekscentrum van het Nederlandse Lied (DOC Lied)",
+            "link": "null"
+          }
+        ],
+        "link": "http://www.liederenbank.nl/",
+        "intro": "De Nederlandse Liederenbank omvat zo'n 170.000 Nederlandse liederen* (stand medio 2014). In beginsel gaat het om Nederlandstalige liederen, zowel uit Nederland als Vlaanderen. De liederenbank bestrijkt zo'n 900 jaar, van de middeleeuwen tot de eenentwintigste eeuw. Het soort liederen en...",
+        "researchActivities": [],
+        "researchDomains": null,
+        "mediaTypes": null,
+        "provenance": [],
+        "community": [],
+        "development": null
+      }
+    }
+  }
+]

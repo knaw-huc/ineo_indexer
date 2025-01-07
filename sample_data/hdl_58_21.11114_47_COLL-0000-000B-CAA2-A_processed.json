@@ -1,0 +1,67 @@
+[
+  {
+    "operation": "create",
+    "document": {
+      "id": "hdl_58_21.11114_47_COLL-0000-000B-CAA2-A",
+      "title": "CHILDES Dutch Groningen Corpus",
+      "intro": "This corpus contains longitudinal data from seven Dutch children (six boys and one girl) between 1;05 and 3;07. The data (208 audio recordings totaling more than 170 hours) have been gathered in a research project supported by the Dutch Organisation for Scientific Research (NWO) grants longitudinal study of the spontaneous speech of seven Dutch children in an unstructured home setting. This corpus contains longitudinal data from seven Dutch children (six boys and one girl) between 1;05 and 3;07. The data (208 audio recordings totaling more than 170 hours) have been ga...",
+      "publishedAt": [],
+      "media": {
+        "thumbnail": [],
+        "slider": []
+      },
+      "tabs": {
+        "overview": {},
+        "learn": {},
+        "mentions": {},
+        "metadata": {}
+      },
+      "properties": {
+        "programmingLanguages": [],
+        "learn": [],
+        "resourceHost": [
+          {
+            "title": "https://doi.org",
+            "link": "https://doi.org"
+          }
+        ],
+        "funding": [],
+        "problemContact": [],
+        "informationTypes": null,
+        "languages": [
+          "Dutch",
+          "English"
+        ],
+        "access": [
+          {
+            "title": "Public",
+            "link": ""
+          }
+        ],
+        "sourceCodeLocation": [],
+        "researchContact": [],
+        "generalContact": [],
+        "resourceTypes": [
+          "Data"
+        ],
+        "status": null,
+        "versions": [],
+        "standards": [],
+        "resourceOwner": [
+          {
+            "title": "unknown",
+            "link": "null"
+          }
+        ],
+        "link": "https://doi.org/10.21415/T5H60S",
+        "intro": "This corpus contains longitudinal data from seven Dutch children (six boys and one girl) between 1;05 and 3;07. The data (208 audio recordings totaling more than 170 hours) have been gathered in a research project supported by the Dutch Organisation for Scientific Research (NWO) grants longitudinal study of the spontaneous speech of seven Dutch children in an unstructured home setting. This corpus contains longitudinal data from seven Dutch children (six boys and one girl) between 1;05 and 3;07. The data (208 audio recordings totaling more than 170 hours) have been ga...",
+        "researchActivities": [],
+        "researchDomains": null,
+        "mediaTypes": null,
+        "provenance": [],
+        "community": [],
+        "development": null
+      }
+    }
+  }
+]

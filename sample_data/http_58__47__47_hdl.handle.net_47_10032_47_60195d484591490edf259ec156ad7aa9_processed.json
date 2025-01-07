@@ -1,0 +1,62 @@
+[
+  {
+    "operation": "create",
+    "document": {
+      "id": "http_58__47__47_hdl.handle.net_47_10032_47_60195d484591490edf259ec156ad7aa9",
+      "title": "SoNaR: STEVIN Nederlandstalig Referentiecorpus - Nieuwe Media Corpu...",
+      "intro": "The SoNaR New Media Corpus 1.0 consists of the text categories WR-P-E-L_tweets, WR-U-E-A_chats, WR-U-E-D_sms and contains over 35 million words. Those texts were collected within the STEVIN project SoNaR. All texts were tokenised, POS-tagged and lemmatised.",
+      "publishedAt": [],
+      "media": {
+        "thumbnail": [],
+        "slider": []
+      },
+      "tabs": {
+        "overview": {},
+        "learn": {},
+        "mentions": {},
+        "metadata": {}
+      },
+      "properties": {
+        "programmingLanguages": [],
+        "learn": [],
+        "resourceHost": null,
+        "funding": [],
+        "problemContact": [],
+        "informationTypes": null,
+        "languages": [
+          "Dutch",
+          "English"
+        ],
+        "access": [
+          {
+            "title": "available for non-commercial organisations; user licence required; ",
+            "link": ""
+          }
+        ],
+        "sourceCodeLocation": [],
+        "researchContact": [],
+        "generalContact": [],
+        "resourceTypes": [
+          "Data"
+        ],
+        "status": null,
+        "versions": [],
+        "standards": [],
+        "resourceOwner": [
+          {
+            "title": "Dutch Language Union",
+            "link": "null"
+          }
+        ],
+        "link": "http://hdl.handle.net/10032/tm-a2-k3",
+        "intro": "The SoNaR New Media Corpus 1.0 consists of the text categories WR-P-E-L_tweets, WR-U-E-A_chats, WR-U-E-D_sms and contains over 35 million words. Those texts were collected within the STEVIN project SoNaR. All texts were tokenised, POS-tagged and lemmatised.",
+        "researchActivities": [],
+        "researchDomains": null,
+        "mediaTypes": null,
+        "provenance": [],
+        "community": [],
+        "development": null
+      }
+    }
+  }
+]

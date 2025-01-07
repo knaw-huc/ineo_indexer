@@ -1,0 +1,64 @@
+[
+  {
+    "operation": "create",
+    "document": {
+      "id": "hdl_58_21.11114_47_COLL-0000-000F-7704-7",
+      "title": "Oral History. Interview with survivor of Ravensbr\u00fcck concentration ...",
+      "intro": "Gertrud M\u00fcller, schon als Jugendliche im antifaschistischen Kampf engagiert, blieb bis ins hohe Alter eine rege K\u00e4mpferin gegen Faschismus und Krieg. Sie war Vorsitzende der Lagergemeinschaft Ravensbr\u00fcck bis 1997 und deren Ehrenvorsitzende bis zu ihrem Tod.",
+      "publishedAt": [],
+      "media": {
+        "thumbnail": [],
+        "slider": []
+      },
+      "tabs": {
+        "overview": {},
+        "learn": {},
+        "mentions": {},
+        "metadata": {}
+      },
+      "properties": {
+        "programmingLanguages": [],
+        "learn": [],
+        "resourceHost": [
+          {
+            "title": "https://videoarchiv-ravensbrueck.de",
+            "link": "https://videoarchiv-ravensbrueck.de"
+          }
+        ],
+        "funding": [],
+        "problemContact": [],
+        "informationTypes": null,
+        "languages": null,
+        "access": [
+          {
+            "title": "all the materials on the website of Loretta Walz are freely accessible, but you have to register and create an account.",
+            "link": ""
+          }
+        ],
+        "sourceCodeLocation": [],
+        "researchContact": [],
+        "generalContact": [],
+        "resourceTypes": [
+          "Data"
+        ],
+        "status": null,
+        "versions": [],
+        "standards": [],
+        "resourceOwner": [
+          {
+            "title": "Loretta Walz Videoproduktion / Biografische Dokumentationen",
+            "link": "null"
+          }
+        ],
+        "link": "https://videoarchiv-ravensbrueck.de/de/protagonistinnen/id/018",
+        "intro": "Gertrud M\u00fcller, schon als Jugendliche im antifaschistischen Kampf engagiert, blieb bis ins hohe Alter eine rege K\u00e4mpferin gegen Faschismus und Krieg. Sie war Vorsitzende der Lagergemeinschaft Ravensbr\u00fcck bis 1997 und deren Ehrenvorsitzende bis zu ihrem Tod.",
+        "researchActivities": [],
+        "researchDomains": null,
+        "mediaTypes": null,
+        "provenance": [],
+        "community": [],
+        "development": null
+      }
+    }
+  }
+]

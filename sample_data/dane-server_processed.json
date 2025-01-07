@@ -1,0 +1,100 @@
+[
+  {
+    "operation": "create",
+    "document": {
+      "id": "dane-server",
+      "title": "DANE-server",
+      "intro": "Back-end for the Distributed Annotation 'n' Enrichment (DANE) system",
+      "publishedAt": "2020-01-22",
+      "media": {},
+      "tabs": {
+        "overview": {},
+        "learn": {},
+        "mentions": {},
+        "metadata": {}
+      },
+      "properties": {
+        "programmingLanguages": [
+          {
+            "title": "Python",
+            "link": null
+          }
+        ],
+        "learn": [
+          {
+            "title": "Examples \u2014 DANE  documentation",
+            "link": "https://dane.readthedocs.io/en/latest/examples.html"
+          },
+          {
+            "title": "Introduction \u2014 DANE  documentation",
+            "link": "https://dane.readthedocs.io/en/latest/intro.html#configuration"
+          }
+        ],
+        "problemContact": [
+          {
+            "title": "Issue tracker",
+            "link": "https://github.com/CLARIAH/DANE-server/issues"
+          }
+        ],
+        "informationTypes": [],
+        "access": [
+          {
+            "title": "Open Access",
+            "link": "https://github.com/CLARIAH/DANE-server"
+          }
+        ],
+        "sourceCodeLocation": [
+          {
+            "title": "github.com",
+            "link": "https://github.com/CLARIAH/DANE-server"
+          }
+        ],
+        "researchContact": [],
+        "generalContact": [
+          {
+            "title": "jblom\u00a0",
+            "link": "mailto:jblom@beeldengeluid.nl"
+          }
+        ],
+        "resourceTypes": [
+          "Tools"
+        ],
+        "status": [
+          "Work in progress"
+        ],
+        "versions": [
+          {
+            "title": "0.3.1",
+            "url": ""
+          }
+        ],
+        "standards": [],
+        "resourceOwner": [
+          {
+            "title": "CLARIAH",
+            "link": "http://www.clariah.nl"
+          }
+        ],
+        "link": "https://github.com/CLARIAH/DANE-server",
+        "intro": "Back-end for the Distributed Annotation 'n' Enrichment (DANE) system",
+        "provenance": [],
+        "community": [
+          {
+            "title": "Issue tracker",
+            "link": "https://github.com/CLARIAH/DANE-server/issues"
+          }
+        ],
+        "development": [
+          {
+            "title": "jblom ",
+            "link": ""
+          },
+          {
+            "title": "Nanne van Noord",
+            "link": ""
+          }
+        ]
+      }
+    }
+  }
+]

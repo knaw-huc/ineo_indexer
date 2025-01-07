@@ -1,0 +1,62 @@
+[
+  {
+    "operation": "create",
+    "document": {
+      "id": "hdl_58_21.11114_47_COLL-0000-000B-CABA-0",
+      "title": "SoNaR",
+      "intro": "SoNaR is a 500-million-word reference corpus of contemporary written Dutch for use in different types of linguistic (incl. lexicographic) and HLT research and the development of applications. The STEVIN funded SoNaR project (2008-2011) built on the results obtained in the D-Coi and Core... SoNaR500 is a 500-million-word reference corpus of contemporary written Dutch for use in different types of linguistic (incl. lexicographic) and HLT research and the development of applications. SoNaR500 was automatically tokenized, lemmatized and POS-tagged (except for the new media p... SoNaR-1 is a dataset comprising one million words. Although largely a subset of SoNaR-500, SoNaR-1 includes far fewer text types. With SoNaR- 1 different types of semantic annotation have been provided, viz. named entity labelling, annotation of co-reference relations, semantic role lab... SoNaR New Media texts (tweets, chats and sms's) were also collected in the STEVIN-project SoNaR but they are not part of the SoNaR-corpus 1.0. and can be obtained separately as the SoNar New Media Corpus.",
+      "publishedAt": [],
+      "media": {
+        "thumbnail": [],
+        "slider": []
+      },
+      "tabs": {
+        "overview": {},
+        "learn": {},
+        "mentions": {},
+        "metadata": {}
+      },
+      "properties": {
+        "programmingLanguages": [],
+        "learn": [],
+        "resourceHost": null,
+        "funding": [],
+        "problemContact": [],
+        "informationTypes": null,
+        "languages": [
+          "Dutch",
+          "English"
+        ],
+        "access": [
+          {
+            "title": "Restricted for individual",
+            "link": ""
+          }
+        ],
+        "sourceCodeLocation": [],
+        "researchContact": [],
+        "generalContact": [],
+        "resourceTypes": [
+          "Data"
+        ],
+        "status": null,
+        "versions": [],
+        "standards": [],
+        "resourceOwner": [
+          {
+            "title": "Nederlandse Taalunie",
+            "link": "null"
+          }
+        ],
+        "link": "http://hdl.handle.net/11372/LRT-1498",
+        "intro": "SoNaR is a 500-million-word reference corpus of contemporary written Dutch for use in different types of linguistic (incl. lexicographic) and HLT research and the development of applications. The STEVIN funded SoNaR project (2008-2011) built on the results obtained in the D-Coi and Core... SoNaR500 is a 500-million-word reference corpus of contemporary written Dutch for use in different types of linguistic (incl. lexicographic) and HLT research and the development of applications. SoNaR500 was automatically tokenized, lemmatized and POS-tagged (except for the new media p... SoNaR-1 is a dataset comprising one million words. Although largely a subset of SoNaR-500, SoNaR-1 includes far fewer text types. With SoNaR- 1 different types of semantic annotation have been provided, viz. named entity labelling, annotation of co-reference relations, semantic role lab... SoNaR New Media texts (tweets, chats and sms's) were also collected in the STEVIN-project SoNaR but they are not part of the SoNaR-corpus 1.0. and can be obtained separately as the SoNar New Media Corpus.",
+        "researchActivities": [],
+        "researchDomains": null,
+        "mediaTypes": null,
+        "provenance": [],
+        "community": [],
+        "development": null
+      }
+    }
+  }
+]

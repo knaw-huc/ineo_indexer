@@ -1,0 +1,67 @@
+[
+    {
+        "operation": "create",
+        "document": {
+            "id": "http_58__47__47_hdl.handle.net_47_10032_47_2bea870b080709c9681b24a646ed0fa6",
+            "title": "Belgian Covid Sign Language Corpus (BeCoS Corpus)",
+            "intro": "BeCoS is an annotated parallel corpus with speech (Flamish, French, German) and sign language (VGT, LSFB) based on news broadcasts from the Belgian federal government concerning COVID-19. Documentation in English BeCoS is een geannoteerd parallel corpus gesproken taal (Nederlands, Frans, Duits) en gebarentaal (VGT, LSFB) gebaseerd op uitgezonden nieuwsberichten van de Belgische federale overheid betreffende COVID-19. Translation spoken news messages to sign language Analysed signer gestures Sign language interpretation of spoken messages",
+            "publishedAt": [],
+            "media": {
+                "thumbnail": [],
+                "slider": []
+            },
+            "tabs": {
+                "overview": {},
+                "learn": {},
+                "mentions": {},
+                "metadata": {}
+            },
+            "properties": {
+                "programmingLanguages": [],
+                "learn": [],
+                "resourceHost": null,
+                "funding": [],
+                "problemContact": [],
+                "informationTypes": null,
+                "languages": [
+                    "Dutch",
+                    "German",
+                    "French",
+                    "Vlaamse Gebarentaal",
+                    "Langue des signes de Belgique Francophone"
+                ],
+                "access": [
+                    {
+                        "title": "Public",
+                        "link": "https://creativecommons.org/licenses/by-nc-sa/3.0/"
+                    }
+                ],
+                "sourceCodeLocation": [],
+                "researchContact": [],
+                "generalContact": [],
+                "resourceTypes": [
+                    "Data"
+                ],
+                "status": null,
+                "versions": [],
+                "standards": [],
+                "resourceOwner": [
+                    {
+                        "title": "INT",
+                        "link": "null"
+                    }
+                ],
+                "link": "http://hdl.handle.net/10032/tm-a2-w7",
+                "intro": "BeCoS is an annotated parallel corpus with speech (Flamish, French, German) and sign language (VGT, LSFB) based on news broadcasts from the Belgian federal government concerning COVID-19. Documentation in English BeCoS is een geannoteerd parallel corpus gesproken taal (Nederlands, Frans, Duits) en gebarentaal (VGT, LSFB) gebaseerd op uitgezonden nieuwsberichten van de Belgische federale overheid betreffende COVID-19. Translation spoken news messages to sign language Analysed signer gestures Sign language interpretation of spoken messages",
+                "researchActivities": [],
+                "researchDomains": [
+                    "https://w3id.org/nwo-research-fields#TranslationStudies"
+                ],
+                "mediaTypes": null,
+                "provenance": [],
+                "community": [],
+                "development": null
+            }
+        }
+    }
+]

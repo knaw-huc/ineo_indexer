@@ -1,0 +1,56 @@
+[
+  {
+    "operation": "create",
+    "document": {
+      "id": "http_58__47__47_hdl.handle.net_47_10032_47_cd747deda6f459853a24906eaa20b3e1",
+      "title": "Corpus Gysseling",
+      "intro": "Het Corpus Gysseling is de verzameling van alle dertiende-eeuwse teksten die als bronnenmateriaal hebben gediend voor het Vroegmiddelnederlands Woordenboek. Het is de digitale uitgave, verrijkt met woordsoort en lemma, van het dertiende-eeuwse materiaal uit het Corpus van Middelnederlan... The Corpus Gysseling is the collection of all thirteenth centuary (until the year 1300) texts that served as sources for the Dictionary of Early Middledutch. Provided is the digital edition, enhanced with word class and lemma information, of the corpus originally compiled by the Ghent l...",
+      "publishedAt": [],
+      "media": {
+        "thumbnail": [],
+        "slider": []
+      },
+      "tabs": {
+        "overview": {},
+        "learn": {},
+        "mentions": {},
+        "metadata": {}
+      },
+      "properties": {
+        "programmingLanguages": [],
+        "learn": [],
+        "resourceHost": null,
+        "funding": [],
+        "problemContact": [],
+        "informationTypes": null,
+        "languages": [
+          "Middle Dutch"
+        ],
+        "access": [
+          {
+            "title": "Academic",
+            "link": ""
+          }
+        ],
+        "sourceCodeLocation": [],
+        "researchContact": [],
+        "generalContact": [],
+        "resourceTypes": [
+          "Data"
+        ],
+        "status": null,
+        "versions": [],
+        "standards": [],
+        "resourceOwner": null,
+        "link": "http://hdl.handle.net/10032/tm-a2-j4",
+        "intro": "Het Corpus Gysseling is de verzameling van alle dertiende-eeuwse teksten die als bronnenmateriaal hebben gediend voor het Vroegmiddelnederlands Woordenboek. Het is de digitale uitgave, verrijkt met woordsoort en lemma, van het dertiende-eeuwse materiaal uit het Corpus van Middelnederlan... The Corpus Gysseling is the collection of all thirteenth centuary (until the year 1300) texts that served as sources for the Dictionary of Early Middledutch. Provided is the digital edition, enhanced with word class and lemma information, of the corpus originally compiled by the Ghent l...",
+        "researchActivities": [],
+        "researchDomains": null,
+        "mediaTypes": null,
+        "provenance": [],
+        "community": [],
+        "development": null
+      }
+    }
+  }
+]

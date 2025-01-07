@@ -1,0 +1,66 @@
+[
+  {
+    "operation": "create",
+    "document": {
+      "id": "dutchframenetlexicon",
+      "title": "Dutch_FrameNet_Lexicon",
+      "publishedAt": "2019-04-29",
+      "media": {},
+      "tabs": {
+        "overview": {},
+        "learn": {},
+        "mentions": {},
+        "metadata": {}
+      },
+      "properties": {
+        "problemContact": [
+          {
+            "title": "Issue tracker",
+            "link": "https://github.com/cltl/Dutch_FrameNet_Lexicon/issues"
+          }
+        ],
+        "informationTypes": [],
+        "access": [
+          {
+            "title": "Open Access",
+            "link": "https://github.com/cltl/Dutch_FrameNet_Lexicon"
+          }
+        ],
+        "sourceCodeLocation": [
+          {
+            "title": "github.com",
+            "link": "https://github.com/cltl/Dutch_FrameNet_Lexicon"
+          }
+        ],
+        "researchContact": [],
+        "resourceTypes": [
+          "Tools"
+        ],
+        "status": [
+          "Suspended"
+        ],
+        "versions": [
+          {
+            "title": "",
+            "url": ""
+          }
+        ],
+        "standards": [],
+        "resourceOwner": [
+          {
+            "title": "Computational Linguistics and & Text Mining Lab",
+            "link": "http://www.cltl.nl/"
+          }
+        ],
+        "link": "https://github.com/cltl/Dutch_FrameNet_Lexicon",
+        "provenance": [],
+        "community": [
+          {
+            "title": "Issue tracker",
+            "link": "https://github.com/cltl/Dutch_FrameNet_Lexicon/issues"
+          }
+        ]
+      }
+    }
+  }
+]

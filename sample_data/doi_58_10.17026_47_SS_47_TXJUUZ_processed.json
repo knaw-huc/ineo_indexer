@@ -1,0 +1,64 @@
+[
+    {
+        "operation": "create",
+        "document": {
+            "id": "doi_58_10.17026_47_SS_47_TXJUUZ",
+            "title": "\u201cI Am Not Really Chinese\u201d: The Identification of Adoptees from Chin...",
+            "intro": "Transcriptions of 26 interviews for the research project \u201cI Am Not Really Chinese\u201d: The Identification of Adoptees from China in the Netherlands",
+            "publishedAt": [],
+            "media": {
+                "thumbnail": [],
+                "slider": []
+            },
+            "tabs": {
+                "overview": {},
+                "learn": {},
+                "mentions": {},
+                "metadata": {}
+            },
+            "properties": {
+                "programmingLanguages": [],
+                "learn": [],
+                "resourceHost": [
+                    {
+                        "title": "https://doi.org",
+                        "link": "https://doi.org"
+                    }
+                ],
+                "funding": [],
+                "problemContact": [],
+                "informationTypes": null,
+                "languages": null,
+                "access": [
+                    {
+                        "title": "UNSPECIFIED",
+                        "link": ""
+                    }
+                ],
+                "sourceCodeLocation": [],
+                "researchContact": [],
+                "generalContact": [],
+                "resourceTypes": [
+                    "Data"
+                ],
+                "status": null,
+                "versions": [],
+                "standards": [],
+                "resourceOwner": null,
+                "link": "https://doi.org/10.17026/SS/TXJUUZ",
+                "intro": "Transcriptions of 26 interviews for the research project \u201cI Am Not Really Chinese\u201d: The Identification of Adoptees from China in the Netherlands",
+                "researchActivities": [],
+                "researchDomains": [],
+                "mediaTypes": null,
+                "provenance": [],
+                "community": [],
+                "development": [
+                    {
+                        "title": "Pieters, Lisa Wu Jianshun",
+                        "link": "null"
+                    }
+                ]
+            }
+        }
+    }
+]

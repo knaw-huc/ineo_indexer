@@ -1,0 +1,66 @@
+[
+    {
+        "operation": "create",
+        "document": {
+            "id": "doi_58_10.17026_47_SS_47_MSNIUA",
+            "title": "Friends in a Cold Climate: Schiedam-2a",
+            "intro": "Connie Eggink began working for the Stichting Schiedamse Gemeenschap (Foundation Schiedam Community) and the VVV Tourist Information Office, as they were combined. She was around the age of 19 and had to be knowledgeable about various cultural groups, including music, theater, literatur...",
+            "publishedAt": [],
+            "media": {
+                "thumbnail": [],
+                "slider": []
+            },
+            "tabs": {
+                "overview": {},
+                "learn": {},
+                "mentions": {},
+                "metadata": {}
+            },
+            "properties": {
+                "programmingLanguages": [],
+                "learn": [],
+                "resourceHost": [
+                    {
+                        "title": "https://doi.org",
+                        "link": "https://doi.org"
+                    }
+                ],
+                "funding": [],
+                "problemContact": [],
+                "informationTypes": null,
+                "languages": [
+                    "English"
+                ],
+                "access": [
+                    {
+                        "title": "UNSPECIFIED",
+                        "link": ""
+                    }
+                ],
+                "sourceCodeLocation": [],
+                "researchContact": [],
+                "generalContact": [],
+                "resourceTypes": [
+                    "Data"
+                ],
+                "status": null,
+                "versions": [],
+                "standards": [],
+                "resourceOwner": null,
+                "link": "https://doi.org/10.17026/SS/MSNIUA",
+                "intro": "Connie Eggink began working for the Stichting Schiedamse Gemeenschap (Foundation Schiedam Community) and the VVV Tourist Information Office, as they were combined. She was around the age of 19 and had to be knowledgeable about various cultural groups, including music, theater, literatur...",
+                "researchActivities": [],
+                "researchDomains": [],
+                "mediaTypes": null,
+                "provenance": [],
+                "community": [],
+                "development": [
+                    {
+                        "title": "de Jager MA, E. J.",
+                        "link": "null"
+                    }
+                ]
+            }
+        }
+    }
+]

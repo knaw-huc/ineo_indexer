@@ -1,0 +1,76 @@
+[
+  {
+    "operation": "create",
+    "document": {
+      "id": "http_58__47__47_hdl.handle.net_47_10032_47_0ed521c9fc2d66f870b00aba73e5bebc",
+      "title": "Boarnsterhim Corpus",
+      "intro": "The Boarnsterhim Corpus consists of 250 hours of speech in both West Frisian and Dutch by the same sample of bilingual speakers. The corpus contains original recordings from 1982-1984 and a replication study recorded 35 years later. The data collection spans speech of four generations, ... Het Boarnsterhim Corpus bestaat uit 250 uur spraak in zowel West-Fries als Nederlands door dezelfde groep tweetalige sprekers. Het corpus bevat originele opnamen uit 1982-1984 en een replicerend onderzoek 35 jaar later. De dataverzameling omvat de spraak van vier generaties en combineer...",
+      "publishedAt": [],
+      "media": {
+        "thumbnail": [],
+        "slider": []
+      },
+      "tabs": {
+        "overview": {},
+        "learn": {},
+        "mentions": {},
+        "metadata": {}
+      },
+      "properties": {
+        "programmingLanguages": [],
+        "learn": [],
+        "resourceHost": null,
+        "funding": [],
+        "problemContact": [],
+        "informationTypes": null,
+        "languages": [
+          "Western Frisian",
+          "Dutch",
+          "English"
+        ],
+        "access": [
+          {
+            "title": "available for non-commercial organisations",
+            "link": ""
+          }
+        ],
+        "sourceCodeLocation": [],
+        "researchContact": [],
+        "generalContact": [],
+        "resourceTypes": [
+          "Data"
+        ],
+        "status": null,
+        "versions": [],
+        "standards": [],
+        "resourceOwner": [
+          {
+            "title": "Fryse Akademy, Leeuwarden",
+            "link": "null"
+          }
+        ],
+        "link": "http://hdl.handle.net/10032/tm-a2-r4",
+        "intro": "The Boarnsterhim Corpus consists of 250 hours of speech in both West Frisian and Dutch by the same sample of bilingual speakers. The corpus contains original recordings from 1982-1984 and a replication study recorded 35 years later. The data collection spans speech of four generations, ... Het Boarnsterhim Corpus bestaat uit 250 uur spraak in zowel West-Fries als Nederlands door dezelfde groep tweetalige sprekers. Het corpus bevat originele opnamen uit 1982-1984 en een replicerend onderzoek 35 jaar later. De dataverzameling omvat de spraak van vier generaties en combineer...",
+        "researchActivities": [],
+        "researchDomains": null,
+        "mediaTypes": null,
+        "provenance": [],
+        "community": [],
+        "development": [
+          {
+            "title": "Marjoleine Sloos",
+            "link": "null"
+          },
+          {
+            "title": "Eduard Drenth",
+            "link": "null"
+          },
+          {
+            "title": "Wilbert Heeringa",
+            "link": "null"
+          }
+        ]
+      }
+    }
+  }
+]

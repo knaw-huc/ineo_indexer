@@ -1,0 +1,61 @@
+[
+  {
+    "operation": "create",
+    "document": {
+      "id": "http_58__47__47_hdl.handle.net_47_10032_47_c3f4ae8d739290218f726bfa51941be4",
+      "title": "Gigant-Molex Lexicon",
+      "intro": "The Gigant-Molex lexicon contains Dutch language material from the Netherlands, Flanders, the Netherlands Antilles, and Surinam coming from corpus material of the INT. It has been manually verified and it follows the official Dutch spelling. Het Gigant-Molex lexicon bevat Nederlands materiaal uit Nederland, Vlaanderen, de Nederlandse Antillen en Suriname afkomstig uit hedendaags corpusmateriaal van het INT. Alle lemmata en paradigmata zijn manueel geverifieerd en conform de offici\u00eble spelling.",
+      "publishedAt": [],
+      "media": {
+        "thumbnail": [],
+        "slider": []
+      },
+      "tabs": {
+        "overview": {},
+        "learn": {},
+        "mentions": {},
+        "metadata": {}
+      },
+      "properties": {
+        "programmingLanguages": [],
+        "learn": [],
+        "resourceHost": null,
+        "funding": [],
+        "problemContact": [],
+        "informationTypes": null,
+        "languages": [
+          "Dutch"
+        ],
+        "access": [
+          {
+            "title": "free non-commercial organisations; user licence required ",
+            "link": ""
+          }
+        ],
+        "sourceCodeLocation": [],
+        "researchContact": [],
+        "generalContact": [],
+        "resourceTypes": [
+          "Data"
+        ],
+        "status": null,
+        "versions": [],
+        "standards": [],
+        "resourceOwner": [
+          {
+            "title": "Dutch Language Institute",
+            "link": "null"
+          }
+        ],
+        "link": "http://hdl.handle.net/10032/tm-a2-p9",
+        "intro": "The Gigant-Molex lexicon contains Dutch language material from the Netherlands, Flanders, the Netherlands Antilles, and Surinam coming from corpus material of the INT. It has been manually verified and it follows the official Dutch spelling. Het Gigant-Molex lexicon bevat Nederlands materiaal uit Nederland, Vlaanderen, de Nederlandse Antillen en Suriname afkomstig uit hedendaags corpusmateriaal van het INT. Alle lemmata en paradigmata zijn manueel geverifieerd en conform de offici\u00eble spelling.",
+        "researchActivities": [],
+        "researchDomains": null,
+        "mediaTypes": null,
+        "provenance": [],
+        "community": [],
+        "development": null
+      }
+    }
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "operation": "create",
+    "document": {
+      "id": "hdl_58_21.11114_47_COLL-0000-000B-D237-A",
+      "title": "NRC2011",
+      "intro": "Newspaper texts taken from printed and and digital versions of the NRC newspaper (edition 2011). The texts cover blogs, hard news, background articles, opinion articles on related topics. Metadata per text are available in CMDI XML files. The 'NRC2011' corpus has been created for the CL... Newspaper texts taken from printed and and digital versions of the NRC newspaper (edition 2011). The texts cover blogs, hard news, background articles, opinion articles on related topics. Metadata per text are available in CMDI XML files.",
+      "publishedAt": [],
+      "media": {
+        "thumbnail": [],
+        "slider": []
+      },
+      "tabs": {
+        "overview": {},
+        "learn": {},
+        "mentions": {},
+        "metadata": {}
+      },
+      "properties": {
+        "programmingLanguages": [],
+        "learn": [],
+        "resourceHost": [
+          {
+            "title": "https://easy.dans.knaw.nl",
+            "link": "https://easy.dans.knaw.nl"
+          }
+        ],
+        "funding": [],
+        "problemContact": [],
+        "informationTypes": null,
+        "languages": [
+          "Dutch",
+          "English"
+        ],
+        "access": [
+          {
+            "title": "Academic",
+            "link": ""
+          }
+        ],
+        "sourceCodeLocation": [],
+        "researchContact": [],
+        "generalContact": [],
+        "resourceTypes": [
+          "Data"
+        ],
+        "status": null,
+        "versions": [],
+        "standards": [],
+        "resourceOwner": [
+          {
+            "title": "Radboud University",
+            "link": "null"
+          }
+        ],
+        "link": "https://easy.dans.knaw.nl/ui/datasets/id/easy-dataset:112988",
+        "intro": "Newspaper texts taken from printed and and digital versions of the NRC newspaper (edition 2011). The texts cover blogs, hard news, background articles, opinion articles on related topics. Metadata per text are available in CMDI XML files. The 'NRC2011' corpus has been created for the CL... Newspaper texts taken from printed and and digital versions of the NRC newspaper (edition 2011). The texts cover blogs, hard news, background articles, opinion articles on related topics. Metadata per text are available in CMDI XML files.",
+        "researchActivities": [],
+        "researchDomains": null,
+        "mediaTypes": null,
+        "provenance": [],
+        "community": [],
+        "development": null
+      }
+    }
+  }
+]

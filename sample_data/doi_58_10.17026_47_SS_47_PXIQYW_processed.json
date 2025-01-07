@@ -1,0 +1,68 @@
+[
+    {
+        "operation": "create",
+        "document": {
+            "id": "doi_58_10.17026_47_SS_47_PXIQYW",
+            "title": "Project Ongekend Bijzonder, Den Haag, interview 06",
+            "intro": "geslacht: V land van herkomst: Congo leeftijd aankomst NL: 28 stad: Den Haag relaties met eigen gemeenschap: veel contacten, met name via de kerk opleiding: Public Relations en Marketing (Brussel) werk in NL: projectco\u00f6rdinator voor Afrikaanse vrouwen kinderen: 3 bijdrage aan de stad: A...",
+            "publishedAt": [],
+            "media": {
+                "thumbnail": [],
+                "slider": []
+            },
+            "tabs": {
+                "overview": {},
+                "learn": {},
+                "mentions": {},
+                "metadata": {}
+            },
+            "properties": {
+                "programmingLanguages": [],
+                "learn": [],
+                "resourceHost": [
+                    {
+                        "title": "https://doi.org",
+                        "link": "https://doi.org"
+                    }
+                ],
+                "funding": [],
+                "problemContact": [],
+                "informationTypes": null,
+                "languages": [
+                    "Dutch",
+                    "English",
+                    "French"
+                ],
+                "access": [
+                    {
+                        "title": "UNSPECIFIED",
+                        "link": ""
+                    }
+                ],
+                "sourceCodeLocation": [],
+                "researchContact": [],
+                "generalContact": [],
+                "resourceTypes": [
+                    "Data"
+                ],
+                "status": null,
+                "versions": [],
+                "standards": [],
+                "resourceOwner": null,
+                "link": "https://doi.org/10.17026/SS/PXIQYW",
+                "intro": "geslacht: V land van herkomst: Congo leeftijd aankomst NL: 28 stad: Den Haag relaties met eigen gemeenschap: veel contacten, met name via de kerk opleiding: Public Relations en Marketing (Brussel) werk in NL: projectco\u00f6rdinator voor Afrikaanse vrouwen kinderen: 3 bijdrage aan de stad: A...",
+                "researchActivities": [],
+                "researchDomains": [],
+                "mediaTypes": null,
+                "provenance": [],
+                "community": [],
+                "development": [
+                    {
+                        "title": "Stichting Bevordering Maatschappelijke Participatie - BMP",
+                        "link": "null"
+                    }
+                ]
+            }
+        }
+    }
+]

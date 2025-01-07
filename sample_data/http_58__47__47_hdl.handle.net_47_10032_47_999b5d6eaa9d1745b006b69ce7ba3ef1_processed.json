@@ -1,0 +1,57 @@
+[
+  {
+    "operation": "create",
+    "document": {
+      "id": "http_58__47__47_hdl.handle.net_47_10032_47_999b5d6eaa9d1745b006b69ce7ba3ef1",
+      "title": "Memory Based Morphological Parser",
+      "intro": "MBMP is a memory-based morphological parser written for Python. The parser provides words with a morphological analysis.",
+      "publishedAt": [],
+      "media": {
+        "thumbnail": [],
+        "slider": []
+      },
+      "tabs": {
+        "overview": {},
+        "learn": {},
+        "mentions": {},
+        "metadata": {}
+      },
+      "properties": {
+        "programmingLanguages": [],
+        "learn": [],
+        "resourceHost": null,
+        "funding": [],
+        "problemContact": [],
+        "informationTypes": null,
+        "languages": null,
+        "access": [
+          {
+            "title": "Public",
+            "link": "http://www.apache.org/licenses/LICENSE-2.0"
+          }
+        ],
+        "sourceCodeLocation": [],
+        "researchContact": [],
+        "generalContact": [],
+        "resourceTypes": [
+          "Data"
+        ],
+        "status": null,
+        "versions": [],
+        "standards": [],
+        "resourceOwner": null,
+        "link": "http://hdl.handle.net/10032/tm-a2-b9",
+        "intro": "MBMP is a memory-based morphological parser written for Python. The parser provides words with a morphological analysis.",
+        "researchActivities": [],
+        "researchDomains": null,
+        "mediaTypes": [
+          "7 text",
+          "7.15 html"
+        ],
+        "provenance": [],
+        "community": [],
+        "development": null
+      }
+    }
+  }
+]

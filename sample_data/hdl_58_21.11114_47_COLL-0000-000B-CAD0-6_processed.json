@@ -1,0 +1,64 @@
+[
+  {
+    "operation": "create",
+    "document": {
+      "id": "hdl_58_21.11114_47_COLL-0000-000B-CAD0-6",
+      "title": "WLD",
+      "intro": "The Dictionary of Limburgian Dialects (WLD) covers together with the Dictionary of the Brabantic Dialects (WBD) and the Dictionary of the Flemish dialects (WVD) by a same type of descriptive dialect lexicography the entire Southern Dutch \u00adspeaking region below the major rivers. This are... WLD Part I: Agricultural vocabulary WLD Part II: Non-agricultural vocabulary WLD Part III: General Vocabulary",
+      "publishedAt": [],
+      "media": {
+        "thumbnail": [],
+        "slider": []
+      },
+      "tabs": {
+        "overview": {},
+        "learn": {},
+        "mentions": {},
+        "metadata": {}
+      },
+      "properties": {
+        "programmingLanguages": [],
+        "learn": [],
+        "resourceHost": [
+          {
+            "title": "https://e-wld.nl",
+            "link": "https://e-wld.nl"
+          }
+        ],
+        "funding": [],
+        "problemContact": [],
+        "informationTypes": null,
+        "languages": [
+          "Dutch"
+        ],
+        "access": [
+          {
+            "title": "Public",
+            "link": ""
+          }
+        ],
+        "sourceCodeLocation": [],
+        "researchContact": [],
+        "generalContact": [],
+        "resourceTypes": [
+          "Data"
+        ],
+        "status": null,
+        "versions": [],
+        "standards": [],
+        "resourceOwner": null,
+        "link": "https://e-wld.nl/",
+        "intro": "The Dictionary of Limburgian Dialects (WLD) covers together with the Dictionary of the Brabantic Dialects (WBD) and the Dictionary of the Flemish dialects (WVD) by a same type of descriptive dialect lexicography the entire Southern Dutch \u00adspeaking region below the major rivers. This are... WLD Part I: Agricultural vocabulary WLD Part II: Non-agricultural vocabulary WLD Part III: General Vocabulary",
+        "researchActivities": [],
+        "researchDomains": null,
+        "mediaTypes": [
+          "7.37 tab-separated-values",
+          "7 text"
+        ],
+        "provenance": [],
+        "community": [],
+        "development": null
+      }
+    }
+  }
+]

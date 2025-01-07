@@ -1,0 +1,70 @@
+[
+  {
+    "operation": "create",
+    "document": {
+      "id": "hdl_58_21.11114_47_COLL-0000-000B-CA99-5",
+      "title": "CGN 2.0",
+      "intro": "The Spoken Dutch Corpus project was aimed at the construction of a database of contemporary standard Dutch as spoken by adults in The Netherlands and Flanders. The intended size of the corpus was ten million words (about 1,000 hours of speech), two thirds of which would originate from t... This part of the CGN is the core corpus containing a selection of one million words which has been annotated syntactically. For this core corpus a (manually verified) broad phonetic transcription has been produced, and also the alignment of the transcripts and the speech files has been... The CGN Lexicon comprises 14 columns, the first 4 of which (Id-Nummer Woordvorm, Orthografie Woordvorm, Woordsoort en Lemma) always contain information. In the column Gebruik only codes for regional and stylistic variants can be found, and in the columns Syntax, Uitspraak (4 subcolumns)... This resource is the frequency list of word types belonging to the Spoken Dutch Corpus (CGN). The list is available both as a ranked and an alphabetical list. Other frequency lists for the CGN are: pronunciation variants POS tags lemmas Separate lists are available for the Netherlands a... This resource is the frequency list of lemmas belonging to the Spoken Dutch Corpus (CGN). Other frequency lists for the CGN are: word types POS tags pronunciation variants Separate lists are available for the Netherlands and Flanders. This resource is the frequency list of POS-tags belonging to the Spoken Dutch Corpus (CGN). Other frequency lists for the CGN are: word types lemmas pronunciation variants Separate lists are available for the Netherlands and Flanders. This resource is the frequency list of pronunciation variants belonging to the Spoken Dutch Corpus (CGN). Other frequency lists for the CGN are: word types POS tags lemmas Separate lists are available for the Netherlands and Flanders. This part is the full CGN Corpus. The total number of words available is nearly 9 million (800 hours of speech). Some 3.3 million words were collected in Flanders, well over 5.6 million in The Netherlands. The corpus comprises a large number of samples of (recorded) spoken text. The en...",
+      "publishedAt": [],
+      "media": {
+        "thumbnail": [],
+        "slider": []
+      },
+      "tabs": {
+        "overview": {},
+        "learn": {},
+        "mentions": {},
+        "metadata": {}
+      },
+      "properties": {
+        "programmingLanguages": [],
+        "learn": [],
+        "resourceHost": [
+          {
+            "title": "http://tst-centrale.org",
+            "link": "http://tst-centrale.org"
+          }
+        ],
+        "funding": [],
+        "problemContact": [],
+        "informationTypes": null,
+        "languages": [
+          "Dutch",
+          "English"
+        ],
+        "access": [
+          {
+            "title": "Restricted for individual",
+            "link": ""
+          }
+        ],
+        "sourceCodeLocation": [],
+        "researchContact": [],
+        "generalContact": [],
+        "resourceTypes": [
+          "Data"
+        ],
+        "status": null,
+        "versions": [],
+        "standards": [],
+        "resourceOwner": [
+          {
+            "title": "Nederlandse Taalunie",
+            "link": "null"
+          }
+        ],
+        "link": "http://tst-centrale.org/images/stories/producten/documentatie/cgn_website/doc_English/start.htm",
+        "intro": "The Spoken Dutch Corpus project was aimed at the construction of a database of contemporary standard Dutch as spoken by adults in The Netherlands and Flanders. The intended size of the corpus was ten million words (about 1,000 hours of speech), two thirds of which would originate from t... This part of the CGN is the core corpus containing a selection of one million words which has been annotated syntactically. For this core corpus a (manually verified) broad phonetic transcription has been produced, and also the alignment of the transcripts and the speech files has been... The CGN Lexicon comprises 14 columns, the first 4 of which (Id-Nummer Woordvorm, Orthografie Woordvorm, Woordsoort en Lemma) always contain information. In the column Gebruik only codes for regional and stylistic variants can be found, and in the columns Syntax, Uitspraak (4 subcolumns)... This resource is the frequency list of word types belonging to the Spoken Dutch Corpus (CGN). The list is available both as a ranked and an alphabetical list. Other frequency lists for the CGN are: pronunciation variants POS tags lemmas Separate lists are available for the Netherlands a... This resource is the frequency list of lemmas belonging to the Spoken Dutch Corpus (CGN). Other frequency lists for the CGN are: word types POS tags pronunciation variants Separate lists are available for the Netherlands and Flanders. This resource is the frequency list of POS-tags belonging to the Spoken Dutch Corpus (CGN). Other frequency lists for the CGN are: word types lemmas pronunciation variants Separate lists are available for the Netherlands and Flanders. This resource is the frequency list of pronunciation variants belonging to the Spoken Dutch Corpus (CGN). Other frequency lists for the CGN are: word types POS tags lemmas Separate lists are available for the Netherlands and Flanders. This part is the full CGN Corpus. The total number of words available is nearly 9 million (800 hours of speech). Some 3.3 million words were collected in Flanders, well over 5.6 million in The Netherlands. The corpus comprises a large number of samples of (recorded) spoken text. The en...",
+        "researchActivities": [],
+        "researchDomains": null,
+        "mediaTypes": [
+          "7.37 tab-separated-values",
+          "7 text"
+        ],
+        "provenance": [],
+        "community": [],
+        "development": null
+      }
+    }
+  }
+]

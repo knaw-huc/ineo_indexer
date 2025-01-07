@@ -1,0 +1,64 @@
+[
+    {
+        "operation": "create",
+        "document": {
+            "id": "doi_58_10.17026_47_SS_47_PRMJRF",
+            "title": "Kwantitatieve corpusanalyse stem-elementen in educatieve teksten",
+            "intro": "Deze dataset maakt deel uit van het onderzoeksprogramma Promoties in de geesteswetenschappen met projectnummer PGW.17.035 (\"Improving the comprehension of educational texts: the effect of narratives\") dat gefinancierd is door de Nederlandse Organisatie voor Wetenschappelijk Onderzoek (N...",
+            "publishedAt": [],
+            "media": {
+                "thumbnail": [],
+                "slider": []
+            },
+            "tabs": {
+                "overview": {},
+                "learn": {},
+                "mentions": {},
+                "metadata": {}
+            },
+            "properties": {
+                "programmingLanguages": [],
+                "learn": [],
+                "resourceHost": [
+                    {
+                        "title": "https://doi.org",
+                        "link": "https://doi.org"
+                    }
+                ],
+                "funding": [],
+                "problemContact": [],
+                "informationTypes": null,
+                "languages": null,
+                "access": [
+                    {
+                        "title": "UNSPECIFIED",
+                        "link": ""
+                    }
+                ],
+                "sourceCodeLocation": [],
+                "researchContact": [],
+                "generalContact": [],
+                "resourceTypes": [
+                    "Data"
+                ],
+                "status": null,
+                "versions": [],
+                "standards": [],
+                "resourceOwner": null,
+                "link": "https://doi.org/10.17026/SS/PRMJRF",
+                "intro": "Deze dataset maakt deel uit van het onderzoeksprogramma Promoties in de geesteswetenschappen met projectnummer PGW.17.035 (\"Improving the comprehension of educational texts: the effect of narratives\") dat gefinancierd is door de Nederlandse Organisatie voor Wetenschappelijk Onderzoek (N...",
+                "researchActivities": [],
+                "researchDomains": [],
+                "mediaTypes": null,
+                "provenance": [],
+                "community": [],
+                "development": [
+                    {
+                        "title": "Sangers, N.L.",
+                        "link": "null"
+                    }
+                ]
+            }
+        }
+    }
+]

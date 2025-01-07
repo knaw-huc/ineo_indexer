@@ -1,0 +1,61 @@
+[
+  {
+    "operation": "create",
+    "document": {
+      "id": "http_58__47__47_hdl.handle.net_47_10032_47_0a28505a613790a3d6d2196d621693f4",
+      "title": "EWN",
+      "intro": "Het EWN is een wetenschappelijk etymologisch woordenboek voor het moderne bovenregionale Nederlands. Main editors Modern Dutch Lemma Middle Dutch Lemma",
+      "publishedAt": [],
+      "media": {
+        "thumbnail": [],
+        "slider": []
+      },
+      "tabs": {
+        "overview": {},
+        "learn": {},
+        "mentions": {},
+        "metadata": {}
+      },
+      "properties": {
+        "programmingLanguages": [],
+        "learn": [],
+        "resourceHost": null,
+        "funding": [],
+        "problemContact": [],
+        "informationTypes": null,
+        "languages": [
+          "Dutch"
+        ],
+        "access": [
+          {
+            "title": "Academic",
+            "link": ""
+          }
+        ],
+        "sourceCodeLocation": [],
+        "researchContact": [],
+        "generalContact": [],
+        "resourceTypes": [
+          "Data"
+        ],
+        "status": null,
+        "versions": [],
+        "standards": [],
+        "resourceOwner": [
+          {
+            "title": "Dutch Language Institute (Instituut voor de Nederlandse Taal, INT)",
+            "link": "null"
+          }
+        ],
+        "link": "http://hdl.handle.net/10032/4dfdbdaf14d55e536b50127a6f1b2fc1",
+        "intro": "Het EWN is een wetenschappelijk etymologisch woordenboek voor het moderne bovenregionale Nederlands. Main editors Modern Dutch Lemma Middle Dutch Lemma",
+        "researchActivities": [],
+        "researchDomains": null,
+        "mediaTypes": null,
+        "provenance": [],
+        "community": [],
+        "development": null
+      }
+    }
+  }
+]

@@ -1,0 +1,64 @@
+[
+    {
+        "operation": "create",
+        "document": {
+            "id": "doi_58_10.17026_47_SS_47_WE71IP",
+            "title": "CARE-study",
+            "intro": "This data-set contains interviews and homogenous and heterogenous focus groups on respectful maternity care and obstetric violence with 31 participants in total: 11 midwives, 10 mothers, 5 doulas, and 5 midwives in training. The data-collection was done in 2020-2021.",
+            "publishedAt": [],
+            "media": {
+                "thumbnail": [],
+                "slider": []
+            },
+            "tabs": {
+                "overview": {},
+                "learn": {},
+                "mentions": {},
+                "metadata": {}
+            },
+            "properties": {
+                "programmingLanguages": [],
+                "learn": [],
+                "resourceHost": [
+                    {
+                        "title": "https://doi.org",
+                        "link": "https://doi.org"
+                    }
+                ],
+                "funding": [],
+                "problemContact": [],
+                "informationTypes": null,
+                "languages": null,
+                "access": [
+                    {
+                        "title": "UNSPECIFIED",
+                        "link": ""
+                    }
+                ],
+                "sourceCodeLocation": [],
+                "researchContact": [],
+                "generalContact": [],
+                "resourceTypes": [
+                    "Data"
+                ],
+                "status": null,
+                "versions": [],
+                "standards": [],
+                "resourceOwner": null,
+                "link": "https://doi.org/10.17026/SS/WE71IP",
+                "intro": "This data-set contains interviews and homogenous and heterogenous focus groups on respectful maternity care and obstetric violence with 31 participants in total: 11 midwives, 10 mothers, 5 doulas, and 5 midwives in training. The data-collection was done in 2020-2021.",
+                "researchActivities": [],
+                "researchDomains": [],
+                "mediaTypes": null,
+                "provenance": [],
+                "community": [],
+                "development": [
+                    {
+                        "title": "van der Waal, Rodante",
+                        "link": "null"
+                    }
+                ]
+            }
+        }
+    }
+]

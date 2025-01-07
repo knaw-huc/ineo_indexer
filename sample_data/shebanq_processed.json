@@ -1,0 +1,90 @@
+[
+  {
+    "operation": "create",
+    "document": {
+      "id": "shebanq",
+      "title": "Shebanq",
+      "intro": "Exposing the Hebrew Text Database of the ETCBC",
+      "publishedAt": "2017-10-19",
+      "media": {},
+      "tabs": {
+        "overview": {},
+        "learn": {},
+        "mentions": {},
+        "metadata": {}
+      },
+      "properties": {
+        "programmingLanguages": [
+          {
+            "title": "ES6",
+            "link": null
+          },
+          {
+            "title": "Python",
+            "link": null
+          }
+        ],
+        "learn": [
+          {
+            "title": "Home \u2014 SHEBANQ documentation",
+            "link": "https://github.com/ETCBC/shebanq/wiki"
+          }
+        ],
+        "funding": [
+          {
+            "title": "shebanq",
+            "link": "https://shebanq.ancient-data.org"
+          }
+        ],
+        "problemContact": [
+          {
+            "title": "Issue tracker",
+            "link": "https://github.com/ETCBC/shebanq/issues"
+          }
+        ],
+        "informationTypes": [],
+        "access": [
+          {
+            "title": "Open Access",
+            "link": "https://github.com/ETCBC/shebanq"
+          }
+        ],
+        "sourceCodeLocation": [
+          {
+            "title": "github.com",
+            "link": "https://github.com/ETCBC/shebanq"
+          }
+        ],
+        "researchContact": [],
+        "resourceTypes": [
+          "Tools"
+        ],
+        "status": [
+          "Active"
+        ],
+        "versions": [
+          {
+            "title": "v4.2z",
+            "url": ""
+          }
+        ],
+        "standards": [],
+        "resourceOwner": [
+          {
+            "title": "Eep Talstra Centre for Bible and Computer",
+            "link": "https://tools.clariah.nl/w.t..van.peursen@vu.nl"
+          }
+        ],
+        "link": "https://github.com/ETCBC/shebanq",
+        "intro": "Exposing the Hebrew Text Database of the ETCBC",
+        "provenance": [],
+        "community": [
+          {
+            "title": "Issue tracker",
+            "link": "https://github.com/ETCBC/shebanq/issues"
+          }
+        ]
+      }
+    }
+  }
+]

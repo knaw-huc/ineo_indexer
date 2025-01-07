@@ -1,0 +1,90 @@
+[
+  {
+    "operation": "create",
+    "document": {
+      "id": "gecco",
+      "title": "Gecco",
+      "intro": "Gecco is a modular, scalable, and context-aware spelling correction framework. It's designed to build a complete context-aware spelling correction system given your own data set.",
+      "publishedAt": "2015-01-08",
+      "media": {},
+      "tabs": {
+        "overview": {
+          "body": "### Overview\n * Gecco (Generic Environment for Context-Aware Correction of Orthography) is a generic modular and distributed framework for spelling correction.\n* Its primary goal is to build a complete context-aware spelling correction system using your own dataset.\n* Most of its modules are language-independent, and they can be trained using a source corpus.\n* Training is explicitly included in the framework.\n* The framework is designed to be easily extendable, allowing you to write modules in Python 3 to enhance its functionality.\n* Additionally, Gecco is scalable and can be distributed across multiple servers to handle larger tasks efficiently.\n* Given an input text, Gecco will add various suggestions for correction."
+        },
+        "learn": {
+          "body": "* The system can be invoked from the command-line, as a Python binding, as a RESTful webservice, or through the web application (two interfaces).\n\n* To install Gecco, we strongly recommend you to use our LaMachine distribution, which can be obtained from [https://github.com/proycon/lamachine].\n\n* LaMachine includes Gecco and can be run in multiple ways: as a virtual machine, as a docker app, or as a compilation script setting up a Python virtual environment.\n\n* Gecco uses memory-based technologies, and depending on the models you train, may take up considerable memory. Therefore we recommend at least 16GB RAM, training may require even more. For various modules, model size may be reduced by increasing frequency thresholds, but this will come at the cost of reduced accuracy.\n\n* Gecco will only run on POSIX-complaint operating systems (i.e. Linux, BSD, Mac OS X), not on Windows.\n\nPlease refer to (the GitHub)[https://github.com/proycon/gecco] for more information on the requirements and set-up."
+        },
+        "mentions": {},
+        "metadata": {}
+      },
+      "properties": {
+        "programmingLanguages": [
+          {
+            "title": "Python",
+            "link": null
+          }
+        ],
+        "problemContact": [
+          {
+            "title": "Issue tracker",
+            "link": "https://github.com/proycon/gecco/issues"
+          }
+        ],
+        "informationTypes": [],
+        "access": [
+          {
+            "title": "Open Access",
+            "link": "https://github.com/proycon/gecco"
+          }
+        ],
+        "sourceCodeLocation": [
+          {
+            "title": "github.com",
+            "link": "https://github.com/proycon/gecco"
+          }
+        ],
+        "researchContact": [],
+        "generalContact": [
+          {
+            "title": "Maarten\u00a0van Gompel",
+            "link": "mailto:proycon@anaproy.nl"
+          }
+        ],
+        "resourceTypes": [
+          "Tools"
+        ],
+        "status": [
+          "Unsupported"
+        ],
+        "versions": [
+          {
+            "title": "0.3.0",
+            "url": ""
+          }
+        ],
+        "standards": [],
+        "resourceOwner": [
+          {
+            "title": "KNAW Humanities Cluster & CLST, Radboud University",
+            "link": ""
+          }
+        ],
+        "link": "https://github.com/proycon/gecco",
+        "intro": "Generic Environment for Context-Aware Correction of Orthography",
+        "provenance": [],
+        "community": [
+          {
+            "title": "Issue tracker",
+            "link": "https://github.com/proycon/gecco/issues"
+          }
+        ],
+        "development": [
+          {
+            "title": "Maarten van Gompel, KNAW Humanities Cluster & CLST, Radboud University",
+            "link": "https://proycon.anaproy.nl"
+          }
+        ]
+      }
+    }
+  }
+]

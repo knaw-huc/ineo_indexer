@@ -1,0 +1,66 @@
+[
+    {
+        "operation": "create",
+        "document": {
+            "id": "doi_58_10.17026_47_SS_47_YZSQXB",
+            "title": "Project Ongekend Bijzonder, Amsterdam, interview 24",
+            "intro": "geslacht: Man land van herkomst: Iran leeftijd aankomst Nederland: 2 stad: Amsterdam vluchtreden: Oudere broers zijn eerder gevlucht voor dienstplicht in Iran-Irak oorlog. Respondent is als klein kind met zijn moeder mee gevlucht in verband met politieke onrust en onveiligheid in Iran. ...",
+            "publishedAt": [],
+            "media": {
+                "thumbnail": [],
+                "slider": []
+            },
+            "tabs": {
+                "overview": {},
+                "learn": {},
+                "mentions": {},
+                "metadata": {}
+            },
+            "properties": {
+                "programmingLanguages": [],
+                "learn": [],
+                "resourceHost": [
+                    {
+                        "title": "https://doi.org",
+                        "link": "https://doi.org"
+                    }
+                ],
+                "funding": [],
+                "problemContact": [],
+                "informationTypes": null,
+                "languages": [
+                    "Dutch"
+                ],
+                "access": [
+                    {
+                        "title": "UNSPECIFIED",
+                        "link": ""
+                    }
+                ],
+                "sourceCodeLocation": [],
+                "researchContact": [],
+                "generalContact": [],
+                "resourceTypes": [
+                    "Data"
+                ],
+                "status": null,
+                "versions": [],
+                "standards": [],
+                "resourceOwner": null,
+                "link": "https://doi.org/10.17026/SS/YZSQXB",
+                "intro": "geslacht: Man land van herkomst: Iran leeftijd aankomst Nederland: 2 stad: Amsterdam vluchtreden: Oudere broers zijn eerder gevlucht voor dienstplicht in Iran-Irak oorlog. Respondent is als klein kind met zijn moeder mee gevlucht in verband met politieke onrust en onveiligheid in Iran. ...",
+                "researchActivities": [],
+                "researchDomains": [],
+                "mediaTypes": null,
+                "provenance": [],
+                "community": [],
+                "development": [
+                    {
+                        "title": "Stichting Bevordering Maatschappelijke Participatie - BMP",
+                        "link": "null"
+                    }
+                ]
+            }
+        }
+    }
+]

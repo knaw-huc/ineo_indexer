@@ -1,0 +1,96 @@
+[
+  {
+    "operation": "create",
+    "document": {
+      "id": "dane-download-worker",
+      "title": "Dane-download-worker",
+      "intro": "Basic \"DANE worker\" that downloads input data via HTTP(s) URLs for further processing by other DANE workers. Depends on DANE-server",
+      "publishedAt": "2022-02-08",
+      "media": {},
+      "tabs": {
+        "overview": {},
+        "learn": {},
+        "mentions": {},
+        "metadata": {}
+      },
+      "properties": {
+        "programmingLanguages": [
+          {
+            "title": "Python 3",
+            "link": null
+          }
+        ],
+        "funding": [
+          {
+            "title": "CLARIAH",
+            "link": "https://www.clariah.nl"
+          }
+        ],
+        "problemContact": [
+          {
+            "title": "Issue tracker",
+            "link": "https://github.com/CLARIAH/dane-download-worker/issues"
+          }
+        ],
+        "informationTypes": [],
+        "access": [
+          {
+            "title": "Open Access",
+            "link": "https://github.com/CLARIAH/dane-download-worker"
+          }
+        ],
+        "sourceCodeLocation": [
+          {
+            "title": "github.com",
+            "link": "https://github.com/CLARIAH/dane-download-worker"
+          }
+        ],
+        "researchContact": [],
+        "generalContact": [
+          {
+            "title": "Nanne\u00a0van Noord",
+            "link": "https://orcid.org/0000-0002-5145-3603"
+          }
+        ],
+        "resourceTypes": [
+          "Tools"
+        ],
+        "status": [
+          "Work in progress"
+        ],
+        "versions": [
+          {
+            "title": "0.9.0",
+            "url": ""
+          }
+        ],
+        "standards": [],
+        "resourceOwner": [
+          {
+            "title": "",
+            "link": ""
+          }
+        ],
+        "link": "https://github.com/CLARIAH/dane-download-worker",
+        "intro": "Basic \"DANE worker\" that downloads input data via HTTP(s) URLs for further processing by other DANE workers. Depends on DANE-server",
+        "provenance": [],
+        "community": [
+          {
+            "title": "Issue tracker",
+            "link": "https://github.com/CLARIAH/dane-download-worker/issues"
+          }
+        ],
+        "development": [
+          {
+            "title": "Nanne van Noord",
+            "link": "https://orcid.org/0000-0002-5145-3603"
+          },
+          {
+            "title": "Jaap Blom, The Netherlands Institute for Sound and Vision",
+            "link": "https://github.com/jblom"
+          }
+        ]
+      }
+    }
+  }
+]

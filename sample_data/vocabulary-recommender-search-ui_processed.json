@@ -1,0 +1,86 @@
+[
+  {
+    "operation": "create",
+    "document": {
+      "id": "vocabulary-recommender-search-ui",
+      "title": "Search-ui",
+      "intro": "This repository contains the code for a Search UI to test the functionality of the basic vocabulary-recommender.",
+      "publishedAt": "2022-11-15",
+      "media": {},
+      "tabs": {
+        "overview": {},
+        "learn": {},
+        "mentions": {},
+        "metadata": {}
+      },
+      "properties": {
+        "programmingLanguages": [
+          {
+            "title": "Typescript",
+            "link": null
+          }
+        ],
+        "problemContact": [
+          {
+            "title": "Issue tracker",
+            "link": "https://github.com/CLARIAH/search-UI/issues"
+          }
+        ],
+        "informationTypes": [],
+        "access": [
+          {
+            "title": "Open Access",
+            "link": "https://github.com/CLARIAH/search-UI"
+          }
+        ],
+        "sourceCodeLocation": [
+          {
+            "title": "github.com",
+            "link": "https://github.com/CLARIAH/search-UI"
+          }
+        ],
+        "researchContact": [],
+        "generalContact": [
+          {
+            "title": "Triply\u00a0",
+            "link": "mailto:info@triply.cc"
+          }
+        ],
+        "resourceTypes": [
+          "Tools"
+        ],
+        "status": [
+          "Inactive"
+        ],
+        "versions": [
+          {
+            "title": "1.0.0",
+            "url": ""
+          }
+        ],
+        "standards": [],
+        "resourceOwner": [
+          {
+            "title": "CLARIAH",
+            "link": "http://www.clariah.nl"
+          }
+        ],
+        "link": "https://github.com/CLARIAH/search-UI",
+        "intro": "This repository contains the code for a Search UI to test the functionality of the basic vocabulary-recommender.",
+        "provenance": [],
+        "community": [
+          {
+            "title": "Issue tracker",
+            "link": "https://github.com/CLARIAH/search-UI/issues"
+          }
+        ],
+        "development": [
+          {
+            "title": "Triply ",
+            "link": ""
+          }
+        ]
+      }
+    }
+  }
+]

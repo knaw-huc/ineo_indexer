@@ -1,0 +1,61 @@
+[
+  {
+    "operation": "create",
+    "document": {
+      "id": "http_58__47__47_hdl.handle.net_47_10032_47_7118708ebe427e2e5871fd2bd658ca57",
+      "title": "Reference Lexicon for Dutch",
+      "intro": "The Reference Lexicon for Dutch is a corpus-based monolingual lexicon of Dutch containing ca. 50,000 entries (lemmas). Apart from examples, each lemma has been provided with detailed linguistic information. The realization of the RBN was an initiative of the Committee for Interlingual Lexicographical Resources (CLVV: Commissie Lexicografische Vertaalvoorzieningen).",
+      "publishedAt": [],
+      "media": {
+        "thumbnail": [],
+        "slider": []
+      },
+      "tabs": {
+        "overview": {},
+        "learn": {},
+        "mentions": {},
+        "metadata": {}
+      },
+      "properties": {
+        "programmingLanguages": [],
+        "learn": [],
+        "resourceHost": null,
+        "funding": [],
+        "problemContact": [],
+        "informationTypes": null,
+        "languages": [
+          "Dutch"
+        ],
+        "access": [
+          {
+            "title": "available for non-commercial organisation; user licence required ",
+            "link": ""
+          }
+        ],
+        "sourceCodeLocation": [],
+        "researchContact": [],
+        "generalContact": [],
+        "resourceTypes": [
+          "Data"
+        ],
+        "status": null,
+        "versions": [],
+        "standards": [],
+        "resourceOwner": [
+          {
+            "title": "Dutch Language Union",
+            "link": "null"
+          }
+        ],
+        "link": "http://hdl.handle.net/10032/tm-a2-n2",
+        "intro": "The Reference Lexicon for Dutch is a corpus-based monolingual lexicon of Dutch containing ca. 50,000 entries (lemmas). Apart from examples, each lemma has been provided with detailed linguistic information. The realization of the RBN was an initiative of the Committee for Interlingual Lexicographical Resources (CLVV: Commissie Lexicografische Vertaalvoorzieningen).",
+        "researchActivities": [],
+        "researchDomains": null,
+        "mediaTypes": null,
+        "provenance": [],
+        "community": [],
+        "development": null
+      }
+    }
+  }
+]

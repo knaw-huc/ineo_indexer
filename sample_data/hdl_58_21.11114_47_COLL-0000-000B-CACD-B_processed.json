@@ -1,0 +1,62 @@
+[
+  {
+    "operation": "create",
+    "document": {
+      "id": "hdl_58_21.11114_47_COLL-0000-000B-CACD-B",
+      "title": "Bilingual deaf children RU-Kentalis database",
+      "intro": "Video recordings of 11 deaf children, for a longitudinal investigation of the bilingual language and communication development of young deaf children in Sign Language of the Netherlands (SLN) and Dutch (D). 5 boys and 6 girls 3 \u2013 6 years old prelingual deafness (hearing loss of minimally 80dB Fletcher Index on the best ear) no mental restrictions Testscores for Nijmeegse Observatieschaal voor Kleuters (NOK) (SLN & D), Reynell Test voor Taalbegrip (SLN & D), Dutch version Assessing British Sign Language Development (SLN): data processed and coded in SPSS; Spider Story (SLN & D): data processed and coded in SPSS. Included in CSV f...",
+      "publishedAt": [],
+      "media": {
+        "thumbnail": [],
+        "slider": []
+      },
+      "tabs": {
+        "overview": {},
+        "learn": {},
+        "mentions": {},
+        "metadata": {}
+      },
+      "properties": {
+        "programmingLanguages": [],
+        "learn": [],
+        "resourceHost": null,
+        "funding": [],
+        "problemContact": [],
+        "informationTypes": null,
+        "languages": [
+          "Sgn",
+          "Dutch"
+        ],
+        "access": [
+          {
+            "title": "Public",
+            "link": ""
+          }
+        ],
+        "sourceCodeLocation": [],
+        "researchContact": [],
+        "generalContact": [],
+        "resourceTypes": [
+          "Data"
+        ],
+        "status": null,
+        "versions": [],
+        "standards": [],
+        "resourceOwner": [
+          {
+            "title": "Koninklijke Kentalis",
+            "link": "null"
+          }
+        ],
+        "link": "https://hdl.handle.net/1839/00-F6BC06C4-B2AD-4ED8-8527-AB81F4EF4E8F@view",
+        "intro": "Video recordings of 11 deaf children, for a longitudinal investigation of the bilingual language and communication development of young deaf children in Sign Language of the Netherlands (SLN) and Dutch (D). 5 boys and 6 girls 3 \u2013 6 years old prelingual deafness (hearing loss of minimally 80dB Fletcher Index on the best ear) no mental restrictions Testscores for Nijmeegse Observatieschaal voor Kleuters (NOK) (SLN & D), Reynell Test voor Taalbegrip (SLN & D), Dutch version Assessing British Sign Language Development (SLN): data processed and coded in SPSS; Spider Story (SLN & D): data processed and coded in SPSS. Included in CSV f...",
+        "researchActivities": [],
+        "researchDomains": null,
+        "mediaTypes": null,
+        "provenance": [],
+        "community": [],
+        "development": null
+      }
+    }
+  }
+]

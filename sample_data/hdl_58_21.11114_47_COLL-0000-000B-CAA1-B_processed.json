@@ -1,0 +1,67 @@
+[
+  {
+    "operation": "create",
+    "document": {
+      "id": "hdl_58_21.11114_47_COLL-0000-000B-CAA1-B",
+      "title": "DeHouwer corpus",
+      "intro": "This corpus of Dutch child language and child-directed speech was collected in Antwerp, Belgium. The corpus consists of 15 recordings transcribed orthographically and phonetically. Some transcripts also contain variety codes, speaker codes, addressee codes and utterance numbers (see fur...",
+      "publishedAt": [],
+      "media": {
+        "thumbnail": [],
+        "slider": []
+      },
+      "tabs": {
+        "overview": {},
+        "learn": {},
+        "mentions": {},
+        "metadata": {}
+      },
+      "properties": {
+        "programmingLanguages": [],
+        "learn": [],
+        "resourceHost": [
+          {
+            "title": "https://doi.org",
+            "link": "https://doi.org"
+          }
+        ],
+        "funding": [],
+        "problemContact": [],
+        "informationTypes": null,
+        "languages": [
+          "Dutch",
+          "English"
+        ],
+        "access": [
+          {
+            "title": "Public",
+            "link": ""
+          }
+        ],
+        "sourceCodeLocation": [],
+        "researchContact": [],
+        "generalContact": [],
+        "resourceTypes": [
+          "Data"
+        ],
+        "status": null,
+        "versions": [],
+        "standards": [],
+        "resourceOwner": [
+          {
+            "title": "De Houwer, Annick",
+            "link": "null"
+          }
+        ],
+        "link": "https://doi.org/10.21415/T58C8C",
+        "intro": "This corpus of Dutch child language and child-directed speech was collected in Antwerp, Belgium. The corpus consists of 15 recordings transcribed orthographically and phonetically. Some transcripts also contain variety codes, speaker codes, addressee codes and utterance numbers (see fur...",
+        "researchActivities": [],
+        "researchDomains": null,
+        "mediaTypes": null,
+        "provenance": [],
+        "community": [],
+        "development": null
+      }
+    }
+  }
+]

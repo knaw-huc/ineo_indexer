@@ -1,0 +1,64 @@
+[
+    {
+        "operation": "create",
+        "document": {
+            "id": "hdl_58_21.11114_47_COLL-0000-000F-7708-3",
+            "title": "Oral History. Interview with survivor of Ravensbr\u00fcck concentration ...",
+            "intro": "Interview with survivor of Ravensbruck concentration camp Selma van de Perre time aligned transcript",
+            "publishedAt": [],
+            "media": {
+                "thumbnail": [],
+                "slider": []
+            },
+            "tabs": {
+                "overview": {},
+                "learn": {},
+                "mentions": {},
+                "metadata": {}
+            },
+            "properties": {
+                "programmingLanguages": [],
+                "learn": [],
+                "resourceHost": [
+                    {
+                        "title": "https://www.vpro.nl",
+                        "link": "https://www.vpro.nl"
+                    }
+                ],
+                "funding": [],
+                "problemContact": [],
+                "informationTypes": null,
+                "languages": null,
+                "access": [
+                    {
+                        "title": "directly accessible through link, each part is accessible through its own separate link",
+                        "link": ""
+                    }
+                ],
+                "sourceCodeLocation": [],
+                "researchContact": [],
+                "generalContact": [],
+                "resourceTypes": [
+                    "Data"
+                ],
+                "status": null,
+                "versions": [],
+                "standards": [],
+                "resourceOwner": [
+                    {
+                        "title": "Dutch broadcasting company VPRO",
+                        "link": "null"
+                    }
+                ],
+                "link": "https://www.vpro.nl/programmas/ovt/speel~RBX_VPRO_15812838~het-spoor-terug-mijn-naam-is-selma-deel-1~.html",
+                "intro": "Interview with survivor of Ravensbruck concentration camp Selma van de Perre time aligned transcript",
+                "researchActivities": [],
+                "researchDomains": [],
+                "mediaTypes": null,
+                "provenance": [],
+                "community": [],
+                "development": null
+            }
+        }
+    }
+]

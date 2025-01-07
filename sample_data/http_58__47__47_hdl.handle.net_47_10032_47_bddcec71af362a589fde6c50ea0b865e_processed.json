@@ -1,0 +1,61 @@
+[
+  {
+    "operation": "create",
+    "document": {
+      "id": "http_58__47__47_hdl.handle.net_47_10032_47_bddcec71af362a589fde6c50ea0b865e",
+      "title": "WFT",
+      "intro": "Wurdboek fan de Fryske taal (Wft) online is the electronic version of the WFT: a historical and scientific dictionary of the Dutch language. The dictionary decribes the meaning and history of hundred thousands of words in written Frisian, from the period 1800-1976. Modern Dutch Lemma and Frisian lemma Describes the origin of a word describes the meaning of a words describes the structure of a word",
+      "publishedAt": [],
+      "media": {
+        "thumbnail": [],
+        "slider": []
+      },
+      "tabs": {
+        "overview": {},
+        "learn": {},
+        "mentions": {},
+        "metadata": {}
+      },
+      "properties": {
+        "programmingLanguages": [],
+        "learn": [],
+        "resourceHost": null,
+        "funding": [],
+        "problemContact": [],
+        "informationTypes": null,
+        "languages": [
+          "Western Frisian"
+        ],
+        "access": [
+          {
+            "title": "free for academic use; \n\t\t\t    non appliccable for commercial parties",
+            "link": ""
+          }
+        ],
+        "sourceCodeLocation": [],
+        "researchContact": [],
+        "generalContact": [],
+        "resourceTypes": [
+          "Data"
+        ],
+        "status": null,
+        "versions": [],
+        "standards": [],
+        "resourceOwner": [
+          {
+            "title": "Fryske Akademy",
+            "link": "null"
+          }
+        ],
+        "link": "http://hdl.handle.net/10032/tm-a2-j3",
+        "intro": "Wurdboek fan de Fryske taal (Wft) online is the electronic version of the WFT: a historical and scientific dictionary of the Dutch language. The dictionary decribes the meaning and history of hundred thousands of words in written Frisian, from the period 1800-1976. Modern Dutch Lemma and Frisian lemma Describes the origin of a word describes the meaning of a words describes the structure of a word",
+        "researchActivities": [],
+        "researchDomains": null,
+        "mediaTypes": null,
+        "provenance": [],
+        "community": [],
+        "development": null
+      }
+    }
+  }
+]

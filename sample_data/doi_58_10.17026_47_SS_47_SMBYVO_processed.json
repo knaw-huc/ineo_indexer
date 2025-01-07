@@ -1,0 +1,71 @@
+[
+    {
+        "operation": "create",
+        "document": {
+            "id": "doi_58_10.17026_47_SS_47_SMBYVO",
+            "title": "Willem S\u00e9wel, A Compendious Guide to the Low-Dutch language / Korte...",
+            "intro": "Diplomatische weergave van: A Compendious Guide to the Low-Dutch Language. Containing the most necessary and essentiel Grammar-Rules, whereby one may speedily, and without much difficulty, attain to the knowledge of the aforesaid Language, and the right use of the Dutch Particles de and...",
+            "publishedAt": [],
+            "media": {
+                "thumbnail": [],
+                "slider": []
+            },
+            "tabs": {
+                "overview": {},
+                "learn": {},
+                "mentions": {},
+                "metadata": {}
+            },
+            "properties": {
+                "programmingLanguages": [],
+                "learn": [],
+                "resourceHost": [
+                    {
+                        "title": "https://doi.org",
+                        "link": "https://doi.org"
+                    }
+                ],
+                "funding": [],
+                "problemContact": [],
+                "informationTypes": null,
+                "languages": [
+                    "Dutch",
+                    "English"
+                ],
+                "access": [
+                    {
+                        "title": "UNSPECIFIED",
+                        "link": ""
+                    }
+                ],
+                "sourceCodeLocation": [],
+                "researchContact": [],
+                "generalContact": [],
+                "resourceTypes": [
+                    "Data"
+                ],
+                "status": null,
+                "versions": [],
+                "standards": [],
+                "resourceOwner": null,
+                "link": "https://doi.org/10.17026/SS/SMBYVO",
+                "intro": "Diplomatische weergave van: A Compendious Guide to the Low-Dutch Language. Containing the most necessary and essentiel Grammar-Rules, whereby one may speedily, and without much difficulty, attain to the knowledge of the aforesaid Language, and the right use of the Dutch Particles de and...",
+                "researchActivities": [],
+                "researchDomains": [],
+                "mediaTypes": null,
+                "provenance": [],
+                "community": [],
+                "development": [
+                    {
+                        "title": "Stichting Vrijwilligersnetwerk Nederlandse Taal",
+                        "link": "null"
+                    },
+                    {
+                        "title": "van der Sijs, N.",
+                        "link": "null"
+                    }
+                ]
+            }
+        }
+    }
+]

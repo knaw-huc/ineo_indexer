@@ -1,0 +1,66 @@
+[
+    {
+        "operation": "create",
+        "document": {
+            "id": "doi_58_10.17026_47_SS_47_VIO8NJ",
+            "title": "Project Ongekend Bijzonder, Den Haag, interview 31",
+            "intro": "geslacht: V land van herkomst: Iran leeftijd aankomst NL: 33 stad: Den Haag vluchtreden: Politieke vluchteling relaties met eigen gemeenschap: Nauwelijks opleiding: Universiteit van Teheran beroep land van herkomst: student werk in NL: VluchtelingenWerk en Amnesty International (Nede...",
+            "publishedAt": [],
+            "media": {
+                "thumbnail": [],
+                "slider": []
+            },
+            "tabs": {
+                "overview": {},
+                "learn": {},
+                "mentions": {},
+                "metadata": {}
+            },
+            "properties": {
+                "programmingLanguages": [],
+                "learn": [],
+                "resourceHost": [
+                    {
+                        "title": "https://doi.org",
+                        "link": "https://doi.org"
+                    }
+                ],
+                "funding": [],
+                "problemContact": [],
+                "informationTypes": null,
+                "languages": [
+                    "Dutch"
+                ],
+                "access": [
+                    {
+                        "title": "UNSPECIFIED",
+                        "link": ""
+                    }
+                ],
+                "sourceCodeLocation": [],
+                "researchContact": [],
+                "generalContact": [],
+                "resourceTypes": [
+                    "Data"
+                ],
+                "status": null,
+                "versions": [],
+                "standards": [],
+                "resourceOwner": null,
+                "link": "https://doi.org/10.17026/SS/VIO8NJ",
+                "intro": "geslacht: V land van herkomst: Iran leeftijd aankomst NL: 33 stad: Den Haag vluchtreden: Politieke vluchteling relaties met eigen gemeenschap: Nauwelijks opleiding: Universiteit van Teheran beroep land van herkomst: student werk in NL: VluchtelingenWerk en Amnesty International (Nede...",
+                "researchActivities": [],
+                "researchDomains": [],
+                "mediaTypes": null,
+                "provenance": [],
+                "community": [],
+                "development": [
+                    {
+                        "title": "Stichting Bevordering Maatschappelijke Participatie - BMP",
+                        "link": "null"
+                    }
+                ]
+            }
+        }
+    }
+]

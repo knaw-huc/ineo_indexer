@@ -1,0 +1,139 @@
+[
+    {
+        "operation": "create",
+        "document": {
+            "id": "ucto",
+            "title": "Ucto",
+            "intro": "Ucto tokenizes text files: it separates words from punctuation, and splits sentences. It offers several other basic preprocessing steps such as changing case that you can all use to make your text suited for further processing such as indexing, part-of-speech tagging, or machine translation. Ucto...",
+            "publishedAt": "2011-03-27",
+            "media": {
+                "thumbnail": "https://raw.githubusercontent.com/LanguageMachines/ucto/master/logo.svg",
+                "slider": [
+                    "https://raw.githubusercontent.com/CLARIAH/ineo-content/master/media/ucto_logo.png",
+                    "https://raw.githubusercontent.com/CLARIAH/ineo-content/master/media/ucto.gif"
+                ]
+            },
+            "tabs": {
+                "overview": {
+                    "body": "### Overview\n * Comes with tokenization rules for English, Dutch, French, Italian, and Swedish; easily extendible to other languages.\n\n* Recognizes dates, times, units, currencies, abbreviations.\n\n* Recognizes paired quote spans, sentences, and paragraphs.\n\n* Produces UTF8 encoding and NFC output normalization, optionally accepts other encodings as input.\n\n* Optional conversion to all lowercase or uppercase.\n\n* Supports [FoLiA XML](https://www.ineo.tools/resources/folia).\n\n* Ucto is also available as a [webservice](https://webservices.cls.ru.nl/ucto)."
+                },
+                "learn": {
+                    "body": "![Ucto in action.](https://github.com/CLARIAH/ineo-content/blob/master/media/ucto.gif?raw=1)\n\n### Webservice\n\nUcto is available as a [webservice](https://webservices.cls.ru.nl/ucto).\n\n### Download & Installation\n\nUcto is free software; you can redistribute it and/or modify it under the terms of the [GNU General Public License](https://www.gnu.org/licenses/gpl-3.0.html) as published by the [Free Software Foundation](https://www.fsf.org/).\n\nTo download and install Ucto:\n\n1. First check if there are up-to-date packages included in your distribution's package manager. There are packages for Arch Linux, Debian, FreeBSD and Ubuntu.\n2. If not, it is strongly recommended to use the [LaMachine](https://proycon.github.io/LaMachine/) software distribution, which includes Ucto and all necessary dependencies, and runs on Linux, BSD and Mac OS X. It can also run as a virtual machine under any host OS.\n3. Alternatively, you can always download, compile and install Ucto manually, as described below.\n\n#### Manual installation\n\n* [Source code](https://github.com/LanguageMachines/ucto/)\n* [Stable releases](https://github.com/LanguageMachines/ucto/releases)\n\nTo compile these manually consult the included INSTALL documents, you will need current versions of the following dependencies of our software:\n\n* [ticcutils](https://github.com/LanguageMachines/ticcutils/) - A shared utility library;\n* [libfolia](https://github.com/LanguageMachines/libfolia/) - A library for the [FoLiA](https://www.ineo.tools/resources/folia) format.\n\nAs well as the following 3rd party dependencies:\n\n* [icu](https://icu.unicode.org/) - A C++ library for Unicode and Globalization support. On Debian/Ubuntu systems, install the package ``libicu-dev``.\n* [libxml2](http://xmlsoft.org/) - An XML library. On Debian/Ubuntu systems install the package ``libxml2-dev``.\nA sane build environment with a C++ compiler (e.g. gcc or clang), autotools, libtool, pkg-config.\n\n### Documentation\n\nThe Ucto documentation can be found [here](https://ucto.readthedocs.io/en/latest/).\n\n### Python binding\n\nUcto can be used from Python through the [python-ucto](https://github.com/proycon/python-ucto) binding, which has to be obtained separately unless you are using [LaMachine](https://proycon.github.io/LaMachine/).\n\n### Support\n\nThe development and improvement of Ucto also relies on your bug reports, suggestions, and comments. Use the [github issue tracker](https://github.com/LanguageMachines/ucto/issues) or mail lamasoftware (at) science.ru.nl."
+                },
+                "mentions": {
+                    "body": "### Publications\n\n* Van Gompel, M., van der Sloot, K., & van den Bosch, A. (2012). [Ucto: Unicode Tokeniser](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=8eba02b37357288b9f9beac57d65a4cb26542419). *Version 0.5, 3*, 12-05.\n\n### Webpages\n\n* [Ucto home page](https://languagemachines.github.io/ucto/)\n* [Ucto as a webservice](https://webservices.cls.ru.nl/ucto)\n\n* Ucto is included in [LaMachine](https://proycon.github.io/LaMachine/), a unified software distribution for Natural Language Processing, also including (among others):\n  * [Alpino](https://www.ineo.tools/resources/alpino)\n  * [Frog](https://www.ineo.tools/resources/frog)\n  * [FoLiA](https://www.ineo.tools/resources/folia)\n  * [Colibri Core](https://www.ineo.tools/resources/colibricore)\n  * [CLAM](https://www.ineo.tools/resources/clam)\n  * [FLAT](https://www.ineo.tools/resources/flat)\n  \n\n\n\n### Credits, Contact Information and License\n\nUcto was written by Maarten van Gompel and Ko van der Sloot ([Radboud University](https://www.ru.nl/clst)). Work on Ucto was funded by NWO, the Netherlands Organisation for Scientific Research, under the Implicit Linguistics project and the [CLARIN-NL](https://www.clarin.nl/) program.\n\nThe development and improvement of Ucto also relies on your bug reports, suggestions, and comments. Use the [github issue tracker](https://github.com/LanguageMachines/ucto/issues) or mail lamasoftware (at) science.ru.nl.\n\nUcto is free software; you can redistribute it and/or modify it under the terms of the [GNU General Public License](https://www.gnu.org/licenses/gpl-3.0.html) as published by the [Free Software Foundation](https://www.fsf.org/)."
+                },
+                "metadata": {}
+            },
+            "properties": {
+                "programmingLanguages": [
+                    {
+                        "title": "C++",
+                        "link": null
+                    }
+                ],
+                "learn": [
+                    {
+                        "title": "Ucto documentation",
+                        "link": "https://ucto.readthedocs.io"
+                    }
+                ],
+                "funding": [
+                    {
+                        "title": "ucto",
+                        "link": "https://languagemachines.github.io/ucto"
+                    }
+                ],
+                "problemContact": [
+                    {
+                        "title": "Issue tracker",
+                        "link": "https://github.com/LanguageMachines/ucto/issues"
+                    }
+                ],
+                "informationTypes": [],
+                "languages": [
+                    "French",
+                    "Dutch",
+                    "Spanish",
+                    "German",
+                    "Frisian",
+                    "Russian",
+                    "Italian",
+                    "Portuguese",
+                    "Turkish",
+                    "English",
+                    "Swedish"
+                ],
+                "access": [
+                    {
+                        "title": "Open Access",
+                        "link": "https://github.com/LanguageMachines/ucto"
+                    }
+                ],
+                "sourceCodeLocation": [
+                    {
+                        "title": "github.com",
+                        "link": "https://github.com/LanguageMachines/ucto"
+                    }
+                ],
+                "researchContact": [],
+                "generalContact": [
+                    {
+                        "title": "Maarten\u00a0van Gompel",
+                        "link": "mailto:proycon@anaproy.nl"
+                    },
+                    {
+                        "title": "Ko\u00a0van der Sloot",
+                        "link": "mailto:Ko.vanderSloot@ziggo.nl"
+                    }
+                ],
+                "resourceTypes": [
+                    "Tools"
+                ],
+                "status": [
+                    "Active"
+                ],
+                "versions": [
+                    {
+                        "title": "0.33",
+                        "url": ""
+                    }
+                ],
+                "standards": [],
+                "resourceOwner": [
+                    {
+                        "title": "KNAW Humanities Cluster",
+                        "link": "https://huc.knaw.nl"
+                    }
+                ],
+                "link": "https://github.com/LanguageMachines/ucto",
+                "intro": "Ucto tokenizes text files: it separates words from punctuation, and splits sentences. This is one of the first tasks for almost any Natural Language Processing application. Ucto offers several other basic preprocessing steps such as changing case that you can all use to make your text suited for ...",
+                "researchActivities": [
+                    "https://vocabs.dariah.eu/tadirah/annotating",
+                    "https://vocabs.dariah.eu/tadirah/tagging"
+                ],
+                "researchDomains": [
+                    "https://w3id.org/nwo-research-fields#Linguistics",
+                    "https://w3id.org/nwo-research-fields#TextualAndContentAnalysis"
+                ],
+                "provenance": [],
+                "community": [
+                    {
+                        "title": "Issue tracker",
+                        "link": "https://github.com/LanguageMachines/ucto/issues"
+                    }
+                ],
+                "development": [
+                    {
+                        "title": "Maarten van Gompel, KNAW Humanities Cluster",
+                        "link": "https://orcid.org/0000-0002-1046-0006"
+                    },
+                    {
+                        "title": "Ko van der Sloot, Centre for Language and Speech Technology",
+                        "link": ""
+                    }
+                ]
+            }
+        }
+    }
+]

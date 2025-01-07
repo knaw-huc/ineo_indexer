@@ -1,0 +1,64 @@
+[
+  {
+    "operation": "create",
+    "document": {
+      "id": "hdl_58_21.11114_47_COLL-0000-000F-7701-A",
+      "title": "Oral History. Interview with survivor of Ravensbr\u00fcck concentration ...",
+      "intro": "Aenne Meier leistete Widerstand auf der Grundlage ihres Glaubens. R\u00fcckhalt gaben ihr die katholische Jugendbewegung und die Zehn Gebote. Die Missachtung des Gebots \u201eDu sollst keine anderen G\u00f6tter neben mir haben\u201c war f\u00fcr sie Grund zur entschiedenen, aktiven Ablehnung Adolf Hitlers.",
+      "publishedAt": [],
+      "media": {
+        "thumbnail": [],
+        "slider": []
+      },
+      "tabs": {
+        "overview": {},
+        "learn": {},
+        "mentions": {},
+        "metadata": {}
+      },
+      "properties": {
+        "programmingLanguages": [],
+        "learn": [],
+        "resourceHost": [
+          {
+            "title": "https://videoarchiv-ravensbrueck.de",
+            "link": "https://videoarchiv-ravensbrueck.de"
+          }
+        ],
+        "funding": [],
+        "problemContact": [],
+        "informationTypes": null,
+        "languages": null,
+        "access": [
+          {
+            "title": "all the materials on the website of Loretta Walz are freely accessible, but you have to register and create an account.",
+            "link": ""
+          }
+        ],
+        "sourceCodeLocation": [],
+        "researchContact": [],
+        "generalContact": [],
+        "resourceTypes": [
+          "Data"
+        ],
+        "status": null,
+        "versions": [],
+        "standards": [],
+        "resourceOwner": [
+          {
+            "title": "Loretta Walz Videoproduktion / Biografische Dokumentationen",
+            "link": "null"
+          }
+        ],
+        "link": "https://videoarchiv-ravensbrueck.de/de/protagonistinnen/id/001",
+        "intro": "Aenne Meier leistete Widerstand auf der Grundlage ihres Glaubens. R\u00fcckhalt gaben ihr die katholische Jugendbewegung und die Zehn Gebote. Die Missachtung des Gebots \u201eDu sollst keine anderen G\u00f6tter neben mir haben\u201c war f\u00fcr sie Grund zur entschiedenen, aktiven Ablehnung Adolf Hitlers.",
+        "researchActivities": [],
+        "researchDomains": null,
+        "mediaTypes": null,
+        "provenance": [],
+        "community": [],
+        "development": null
+      }
+    }
+  }
+]

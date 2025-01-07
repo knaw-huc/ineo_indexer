@@ -1,0 +1,122 @@
+[
+    {
+        "operation": "create",
+        "document": {
+            "id": "tool-discovery",
+            "title": "CLARIAH Tool Discovery",
+            "intro": "This is the over-arching project for CLARIAH Tool Discovery, its components harvest and aggregate codemeta from source repositories and service endpoints, automatically converting known metadata schemes in the process. This project holds the Tool Source Registry, pointing to all the tools that ar...",
+            "publishedAt": "2022-01-05",
+            "media": {},
+            "tabs": {
+                "overview": {},
+                "learn": {},
+                "mentions": {},
+                "metadata": {}
+            },
+            "properties": {
+                "programmingLanguages": [
+                    {
+                        "title": "shell",
+                        "link": null
+                    }
+                ],
+                "learn": [
+                    {
+                        "title": "Contributor Guidelines",
+                        "link": "https://github.com/CLARIAH/tool-discovery/blob/master/CONTRIBUTING.md"
+                    },
+                    {
+                        "title": "Querying the CLARIAH Tool Store for integration in other software",
+                        "link": "https://github.com/CLARIAH/tool-discovery/blob/master/API_USAGE.md"
+                    },
+                    {
+                        "title": "Software Metadata Requirements",
+                        "link": "https://github.com/CLARIAH/clariah-plus/blob/main/requirements/software-metadata-requirements.md"
+                    }
+                ],
+                "resourceHost": [
+                    {
+                        "title": "",
+                        "link": ""
+                    }
+                ],
+                "funding": [
+                    {
+                        "title": "CLARIAH-PLUS (NWO grant 184.034.023) NWO",
+                        "link": " https://www.nwo.nl"
+                    }
+                ],
+                "problemContact": [
+                    {
+                        "title": "Issue tracker",
+                        "link": "https://github.com/CLARIAH/tool-discovery/issues"
+                    }
+                ],
+                "informationTypes": [],
+                "access": [
+                    {
+                        "title": "Open Access",
+                        "link": "https://github.com/CLARIAH/tool-discovery"
+                    }
+                ],
+                "sourceCodeLocation": [
+                    {
+                        "title": "github.com",
+                        "link": "https://github.com/CLARIAH/tool-discovery"
+                    }
+                ],
+                "researchContact": [],
+                "generalContact": [
+                    {
+                        "title": "Maarten\u00a0van Gompel",
+                        "link": "https://orcid.org/0000-0002-1046-0006"
+                    }
+                ],
+                "resourceTypes": [
+                    "Tools"
+                ],
+                "status": [
+                    "Active"
+                ],
+                "versions": [
+                    {
+                        "title": "1.6.4",
+                        "url": ""
+                    }
+                ],
+                "standards": [],
+                "resourceOwner": [
+                    {
+                        "title": "KNAW Humanities Cluster",
+                        "link": "https://huc.knaw.nl"
+                    }
+                ],
+                "link": "https://github.com/CLARIAH/tool-discovery",
+                "intro": "This is the over-arching project for CLARIAH Tool Discovery, its components harvest and aggregate codemeta from source repositories and service endpoints, automatically converting known metadata schemes in the process. This project holds the Tool Source Registry, pointing to all the tools that ar...",
+                "researchActivities": [
+                    "https://vocabs.dariah.eu/tadirah/browsing",
+                    "https://vocabs.dariah.eu/tadirah/discovering",
+                    "https://vocabs.dariah.eu/tadirah/exploration",
+                    "https://vocabs.dariah.eu/tadirah/gathering"
+                ],
+                "researchDomains": [
+                    "https://w3id.org/nwo-research-fields#DatabasesForHumanities",
+                    "https://w3id.org/nwo-research-fields#SoftwareForHumanities"
+                ],
+                "provenance": [],
+                "community": [
+                    {
+                        "title": "Issue tracker",
+                        "link": "https://github.com/CLARIAH/tool-discovery/issues"
+                    }
+                ],
+                "development": [
+                    {
+                        "title": "Maarten van Gompel, KNAW Humanities Cluster",
+                        "link": "https://proycon.anaproy.nl"
+                    }
+                ]
+            }
+        }
+    }
+]

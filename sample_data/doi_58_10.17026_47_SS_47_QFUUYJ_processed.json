@@ -1,0 +1,67 @@
+[
+    {
+        "operation": "create",
+        "document": {
+            "id": "doi_58_10.17026_47_SS_47_QFUUYJ",
+            "title": "Project Ongekend Bijzonder, Amsterdam, interview 52",
+            "intro": "geslacht: Vrouw land van herkomst: Iran leeftijd aankomst Nederland: 26 vluchtreden: vrijheid beroep land van herkomst: schrijfster bijdrage aan de stad: Veel contact met kunstenaars in de stad, programma's samen maken, gedichten voordragen bijzonderheden: Nederlandse les gevolgd bij d...",
+            "publishedAt": [],
+            "media": {
+                "thumbnail": [],
+                "slider": []
+            },
+            "tabs": {
+                "overview": {},
+                "learn": {},
+                "mentions": {},
+                "metadata": {}
+            },
+            "properties": {
+                "programmingLanguages": [],
+                "learn": [],
+                "resourceHost": [
+                    {
+                        "title": "https://doi.org",
+                        "link": "https://doi.org"
+                    }
+                ],
+                "funding": [],
+                "problemContact": [],
+                "informationTypes": null,
+                "languages": [
+                    "Dutch",
+                    "English"
+                ],
+                "access": [
+                    {
+                        "title": "UNSPECIFIED",
+                        "link": ""
+                    }
+                ],
+                "sourceCodeLocation": [],
+                "researchContact": [],
+                "generalContact": [],
+                "resourceTypes": [
+                    "Data"
+                ],
+                "status": null,
+                "versions": [],
+                "standards": [],
+                "resourceOwner": null,
+                "link": "https://doi.org/10.17026/SS/QFUUYJ",
+                "intro": "geslacht: Vrouw land van herkomst: Iran leeftijd aankomst Nederland: 26 vluchtreden: vrijheid beroep land van herkomst: schrijfster bijdrage aan de stad: Veel contact met kunstenaars in de stad, programma's samen maken, gedichten voordragen bijzonderheden: Nederlandse les gevolgd bij d...",
+                "researchActivities": [],
+                "researchDomains": [],
+                "mediaTypes": null,
+                "provenance": [],
+                "community": [],
+                "development": [
+                    {
+                        "title": "Stichting Bevordering Maatschappelijke Participatie - BMP",
+                        "link": "null"
+                    }
+                ]
+            }
+        }
+    }
+]

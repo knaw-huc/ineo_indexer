@@ -1,0 +1,64 @@
+[
+    {
+        "operation": "create",
+        "document": {
+            "id": "hdl_58_21.11114_47_COLL-0000-000F-76E8-7",
+            "title": "Oral History. Ravensbr\u00fcck. Interview with Geert van der Molen",
+            "intro": "Geert van der Molen (1919-2008) is een schippersdochter uit Groningen, gereformeerd opgevoed en in haar jeugd communistisch geworden. Zij is direct na de februaristaking gearresteerd, gevangen gezet in het Oranjehotel, Schoorl en Ravensbr\u00fcck, tijdens de oorlog vrijgelaten uit Ravensbr\u00fcc...",
+            "publishedAt": [],
+            "media": {
+                "thumbnail": [],
+                "slider": []
+            },
+            "tabs": {
+                "overview": {},
+                "learn": {},
+                "mentions": {},
+                "metadata": {}
+            },
+            "properties": {
+                "programmingLanguages": [],
+                "learn": [],
+                "resourceHost": [
+                    {
+                        "title": "https://easy.dans.knaw.nl",
+                        "link": "https://easy.dans.knaw.nl"
+                    }
+                ],
+                "funding": [],
+                "problemContact": [],
+                "informationTypes": null,
+                "languages": null,
+                "access": [
+                    {
+                        "title": "unrestricted access to video, for access to transcript  you have to register at the Dutch data archive DANS",
+                        "link": ""
+                    }
+                ],
+                "sourceCodeLocation": [],
+                "researchContact": [],
+                "generalContact": [],
+                "resourceTypes": [
+                    "Data"
+                ],
+                "status": null,
+                "versions": [],
+                "standards": [],
+                "resourceOwner": [
+                    {
+                        "title": "Cultuur & Co",
+                        "link": "null"
+                    }
+                ],
+                "link": "https://easy.dans.knaw.nl/ui/datasets/id/easy-dataset:41098",
+                "intro": "Geert van der Molen (1919-2008) is een schippersdochter uit Groningen, gereformeerd opgevoed en in haar jeugd communistisch geworden. Zij is direct na de februaristaking gearresteerd, gevangen gezet in het Oranjehotel, Schoorl en Ravensbr\u00fcck, tijdens de oorlog vrijgelaten uit Ravensbr\u00fcc...",
+                "researchActivities": [],
+                "researchDomains": [],
+                "mediaTypes": null,
+                "provenance": [],
+                "community": [],
+                "development": null
+            }
+        }
+    }
+]

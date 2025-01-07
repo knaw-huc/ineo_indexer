@@ -1,0 +1,79 @@
+[
+  {
+    "operation": "create",
+    "document": {
+      "id": "http_58__47__47_hdl.handle.net_47_10032_47_3f681de884473fc4504569ec2b7f3e46",
+      "title": "IFA Dialogue Video Corpus",
+      "intro": "The IFA Dialog Video corpus is a collection of annotated video recordings of friendly face-to-face dialogs. It is modelled on the face-to-face dialogs in the Spoken Dutch Corpus (CGN). For this corpus 20 dialog conversations of 15 minutes were recorded and annotated, in total 5 hours of... Dutch as spoken by adults (native speakers) in the Netherlands Of all recordings a manual verbatim transcript is made. Part of speech tags were automatically added to each word in the corpus. Automatic word and phoneme alignment A manually produced functional annotation of dialog utterances Manually annotated gaze direction.",
+      "publishedAt": [],
+      "media": {
+        "thumbnail": [],
+        "slider": []
+      },
+      "tabs": {
+        "overview": {},
+        "learn": {},
+        "mentions": {},
+        "metadata": {}
+      },
+      "properties": {
+        "programmingLanguages": [],
+        "learn": [],
+        "resourceHost": null,
+        "funding": [],
+        "problemContact": [],
+        "informationTypes": null,
+        "languages": [
+          "Dutch",
+          "English"
+        ],
+        "access": [
+          {
+            "title": "available for commercial and non-commercial organisations",
+            "link": ""
+          }
+        ],
+        "sourceCodeLocation": [],
+        "researchContact": [],
+        "generalContact": [],
+        "resourceTypes": [
+          "Data"
+        ],
+        "status": null,
+        "versions": [],
+        "standards": [],
+        "resourceOwner": [
+          {
+            "title": "Dutch Language Union",
+            "link": "null"
+          }
+        ],
+        "link": "http://hdl.handle.net/10032/tm-a2-g5",
+        "intro": "The IFA Dialog Video corpus is a collection of annotated video recordings of friendly face-to-face dialogs. It is modelled on the face-to-face dialogs in the Spoken Dutch Corpus (CGN). For this corpus 20 dialog conversations of 15 minutes were recorded and annotated, in total 5 hours of... Dutch as spoken by adults (native speakers) in the Netherlands Of all recordings a manual verbatim transcript is made. Part of speech tags were automatically added to each word in the corpus. Automatic word and phoneme alignment A manually produced functional annotation of dialog utterances Manually annotated gaze direction.",
+        "researchActivities": [],
+        "researchDomains": null,
+        "mediaTypes": null,
+        "provenance": [],
+        "community": [],
+        "development": [
+          {
+            "title": "R.J.J.H. van Son",
+            "link": "null"
+          },
+          {
+            "title": "Wieneke Wesseling",
+            "link": "null"
+          },
+          {
+            "title": "Eric Sanders",
+            "link": "null"
+          },
+          {
+            "title": "Henk van den Heuvel",
+            "link": "null"
+          }
+        ]
+      }
+    }
+  }
+]

@@ -1,0 +1,96 @@
+[
+  {
+    "operation": "create",
+    "document": {
+      "id": "corpus-frontend",
+      "title": "INT Corpus Frontend",
+      "intro": "INT Corpus Frontend is a corpus search application that works with BlackLab Server. At the Dutch Language Institute, it i used to publish corpora such as CHN (CLARIN login required), Letters as Loot and AutoSearch (CLARIN login required).",
+      "publishedAt": "2014-03-19",
+      "media": {},
+      "tabs": {
+        "overview": {
+          "body": "### Overview\n "
+        },
+        "learn": {
+          "body": ""
+        },
+        "mentions": {
+          "body": ""
+        },
+        "metadata": {}
+      },
+      "properties": {
+        "programmingLanguages": [
+          {
+            "title": "Java",
+            "link": null
+          }
+        ],
+        "problemContact": [
+          {
+            "title": "Issue tracker",
+            "link": "https://github.com/INL/corpus-frontend/issues"
+          }
+        ],
+        "informationTypes": [],
+        "access": [
+          {
+            "title": "Open Access",
+            "link": "https://github.com/INL/corpus-frontend"
+          }
+        ],
+        "sourceCodeLocation": [
+          {
+            "title": "github.com",
+            "link": "https://github.com/INL/corpus-frontend"
+          }
+        ],
+        "researchContact": [],
+        "generalContact": [
+          {
+            "title": "Jan\u00a0Niestadt",
+            "link": "mailto:jan.niestadt@ivdnt.org"
+          }
+        ],
+        "resourceTypes": [
+          "Tools"
+        ],
+        "status": [
+          "Active"
+        ],
+        "versions": [
+          {
+            "title": "3.1.1",
+            "url": ""
+          }
+        ],
+        "standards": [],
+        "resourceOwner": [
+          {
+            "title": "Dutch Language Institute",
+            "link": ""
+          }
+        ],
+        "link": "https://github.com/INL/corpus-frontend",
+        "intro": "A web application to search corpora through the BlackLab Server web service.",
+        "provenance": [],
+        "community": [
+          {
+            "title": "Issue tracker",
+            "link": "https://github.com/INL/corpus-frontend/issues"
+          }
+        ],
+        "development": [
+          {
+            "title": "Jan Niestadt",
+            "link": "https://github.com/jan-niestadt"
+          },
+          {
+            "title": "Koen Mertens",
+            "link": "https://github.com/KCMertens"
+          }
+        ]
+      }
+    }
+  }
+]

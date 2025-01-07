@@ -1,0 +1,67 @@
+[
+  {
+    "operation": "create",
+    "document": {
+      "id": "http_58__47__47_hdl.handle.net_47_10032_47_c2f34342379301208058c3a320288e5d",
+      "title": "Annotations of the Spoken Dutch Corpus",
+      "intro": "The CGN Annotations include the fully annotated version of the transcribed Spoken Dutch Corpus and also Corex, the corpus software used by the CGN. The product CGN Annotations does not include sound recordings. Dutch as spoken by adults (native speakers) in the Netherlands and Flanders Not all documentation is available in both languages. Of all recordings a verbatim transcript is made. Part of speech tags were added to each word in the corpus. For about one million words a (verified) broad phonetic transcription is available. For approximately 250,000 words a prosodic annotation is available. The annotation encompasses the identification of the most important phrase boundaries as well as the one or two most important words (sentence accents) of each phrase. One million words of the CGN received a syntactic annotation. Syntactic annotation was carried out semi-automatically, using the Annotate software On the basis of the data in the corpus a number of frequency lists were derived that provide information regarding the frequency of occurrence of word forms, POS tags and lemmas and combinations of these. There is also a frequency list of all the word forms and their phonetic transcript... For all data for which a verified phonetic transcription is available, the speech file has been aligned with the orthographic transcript on the level of the word. The output has been checked manually and corrected. For the remainder of the material the speech files and transcripts have ... Some annotations are only available for part of the corpus.",
+      "publishedAt": [],
+      "media": {
+        "thumbnail": [],
+        "slider": []
+      },
+      "tabs": {
+        "overview": {},
+        "learn": {},
+        "mentions": {},
+        "metadata": {}
+      },
+      "properties": {
+        "programmingLanguages": [],
+        "learn": [],
+        "resourceHost": null,
+        "funding": [],
+        "problemContact": [],
+        "informationTypes": null,
+        "languages": [
+          "Dutch",
+          "English"
+        ],
+        "access": [
+          {
+            "title": "available for commercial and non-commercial organisation; user licence required",
+            "link": ""
+          }
+        ],
+        "sourceCodeLocation": [],
+        "researchContact": [],
+        "generalContact": [],
+        "resourceTypes": [
+          "Data"
+        ],
+        "status": null,
+        "versions": [],
+        "standards": [],
+        "resourceOwner": [
+          {
+            "title": "Dutch Language Union",
+            "link": "null"
+          }
+        ],
+        "link": "http://hdl.handle.net/10032/970ed954d536d63b14626f09b6ea4e92",
+        "intro": "The CGN Annotations include the fully annotated version of the transcribed Spoken Dutch Corpus and also Corex, the corpus software used by the CGN. The product CGN Annotations does not include sound recordings. Dutch as spoken by adults (native speakers) in the Netherlands and Flanders Not all documentation is available in both languages. Of all recordings a verbatim transcript is made. Part of speech tags were added to each word in the corpus. For about one million words a (verified) broad phonetic transcription is available. For approximately 250,000 words a prosodic annotation is available. The annotation encompasses the identification of the most important phrase boundaries as well as the one or two most important words (sentence accents) of each phrase. One million words of the CGN received a syntactic annotation. Syntactic annotation was carried out semi-automatically, using the Annotate software On the basis of the data in the corpus a number of frequency lists were derived that provide information regarding the frequency of occurrence of word forms, POS tags and lemmas and combinations of these. There is also a frequency list of all the word forms and their phonetic transcript... For all data for which a verified phonetic transcription is available, the speech file has been aligned with the orthographic transcript on the level of the word. The output has been checked manually and corrected. For the remainder of the material the speech files and transcripts have ... Some annotations are only available for part of the corpus.",
+        "researchActivities": [],
+        "researchDomains": null,
+        "mediaTypes": null,
+        "provenance": [],
+        "community": [],
+        "development": [
+          {
+            "title": "Laura van Eerten",
+            "link": "null"
+          }
+        ]
+      }
+    }
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "operation": "create",
+    "document": {
+      "id": "http_58__47__47_hdl.handle.net_47_10032_47_5a3c193e4eaee70781acaa627c689544",
+      "title": "BLISS Spoken Dialogue Summaries",
+      "intro": "This data set was collected and created as part of the BLISS (Behaviour-based Language-Interactive Speaking Systems) project. This data set consists of Dutch speech recordings of participants who are talking to our dialog system BLISS V1 about daily life activities and things that peopl... Of all recordings a verbatim transcript is made. Deze dataset kwam tot stand als onderdeel van het BLISS project (Behaviour-based Language-Interactive Speaking Systems) en bestaat uit Nederlandse spraakopnames van deelnemers die spreken met het BLISS (v1) dialoog systeem over alledaagse bezigheden en dingen waar mensen plezier in hebb...",
+      "publishedAt": [],
+      "media": {
+        "thumbnail": [],
+        "slider": []
+      },
+      "tabs": {
+        "overview": {},
+        "learn": {},
+        "mentions": {},
+        "metadata": {}
+      },
+      "properties": {
+        "programmingLanguages": [],
+        "learn": [],
+        "resourceHost": null,
+        "funding": [],
+        "problemContact": [],
+        "informationTypes": null,
+        "languages": [
+          "Dutch",
+          "English"
+        ],
+        "access": [
+          {
+            "title": "available for academic use, no user licence required; ",
+            "link": ""
+          }
+        ],
+        "sourceCodeLocation": [],
+        "researchContact": [],
+        "generalContact": [],
+        "resourceTypes": [
+          "Data"
+        ],
+        "status": null,
+        "versions": [],
+        "standards": [],
+        "resourceOwner": [
+          {
+            "title": "Radboud Universiteit, Nijmegen",
+            "link": "null"
+          }
+        ],
+        "link": "http://hdl.handle.net/10032/tm-a2-v3",
+        "intro": "This data set was collected and created as part of the BLISS (Behaviour-based Language-Interactive Speaking Systems) project. This data set consists of Dutch speech recordings of participants who are talking to our dialog system BLISS V1 about daily life activities and things that peopl... Of all recordings a verbatim transcript is made. Deze dataset kwam tot stand als onderdeel van het BLISS project (Behaviour-based Language-Interactive Speaking Systems) en bestaat uit Nederlandse spraakopnames van deelnemers die spreken met het BLISS (v1) dialoog systeem over alledaagse bezigheden en dingen waar mensen plezier in hebb...",
+        "researchActivities": [],
+        "researchDomains": null,
+        "mediaTypes": null,
+        "provenance": [],
+        "community": [],
+        "development": null
+      }
+    }
+  }
+]

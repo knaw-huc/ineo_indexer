@@ -1,0 +1,80 @@
+[
+  {
+    "operation": "create",
+    "document": {
+      "id": "ineo-collaboration",
+      "title": "Ineo-collaboration",
+      "intro": "how to get metadata into INEO",
+      "publishedAt": "2023-05-17",
+      "media": {},
+      "tabs": {
+        "overview": {},
+        "learn": {},
+        "mentions": {},
+        "metadata": {}
+      },
+      "properties": {
+        "problemContact": [
+          {
+            "title": "Issue tracker",
+            "link": "https://github.com/CLARIAH/ineo-collaboration/issues"
+          }
+        ],
+        "informationTypes": [],
+        "access": [
+          {
+            "title": "Open Access",
+            "link": "https://github.com/CLARIAH/ineo-collaboration"
+          }
+        ],
+        "sourceCodeLocation": [
+          {
+            "title": "github.com",
+            "link": "https://github.com/CLARIAH/ineo-collaboration"
+          }
+        ],
+        "researchContact": [],
+        "generalContact": [
+          {
+            "title": "Vic\u00a0Ding",
+            "link": "mailto:qiqing.ding@di.huc.knaw.nl"
+          }
+        ],
+        "resourceTypes": [
+          "Tools"
+        ],
+        "status": [
+          "Work in progress"
+        ],
+        "versions": [
+          {
+            "title": "",
+            "url": ""
+          }
+        ],
+        "standards": [],
+        "resourceOwner": [
+          {
+            "title": "CLARIAH",
+            "link": "http://www.clariah.nl"
+          }
+        ],
+        "link": "https://github.com/CLARIAH/ineo-collaboration",
+        "intro": "how to get metadata into INEO",
+        "provenance": [],
+        "community": [
+          {
+            "title": "Issue tracker",
+            "link": "https://github.com/CLARIAH/ineo-collaboration/issues"
+          }
+        ],
+        "development": [
+          {
+            "title": "Vic Ding",
+            "link": ""
+          }
+        ]
+      }
+    }
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "operation": "create",
+    "document": {
+      "id": "did-summarizer",
+      "title": "Did-summarizer",
+      "intro": "Linked Data summarizer driven by Decentralized Identifiers (DIDs)",
+      "publishedAt": "2022-11-25",
+      "media": {},
+      "tabs": {
+        "overview": {},
+        "learn": {},
+        "mentions": {},
+        "metadata": {}
+      },
+      "properties": {
+        "problemContact": [
+          {
+            "title": "Issue tracker",
+            "link": "https://github.com/Dans-labs/did-summarizer/issues"
+          }
+        ],
+        "informationTypes": [],
+        "access": [
+          {
+            "title": "Open Access",
+            "link": "https://github.com/Dans-labs/did-summarizer"
+          }
+        ],
+        "sourceCodeLocation": [
+          {
+            "title": "github.com",
+            "link": "https://github.com/Dans-labs/did-summarizer"
+          }
+        ],
+        "researchContact": [],
+        "resourceTypes": [
+          "Tools"
+        ],
+        "status": [
+          "Work in progress"
+        ],
+        "versions": [
+          {
+            "title": "",
+            "url": ""
+          }
+        ],
+        "standards": [],
+        "resourceOwner": [
+          {
+            "title": "DANS.labs",
+            "link": "https://dans-labs.github.io/"
+          }
+        ],
+        "link": "https://github.com/Dans-labs/did-summarizer",
+        "intro": "Linked Data summarizer driven by Decentralized Identifiers (DIDs)",
+        "provenance": [],
+        "community": [
+          {
+            "title": "Issue tracker",
+            "link": "https://github.com/Dans-labs/did-summarizer/issues"
+          }
+        ]
+      }
+    }
+  }
+]

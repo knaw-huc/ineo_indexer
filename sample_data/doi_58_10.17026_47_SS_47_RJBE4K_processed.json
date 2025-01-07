@@ -1,0 +1,68 @@
+[
+    {
+        "operation": "create",
+        "document": {
+            "id": "doi_58_10.17026_47_SS_47_RJBE4K",
+            "title": "Project Ongekend Bijzonder, Den Haag, interview 09",
+            "intro": "geslacht: V land van herkomst: Democratische Republiek Congo leeftijd aankomst NL: 25 stad: Den Haag vluchtreden: politiek relaties met eigen gemeenschap: via de kerk, tijdens feesten huwelijk, verjaardagen, bevallingen opleiding: lerares, pedagogiek werk in NL: textielfabriek (6 mnd)...",
+            "publishedAt": [],
+            "media": {
+                "thumbnail": [],
+                "slider": []
+            },
+            "tabs": {
+                "overview": {},
+                "learn": {},
+                "mentions": {},
+                "metadata": {}
+            },
+            "properties": {
+                "programmingLanguages": [],
+                "learn": [],
+                "resourceHost": [
+                    {
+                        "title": "https://doi.org",
+                        "link": "https://doi.org"
+                    }
+                ],
+                "funding": [],
+                "problemContact": [],
+                "informationTypes": null,
+                "languages": [
+                    "Dutch",
+                    "English",
+                    "French"
+                ],
+                "access": [
+                    {
+                        "title": "UNSPECIFIED",
+                        "link": ""
+                    }
+                ],
+                "sourceCodeLocation": [],
+                "researchContact": [],
+                "generalContact": [],
+                "resourceTypes": [
+                    "Data"
+                ],
+                "status": null,
+                "versions": [],
+                "standards": [],
+                "resourceOwner": null,
+                "link": "https://doi.org/10.17026/SS/RJBE4K",
+                "intro": "geslacht: V land van herkomst: Democratische Republiek Congo leeftijd aankomst NL: 25 stad: Den Haag vluchtreden: politiek relaties met eigen gemeenschap: via de kerk, tijdens feesten huwelijk, verjaardagen, bevallingen opleiding: lerares, pedagogiek werk in NL: textielfabriek (6 mnd)...",
+                "researchActivities": [],
+                "researchDomains": [],
+                "mediaTypes": null,
+                "provenance": [],
+                "community": [],
+                "development": [
+                    {
+                        "title": "Stichting Bevordering Maatschappelijke Participatie - BMP",
+                        "link": "null"
+                    }
+                ]
+            }
+        }
+    }
+]

@@ -1,0 +1,108 @@
+[
+  {
+    "operation": "create",
+    "document": {
+      "id": "grlc",
+      "title": "Grlc: the git repository linked data API constructor",
+      "intro": "grlc makes all your Linked Data accessible to the Web by automatically converting your SPARQL queries into RESTful APIs.",
+      "publishedAt": "2015-11-13",
+      "media": {},
+      "tabs": {
+        "overview": {
+          "body": "### Overview\n * grlc is a lightweight server that takes SPARQL queries (stored in a GitHub repository, in your local filesystem, or listed in a URL), and translates them to Linked Data Web APIs. This enables universal access to Linked Data. Users are not required to know SPARQL to query their data, but instead can access a web API.\n* grlc assumes that you have a collection of SPARQL queries as .rq files. grlc will create one API operation for each SPARQL query/.rq file in the collection.\n* Your queries can add API parameters to each operation by using the parameter mapping syntax. This allows your query to define query variables which will be mapped to API parameters for your API operation (see here for an example).\n* Your queries can include special decorators to add extra functionality to your API."
+        },
+        "learn": {
+          "body": "### Instruction webpages\n\n* The Quick Tutorial is a quick walkthrough for deploying your own Linked Data API using grlc."
+        },
+        "mentions": {
+          "body": "### Articles (incl. conference papers, presentations and demo\u2019s)\n\n* Albert Mero\u00f1o-Pe\u00f1uela, Rinke Hoekstra. \u201cgrlc Makes GitHub Taste Like Linked Data APIs\u201d. The Semantic Web \u2013 ESWC 2016 Satellite Events, Heraklion, Crete, Greece, May 29 \u2013 June 2, 2016, Revised Selected Papers. LNCS 9989, pp. 342-353 (2016). (PDF)\n* Albert Mero\u00f1o-Pe\u00f1uela, Rinke Hoekstra. \u201cSPARQL2Git: Transparent SPARQL and Linked Data API Curation via Git\u201d. In: Proceedings of the 14th Extended Semantic Web Conference (ESWC 2017), Poster and Demo Track. Portoroz, Slovenia, May 28th \u2013 June 1st, 2017 (2017). (PDF)\n* Albert Mero\u00f1o-Pe\u00f1uela, Rinke Hoekstra. \u201cAutomatic Query-centric API for Routine Access to Linked Data\u201d. In: The Semantic Web \u2013 ISWC 2017, 16th International Semantic Web Conference. Lecture Notes in Computer Science, vol 10587, pp. 334-339 (2017). (PDF)\n* Pasquale Lisena, Albert Mero\u00f1o-Pe\u00f1uela, Tobias Kuhn, Rapha\u00ebl Troncy. \u201cEasy Web API Development with SPARQL Transformer\u201d. In: The Semantic Web \u2013 ISWC 2019, 18th International Semantic Web Conference. Lecture Notes in Computer Science, vol 11779, pp. 454-470 (2019). (PDF)\n\n### Projects\n\n### Teaching and Instruction"
+        },
+        "metadata": {}
+      },
+      "properties": {
+        "programmingLanguages": [
+          {
+            "title": "Python",
+            "link": null
+          }
+        ],
+        "learn": [
+          {
+            "title": "grlc Wiki",
+            "link": "https://github.com/CLARIAH/grlc/wiki"
+          }
+        ],
+        "funding": [
+          {
+            "title": "CLARIAH-PLUS (NWO grant 184.034.023) NWO",
+            "link": " https://www.nwo.nl"
+          }
+        ],
+        "problemContact": [
+          {
+            "title": "Issue tracker",
+            "link": "https://github.com/CLARIAH/grlc/issues"
+          }
+        ],
+        "informationTypes": [],
+        "access": [
+          {
+            "title": "Open Access",
+            "link": "https://github.com/CLARIAH/grlc"
+          }
+        ],
+        "sourceCodeLocation": [
+          {
+            "title": "github.com",
+            "link": "https://github.com/CLARIAH/grlc"
+          }
+        ],
+        "researchContact": [],
+        "generalContact": [
+          {
+            "title": "Albert\u00a0Mero\u00f1o-Pe\u00f1uela",
+            "link": "https://orcid.org/0000-0003-4646-5842"
+          }
+        ],
+        "resourceTypes": [
+          "Tools"
+        ],
+        "status": [
+          "Inactive"
+        ],
+        "versions": [
+          {
+            "title": "1.3.7",
+            "url": ""
+          }
+        ],
+        "standards": [],
+        "resourceOwner": [
+          {
+            "title": "CLARIAH",
+            "link": "http://www.clariah.nl"
+          }
+        ],
+        "link": "https://github.com/CLARIAH/grlc",
+        "intro": "grlc, the git repository linked data API constructor, automatically builds Web APIs using SPARQL queries stored in git repositories.",
+        "provenance": [],
+        "community": [
+          {
+            "title": "Issue tracker",
+            "link": "https://github.com/CLARIAH/grlc/issues"
+          }
+        ],
+        "development": [
+          {
+            "title": "Albert Mero\u00f1o-Pe\u00f1uela, King's College London",
+            "link": "https://orcid.org/0000-0003-4646-5842"
+          },
+          {
+            "title": "Carlos Martinez, Netherlands eScience Center",
+            "link": "https://orcid.org/0000-0001-5565-7577"
+          }
+        ]
+      }
+    }
+  }
+]

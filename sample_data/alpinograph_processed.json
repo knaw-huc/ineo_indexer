@@ -1,0 +1,111 @@
+[
+    {
+        "operation": "create",
+        "document": {
+            "id": "alpinograph",
+            "title": "AlpinoGraph",
+            "intro": "AlpinoGraph is a tool to query syntactically annotated corpora. The tool makes use of AgensGraph, which combines database technology (PostgreSQL) and Cypher, the standard query language for graphs. The queries that one can use in AlpinoGraph are thus a mix of SQL and Cypher. AlpinoGraph additiona...",
+            "publishedAt": "2020-03-25",
+            "media": {},
+            "tabs": {
+                "overview": {
+                    "body": "### Overview\n * AlpinoGraph is a tool to query syntactically annotated corpora as graphs instead of trees. This allows for some extra flexibilities.\n* The query language used by AlpinoGraph is a mix of SQL and Cypher.\n* AlpinoGraph makes use of [Alpino's annotations](https://www.ineo.tools/resources/alpino) and [Universal Dependencies](https://universaldependencies.org/).\n\n\n",
+                    "bodyMore": "### Data\n\nAlpinoGraph ships with (treebanks of) the [LASSY-SMALL](http://www.let.rug.nl/~vannoord/Lassy/), the [CGN (Corpus Gesproken Nederlands)](http://hdl.handle.net/10032/tm-a2-k6) and the [Eindhoven corpus](https://taalmaterialen.ivdnt.org/download/tstc-eindhoven-corpus/), among others. See [this page](https://urd2.let.rug.nl/~kleiweg/alpinograph-docs/corpora/) for a full list (in Dutch)."
+                },
+                "learn": {
+                    "body": "### Instruction\n\nThe [key publication of AlpinoGraph](https://aclanthology.org/2020.tlt-1.13) has a detailed documentation of AlpinoGraph's workings, and how queries are formulated. It is recommended to read this.\n\nAdditionally, the [AlpinoGraph page](https://urd2.let.rug.nl/~kleiweg/alpinograph/) has some useful examples and explanations that can be found in the menu in the top-left of the page. For a more extensive documentation of AlpinoGraph, users are invited to visit the [Help page of AlpinoGraph](https://urd2.let.rug.nl/~kleiweg/alpinograph-docs/). *These pages are, however, only available in Dutch.*\n\n### Alpino Annotations\n\nAlpinoGraph makes use of the annotations and tagging provided by [Alpino](https://www.ineo.tools/resources/alpino). For a detailed description of the syntactic annotations used by Alpino, one should check the document: [Lassy Syntactische Annotatie](https://www.let.rug.nl/vannoord/Lassy/sa-man_lassy.pdf). For the annotation of parts-of-speech and lemmas, one should check the document: [Part of speech tagging en lemmatisering van het D-coi corpus](https://www.let.rug.nl/vannoord/Lassy/POS_manual.pdf). *These documents are, however, only available in Dutch.*\n\nThe following document (in English) may also be useful: [Manual for syntactic annotators](https://www.let.rug.nl/~vannoord/DCOI/AnnotationGuide.html).\n\n### Universal Dependencies\n\nAlpinoGraph also makes use of annotations and tagging following [Universal Dependencies](https://universaldependencies.org/) (UD), a programme that aims at cross-linguistically consistent tagging and dependency parsing. UD is an open community effort with over 500 contributors producing over 200 treebanks in over 100 languages. If you\u2019re new to UD, you should start by reading the first part of the [Short Introduction](https://universaldependencies.org/introduction.html) and then browsing the [annotation guidelines](https://universaldependencies.org/guidelines.html) on the UD website.\n\n### User support\n\nAlpinoGraph was developed at the [Center for Language and Cognition](https://www.rug.nl/research/clcg/research/cl/) of the University of Groningen by Peter Kleiweg. Any issues can be reported on [AlpinoGraph's GitHub](https://github.com/rug-compling/alpinograph/issues)."
+                },
+                "mentions": {
+                    "body": "### Key publications\n\n* Peter Kleiweg and Gertjan van Noord. 2020. [AlpinoGraph: A Graph-based Search Engine for Flexible and Efficient Treebank Search.](https://aclanthology.org/2020.tlt-1.13) In *Proceedings of the 19th International Workshop on Treebanks and Linguistic Theories*, pages 151\u2013161, D\u00fcsseldorf, Germany. Association for Computational Linguistics.\n\n### Webpages\n\n* [Main page](https://urd2.let.rug.nl/~kleiweg/alpinograph/)\n* [Online documentation](https://urd2.let.rug.nl/~kleiweg/alpinograph-docs/) (in Dutch)\n* [Source code](https://github.com/rug-compling/alpinograph)\n\n* [Alpino](https://www.ineo.tools/resources/alpino)\n* [Universal Dependencies](https://universaldependencies.org/)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTODO: alud"
+                },
+                "metadata": {}
+            },
+            "properties": {
+                "programmingLanguages": [
+                    {
+                        "title": "Go",
+                        "link": null
+                    }
+                ],
+                "learn": [
+                    {
+                        "title": "AlpinoGraph",
+                        "link": "https://urd2.let.rug.nl/~kleiweg/alpinograph-docs/"
+                    }
+                ],
+                "resourceHost": [
+                    {
+                        "title": "Computational Linguistics, Faculty of Arts, Groningen University",
+                        "url": "https://www.rug.nl/research/clcg/research/cl/"
+                    }
+                ],
+                "problemContact": [
+                    {
+                        "title": "Issue tracker",
+                        "link": "https://github.com/rug-compling/alpinograph/issues"
+                    }
+                ],
+                "informationTypes": [],
+                "access": [
+                    {
+                        "title": "Open Access",
+                        "link": "https://github.com/rug-compling/alpinograph"
+                    }
+                ],
+                "sourceCodeLocation": [
+                    {
+                        "title": "github.com",
+                        "link": "https://github.com/rug-compling/alpinograph"
+                    }
+                ],
+                "researchContact": [],
+                "generalContact": [
+                    {
+                        "title": "Peter\u00a0Kleiweg",
+                        "link": "mailto:p.c.j.kleiweg@rug.nl"
+                    }
+                ],
+                "resourceTypes": [
+                    "Tools"
+                ],
+                "status": [
+                    "Active"
+                ],
+                "versions": [
+                    {
+                        "title": "1.0.5",
+                        "url": ""
+                    }
+                ],
+                "standards": [],
+                "resourceOwner": [
+                    {
+                        "title": "Computational Linguistics, Faculty of Arts, Groningen University",
+                        "link": "https://www.rug.nl/research/clcg/research/cl/"
+                    }
+                ],
+                "link": "https://github.com/rug-compling/alpinograph",
+                "intro": "AlpinoGraph is een tool om syntactisch geannoteerde corpora te doorzoeken. De tool maakt gebruik van AgensGraph. AgensGraph combineert databasetechnologie (PostgreSQL) en Cypher, de standaard zoektaal voor grafen. De zoek-queries die je in AlpinoGraph kunt gebruiken zijn daarom een mix van SQL en...",
+                "researchActivities": [
+                    "https://vocabs.dariah.eu/tadirah/structuralAnalysis"
+                ],
+                "researchDomains": [
+                    "https://w3id.org/nwo-research-fields#ComputationalLinguisticsAndPhilology"
+                ],
+                "provenance": [],
+                "community": [
+                    {
+                        "title": "Issue tracker",
+                        "link": "https://github.com/rug-compling/alpinograph/issues"
+                    }
+                ],
+                "development": [
+                    {
+                        "title": "",
+                        "link": "https://orcid.org/0000-0001-8364-3201"
+                    }
+                ]
+            }
+        }
+    }
+]

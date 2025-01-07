@@ -1,0 +1,70 @@
+[
+    {
+        "operation": "create",
+        "document": {
+            "id": "doi_58_10.17026_47_SS_47_ZQPGRJ",
+            "title": "Project Ongekend Bijzonder, Amsterdam, interview 32",
+            "intro": "geslacht: Vrouw land van herkomst: Joegoslavi\u00eb leeftijd aankomst Nederland: 8 stad: Amsterdam vluchtreden: Begin van de oorlog in voormalig Joegoslavi\u00eb relaties met eigen gemeenschap: Zit niet in naar eigen zeggen een \u2018bekrompen Bosnisch netwerk\u2019. Kiest haar vrienden niet uit op basis ...",
+            "publishedAt": [],
+            "media": {
+                "thumbnail": [],
+                "slider": []
+            },
+            "tabs": {
+                "overview": {},
+                "learn": {},
+                "mentions": {},
+                "metadata": {}
+            },
+            "properties": {
+                "programmingLanguages": [],
+                "learn": [],
+                "resourceHost": [
+                    {
+                        "title": "https://doi.org",
+                        "link": "https://doi.org"
+                    }
+                ],
+                "funding": [],
+                "problemContact": [],
+                "informationTypes": null,
+                "languages": [
+                    "Dutch"
+                ],
+                "access": [
+                    {
+                        "title": "UNSPECIFIED",
+                        "link": ""
+                    }
+                ],
+                "sourceCodeLocation": [],
+                "researchContact": [],
+                "generalContact": [],
+                "resourceTypes": [
+                    "Data"
+                ],
+                "status": null,
+                "versions": [],
+                "standards": [],
+                "resourceOwner": null,
+                "link": "https://doi.org/10.17026/SS/ZQPGRJ",
+                "intro": "geslacht: Vrouw land van herkomst: Joegoslavi\u00eb leeftijd aankomst Nederland: 8 stad: Amsterdam vluchtreden: Begin van de oorlog in voormalig Joegoslavi\u00eb relaties met eigen gemeenschap: Zit niet in naar eigen zeggen een \u2018bekrompen Bosnisch netwerk\u2019. Kiest haar vrienden niet uit op basis ...",
+                "researchActivities": [],
+                "researchDomains": [],
+                "mediaTypes": null,
+                "provenance": [],
+                "community": [],
+                "development": [
+                    {
+                        "title": "Stichting Bevordering Maatschappelijke Participatie - BMP",
+                        "link": "null"
+                    },
+                    {
+                        "title": "von Meijenfeldt, F.D.",
+                        "link": "null"
+                    }
+                ]
+            }
+        }
+    }
+]

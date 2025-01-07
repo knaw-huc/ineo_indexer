@@ -1,0 +1,66 @@
+[
+    {
+        "operation": "create",
+        "document": {
+            "id": "doi_58_10.17026_47_SS_47_Z84SLW",
+            "title": "Dutch-African Trade Database (1847-1918)",
+            "intro": "In the framework of the VICI funded project \u201cExploiting the Empire of Others: Dutch Investment in Foreign Colonial Resources, 1570-1800\u201d at Leiden University, this dataset has assembled data on trade between The Netherlands and West and East Africa between 1847 and 1918, as well as the ...",
+            "publishedAt": [],
+            "media": {
+                "thumbnail": [],
+                "slider": []
+            },
+            "tabs": {
+                "overview": {},
+                "learn": {},
+                "mentions": {},
+                "metadata": {}
+            },
+            "properties": {
+                "programmingLanguages": [],
+                "learn": [],
+                "resourceHost": [
+                    {
+                        "title": "https://doi.org",
+                        "link": "https://doi.org"
+                    }
+                ],
+                "funding": [],
+                "problemContact": [],
+                "informationTypes": null,
+                "languages": [
+                    "English"
+                ],
+                "access": [
+                    {
+                        "title": "UNSPECIFIED",
+                        "link": ""
+                    }
+                ],
+                "sourceCodeLocation": [],
+                "researchContact": [],
+                "generalContact": [],
+                "resourceTypes": [
+                    "Data"
+                ],
+                "status": null,
+                "versions": [],
+                "standards": [],
+                "resourceOwner": null,
+                "link": "https://doi.org/10.17026/SS/Z84SLW",
+                "intro": "In the framework of the VICI funded project \u201cExploiting the Empire of Others: Dutch Investment in Foreign Colonial Resources, 1570-1800\u201d at Leiden University, this dataset has assembled data on trade between The Netherlands and West and East Africa between 1847 and 1918, as well as the ...",
+                "researchActivities": [],
+                "researchDomains": [],
+                "mediaTypes": null,
+                "provenance": [],
+                "community": [],
+                "development": [
+                    {
+                        "title": "Dreijer, Gijs",
+                        "link": "null"
+                    }
+                ]
+            }
+        }
+    }
+]

@@ -1,0 +1,66 @@
+[
+    {
+        "operation": "create",
+        "document": {
+            "id": "doi_58_10.17026_47_SS_47_TCBUDO",
+            "title": "Project Ongekend Bijzonder, Amsterdam, interview 35",
+            "intro": "geslacht: Vrouw land van herkomst: Joegoslavi\u00eb leeftijd aankomst Nederland: 3 stad: Amsterdam vluchtreden: Oorlog relaties met eigen gemeenschap: Heeft zich nooit aangesloten bij een Bosnische vereniging en heeft niet een netwerk opgebouwd, maar voelt wel affiniteit met de gemeenschap....",
+            "publishedAt": [],
+            "media": {
+                "thumbnail": [],
+                "slider": []
+            },
+            "tabs": {
+                "overview": {},
+                "learn": {},
+                "mentions": {},
+                "metadata": {}
+            },
+            "properties": {
+                "programmingLanguages": [],
+                "learn": [],
+                "resourceHost": [
+                    {
+                        "title": "https://doi.org",
+                        "link": "https://doi.org"
+                    }
+                ],
+                "funding": [],
+                "problemContact": [],
+                "informationTypes": null,
+                "languages": [
+                    "Dutch"
+                ],
+                "access": [
+                    {
+                        "title": "UNSPECIFIED",
+                        "link": ""
+                    }
+                ],
+                "sourceCodeLocation": [],
+                "researchContact": [],
+                "generalContact": [],
+                "resourceTypes": [
+                    "Data"
+                ],
+                "status": null,
+                "versions": [],
+                "standards": [],
+                "resourceOwner": null,
+                "link": "https://doi.org/10.17026/SS/TCBUDO",
+                "intro": "geslacht: Vrouw land van herkomst: Joegoslavi\u00eb leeftijd aankomst Nederland: 3 stad: Amsterdam vluchtreden: Oorlog relaties met eigen gemeenschap: Heeft zich nooit aangesloten bij een Bosnische vereniging en heeft niet een netwerk opgebouwd, maar voelt wel affiniteit met de gemeenschap....",
+                "researchActivities": [],
+                "researchDomains": [],
+                "mediaTypes": null,
+                "provenance": [],
+                "community": [],
+                "development": [
+                    {
+                        "title": "Stichting Bevordering Maatschappelijke Participatie - BMP",
+                        "link": "null"
+                    }
+                ]
+            }
+        }
+    }
+]

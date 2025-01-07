@@ -1,0 +1,61 @@
+[
+  {
+    "operation": "create",
+    "document": {
+      "id": "http_58__47__47_hdl.handle.net_47_10032_47_ccd505ba949828c7982e08b52f7ce789",
+      "title": "Combinatorial and Relational Network as a Toolkit for Dutch Languag...",
+      "intro": "Cornetto (Combinatorial and Relational Network as a Toolkit for Dutch Language Technology) is a lexical database for Dutch, containing semantic relations and combinatorial information, with links to the English Wordnet. The lexicon contains 92,000 lemmata corresponding with 118,000 word...",
+      "publishedAt": [],
+      "media": {
+        "thumbnail": [],
+        "slider": []
+      },
+      "tabs": {
+        "overview": {},
+        "learn": {},
+        "mentions": {},
+        "metadata": {}
+      },
+      "properties": {
+        "programmingLanguages": [],
+        "learn": [],
+        "resourceHost": null,
+        "funding": [],
+        "problemContact": [],
+        "informationTypes": null,
+        "languages": [
+          "Dutch"
+        ],
+        "access": [
+          {
+            "title": "free for academic - and commercial organisations; user licence required ",
+            "link": ""
+          }
+        ],
+        "sourceCodeLocation": [],
+        "researchContact": [],
+        "generalContact": [],
+        "resourceTypes": [
+          "Data"
+        ],
+        "status": null,
+        "versions": [],
+        "standards": [],
+        "resourceOwner": [
+          {
+            "title": "Dutch Language Union",
+            "link": "null"
+          }
+        ],
+        "link": "http://hdl.handle.net/10032/7c0445c381a4798933a39cb7badf633c",
+        "intro": "Cornetto (Combinatorial and Relational Network as a Toolkit for Dutch Language Technology) is a lexical database for Dutch, containing semantic relations and combinatorial information, with links to the English Wordnet. The lexicon contains 92,000 lemmata corresponding with 118,000 word...",
+        "researchActivities": [],
+        "researchDomains": null,
+        "mediaTypes": null,
+        "provenance": [],
+        "community": [],
+        "development": null
+      }
+    }
+  }
+]

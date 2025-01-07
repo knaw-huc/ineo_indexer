@@ -1,0 +1,67 @@
+[
+  {
+    "operation": "create",
+    "document": {
+      "id": "hdl_58_21.11114_47_COLL-0000-000B-C02D-A",
+      "title": "CHILDES Asymmetries corpus",
+      "intro": "The Asymmetries Project collection contains Dutch language productions gathered in Groningen and neighboring towns in the northern Netherlands, between 2007 and 2012. The research was carried out by members of the NWO/Vici project \u201cAsymmetries in Grammar\u201d at the University of Groningen.... The children in the present study (CK-sub-corpus) were individually tested in a quiet room at their primary school in Stadskanaal (45 km southeast of Groningen).Testing of the children took place in the winter of 2007-2008. In the spring of 2010, the two adult groups participated in the...",
+      "publishedAt": [],
+      "media": {
+        "thumbnail": [],
+        "slider": []
+      },
+      "tabs": {
+        "overview": {},
+        "learn": {},
+        "mentions": {},
+        "metadata": {}
+      },
+      "properties": {
+        "programmingLanguages": [],
+        "learn": [],
+        "resourceHost": [
+          {
+            "title": "https://doi.org",
+            "link": "https://doi.org"
+          }
+        ],
+        "funding": [],
+        "problemContact": [],
+        "informationTypes": null,
+        "languages": [
+          "Dutch",
+          "English"
+        ],
+        "access": [
+          {
+            "title": "Public",
+            "link": ""
+          }
+        ],
+        "sourceCodeLocation": [],
+        "researchContact": [],
+        "generalContact": [],
+        "resourceTypes": [
+          "Data"
+        ],
+        "status": null,
+        "versions": [],
+        "standards": [],
+        "resourceOwner": [
+          {
+            "title": "Henricks, Petra, Koster, Charlotte, Kuijper, Sanne",
+            "link": "null"
+          }
+        ],
+        "link": "https://doi.org/10.21415/T5SW2X",
+        "intro": "The Asymmetries Project collection contains Dutch language productions gathered in Groningen and neighboring towns in the northern Netherlands, between 2007 and 2012. The research was carried out by members of the NWO/Vici project \u201cAsymmetries in Grammar\u201d at the University of Groningen.... The children in the present study (CK-sub-corpus) were individually tested in a quiet room at their primary school in Stadskanaal (45 km southeast of Groningen).Testing of the children took place in the winter of 2007-2008. In the spring of 2010, the two adult groups participated in the...",
+        "researchActivities": [],
+        "researchDomains": null,
+        "mediaTypes": null,
+        "provenance": [],
+        "community": [],
+        "development": null
+      }
+    }
+  }
+]

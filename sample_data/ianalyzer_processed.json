@@ -1,0 +1,86 @@
+[
+  {
+    "operation": "create",
+    "document": {
+      "id": "ianalyzer",
+      "title": "I-Analyzer",
+      "intro": "I-analyzer is a tool for exploring corpora (large collections of texts). You can use I-analyzer to find relevant documents, or to make visualisations to understand broader trends in the corpus. The interface is designed to be accessible for users of all skill levels.\nI-analyzer is primarily inten...",
+      "publishedAt": "2016-09-01",
+      "media": {},
+      "tabs": {
+        "overview": {},
+        "learn": {},
+        "mentions": {},
+        "metadata": {}
+      },
+      "properties": {
+        "programmingLanguages": [
+          {
+            "title": "Javascript",
+            "link": null
+          }
+        ],
+        "problemContact": [
+          {
+            "title": "Issue tracker",
+            "link": "https://github.com/UUDigitalHumanitieslab/I-analyzer/issues"
+          }
+        ],
+        "informationTypes": [],
+        "access": [
+          {
+            "title": "Open Access",
+            "link": "https://github.com/UUDigitalHumanitieslab/I-analyzer"
+          }
+        ],
+        "sourceCodeLocation": [
+          {
+            "title": "github.com",
+            "link": "https://github.com/UUDigitalHumanitieslab/I-analyzer"
+          }
+        ],
+        "researchContact": [],
+        "generalContact": [
+          {
+            "title": "\u00a0",
+            "link": ""
+          }
+        ],
+        "resourceTypes": [
+          "Tools"
+        ],
+        "status": [
+          "Active"
+        ],
+        "versions": [
+          {
+            "title": "5.3.0",
+            "url": ""
+          }
+        ],
+        "standards": [],
+        "resourceOwner": [
+          {
+            "title": "UU Digital Humanities Lab",
+            "link": "https://cdh.uu.nl/rsl/"
+          }
+        ],
+        "link": "https://github.com/UUDigitalHumanitieslab/I-analyzer",
+        "intro": "I-analyzer is a tool for exploring corpora (large collections of texts). You can use I-analyzer to find relevant documents, or to make visualisations to understand broader trends in the corpus. The interface is designed to be accessible for users of all skill levels.\nI-analyzer is primarily inten...",
+        "provenance": [],
+        "community": [
+          {
+            "title": "Issue tracker",
+            "link": "https://github.com/UUDigitalHumanitieslab/I-analyzer/issues"
+          }
+        ],
+        "development": [
+          {
+            "title": " ",
+            "link": ""
+          }
+        ]
+      }
+    }
+  }
+]
