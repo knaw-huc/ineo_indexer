@@ -5,13 +5,23 @@ urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
 
 class Indexer:
-    def __init__(self, config):
-        self.config = config
-        self.es = Elasticsearch([config])
+#     def __init__(self, config):
+#         self.config = config
+#         self.es = Elasticsearch([config])
+#
+#     # Insert single document to index
+#     def add_to_index(self, data):
+#         result = self.es.index(index=self.config["index"], id=data['id'], document=data)
 
-    # Insert single document to index
-    def add_to_index(self, data):
-        result = self.es.index(index=self.config["index"], id=data['id'], document=data)
+    def __init__(self, config, index_name):
+        self.es = Elasticsearch(
+            config["url"],
+            headers={"Content-Type": "application/json"},
+        )
+        self.index_name = index_name
+
+    def add_to_index(self, document):
+        self.es.index(index=self.index_name, document=document)
 
     def add_to_index_bulk(self, data_gen):
         def bulk_func():

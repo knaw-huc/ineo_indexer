@@ -6,11 +6,11 @@ from indexer import Indexer
 from bimap import BidirectionalMap
 
 config = {
-    "url": "http://localhost:9200",
-    "index": "ineo"
+    "url": "http://indexer:9200",
 }
+index_name = "ineo"
 
-indexer = Indexer(config)
+indexer = Indexer(config, index_name)
 
 data_path = "../data"
 property_path: str = "properties"
