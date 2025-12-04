@@ -32,6 +32,21 @@ class ElasticsearchSecurityManager:
         self.security = SecurityClient(self.client)
         self.indices = IndicesClient(self.client)
 
+    def get_doc_by_field(self, field, value, index) -> dict | None:
+        response = self.client.search(
+            index=index,
+            body={
+                "query": {
+                    "term": {f"{field}.keyword": value}
+                }
+            }
+        )
+        if response["hits"]["total"]["value"] == 1:
+            result = response["hits"]["hits"][0]
+            return result
+        else:
+            return None
+
     def enable_security_features(self):
         """
         Ensure security features are enabled (they should be by default in 8.x)
@@ -307,6 +322,13 @@ Examples:
     add_document_parser.add_argument('--user-password', required=True, help='User password')
     add_document_parser.add_argument('--document', required=True, help='Path to JSON document')
 
+    # Add document to index
+    del_document_parser = subparsers.add_parser('del-document', help='Delete a document from an index')
+    del_document_parser.add_argument('--index', required=True, help='Index name')
+    del_document_parser.add_argument('--username', required=True, help='User who can ingest into the index')
+    del_document_parser.add_argument('--user-password', required=True, help='User password')
+    del_document_parser.add_argument('--document', required=True, help='Document ID to delete')
+
     # Search command
     search_parser = subparsers.add_parser('search', help='Search an index')
     search_parser.add_argument('--index', required=True, help='Index name')
@@ -315,7 +337,7 @@ Examples:
     search_parser.add_argument('--search_query', help='Search query (not implemented, defaults to match_all)')
 
     # Common arguments
-    for subparser in [setup_parser, index_parser, user_parser, test_parser, list_parser, add_document_parser, search_parser]:
+    for subparser in [setup_parser, index_parser, user_parser, test_parser, list_parser, add_document_parser, search_parser, del_document_parser]:
         subparser.add_argument('--scheme', default='http', help='Elasticsearch host scheme (http or https)')
         subparser.add_argument('--host', default='localhost', help='Elasticsearch host')
         subparser.add_argument('--port', type=int, default=9200, help='Elasticsearch port')
@@ -333,7 +355,7 @@ def main():
 
     try:
         # Initialize manager with elastic superuser credentials
-        if args.command not in ['add-document', 'test-access', 'search']:
+        if args.command not in ['add-document', 'test-access', 'search', 'del-document']:
             # For all commands except test-access, use elastic superuser
             manager = ElasticsearchSecurityManager(
                 scheme=args.scheme,
@@ -405,12 +427,31 @@ def main():
             try:
                 with open(args.document, 'r') as f:
                     document = json.load(f)
-                print(json.dumps(document[0], indent=2))
                 manager.client.index(index=args.index, document=document[0])
             except Exception as e:
                 print(f"✗ Failed to load document: {e}")
                 sys.exit(1)
             print(f"✓ Document added to index '{args.index}'")
+
+        elif args.command == 'del-document':
+            print(f"Deleting document ID '{args.document}' from index '{args.index}'...")
+            try:
+                del_doc = manager.get_doc_by_field("document.id", args.document, args.index)
+                del_id = del_doc.get("_id") if del_doc else None
+                print(f"Delete ID lookup response: {del_id}")
+                if not del_id:
+                    print(f"✗ Document ID '{del_id}' not found in index '{args.index}'")
+                    sys.exit(1)
+                response = manager.client.delete(index=args.index, id=del_id)
+                if response.meta.status == 200:
+                    print(f"✓ Document ID '{args.document}' deleted successfully")
+                else:
+                    print(f"✗ Failed to delete document ID '{args.document}': {response}")
+            except es_exceptions.NotFoundError:
+                print(f"✗ Document ID '{args.document}' not found in index '{args.index}'")
+            except Exception as e:
+                print(f"✗ Error deleting document: {e}")
+                sys.exit(1)
 
         elif args.command == 'search':
             print(f"Searching index '{args.index}'...")
