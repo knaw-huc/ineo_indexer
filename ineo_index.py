@@ -1,18 +1,29 @@
 import os
 import glob
 import orjson as json
-from typing import List, Dict, Any, Tuple, Union, Optional
-from indexer import Indexer
+from typing import Dict
+from elasticsearch_manager import ElasticsearchSecurityManager
 from bimap import BidirectionalMap
 
 config = {
-    "url": "http://indexer:9200",
+    "scheme": "http",
+    "host": "localhost",
+    "port": 9200,
+    "index": "ineo",
+    "ineo_user": "ineouser",
+    "ineo_password": "ineopassword",
 }
-index_name = "ineo"
 
-indexer = Indexer(config, index_name)
+manager = ElasticsearchSecurityManager(
+    scheme=config["scheme"],
+    host=config["host"],
+    port=config["port"],
+    username=config["ineo_user"],
+    password=config["ineo_password"],
+)
 
-data_path = "../data"
+# data_path = "./sample_data"
+data_path = "../data/backup"
 property_path: str = "properties"
 to_check = ["researchActivities", "researchDomains"]
 
@@ -84,7 +95,7 @@ def processFile(file):
                     raise ValueError(f"Invalid data format for {k}. Expected list or string")
     # print(json.dumps(data))
     # exit()
-    indexer.add_to_index(data)
+    manager.client.index(index=config['index'], document={"document": data})
 
 
 def get_files_with_extension(folder, extension):
