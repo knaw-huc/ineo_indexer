@@ -322,12 +322,18 @@ Examples:
     add_document_parser.add_argument('--user-password', required=True, help='User password')
     add_document_parser.add_argument('--document', required=True, help='Path to JSON document')
 
-    # Add document to index
+    # Delete document from index
     del_document_parser = subparsers.add_parser('del-document', help='Delete a document from an index')
     del_document_parser.add_argument('--index', required=True, help='Index name')
     del_document_parser.add_argument('--username', required=True, help='User who can ingest into the index')
     del_document_parser.add_argument('--user-password', required=True, help='User password')
     del_document_parser.add_argument('--document', required=True, help='Document ID to delete')
+
+    # Delete !!!ALL!!! document from index
+    del_all_parser = subparsers.add_parser('del-all', help='Delete !ALL! documents from an index')
+    del_all_parser.add_argument('--index', required=True, help='Index name')
+    del_all_parser.add_argument('--username', required=True, help='User who can ingest into the index')
+    del_all_parser.add_argument('--user-password', required=True, help='User password')
 
     # Search command
     search_parser = subparsers.add_parser('search', help='Search an index')
@@ -337,7 +343,7 @@ Examples:
     search_parser.add_argument('--search_query', help='Search query (not implemented, defaults to match_all)')
 
     # Common arguments
-    for subparser in [setup_parser, index_parser, user_parser, test_parser, list_parser, add_document_parser, search_parser, del_document_parser]:
+    for subparser in [setup_parser, index_parser, user_parser, test_parser, list_parser, add_document_parser, search_parser, del_document_parser, del_all_parser]:
         subparser.add_argument('--scheme', default='http', help='Elasticsearch host scheme (http or https)')
         subparser.add_argument('--host', default='localhost', help='Elasticsearch host')
         subparser.add_argument('--port', type=int, default=9200, help='Elasticsearch port')
@@ -355,7 +361,7 @@ def main():
 
     try:
         # Initialize manager with elastic superuser credentials
-        if args.command not in ['add-document', 'test-access', 'search', 'del-document']:
+        if args.command not in ['add-document', 'test-access', 'search', 'del-document', 'del-all']:
             # For all commands except test-access, use elastic superuser
             manager = ElasticsearchSecurityManager(
                 scheme=args.scheme,
@@ -451,6 +457,22 @@ def main():
                 print(f"✗ Document ID '{args.document}' not found in index '{args.index}'")
             except Exception as e:
                 print(f"✗ Error deleting document: {e}")
+                sys.exit(1)
+        elif args.command == 'del-all':
+            print(f"Deleting ALL documents from index '{args.index}'...")
+            try:
+                response = manager.client.delete_by_query(
+                    index=args.index,
+                    body={
+                        "query": {
+                            "match_all": {}
+                        }
+                    }
+                )
+                deleted = response.get('deleted', 0)
+                print(f"✓ Deleted {deleted} documents from index '{args.index}'")
+            except Exception as e:
+                print(f"✗ Error deleting documents: {e}")
                 sys.exit(1)
 
         elif args.command == 'search':
