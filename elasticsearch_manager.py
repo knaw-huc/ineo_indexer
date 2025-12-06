@@ -12,7 +12,7 @@ from elasticsearch.client import SecurityClient, IndicesClient
 
 
 class ElasticsearchSecurityManager:
-    def __init__(self, scheme="http", host='localhost', port=9200, username='elastic', password=None):
+    def __init__(self, scheme="http", host='localhost', port=9200, username='elastic', password=None, verify_certs=True):
         """
         Initialize Elasticsearch client
         """
@@ -26,7 +26,8 @@ class ElasticsearchSecurityManager:
         self.client = Elasticsearch(
             hosts=[self.base_url],
             basic_auth=(username, password),
-            request_timeout=30
+            request_timeout=30,
+            verify_certs=verify_certs
         )
 
         self.security = SecurityClient(self.client)
@@ -185,7 +186,7 @@ class ElasticsearchSecurityManager:
         """
         return self.create_role(role_name, [index_name], privileges)
 
-    def test_user_access(self, username, password, index_name):
+    def test_user_access(self, username, password, index_name, verify_certs=True):
         """
         Test if a user can access a specific index
         """
@@ -193,7 +194,7 @@ class ElasticsearchSecurityManager:
             test_client = Elasticsearch(
                 hosts=[self.base_url],
                 basic_auth=(username, password),
-                verify_certs=False,
+                verify_certs=verify_certs,
                 request_timeout=10
             )
 
@@ -348,6 +349,7 @@ Examples:
         subparser.add_argument('--host', default='localhost', help='Elasticsearch host')
         subparser.add_argument('--port', type=int, default=9200, help='Elasticsearch port')
         subparser.add_argument('--elastic-user', default='elastic', help='Elastic superuser username')
+        subparser.add_argument('--no-verify', action='store_true', help='Do not verify SSL certificates')
 
     return parser.parse_args()
 
@@ -369,6 +371,7 @@ def main():
                 port=args.port,
                 username=args.elastic_user,
                 password=args.elastic_password,
+                verify_certs=not args.no_verify
             )
         else:
             # For test-access, we'll create a minimal manager with test user
@@ -379,6 +382,7 @@ def main():
                 port=args.port,
                 username=args.username,
                 password=args.user_password,
+                verify_certs=not args.no_verify
             )
 
         # Execute command
@@ -426,7 +430,7 @@ def main():
 
         elif args.command == 'test-access':
             print(f"Testing access for user '{args.username}' to index '{args.index}'...")
-            manager.test_user_access(args.username, args.user_password, args.index)
+            manager.test_user_access(args.username, args.user_password, args.index, verify_certs=not args.no_verify)
 
         elif args.command == 'add-document':
             print(f"Adding document to index '{args.index}'...")
