@@ -20,6 +20,7 @@ manager = ElasticsearchSecurityManager(
     port=config["port"],
     username=config["ineo_user"],
     password=config["ineo_password"],
+    verify_certs=False
 )
 
 # data_path = "./sample_data"
