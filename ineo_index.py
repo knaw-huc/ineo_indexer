@@ -1,30 +1,58 @@
 import os
+import sys
 import glob
 import orjson as json
 from typing import Dict
 from elasticsearch_manager import ElasticsearchSecurityManager
 from bimap import BidirectionalMap
 
+# Load environment variables from .env file if it exists
+def load_env_file(filepath=".env"):
+    """Load environment variables from a .env file"""
+    if os.path.exists(filepath):
+        with open(filepath, 'r') as f:
+            for line in f:
+                line = line.strip()
+                if line and not line.startswith('#'):
+                    if '=' in line:
+                        key, value = line.split('=', 1)
+                        os.environ[key.strip()] = value.strip()
+
+load_env_file()
+
+# Determine if authentication should be used
+use_auth = os.getenv("ES_AUTH", "true").lower() in ("true", "1", "yes")
+
 config = {
-    "scheme": "http",
-    "host": "localhost",
-    "port": 9200,
-    "index": "ineo",
-    "ineo_user": "ineouser",
-    "ineo_password": "ineopassword",
+    "scheme": os.getenv("ES_SCHEME", "http"),
+    "host": os.getenv("ES_HOST", "localhost"),
+    "port": int(os.getenv("ES_PORT", "9200")),
+    "index": os.getenv("ES_INDEX", "ineo"),
+    "use_auth": use_auth,
+    "ineo_user": os.getenv("ES_USER", "ineouser") if use_auth else None,
+    "ineo_password": os.getenv("ES_PASSWORD", "ineopassword") if use_auth else None,
 }
 
-manager = ElasticsearchSecurityManager(
-    scheme=config["scheme"],
-    host=config["host"],
-    port=config["port"],
-    username=config["ineo_user"],
-    password=config["ineo_password"],
-    verify_certs=False
-)
+try:
+    manager = ElasticsearchSecurityManager(
+        scheme=config["scheme"],
+        host=config["host"],
+        port=config["port"],
+        username=config["ineo_user"],
+        password=config["ineo_password"],
+        verify_certs=False
+    )
+    # Test connection
+    manager.client.info()
+    auth_status = "with authentication" if config["use_auth"] else "without authentication"
+    print(f"✓ Connected to Elasticsearch at {config['scheme']}://{config['host']}:{config['port']} {auth_status}")
+except Exception as e:
+    print(f"✗ Failed to connect to Elasticsearch: {e}")
+    print(f"  Config: scheme={config['scheme']}, host={config['host']}, port={config['port']}, auth={'enabled' if config['use_auth'] else 'disabled'}")
+    sys.exit(1)
 
 # data_path = "./sample_data"
-data_path = "../data/backup"
+data_path = "/app/data/processed_parsed_datasets"
 property_path: str = "properties"
 to_check = ["researchActivities", "researchDomains"]
 

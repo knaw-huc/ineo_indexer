@@ -12,23 +12,30 @@ from elasticsearch.client import SecurityClient, IndicesClient
 
 
 class ElasticsearchSecurityManager:
-    def __init__(self, scheme="http", host='localhost', port=9200, username='elastic', password=None, verify_certs=True):
+    def __init__(self, scheme="http", host='localhost', port=9200, username=None, password=None, verify_certs=True):
         """
         Initialize Elasticsearch client
+        Supports both authenticated and unauthenticated connections
         """
         self.host = host
         self.port = port
         self.base_url = f"{scheme}://{host}:{port}"
+        self.use_auth = username is not None and password is not None
 
-        if password is None:
-            raise ValueError("Password is required")
-
-        self.client = Elasticsearch(
-            hosts=[self.base_url],
-            basic_auth=(username, password),
-            request_timeout=30,
-            verify_certs=verify_certs
-        )
+        if self.use_auth:
+            self.client = Elasticsearch(
+                self.base_url,
+                basic_auth=(username, password),
+                request_timeout=30,
+                verify_certs=verify_certs
+            )
+        else:
+            # No authentication
+            self.client = Elasticsearch(
+                self.base_url,
+                request_timeout=30,
+                verify_certs=verify_certs
+            )
 
         self.security = SecurityClient(self.client)
         self.indices = IndicesClient(self.client)
@@ -180,10 +187,12 @@ class ElasticsearchSecurityManager:
             return False
 
     def create_role_for_specific_index(self, role_name, index_name,
-                                       privileges=["read", "write", "view_index_metadata"]):
+                                       privileges=None):
         """
         Create a role that only has access to a specific index
         """
+        if privileges is None:
+            privileges = ["read", "write", "view_index_metadata"]
         return self.create_role(role_name, [index_name], privileges)
 
     def test_user_access(self, username, password, index_name, verify_certs=True):
@@ -192,7 +201,7 @@ class ElasticsearchSecurityManager:
         """
         try:
             test_client = Elasticsearch(
-                hosts=[self.base_url],
+                self.base_url,
                 basic_auth=(username, password),
                 verify_certs=verify_certs,
                 request_timeout=10
@@ -261,24 +270,32 @@ def parse_arguments():
         formatter_class=argparse.RawDescriptionHelpFormatter,
         epilog="""
 Examples:
-  # Enable security and set up a new user with index access
+  # With authentication
   python elasticsearch_manager.py setup --elastic-password changeme
 
-  # Create a new index
+  # Create a new index (with auth)
   python elasticsearch_manager.py create-index --index my_data --elastic-password changeme
 
-  # Create a user with access to specific index
+  # Create a user with access to specific index (with auth)
   python elasticsearch_manager.py create-index-user \\
     --index sales_data \\
     --username sales_user \\
     --user-password sales123 \\
     --elastic-password changeme
 
-  # Test user access
+  # Without authentication (Elasticsearch security disabled)
+  python elasticsearch_manager.py create-index --index my_data --no-auth
+
+  # Test user access (with auth)
   python elasticsearch_manager.py test-access \\
     --username sales_user \\
     --user-password sales123 \\
     --index sales_data
+
+  # Test user access (no auth)
+  python elasticsearch_manager.py test-access \\
+    --index sales_data \\
+    --no-auth
         """
     )
 
@@ -286,12 +303,14 @@ Examples:
 
     # Setup command
     setup_parser = subparsers.add_parser('setup', help='Initial setup and enable security')
-    setup_parser.add_argument('--elastic-password', required=True, help='Elastic superuser password')
+    setup_parser.add_argument('--elastic-password', help='Elastic superuser password')
+    setup_parser.add_argument('--no-auth', action='store_true', help='Connect without authentication')
 
     # Create index command
     index_parser = subparsers.add_parser('create-index', help='Create a new index')
     index_parser.add_argument('--index', required=True, help='Index name')
-    index_parser.add_argument('--elastic-password', required=True, help='Elastic superuser password')
+    index_parser.add_argument('--elastic-password', help='Elastic superuser password')
+    index_parser.add_argument('--no-auth', action='store_true', help='Connect without authentication')
 
     # Create user with index access command
     user_parser = subparsers.add_parser('create-index-user',
@@ -299,49 +318,56 @@ Examples:
     user_parser.add_argument('--index', required=True, help='Index name')
     user_parser.add_argument('--username', required=True, help='New username')
     user_parser.add_argument('--user-password', required=True, help='New user password')
-    user_parser.add_argument('--elastic-password', required=True, help='Elastic superuser password')
+    user_parser.add_argument('--elastic-password', help='Elastic superuser password')
+    user_parser.add_argument('--no-auth', action='store_true', help='Connect without authentication')
     user_parser.add_argument('--privileges', nargs='+',
                              default=["read", "write", "view_index_metadata"],
                              help='Privileges for the user')
 
     # Test access command
     test_parser = subparsers.add_parser('test-access', help='Test user access to index')
-    test_parser.add_argument('--username', required=True, help='Username to test')
-    test_parser.add_argument('--user-password', required=True, help='User password')
     test_parser.add_argument('--index', required=True, help='Index to test access to')
+    test_parser.add_argument('--username', help='Username to test')
+    test_parser.add_argument('--user-password', help='User password')
+    test_parser.add_argument('--no-auth', action='store_true', help='Connect without authentication')
 
     # List command
     list_parser = subparsers.add_parser('list', help='List users, roles, or indices')
     list_parser.add_argument('--what', choices=['users', 'roles', 'indices', 'all'],
                              default='all', help='What to list')
-    list_parser.add_argument('--elastic-password', required=True, help='Elastic superuser password')
+    list_parser.add_argument('--elastic-password', help='Elastic superuser password')
+    list_parser.add_argument('--no-auth', action='store_true', help='Connect without authentication')
 
     # Add document to index
     add_document_parser = subparsers.add_parser('add-document', help='Add a document to an index')
     add_document_parser.add_argument('--index', required=True, help='Index name')
-    add_document_parser.add_argument('--username', required=True, help='User who can ingest into the index')
-    add_document_parser.add_argument('--user-password', required=True, help='User password')
     add_document_parser.add_argument('--document', required=True, help='Path to JSON document')
+    add_document_parser.add_argument('--username', help='User who can ingest into the index')
+    add_document_parser.add_argument('--user-password', help='User password')
+    add_document_parser.add_argument('--no-auth', action='store_true', help='Connect without authentication')
 
     # Delete document from index
     del_document_parser = subparsers.add_parser('del-document', help='Delete a document from an index')
     del_document_parser.add_argument('--index', required=True, help='Index name')
-    del_document_parser.add_argument('--username', required=True, help='User who can ingest into the index')
-    del_document_parser.add_argument('--user-password', required=True, help='User password')
+    del_document_parser.add_argument('--username', help='User who can ingest into the index')
+    del_document_parser.add_argument('--user-password', help='User password')
     del_document_parser.add_argument('--document', required=True, help='Document ID to delete')
+    del_document_parser.add_argument('--no-auth', action='store_true', help='Connect without authentication')
 
     # Delete !!!ALL!!! document from index
     del_all_parser = subparsers.add_parser('del-all', help='Delete !ALL! documents from an index')
     del_all_parser.add_argument('--index', required=True, help='Index name')
-    del_all_parser.add_argument('--username', required=True, help='User who can ingest into the index')
-    del_all_parser.add_argument('--user-password', required=True, help='User password')
+    del_all_parser.add_argument('--username', help='User who can ingest into the index')
+    del_all_parser.add_argument('--user-password', help='User password')
+    del_all_parser.add_argument('--no-auth', action='store_true', help='Connect without authentication')
 
     # Search command
     search_parser = subparsers.add_parser('search', help='Search an index')
     search_parser.add_argument('--index', required=True, help='Index name')
-    search_parser.add_argument('--username', required=True, help='User who can search the index')
-    search_parser.add_argument('--user-password', required=True, help='User password')
+    search_parser.add_argument('--username', help='User who can search the index')
+    search_parser.add_argument('--user-password', help='User password')
     search_parser.add_argument('--search_query', help='Search query (not implemented, defaults to match_all)')
+    search_parser.add_argument('--no-auth', action='store_true', help='Connect without authentication')
 
     # Common arguments
     for subparser in [setup_parser, index_parser, user_parser, test_parser, list_parser, add_document_parser, search_parser, del_document_parser, del_all_parser]:
@@ -362,28 +388,29 @@ def main():
         sys.exit(1)
 
     try:
-        # Initialize manager with elastic superuser credentials
-        if args.command not in ['add-document', 'test-access', 'search', 'del-document', 'del-all']:
-            # For all commands except test-access, use elastic superuser
-            manager = ElasticsearchSecurityManager(
-                scheme=args.scheme,
-                host=args.host,
-                port=args.port,
-                username=args.elastic_user,
-                password=args.elastic_password,
-                verify_certs=not args.no_verify
-            )
+        # Determine authentication credentials based on no_auth flag and command type
+        if hasattr(args, 'no_auth') and args.no_auth:
+            # No authentication
+            username = None
+            password = None
+        elif args.command not in ['add-document', 'test-access', 'search', 'del-document', 'del-all']:
+            # For admin commands, use elastic superuser
+            username = args.elastic_user
+            password = args.elastic_password
         else:
-            # For test-access, we'll create a minimal manager with test user
-            # (we still need elastic user to get base URL)
-            manager = ElasticsearchSecurityManager(
-                scheme=args.scheme,
-                host=args.host,
-                port=args.port,
-                username=args.username,
-                password=args.user_password,
-                verify_certs=not args.no_verify
-            )
+            # For user-level commands, use the provided username/password
+            username = getattr(args, 'username', None)
+            password = getattr(args, 'user_password', None)
+
+        # Initialize manager
+        manager = ElasticsearchSecurityManager(
+            scheme=args.scheme,
+            host=args.host,
+            port=args.port,
+            username=username,
+            password=password,
+            verify_certs=not args.no_verify
+        )
 
         # Execute command
         if args.command == 'setup':
